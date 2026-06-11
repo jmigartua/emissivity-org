@@ -1,46 +1,58 @@
 ---
-title: "Correction: Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging"
-description: >
-  This publication focuses on correction, inconel 718, thermal imaging. Correction published Ensuring data aligns Scientific truth.
+title: 'Correction: Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging'
 date: 2025-07-16
 author:
-  - name: "Jon Gabirondo-López"
-    orcid: 0000-0003-4333-4636
-  - name: "Telmo Echániz"
-    orcid: 0000-0002-0330-0653
-  - name: "Gabriel A. López"
+- name: Jon Gabirondo-López
+  orcid: 0000-0003-4333-4636
+- name: Telmo Echániz
+  orcid: 0000-0002-0330-0653
+- name: Gabriel A. López
+description: This publication focuses on correction, inconel 718, thermal imaging.
 categories:
-  - Correction
-  - Inconel 718
-  - Thermal Imaging
+- Correction
+- Inconel 718
+- Thermal Imaging
 pub-info:
-  reference: >-
-    Gabirondo-López et al., Int J Thermophys (2025).
+  reference: Gabirondo-López et al., Int J Thermophys (2025).
   links:
-    - name: "DNB"
-      url: https://d-nb.info/1377491978/34
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Correction published
-  - Ensuring data aligns
-  - Scientific truth
+  - name: DNB
+    url: https://d-nb.info/1377491978/34
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Correction: Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging">
-      <meta name="citation_author" content="Jon Gabirondo-López">
-      <meta name="citation_author" content="Telmo Echániz">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2025-07-16">
+- text: '<meta name="citation_title" content="Correction: Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging">
+
+    <meta name="citation_author" content="Jon Gabirondo-López">
+
+    <meta name="citation_author" content="Telmo Echániz">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2025-07-16">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2025</div>
+```
+
+::: {.page-article}
+# Correction: Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging
+
+**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Gabriel A. López**
+
+Gabirondo-López et al., Int J Thermophys (2025).
+
+[**DNB →**](https://d-nb.info/1377491978/34)
 
 ## Abstract
 
-This publication focuses on correction, inconel 718, thermal imaging. Correction published Ensuring data aligns Scientific truth.
+This publication focuses on correction, inconel 718, thermal imaging.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Gabirondo-López et al., Int J Thermophys (2025).
+## How to cite
 
-::: {.callout-note}
-Click the **DNB** button above to access the full text or official record.
+> Gabirondo-López et al., Int J Thermophys (2025). Available at https://d-nb.info/1377491978/34
 :::

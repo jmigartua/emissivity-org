@@ -1,36 +1,45 @@
 ---
-title: "Messung des spektralen Emissionsgrads im Hochtemperaturbereich bis 2500 K"
-description: >
-  This publication focuses on high temperature, spectral emissivity, metrology. Hot spectral meas Up to two thousand five K Precision thermal.
+title: Messung des spektralen Emissionsgrads im Hochtemperaturbereich bis 2500 K
 date: 2025-06-18
 author:
-  - name: "David Urban"
-    orcid: 0000-0002-0089-0563
+- name: David Urban
+  orcid: 0000-0002-0089-0563
+description: This publication focuses on high temperature, spectral emissivity, metrology.
 categories:
-  - High temperature
-  - Spectral emissivity
-  - Metrology
+- High temperature
+- Spectral emissivity
+- Metrology
 pub-info:
-  reference: >-
-    Urban, PTB-OAR (2025).
+  reference: Urban, PTB-OAR (2025).
   links:
-    - name: "PTB-OAR"
-      url: https://oar.ptb.de/resources/show/10.7795/110.20250618
-      icon: fa-solid fa-file
-haiku:
-  - Hot spectral meas
-  - Up to two thousand five K
-  - Precision thermal
+  - name: PTB-OAR
+    url: https://oar.ptb.de/resources/show/10.7795/110.20250618
+    icon: fa-solid fa-file
+page-layout: full
+toc: false
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2025</div>
+```
+
+::: {.page-article}
+# Messung des spektralen Emissionsgrads im Hochtemperaturbereich bis 2500 K
+
+**David Urban [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0089-0563)**
+
+Urban, PTB-OAR (2025).
+
+[**PTB-OAR →**](https://oar.ptb.de/resources/show/10.7795/110.20250618)
 
 ## Abstract
 
-This publication focuses on high temperature, spectral emissivity, metrology. Hot spectral meas Up to two thousand five K Precision thermal.
+This publication focuses on high temperature, spectral emissivity, metrology.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Urban, PTB-OAR (2025).
+## How to cite
 
-::: {.callout-note}
-Click the **PTB-OAR** button above to access the full text or official record.
+> Urban, PTB-OAR (2025). Available at https://oar.ptb.de/resources/show/10.7795/110.20250618
 :::

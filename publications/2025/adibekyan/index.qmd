@@ -1,46 +1,59 @@
 ---
-title: "Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies"
-description: >
-  This publication focuses on passive radiative cooling, emissivity measurement, metrology. Cooling measured well Emissivity reflectance Metrology leads.
+title: Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies
 date: 2025-03-15
 author:
-  - name: "Albert Adibekyan"
-  - name: "Jochen Manara"
-    orcid: 0000-0002-5319-6874
-  - name: "Christian Monte"
+- name: Albert Adibekyan
+- name: Jochen Manara
+  orcid: 0000-0002-5319-6874
+- name: Christian Monte
+description: This publication focuses on passive radiative cooling, emissivity measurement, metrology.
 categories:
-  - Passive radiative cooling
-  - Emissivity measurement
-  - Metrology
+- Passive radiative cooling
+- Emissivity measurement
+- Metrology
 pub-info:
-  reference: >-
-    Adibekyan et al., Int. J. Thermophys. 46, 66 (2025).
+  reference: Adibekyan et al., Int. J. Thermophys. 46, 66 (2025).
   links:
-    - name: "Springer"
-      url: https://doi.org/10.1007/s10765-025-03532-6
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Cooling measured well
-  - Emissivity reflectance
-  - Metrology leads
+  - name: Springer
+    url: https://doi.org/10.1007/s10765-025-03532-6
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies">
-      <meta name="citation_author" content="Albert Adibekyan">
-      <meta name="citation_author" content="Jochen Manara">
-      <meta name="citation_author" content="Christian Monte">
-      <meta name="citation_date" content="2025-03-15">
-      <meta name="citation_doi" content="10.1007/s10765-025-03532-6">
+- text: '<meta name="citation_title" content="Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies">
+
+    <meta name="citation_author" content="Albert Adibekyan">
+
+    <meta name="citation_author" content="Jochen Manara">
+
+    <meta name="citation_author" content="Christian Monte">
+
+    <meta name="citation_date" content="2025-03-15">
+
+    <meta name="citation_doi" content="10.1007/s10765-025-03532-6">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2025</div>
+```
+
+::: {.page-article}
+# Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies
+
+**Albert Adibekyan, Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874), Christian Monte**
+
+Adibekyan et al., Int. J. Thermophys. 46, 66 (2025).
+
+[**Springer →**](https://doi.org/10.1007/s10765-025-03532-6)
 
 ## Abstract
 
-This publication focuses on passive radiative cooling, emissivity measurement, metrology. Cooling measured well Emissivity reflectance Metrology leads.
+This publication focuses on passive radiative cooling, emissivity measurement, metrology.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Adibekyan et al., Int. J. Thermophys. 46, 66 (2025).
+## How to cite
 
-::: {.callout-note}
-Click the **Springer** button above to access the full text or official record.
+> Adibekyan et al., Int. J. Thermophys. 46, 66 (2025). Available at https://doi.org/10.1007/s10765-025-03532-6
 :::

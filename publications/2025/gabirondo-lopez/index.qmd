@@ -1,45 +1,57 @@
 ---
-title: "Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing"
-description: >
-  This publication focuses on inconel 718, additive manufacturing, dataset. Printed Inconel Surface structure matters Thermal emission.
+title: Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing
 date: 2025-02-27
 author:
-  - name: "Jon Gabirondo-López"
-    orcid: 0000-0003-4333-4636
-  - name: "Telmo Echániz"
-    orcid: 0000-0002-0330-0653
+- name: Jon Gabirondo-López
+  orcid: 0000-0003-4333-4636
+- name: Telmo Echániz
+  orcid: 0000-0002-0330-0653
+description: This publication focuses on inconel 718, additive manufacturing, dataset.
 categories:
-  - Inconel 718
-  - Additive Manufacturing
-  - Dataset
+- Inconel 718
+- Additive Manufacturing
+- Dataset
 pub-info:
-  reference: >-
-    Gabirondo-López & Echániz, Zenodo (2025).
+  reference: Gabirondo-López & Echániz, Zenodo (2025).
   links:
-    - name: "Zenodo"
-      url: https://doi.org/10.5281/zenodo.14936536
-      icon: fa-solid fa-file
-haiku:
-  - Printed Inconel
-  - Surface structure matters
-  - Thermal emission
+  - name: Zenodo
+    url: https://doi.org/10.5281/zenodo.14936536
+    icon: fa-solid fa-file
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing">
-      <meta name="citation_author" content="Jon Gabirondo-López">
-      <meta name="citation_author" content="Telmo Echániz">
-      <meta name="citation_date" content="2025-02-27">
-      <meta name="citation_doi" content="10.5281/zenodo.14936536">
+- text: '<meta name="citation_title" content="Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing">
+
+    <meta name="citation_author" content="Jon Gabirondo-López">
+
+    <meta name="citation_author" content="Telmo Echániz">
+
+    <meta name="citation_date" content="2025-02-27">
+
+    <meta name="citation_doi" content="10.5281/zenodo.14936536">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2025</div>
+```
+
+::: {.page-article}
+# Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing
+
+**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653)**
+
+Gabirondo-López & Echániz, Zenodo (2025).
+
+[**Zenodo →**](https://doi.org/10.5281/zenodo.14936536)
 
 ## Abstract
 
-This publication focuses on inconel 718, additive manufacturing, dataset. Printed Inconel Surface structure matters Thermal emission.
+This publication focuses on inconel 718, additive manufacturing, dataset.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Gabirondo-López & Echániz, Zenodo (2025).
+## How to cite
 
-::: {.callout-note}
-Click the **Zenodo** button above to access the full text or official record.
+> Gabirondo-López & Echániz, Zenodo (2025). Available at https://doi.org/10.5281/zenodo.14936536
 :::

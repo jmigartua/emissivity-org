@@ -1,46 +1,59 @@
 ---
-title: "Development and Evaluation of an Improved Apparatus for Measuring the Emissivity at High Temperatures"
-description: >
-  This publication focuses on high-temperature emissivity, apparatus, ftir spectrometry. New apparatus built High temperature measured Emissivity gained.
+title: Development and Evaluation of an Improved Apparatus for Measuring the Emissivity at High Temperatures
 date: 2021-09-01
 author:
-  - name: "Tobias Stark"
-  - name: "Marco Arduini"
-  - name: "Jochen Manara"
-    orcid: 0000-0002-5319-6874
+- name: Tobias Stark
+- name: Marco Arduini
+- name: Jochen Manara
+  orcid: 0000-0002-5319-6874
+description: This publication focuses on high-temperature emissivity, apparatus, ftir spectrometry.
 categories:
-  - High-temperature emissivity
-  - Apparatus
-  - FTIR spectrometry
+- High-temperature emissivity
+- Apparatus
+- FTIR spectrometry
 pub-info:
-  reference: >-
-    Stark et al., Sensors 21(18), 6252 (2021).
+  reference: Stark et al., Sensors 21(18), 6252 (2021).
   links:
-    - name: "MDPI"
-      url: https://doi.org/10.3390/s21186252
-      icon: fa-solid fa-file
-haiku:
-  - New apparatus built
-  - High temperature measured
-  - Emissivity gained
+  - name: MDPI
+    url: https://doi.org/10.3390/s21186252
+    icon: fa-solid fa-file
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Development and Evaluation of an Improved Apparatus for Measuring the Emissivity at High Temperatures">
-      <meta name="citation_author" content="Tobias Stark">
-      <meta name="citation_author" content="Marco Arduini">
-      <meta name="citation_author" content="Jochen Manara">
-      <meta name="citation_date" content="2021-09-01">
-      <meta name="citation_doi" content="10.3390/s21186252">
+- text: '<meta name="citation_title" content="Development and Evaluation of an Improved Apparatus for Measuring the Emissivity at High Temperatures">
+
+    <meta name="citation_author" content="Tobias Stark">
+
+    <meta name="citation_author" content="Marco Arduini">
+
+    <meta name="citation_author" content="Jochen Manara">
+
+    <meta name="citation_date" content="2021-09-01">
+
+    <meta name="citation_doi" content="10.3390/s21186252">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2021</div>
+```
+
+::: {.page-article}
+# Development and Evaluation of an Improved Apparatus for Measuring the Emissivity at High Temperatures
+
+**Tobias Stark, Marco Arduini, Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874)**
+
+Stark et al., Sensors 21(18), 6252 (2021).
+
+[**MDPI →**](https://doi.org/10.3390/s21186252)
 
 ## Abstract
 
-This publication focuses on high-temperature emissivity, apparatus, ftir spectrometry. New apparatus built High temperature measured Emissivity gained.
+This publication focuses on high-temperature emissivity, apparatus, ftir spectrometry.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Stark et al., Sensors 21(18), 6252 (2021).
+## How to cite
 
-::: {.callout-note}
-Click the **MDPI** button above to access the full text or official record.
+> Stark et al., Sensors 21(18), 6252 (2021). Available at https://doi.org/10.3390/s21186252
 :::

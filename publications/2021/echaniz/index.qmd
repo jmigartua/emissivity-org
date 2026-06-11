@@ -1,49 +1,63 @@
 ---
-title: "Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications"
-description: >
-  This publication focuses on fusion materials, eurofer 97, spectral emissivity. Fusion steel measured Eurofer emits thermal Reactor data gained.
+title: Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications
 date: 2021-06-01
 author:
-  - name: "Telmo Echániz"
-    orcid: 0000-0002-0330-0653
-  - name: "Iñigo González de Arrieta"
-    orcid: 0000-0001-6984-5149
-  - name: "Raquel Fuente"
-  - name: "Gabriel A. López"
+- name: Telmo Echániz
+  orcid: 0000-0002-0330-0653
+- name: Iñigo González de Arrieta
+  orcid: 0000-0001-6984-5149
+- name: Raquel Fuente
+- name: Gabriel A. López
+description: This publication focuses on fusion materials, eurofer 97, spectral emissivity.
 categories:
-  - Fusion materials
-  - Eurofer 97
-  - Spectral emissivity
+- Fusion materials
+- Eurofer 97
+- Spectral emissivity
 pub-info:
-  reference: >-
-    Echániz et al., J. Nucl. Mater. 549, 152907 (2021).
+  reference: Echániz et al., J. Nucl. Mater. 549, 152907 (2021).
   links:
-    - name: "ScienceDirect"
-      url: https://doi.org/10.1016/j.jnucmat.2021.152907
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Fusion steel measured
-  - Eurofer emits thermal
-  - Reactor data gained
+  - name: ScienceDirect
+    url: https://doi.org/10.1016/j.jnucmat.2021.152907
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications">
-      <meta name="citation_author" content="Telmo Echániz">
-      <meta name="citation_author" content="Iñigo González de Arrieta">
-      <meta name="citation_author" content="Raquel Fuente">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2021-06-01">
-      <meta name="citation_doi" content="10.1016/j.jnucmat.2021.152907">
+- text: '<meta name="citation_title" content="Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications">
+
+    <meta name="citation_author" content="Telmo Echániz">
+
+    <meta name="citation_author" content="Iñigo González de Arrieta">
+
+    <meta name="citation_author" content="Raquel Fuente">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2021-06-01">
+
+    <meta name="citation_doi" content="10.1016/j.jnucmat.2021.152907">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2021</div>
+```
+
+::: {.page-article}
+# Infrared emissivity of reduced-activation Eurofer 97 for fusion reactor applications
+
+**Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Raquel Fuente, Gabriel A. López**
+
+Echániz et al., J. Nucl. Mater. 549, 152907 (2021).
+
+[**ScienceDirect →**](https://doi.org/10.1016/j.jnucmat.2021.152907)
 
 ## Abstract
 
-This publication focuses on fusion materials, eurofer 97, spectral emissivity. Fusion steel measured Eurofer emits thermal Reactor data gained.
+This publication focuses on fusion materials, eurofer 97, spectral emissivity.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Echániz et al., J. Nucl. Mater. 549, 152907 (2021).
+## How to cite
 
-::: {.callout-note}
-Click the **ScienceDirect** button above to access the full text or official record.
+> Echániz et al., J. Nucl. Mater. 549, 152907 (2021). Available at https://doi.org/10.1016/j.jnucmat.2021.152907
 :::

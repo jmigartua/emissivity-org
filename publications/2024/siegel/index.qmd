@@ -1,45 +1,58 @@
 ---
-title: "Electrostatic steering of thermal emission with active metasurface control of delocalized modes"
-description: >
-  This publication focuses on active emission control, metasurface, tunable emissivity. Metasurface steers Thermal emission controlled Active tuning works.
+title: Electrostatic steering of thermal emission with active metasurface control of delocalized modes
 date: 2024-04-01
 author:
-  - name: "Joel Siegel"
-  - name: "Mikhail A. Kats"
-  - name: "Victor W. Brar"
+- name: Joel Siegel
+- name: Mikhail A. Kats
+- name: Victor W. Brar
+description: This publication focuses on active emission control, metasurface, tunable emissivity.
 categories:
-  - Active emission control
-  - Metasurface
-  - Tunable emissivity
+- Active emission control
+- Metasurface
+- Tunable emissivity
 pub-info:
-  reference: >-
-    Siegel et al., Nat. Commun. 15, 3376 (2024).
+  reference: Siegel et al., Nat. Commun. 15, 3376 (2024).
   links:
-    - name: "Nature"
-      url: https://doi.org/10.1038/s41467-024-47229-0
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Metasurface steers
-  - Thermal emission controlled
-  - Active tuning works
+  - name: Nature
+    url: https://doi.org/10.1038/s41467-024-47229-0
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Electrostatic steering of thermal emission with active metasurface control of delocalized modes">
-      <meta name="citation_author" content="Joel Siegel">
-      <meta name="citation_author" content="Mikhail A. Kats">
-      <meta name="citation_author" content="Victor W. Brar">
-      <meta name="citation_date" content="2024-04-01">
-      <meta name="citation_doi" content="10.1038/s41467-024-47229-0">
+- text: '<meta name="citation_title" content="Electrostatic steering of thermal emission with active metasurface control of delocalized modes">
+
+    <meta name="citation_author" content="Joel Siegel">
+
+    <meta name="citation_author" content="Mikhail A. Kats">
+
+    <meta name="citation_author" content="Victor W. Brar">
+
+    <meta name="citation_date" content="2024-04-01">
+
+    <meta name="citation_doi" content="10.1038/s41467-024-47229-0">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2024</div>
+```
+
+::: {.page-article}
+# Electrostatic steering of thermal emission with active metasurface control of delocalized modes
+
+**Joel Siegel, Mikhail A. Kats, Victor W. Brar**
+
+Siegel et al., Nat. Commun. 15, 3376 (2024).
+
+[**Nature →**](https://doi.org/10.1038/s41467-024-47229-0)
 
 ## Abstract
 
-This publication focuses on active emission control, metasurface, tunable emissivity. Metasurface steers Thermal emission controlled Active tuning works.
+This publication focuses on active emission control, metasurface, tunable emissivity.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Siegel et al., Nat. Commun. 15, 3376 (2024).
+## How to cite
 
-::: {.callout-note}
-Click the **Nature** button above to access the full text or official record.
+> Siegel et al., Nat. Commun. 15, 3376 (2024). Available at https://doi.org/10.1038/s41467-024-47229-0
 :::

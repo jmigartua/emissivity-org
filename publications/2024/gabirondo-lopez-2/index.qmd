@@ -1,48 +1,61 @@
 ---
-title: "Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces"
-description: >
-  This publication focuses on laser-patterning, steel surfaces, modeling. Laser patterns steel Directional thermal light Model fits data.
+title: Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces
 date: 2024-10-01
 author:
-  - name: "Jon Gabirondo-López"
-    orcid: 0000-0003-4333-4636
-  - name: "Iñigo González de Arrieta"
-    orcid: 0000-0001-6984-5149
-  - name: "Josu M. Igartua"
-  - name: "Gabriel A. López"
+- name: Jon Gabirondo-López
+  orcid: 0000-0003-4333-4636
+- name: Iñigo González de Arrieta
+  orcid: 0000-0001-6984-5149
+- name: Josu M. Igartua
+- name: Gabriel A. López
+description: This publication focuses on laser-patterning, steel surfaces, modeling.
 categories:
-  - Laser-patterning
-  - Steel surfaces
-  - Modeling
+- Laser-patterning
+- Steel surfaces
+- Modeling
 pub-info:
-  reference: >-
-    Gabirondo-López et al., EPJ Web of Conf (2024).
+  reference: Gabirondo-López et al., EPJ Web of Conf (2024).
   links:
-    - name: "EPJ Web Conf"
-      url: https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html
-      icon: fa-solid fa-file
-haiku:
-  - Laser patterns steel
-  - Directional thermal light
-  - Model fits data
+  - name: EPJ Web Conf
+    url: https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html
+    icon: fa-solid fa-file
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces">
-      <meta name="citation_author" content="Jon Gabirondo-López">
-      <meta name="citation_author" content="Iñigo González de Arrieta">
-      <meta name="citation_author" content="Josu M. Igartua">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2024-10-01">
+- text: '<meta name="citation_title" content="Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces">
+
+    <meta name="citation_author" content="Jon Gabirondo-López">
+
+    <meta name="citation_author" content="Iñigo González de Arrieta">
+
+    <meta name="citation_author" content="Josu M. Igartua">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2024-10-01">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2024</div>
+```
+
+::: {.page-article}
+# Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces
+
+**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Josu M. Igartua, Gabriel A. López**
+
+Gabirondo-López et al., EPJ Web of Conf (2024).
+
+[**EPJ Web Conf →**](https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html)
 
 ## Abstract
 
-This publication focuses on laser-patterning, steel surfaces, modeling. Laser patterns steel Directional thermal light Model fits data.
+This publication focuses on laser-patterning, steel surfaces, modeling.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Gabirondo-López et al., EPJ Web of Conf (2024).
+## How to cite
 
-::: {.callout-note}
-Click the **EPJ Web Conf** button above to access the full text or official record.
+> Gabirondo-López et al., EPJ Web of Conf (2024). Available at https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html
 :::

@@ -1,51 +1,66 @@
 ---
-title: "Updated measurement method and uncertainty budget for direct emissivity measurements at the University of the Basque Country"
-description: >
-  This publication focuses on emissivity measurement, uncertainty budget, metrology. Method updated now Uncertainty quantified Precision improved.
+title: Updated measurement method and uncertainty budget for direct emissivity measurements at the University of the Basque Country
 date: 2020-08-01
 author:
-  - name: "Iñigo González de Arrieta"
-    orcid: 0000-0001-6984-5149
-  - name: "Telmo Echániz"
-    orcid: 0000-0002-0330-0653
-  - name: "Raquel Fuente"
-  - name: "Josu M. Igartua"
-  - name: "Gabriel A. López"
+- name: Iñigo González de Arrieta
+  orcid: 0000-0001-6984-5149
+- name: Telmo Echániz
+  orcid: 0000-0002-0330-0653
+- name: Raquel Fuente
+- name: Josu M. Igartua
+- name: Gabriel A. López
+description: This publication focuses on emissivity measurement, uncertainty budget, metrology.
 categories:
-  - Emissivity measurement
-  - Uncertainty budget
-  - Metrology
+- Emissivity measurement
+- Uncertainty budget
+- Metrology
 pub-info:
-  reference: >-
-    González de Arrieta et al., Metrologia 57, 045002 (2020).
+  reference: González de Arrieta et al., Metrologia 57, 045002 (2020).
   links:
-    - name: "IOP Science"
-      url: https://doi.org/10.1088/1681-7575/ab84ff
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Method updated now
-  - Uncertainty quantified
-  - Precision improved
+  - name: IOP Science
+    url: https://doi.org/10.1088/1681-7575/ab84ff
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Updated measurement method and uncertainty budget for direct emissivity measurements at the University of the Basque Country">
-      <meta name="citation_author" content="Iñigo González de Arrieta">
-      <meta name="citation_author" content="Telmo Echániz">
-      <meta name="citation_author" content="Raquel Fuente">
-      <meta name="citation_author" content="Josu M. Igartua">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2020-08-01">
-      <meta name="citation_doi" content="10.1088/1681-7575/ab84ff">
+- text: '<meta name="citation_title" content="Updated measurement method and uncertainty budget for direct emissivity measurements at the University of the Basque Country">
+
+    <meta name="citation_author" content="Iñigo González de Arrieta">
+
+    <meta name="citation_author" content="Telmo Echániz">
+
+    <meta name="citation_author" content="Raquel Fuente">
+
+    <meta name="citation_author" content="Josu M. Igartua">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2020-08-01">
+
+    <meta name="citation_doi" content="10.1088/1681-7575/ab84ff">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2020</div>
+```
+
+::: {.page-article}
+# Updated measurement method and uncertainty budget for direct emissivity measurements at the University of the Basque Country
+
+**Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Raquel Fuente, Josu M. Igartua, Gabriel A. López**
+
+González de Arrieta et al., Metrologia 57, 045002 (2020).
+
+[**IOP Science →**](https://doi.org/10.1088/1681-7575/ab84ff)
 
 ## Abstract
 
-This publication focuses on emissivity measurement, uncertainty budget, metrology. Method updated now Uncertainty quantified Precision improved.
+This publication focuses on emissivity measurement, uncertainty budget, metrology.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> González de Arrieta et al., Metrologia 57, 045002 (2020).
+## How to cite
 
-::: {.callout-note}
-Click the **IOP Science** button above to access the full text or official record.
+> González de Arrieta et al., Metrologia 57, 045002 (2020). Available at https://doi.org/10.1088/1681-7575/ab84ff
 :::

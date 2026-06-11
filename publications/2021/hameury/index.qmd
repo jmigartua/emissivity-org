@@ -1,48 +1,62 @@
 ---
-title: "Assessment of uncertainties for measurements of total near-normal emissivity of low-emissivity foils with an industrial emissometer"
-description: >
-  This publication focuses on uncertainty assessment, low-emissivity foils, industrial emissometer. Foils reflect nearly Uncertainty quantified Measurement improved.
+title: Assessment of uncertainties for measurements of total near-normal emissivity of low-emissivity foils with an industrial emissometer
 date: 2021-05-01
 author:
-  - name: "Jacques Hameury"
-  - name: "Marco Arduini"
-  - name: "Jochen Manara"
-    orcid: 0000-0002-5319-6874
-  - name: "Albert Adibekyan"
+- name: Jacques Hameury
+- name: Marco Arduini
+- name: Jochen Manara
+  orcid: 0000-0002-5319-6874
+- name: Albert Adibekyan
+description: This publication focuses on uncertainty assessment, low-emissivity foils, industrial emissometer.
 categories:
-  - Uncertainty assessment
-  - Low-emissivity foils
-  - Industrial emissometer
+- Uncertainty assessment
+- Low-emissivity foils
+- Industrial emissometer
 pub-info:
-  reference: >-
-    Hameury et al., JSSS 10, 135-152 (2021).
+  reference: Hameury et al., JSSS 10, 135-152 (2021).
   links:
-    - name: "Copernicus"
-      url: https://doi.org/10.5194/jsss-10-135-2021
-      icon: fa-solid fa-file
-haiku:
-  - Foils reflect nearly
-  - Uncertainty quantified
-  - Measurement improved
+  - name: Copernicus
+    url: https://doi.org/10.5194/jsss-10-135-2021
+    icon: fa-solid fa-file
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Assessment of uncertainties for measurements of total near-normal emissivity of low-emissivity foils with an industrial emissometer">
-      <meta name="citation_author" content="Jacques Hameury">
-      <meta name="citation_author" content="Marco Arduini">
-      <meta name="citation_author" content="Jochen Manara">
-      <meta name="citation_author" content="Albert Adibekyan">
-      <meta name="citation_date" content="2021-05-01">
-      <meta name="citation_doi" content="10.5194/jsss-10-135-2021">
+- text: '<meta name="citation_title" content="Assessment of uncertainties for measurements of total near-normal emissivity of low-emissivity foils with an industrial emissometer">
+
+    <meta name="citation_author" content="Jacques Hameury">
+
+    <meta name="citation_author" content="Marco Arduini">
+
+    <meta name="citation_author" content="Jochen Manara">
+
+    <meta name="citation_author" content="Albert Adibekyan">
+
+    <meta name="citation_date" content="2021-05-01">
+
+    <meta name="citation_doi" content="10.5194/jsss-10-135-2021">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2021</div>
+```
+
+::: {.page-article}
+# Assessment of uncertainties for measurements of total near-normal emissivity of low-emissivity foils with an industrial emissometer
+
+**Jacques Hameury, Marco Arduini, Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874), Albert Adibekyan**
+
+Hameury et al., JSSS 10, 135-152 (2021).
+
+[**Copernicus →**](https://doi.org/10.5194/jsss-10-135-2021)
 
 ## Abstract
 
-This publication focuses on uncertainty assessment, low-emissivity foils, industrial emissometer. Foils reflect nearly Uncertainty quantified Measurement improved.
+This publication focuses on uncertainty assessment, low-emissivity foils, industrial emissometer.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Hameury et al., JSSS 10, 135-152 (2021).
+## How to cite
 
-::: {.callout-note}
-Click the **Copernicus** button above to access the full text or official record.
+> Hameury et al., JSSS 10, 135-152 (2021). Available at https://doi.org/10.5194/jsss-10-135-2021
 :::

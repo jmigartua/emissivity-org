@@ -38,8 +38,7 @@ format:
       - assets/includes/site-header.html
     include-after-body:
       - assets/includes/site-footer.html
-    toc: true
-    toc-depth: 3
+    toc: false
     smooth-scroll: true
     code-copy: true
     link-external-newwindow: false

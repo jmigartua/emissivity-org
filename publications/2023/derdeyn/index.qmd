@@ -1,45 +1,58 @@
 ---
-title: "Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data"
-description: >
-  This publication focuses on molten fluorides, infrared spectroscopy, radiative heat transfer. Molten salt probed Infrared reveals structure Heat transfer modeled.
+title: 'Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data'
 date: 2023-08-01
 author:
-  - name: "William B. Derdeyn"
-  - name: "Mikhail A. Kats"
-  - name: "Raluca O. Scarlat"
+- name: William B. Derdeyn
+- name: Mikhail A. Kats
+- name: Raluca O. Scarlat
+description: This publication focuses on molten fluorides, infrared spectroscopy, radiative heat transfer.
 categories:
-  - Molten fluorides
-  - Infrared spectroscopy
-  - Radiative heat transfer
+- Molten fluorides
+- Infrared spectroscopy
+- Radiative heat transfer
 pub-info:
-  reference: >-
-    Derdeyn et al., J. Mol. Liq. 383, 121936 (2023).
+  reference: Derdeyn et al., J. Mol. Liq. 383, 121936 (2023).
   links:
-    - name: "ScienceDirect"
-      url: https://doi.org/10.1016/j.molliq.2023.121936
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Molten salt probed
-  - Infrared reveals structure
-  - Heat transfer modeled
+  - name: ScienceDirect
+    url: https://doi.org/10.1016/j.molliq.2023.121936
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data">
-      <meta name="citation_author" content="William B. Derdeyn">
-      <meta name="citation_author" content="Mikhail A. Kats">
-      <meta name="citation_author" content="Raluca O. Scarlat">
-      <meta name="citation_date" content="2023-08-01">
-      <meta name="citation_doi" content="10.1016/j.molliq.2023.121936">
+- text: '<meta name="citation_title" content="Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data">
+
+    <meta name="citation_author" content="William B. Derdeyn">
+
+    <meta name="citation_author" content="Mikhail A. Kats">
+
+    <meta name="citation_author" content="Raluca O. Scarlat">
+
+    <meta name="citation_date" content="2023-08-01">
+
+    <meta name="citation_doi" content="10.1016/j.molliq.2023.121936">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2023</div>
+```
+
+::: {.page-article}
+# Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data
+
+**William B. Derdeyn, Mikhail A. Kats, Raluca O. Scarlat**
+
+Derdeyn et al., J. Mol. Liq. 383, 121936 (2023).
+
+[**ScienceDirect →**](https://doi.org/10.1016/j.molliq.2023.121936)
 
 ## Abstract
 
-This publication focuses on molten fluorides, infrared spectroscopy, radiative heat transfer. Molten salt probed Infrared reveals structure Heat transfer modeled.
+This publication focuses on molten fluorides, infrared spectroscopy, radiative heat transfer.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Derdeyn et al., J. Mol. Liq. 383, 121936 (2023).
+## How to cite
 
-::: {.callout-note}
-Click the **ScienceDirect** button above to access the full text or official record.
+> Derdeyn et al., J. Mol. Liq. 383, 121936 (2023). Available at https://doi.org/10.1016/j.molliq.2023.121936
 :::

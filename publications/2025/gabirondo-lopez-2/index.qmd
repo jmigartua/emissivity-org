@@ -1,47 +1,60 @@
 ---
-title: "Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging"
-description: >
-  This publication focuses on thermal imaging, inconel 718, ded monitoring. Monitoring heat During metal printing process Thermal accuracy.
+title: Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging
 date: 2025-05-29
 author:
-  - name: "Jon Gabirondo-López"
-    orcid: 0000-0003-4333-4636
-  - name: "Telmo Echániz"
-    orcid: 0000-0002-0330-0653
-  - name: "Gabriel A. López"
+- name: Jon Gabirondo-López
+  orcid: 0000-0003-4333-4636
+- name: Telmo Echániz
+  orcid: 0000-0002-0330-0653
+- name: Gabriel A. López
+description: This publication focuses on thermal imaging, inconel 718, ded monitoring.
 categories:
-  - Thermal Imaging
-  - Inconel 718
-  - DED Monitoring
+- Thermal Imaging
+- Inconel 718
+- DED Monitoring
 pub-info:
-  reference: >-
-    Gabirondo-López et al., Int J Thermophys (2025).
+  reference: Gabirondo-López et al., Int J Thermophys (2025).
   links:
-    - name: "Springer"
-      url: https://doi.org/10.1007/s10765-025-03577-7
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Monitoring heat
-  - During metal printing process
-  - Thermal accuracy
+  - name: Springer
+    url: https://doi.org/10.1007/s10765-025-03577-7
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging">
-      <meta name="citation_author" content="Jon Gabirondo-López">
-      <meta name="citation_author" content="Telmo Echániz">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2025-05-29">
-      <meta name="citation_doi" content="10.1007/s10765-025-03577-7">
+- text: '<meta name="citation_title" content="Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging">
+
+    <meta name="citation_author" content="Jon Gabirondo-López">
+
+    <meta name="citation_author" content="Telmo Echániz">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2025-05-29">
+
+    <meta name="citation_doi" content="10.1007/s10765-025-03577-7">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2025</div>
+```
+
+::: {.page-article}
+# Experimental Analysis of Emissivity in Inconel 718 for Directed Energy Deposition Temperature Monitoring with Thermal Imaging
+
+**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Gabriel A. López**
+
+Gabirondo-López et al., Int J Thermophys (2025).
+
+[**Springer →**](https://doi.org/10.1007/s10765-025-03577-7)
 
 ## Abstract
 
-This publication focuses on thermal imaging, inconel 718, ded monitoring. Monitoring heat During metal printing process Thermal accuracy.
+This publication focuses on thermal imaging, inconel 718, ded monitoring.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Gabirondo-López et al., Int J Thermophys (2025).
+## How to cite
 
-::: {.callout-note}
-Click the **Springer** button above to access the full text or official record.
+> Gabirondo-López et al., Int J Thermophys (2025). Available at https://doi.org/10.1007/s10765-025-03577-7
 :::

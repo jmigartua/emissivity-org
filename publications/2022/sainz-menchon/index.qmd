@@ -1,49 +1,63 @@
 ---
-title: "Experimental and numerical study of the emissivity of rolled aluminum"
-description: >
-  This publication focuses on aluminum emissivity, numerical modeling, surface roughness. Rolled aluminum sheets Roughness shapes thermal light Model and measure.
+title: Experimental and numerical study of the emissivity of rolled aluminum
 date: 2022-12-01
 author:
-  - name: "Maialen Sainz-Menchón"
-  - name: "Jon Gabirondo-López"
-    orcid: 0000-0003-4333-4636
-  - name: "Iñigo González de Arrieta"
-    orcid: 0000-0001-6984-5149
-  - name: "Gabriel A. López"
+- name: Maialen Sainz-Menchón
+- name: Jon Gabirondo-López
+  orcid: 0000-0003-4333-4636
+- name: Iñigo González de Arrieta
+  orcid: 0000-0001-6984-5149
+- name: Gabriel A. López
+description: This publication focuses on aluminum emissivity, numerical modeling, surface roughness.
 categories:
-  - Aluminum emissivity
-  - Numerical modeling
-  - Surface roughness
+- Aluminum emissivity
+- Numerical modeling
+- Surface roughness
 pub-info:
-  reference: >-
-    Sainz-Menchón et al., Infrared Phys. Technol. 127, 104380 (2022).
+  reference: Sainz-Menchón et al., Infrared Phys. Technol. 127, 104380 (2022).
   links:
-    - name: "ScienceDirect"
-      url: https://doi.org/10.1016/j.infrared.2022.104380
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Rolled aluminum sheets
-  - Roughness shapes thermal light
-  - Model and measure
+  - name: ScienceDirect
+    url: https://doi.org/10.1016/j.infrared.2022.104380
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Experimental and numerical study of the emissivity of rolled aluminum">
-      <meta name="citation_author" content="Maialen Sainz-Menchón">
-      <meta name="citation_author" content="Jon Gabirondo-López">
-      <meta name="citation_author" content="Iñigo González de Arrieta">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2022-12-01">
-      <meta name="citation_doi" content="10.1016/j.infrared.2022.104380">
+- text: '<meta name="citation_title" content="Experimental and numerical study of the emissivity of rolled aluminum">
+
+    <meta name="citation_author" content="Maialen Sainz-Menchón">
+
+    <meta name="citation_author" content="Jon Gabirondo-López">
+
+    <meta name="citation_author" content="Iñigo González de Arrieta">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2022-12-01">
+
+    <meta name="citation_doi" content="10.1016/j.infrared.2022.104380">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2022</div>
+```
+
+::: {.page-article}
+# Experimental and numerical study of the emissivity of rolled aluminum
+
+**Maialen Sainz-Menchón, Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Gabriel A. López**
+
+Sainz-Menchón et al., Infrared Phys. Technol. 127, 104380 (2022).
+
+[**ScienceDirect →**](https://doi.org/10.1016/j.infrared.2022.104380)
 
 ## Abstract
 
-This publication focuses on aluminum emissivity, numerical modeling, surface roughness. Rolled aluminum sheets Roughness shapes thermal light Model and measure.
+This publication focuses on aluminum emissivity, numerical modeling, surface roughness.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Sainz-Menchón et al., Infrared Phys. Technol. 127, 104380 (2022).
+## How to cite
 
-::: {.callout-note}
-Click the **ScienceDirect** button above to access the full text or official record.
+> Sainz-Menchón et al., Infrared Phys. Technol. 127, 104380 (2022). Available at https://doi.org/10.1016/j.infrared.2022.104380
 :::

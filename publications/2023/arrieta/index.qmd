@@ -1,47 +1,60 @@
 ---
-title: "Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation"
-description: >
-  This publication focuses on radiative properties, combustion, effective medium theory. Aluminum burns bright Core shell model captures Flame radiation.
+title: Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation
 date: 2023-04-01
 author:
-  - name: "Iñigo González de Arrieta"
-    orcid: 0000-0001-6984-5149
-  - name: "Clément Blanchard"
-  - name: "Olivier Rozenbaum"
-    orcid: 0000-0002-1474-4970
+- name: Iñigo González de Arrieta
+  orcid: 0000-0001-6984-5149
+- name: Clément Blanchard
+- name: Olivier Rozenbaum
+  orcid: 0000-0002-1474-4970
+description: This publication focuses on radiative properties, combustion, effective medium theory.
 categories:
-  - Radiative properties
-  - Combustion
-  - Effective medium theory
+- Radiative properties
+- Combustion
+- Effective medium theory
 pub-info:
-  reference: >-
-    González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023).
+  reference: González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023).
   links:
-    - name: "ScienceDirect"
-      url: https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Aluminum burns bright
-  - Core shell model captures
-  - Flame radiation
+  - name: ScienceDirect
+    url: https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation">
-      <meta name="citation_author" content="Iñigo González de Arrieta">
-      <meta name="citation_author" content="Clément Blanchard">
-      <meta name="citation_author" content="Olivier Rozenbaum">
-      <meta name="citation_date" content="2023-04-01">
-      <meta name="citation_doi" content="10.1016/j.ijheatmasstransfer.2022.123815">
+- text: '<meta name="citation_title" content="Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation">
+
+    <meta name="citation_author" content="Iñigo González de Arrieta">
+
+    <meta name="citation_author" content="Clément Blanchard">
+
+    <meta name="citation_author" content="Olivier Rozenbaum">
+
+    <meta name="citation_date" content="2023-04-01">
+
+    <meta name="citation_doi" content="10.1016/j.ijheatmasstransfer.2022.123815">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2023</div>
+```
+
+::: {.page-article}
+# Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation
+
+**Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Clément Blanchard, Olivier Rozenbaum [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-1474-4970)**
+
+González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023).
+
+[**ScienceDirect →**](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815)
 
 ## Abstract
 
-This publication focuses on radiative properties, combustion, effective medium theory. Aluminum burns bright Core shell model captures Flame radiation.
+This publication focuses on radiative properties, combustion, effective medium theory.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023).
+## How to cite
 
-::: {.callout-note}
-Click the **ScienceDirect** button above to access the full text or official record.
+> González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023). Available at https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815
 :::

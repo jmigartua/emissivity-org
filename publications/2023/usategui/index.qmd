@@ -1,48 +1,62 @@
 ---
-title: "Emissivity measurements conducted on intermetallic gamma-TiAl-based alloys for aeronautical applications"
-description: >
-  This publication focuses on tial intermetallics, aeronautical alloys, high temperature. Gamma TiAl shines Aeronautic alloy heat Spectral data mapped.
+title: Emissivity measurements conducted on intermetallic gamma-TiAl-based alloys for aeronautical applications
 date: 2023-11-01
 author:
-  - name: "Leire Usategui"
-  - name: "Iñaki López-Ferreño"
-  - name: "Telmo Echániz"
-    orcid: 0000-0002-0330-0653
-  - name: "Gabriel A. López"
+- name: Leire Usategui
+- name: Iñaki López-Ferreño
+- name: Telmo Echániz
+  orcid: 0000-0002-0330-0653
+- name: Gabriel A. López
+description: This publication focuses on tial intermetallics, aeronautical alloys, high temperature.
 categories:
-  - TiAl intermetallics
-  - Aeronautical alloys
-  - High temperature
+- TiAl intermetallics
+- Aeronautical alloys
+- High temperature
 pub-info:
-  reference: >-
-    Usategui et al., J. Mater. Res. Technol. 27, 3170-3179 (2023).
+  reference: Usategui et al., J. Mater. Res. Technol. 27, 3170-3179 (2023).
   links:
-    - name: "ScienceDirect"
-      url: https://doi.org/10.1016/j.jmrt.2023.10.163
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Gamma TiAl shines
-  - Aeronautic alloy heat
-  - Spectral data mapped
+  - name: ScienceDirect
+    url: https://doi.org/10.1016/j.jmrt.2023.10.163
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Emissivity measurements conducted on intermetallic gamma-TiAl-based alloys for aeronautical applications">
-      <meta name="citation_author" content="Leire Usategui">
-      <meta name="citation_author" content="Iñaki López-Ferreño">
-      <meta name="citation_author" content="Telmo Echániz">
-      <meta name="citation_author" content="Gabriel A. López">
-      <meta name="citation_date" content="2023-11-01">
-      <meta name="citation_doi" content="10.1016/j.jmrt.2023.10.163">
+- text: '<meta name="citation_title" content="Emissivity measurements conducted on intermetallic gamma-TiAl-based alloys for aeronautical applications">
+
+    <meta name="citation_author" content="Leire Usategui">
+
+    <meta name="citation_author" content="Iñaki López-Ferreño">
+
+    <meta name="citation_author" content="Telmo Echániz">
+
+    <meta name="citation_author" content="Gabriel A. López">
+
+    <meta name="citation_date" content="2023-11-01">
+
+    <meta name="citation_doi" content="10.1016/j.jmrt.2023.10.163">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2023</div>
+```
+
+::: {.page-article}
+# Emissivity measurements conducted on intermetallic gamma-TiAl-based alloys for aeronautical applications
+
+**Leire Usategui, Iñaki López-Ferreño, Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Gabriel A. López**
+
+Usategui et al., J. Mater. Res. Technol. 27, 3170-3179 (2023).
+
+[**ScienceDirect →**](https://doi.org/10.1016/j.jmrt.2023.10.163)
 
 ## Abstract
 
-This publication focuses on tial intermetallics, aeronautical alloys, high temperature. Gamma TiAl shines Aeronautic alloy heat Spectral data mapped.
+This publication focuses on tial intermetallics, aeronautical alloys, high temperature.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> Usategui et al., J. Mater. Res. Technol. 27, 3170-3179 (2023).
+## How to cite
 
-::: {.callout-note}
-Click the **ScienceDirect** button above to access the full text or official record.
+> Usategui et al., J. Mater. Res. Technol. 27, 3170-3179 (2023). Available at https://doi.org/10.1016/j.jmrt.2023.10.163
 :::

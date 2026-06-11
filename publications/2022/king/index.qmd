@@ -1,45 +1,58 @@
 ---
-title: "Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition"
-description: >
-  This publication focuses on temperature-independent radiation, phase-change materials, emissivity engineering. Phase change controls Temperature independence Radiation tuned.
+title: Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition
 date: 2022-08-01
 author:
-  - name: "Jared King"
-  - name: "Alireza Shahsafi"
-  - name: "Mikhail A. Kats"
+- name: Jared King
+- name: Alireza Shahsafi
+- name: Mikhail A. Kats
+description: This publication focuses on temperature-independent radiation, phase-change materials, emissivity engineering.
 categories:
-  - Temperature-independent radiation
-  - Phase-change materials
-  - Emissivity engineering
+- Temperature-independent radiation
+- Phase-change materials
+- Emissivity engineering
 pub-info:
-  reference: >-
-    King et al., ACS Photonics 9(8), 2742 (2022).
+  reference: King et al., ACS Photonics 9(8), 2742 (2022).
   links:
-    - name: "ACS"
-      url: https://doi.org/10.1021/acsphotonics.2c00500
-      icon: fa-solid fa-file-pdf
-haiku:
-  - Phase change controls
-  - Temperature independence
-  - Radiation tuned
+  - name: ACS
+    url: https://doi.org/10.1021/acsphotonics.2c00500
+    icon: fa-solid fa-file-pdf
+page-layout: full
+toc: false
 include-in-header:
-  - text: |
-      <meta name="citation_title" content="Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition">
-      <meta name="citation_author" content="Jared King">
-      <meta name="citation_author" content="Alireza Shahsafi">
-      <meta name="citation_author" content="Mikhail A. Kats">
-      <meta name="citation_date" content="2022-08-01">
-      <meta name="citation_doi" content="10.1021/acsphotonics.2c00500">
+- text: '<meta name="citation_title" content="Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition">
+
+    <meta name="citation_author" content="Jared King">
+
+    <meta name="citation_author" content="Alireza Shahsafi">
+
+    <meta name="citation_author" content="Mikhail A. Kats">
+
+    <meta name="citation_date" content="2022-08-01">
+
+    <meta name="citation_doi" content="10.1021/acsphotonics.2c00500">'
 ---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2022</div>
+```
+
+::: {.page-article}
+# Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition
+
+**Jared King, Alireza Shahsafi, Mikhail A. Kats**
+
+King et al., ACS Photonics 9(8), 2742 (2022).
+
+[**ACS →**](https://doi.org/10.1021/acsphotonics.2c00500)
 
 ## Abstract
 
-This publication focuses on temperature-independent radiation, phase-change materials, emissivity engineering. Phase change controls Temperature independence Radiation tuned.
+This publication focuses on temperature-independent radiation, phase-change materials, emissivity engineering.
 
-## Citation
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
 
-> King et al., ACS Photonics 9(8), 2742 (2022).
+## How to cite
 
-::: {.callout-note}
-Click the **ACS** button above to access the full text or official record.
+> King et al., ACS Photonics 9(8), 2742 (2022). Available at https://doi.org/10.1021/acsphotonics.2c00500
 :::
