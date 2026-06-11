@@ -1,0 +1,90 @@
+---
+title: "Directional spectral emissivity of rolled aluminium"
+description: >
+  This paper reports directional spectral emissivity measurements of rolled aluminium
+  between 423 K and 823 K under high vacuum conditions and presents a numerical analysis
+  based on Rigorous Coupled-Wave Analysis to interpret the influence of surface roughness
+  and oxide layers.
+author: "Emissivity.org Editorial Team"
+date: 2026-01-03
+categories:
+  - Emissometry
+  - Directional emissivity
+page-layout: full
+toc: false
+post_type: "paper-brief"
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Paper brief</div>
+  <h1>Directional spectral emissivity of rolled aluminium</h1>
+  <p class="pub__journal" style="margin-bottom:2rem;">Experimental measurements and numerical analysis using RCWA</p>
+
+  <h3>Overview of the study</h3>
+
+  <p>This article presents an experimental and numerical investigation of the infrared emissivity of rolled aluminium, with emphasis on directional and spectral dependence. The study addresses the emissive behavior of aluminium surfaces produced by rolling, a common industrial process that introduces characteristic surface features distinct from those of polished or mirror-finished samples.</p>
+
+  <p>The authors report emissivity measurements performed under high vacuum over a temperature range from 423 K to 823 K. The emissivity is resolved spectrally in the mid-infrared and angularly with respect to the emission direction. In parallel, numerical simulations based on Rigorous Coupled-Wave Analysis (RCWA) are used to interpret the experimental observations using surface morphology information obtained from the rolled samples.</p>
+
+  <h3>Experimental methodology</h3>
+
+  <p>The emissivity measurements were carried out using an infrared emissometer operating under high-vacuum conditions. The vacuum environment was employed to minimize convective heat transfer and oxidation during high-temperature measurements. The experimental setup allowed for control of sample temperature and measurement of emitted radiance as a function of wavelength and emission angle.</p>
+
+  <p>Directional emissivity was obtained by varying the observation angle relative to the surface normal. Measurements were performed for multiple temperatures within the specified range. The spectral range covered corresponds to the mid-infrared region relevant for thermal radiation at the investigated temperatures.</p>
+
+  <p>The aluminium samples were produced by rolling, resulting in surfaces with anisotropic and multiscale roughness. Surface characterization techniques were applied to quantify the morphology of the rolled surfaces. These measurements provided input parameters for the subsequent numerical modeling.</p>
+
+  <h3>Experimental results</h3>
+
+  <p>The experimental results show that the emissivity of rolled aluminium is higher than that typically reported for polished aluminium surfaces. This increase is observed across a broad spectral range and persists throughout the investigated temperature interval.</p>
+
+  <p>The emissivity exhibits a clear dependence on emission angle. At near-normal emission, the emissivity values differ from those measured at larger angles, indicating that directional effects are significant for rolled aluminium surfaces. The angular dependence varies with wavelength, reflecting the interaction between surface features and infrared radiation.</p>
+
+  <p>Temperature-dependent measurements show that emissivity changes with increasing temperature, with trends that are consistent across the investigated spectral range. The authors report emissivity curves for multiple temperatures, allowing direct comparison of thermal effects on emission behavior.</p>
+
+  <h3>Numerical modeling using RCWA</h3>
+
+  <p>To interpret the experimental observations, the authors performed numerical simulations based on Rigorous Coupled-Wave Analysis. RCWA is an electromagnetic method commonly used to model diffraction and emission from periodic or structured surfaces. In this study, RCWA was applied using surface profiles derived from the measured roughness of the rolled aluminium samples.</p>
+
+  <p>The surface morphology was represented in the simulations using representative profiles that capture the characteristic features introduced by the rolling process. Optical properties of aluminium and its native oxide were included in the model. The simulations produced spectral and directional emissivity values corresponding to the experimental conditions.</p>
+
+  <h3>Comparison between experiment and simulation</h3>
+
+  <p>The numerical results obtained from RCWA show good agreement with the experimental emissivity measurements. The simulations reproduce the observed increase in emissivity relative to polished surfaces, as well as the angular dependence of the emissivity.</p>
+
+  <p>Specific spectral features observed experimentally are also present in the simulated results. In particular, contributions associated with the surface oxide layer are identified in both measurement and modeling. The agreement between experiment and simulation supports the interpretation that surface roughness and oxide layers play a central role in determining the emissive behavior of rolled aluminium.</p>
+
+  <p>The comparison is presented quantitatively, with differences between measured and simulated emissivity falling within the reported experimental uncertainties for most conditions.</p>
+
+  <h3>Uncertainty analysis</h3>
+
+  <p>The authors include an analysis of the uncertainties associated with the emissivity measurements. Different sources of uncertainty are considered, including temperature measurement, radiance calibration, and environmental effects.</p>
+
+  <p>The uncertainty analysis shows that the dominant contributors to total uncertainty vary with wavelength and temperature. At shorter wavelengths, temperature uncertainty has a stronger influence, while at longer wavelengths other factors become more significant. This behavior is documented in the reported uncertainty bounds accompanying the emissivity data.</p>
+
+  <h3>Scope and limitations</h3>
+
+  <p>The study is limited to rolled aluminium samples with specific surface characteristics resulting from the applied rolling process. The reported results correspond to the measured surface state and experimental conditions. The numerical modeling is based on representative surface profiles and does not attempt to capture all possible surface variations.</p>
+
+  <p>The authors do not generalize the results beyond the investigated samples but present them as a combined experimental&ndash;numerical analysis of rolled aluminium emissivity under controlled conditions.</p>
+
+  <blockquote>
+    <strong>Figure callout</strong> &mdash; Directional spectral emissivity of rolled aluminium at multiple temperatures, surface morphology characterization, and comparison between measured and RCWA-simulated emissivity.
+  </blockquote>
+
+  <h3>Reference</h3>
+
+  <pre><code>@article{SainzMenchon2022RolledAl,
+  author  = {Sainz-Mench&oacute;n, M. and Gabirondo-L&oacute;pez, J. and Gonz&aacute;lez de Arrieta, I. and Ech&aacute;niz, T. and L&oacute;pez, G. A.},
+  title   = {Experimental and numerical study of the emissivity of rolled aluminum},
+  journal = {Infrared Physics &amp; Technology},
+  volume  = {127},
+  pages   = {104380},
+  year    = {2022},
+  doi     = {10.1016/j.infrared.2022.104380}
+}</code></pre>
+
+  <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>
+</div>
+```

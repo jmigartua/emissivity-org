@@ -1,0 +1,45 @@
+---
+title: "Correcting thermal-emission-induced detector saturation in infrared spectroscopy"
+description: >
+  This publication focuses on detector saturation, ir spectroscopy correction, emissivity measurement. Detector saturates Correction method applied Better spectra gained.
+date: 2022-10-01
+author:
+  - name: "Chenghao Yao"
+  - name: "Yujie Xiao"
+  - name: "Mikhail A. Kats"
+categories:
+  - Detector saturation
+  - IR spectroscopy correction
+  - Emissivity measurement
+pub-info:
+  reference: >-
+    Yao et al., Opt. Express 30(22), 38458 (2022).
+  links:
+    - name: "Optica"
+      url: https://doi.org/10.1364/OE.30.038458
+      icon: fa-solid fa-file
+haiku:
+  - Detector saturates
+  - Correction method applied
+  - Better spectra gained
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Correcting thermal-emission-induced detector saturation in infrared spectroscopy">
+      <meta name="citation_author" content="Chenghao Yao">
+      <meta name="citation_author" content="Yujie Xiao">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2022-10-01">
+      <meta name="citation_doi" content="10.1364/OE.30.038458">
+---
+
+## Abstract
+
+This publication focuses on detector saturation, ir spectroscopy correction, emissivity measurement. Detector saturates Correction method applied Better spectra gained.
+
+## Citation
+
+> Yao et al., Opt. Express 30(22), 38458 (2022).
+
+::: {.callout-note}
+Click the **Optica** button above to access the full text or official record.
+:::

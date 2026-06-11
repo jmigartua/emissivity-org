@@ -1,0 +1,30 @@
+---
+title: "IMEKO World Congress 2027 — Metrology for Humanity"
+subtitle: "IMEKO | Rimini, Italy"
+date: 2027-08-30
+description: "Umbrella congress for all IMEKO Technical Committees including TC12 (Temperature and Thermal Measurements)."
+url: "https://imeko2027.org/"
+categories:
+  - General metrology
+  - radiation-thermometry
+  - metrology
+  - IMEKO
+  - temperature
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2027-08-30 to 2027-09-03
+
+**Location:** Rimini, Italy
+
+[Conference Website](https://imeko2027.org/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The XXV IMEKO World Congress covers all IMEKO Technical Committees including TC12 (Temperature and Thermal Measurements). Temperature metrology, radiation thermometry, and emissivity sessions appear within the multi-domain program.
+
+

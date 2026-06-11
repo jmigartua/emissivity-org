@@ -1,0 +1,55 @@
+---
+title: "Add a publication"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/contribute/index.html">Contribute</a> / Publication</div>
+```
+
+::: {.page-article}
+# Add a publication
+
+The [bibliography](/publications.html) indexes peer-reviewed work on the measurement, modelling, and engineering of thermal radiative properties. A DOI is required; everything else we can derive.
+
+```{=html}
+<div class="form-alt">
+  Prefer email? Send the same information to
+  <a href="mailto:info@emissivity.org?subject=Publication%20suggestion">info@emissivity.org</a>
+  — every submission, by form or by mail, is reviewed by the editorial board
+  before publication.
+</div>
+
+<form class="c-form" name="suggest-publication" method="POST" action="/contribute/thanks.html"
+      data-netlify="true" netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="suggest-publication" />
+  <p style="display:none"><label>Leave empty: <input name="bot-field" /></label></p>
+  <label class="req" for="f-doi">DOI</label>
+  <input id="f-doi" name="doi" type="text" required />
+  <div class="hint">e.g. 10.1038/s41597-026-07083-9 — the key field; we pull metadata from it</div>
+  <label for="f-title">Title</label>
+  <input id="f-title" name="title" type="text" />
+  <div class="hint">Optional — derived from the DOI if omitted</div>
+  <label for="f-authors">Authors</label>
+  <input id="f-authors" name="authors" type="text" />
+  <label for="f-journal_year">Journal and year</label>
+  <input id="f-journal_year" name="journal_year" type="text" />
+  <label class="req" for="f-relevance">Why it belongs in the bibliography</label>
+  <textarea id="f-relevance" name="relevance" required></textarea>
+  <div class="hint">One or two sentences on its relevance to emissivity / radiative properties</div>
+  <label for="f-related_institution">Related institution on the research map</label>
+  <input id="f-related_institution" name="related_institution" type="text" />
+  <div class="hint">e.g. PTB, CEMHTI — if applicable</div>
+
+  <label class="req" for="s-name">Your name</label>
+  <input id="s-name" name="submitter_name" required />
+  <label class="req" for="s-email">Your email</label>
+  <input id="s-email" name="submitter_email" type="email" required />
+  <label for="s-aff">Affiliation</label>
+  <input id="s-aff" name="submitter_affiliation" />
+  <button type="submit">Submit for review</button>
+</form>
+```
+
+:::

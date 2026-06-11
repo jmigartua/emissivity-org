@@ -1,0 +1,104 @@
+---
+title: "Directional spectral emissivity of laser-patterned steel surfaces"
+description: >
+  This paper reports directional spectral emissivity measurements of steel surfaces
+  patterned by Direct Laser Interference Patterning (DLIP) at high temperature and
+  presents numerical modeling based on Rigorous Coupled-Wave Analysis to interpret
+  the observed emissive behavior.
+author: "Emissivity.org Editorial Team"
+date: 2026-01-03
+categories:
+  - Emissometry
+  - Structured surfaces
+page-layout: full
+toc: false
+post_type: "paper-brief"
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Paper brief</div>
+  <h1>Directional spectral emissivity of laser-patterned steel surfaces</h1>
+  <p class="pub__journal" style="margin-bottom:2rem;">High-temperature measurements and numerical modeling</p>
+
+  <h3>Overview of the study</h3>
+
+  <p>This contribution presents an experimental and numerical study of the directional spectral emissivity of steel surfaces patterned using Direct Laser Interference Patterning (DLIP). The work focuses on quantifying how periodic surface structures produced by laser processing influence infrared emission when measured as a function of wavelength and emission angle.</p>
+
+  <p>The study reports emissivity measurements carried out at high temperature under controlled atmospheric conditions. In parallel, numerical modeling based on Rigorous Coupled-Wave Analysis (RCWA) is employed to reproduce and interpret the experimentally observed emissivity behavior. The combination of directional measurements and electromagnetic modeling provides a coherent description of the radiative properties of the patterned surfaces.</p>
+
+  <h3>Surface patterning and sample preparation</h3>
+
+  <p>The steel samples investigated in this work were structured using DLIP, a laser-based technique that produces periodic surface patterns through the interference of coherent laser beams. By controlling the interference pattern, DLIP enables the fabrication of surface structures with well-defined periodicity and geometry.</p>
+
+  <p>The authors describe the DLIP process parameters used to pattern the steel surfaces, including laser wavelength, fluence, and interference configuration. The resulting surface topographies exhibit periodic features whose characteristic dimensions are comparable to infrared wavelengths, making them relevant for modifying thermal emission.</p>
+
+  <p>Surface characterization was performed to document the geometry of the patterned structures. The measured geometrical parameters were subsequently used as inputs for numerical modeling.</p>
+
+  <h3>Experimental emissivity measurements</h3>
+
+  <p>Directional spectral emissivity measurements were performed using an infrared emissometer capable of operating at elevated temperatures. The measurements were conducted under controlled atmospheric conditions to ensure stable thermal and radiative behavior of the samples.</p>
+
+  <p>Emissivity was measured as a function of wavelength over the infrared spectral range relevant to the operating temperatures. Directional dependence was captured by varying the emission angle relative to the surface normal. This approach allowed the authors to resolve anisotropic emission effects introduced by the periodic surface patterns.</p>
+
+  <p>Measurements were carried out at high temperature, reflecting conditions under which radiative heat transfer becomes significant. The experimental procedure is described in sufficient detail to allow replication using comparable emissometric setups.</p>
+
+  <h3>Experimental results</h3>
+
+  <p>The measured emissivity data show that DLIP-patterned steel surfaces exhibit emissive behavior that differs from that of unpatterned steel. Changes in emissivity are observed across the measured spectral range, with variations depending on emission angle.</p>
+
+  <p>The directional emissivity results indicate that the patterned surfaces introduce angular features in the emission, which are not present in the unstructured material. These features are associated with the periodic nature of the DLIP-induced surface geometry.</p>
+
+  <p>The authors present emissivity spectra at different emission angles, highlighting the dependence of emissivity on both wavelength and direction. The reported results demonstrate that surface structuring modifies the radiative response of steel in a manner that is detectable through directional emissometry.</p>
+
+  <h3>Numerical modeling using RCWA</h3>
+
+  <p>To interpret the experimental observations, the authors employ Rigorous Coupled-Wave Analysis. RCWA is an electromagnetic modeling technique well suited to periodic structures, making it appropriate for analyzing DLIP-patterned surfaces.</p>
+
+  <p>The numerical model incorporates the measured geometric parameters of the surface patterns and the optical properties of steel. Simulations are performed to calculate spectral directional emissivity under conditions corresponding to the experimental measurements.</p>
+
+  <p>The RCWA calculations produce emissivity spectra that can be directly compared with the experimental data. The modeling approach enables the authors to associate specific emissivity features with aspects of the surface geometry.</p>
+
+  <h3>Comparison between experiment and simulation</h3>
+
+  <p>The simulated emissivity results show good agreement with the experimental measurements. The RCWA model reproduces the main trends observed in the measured emissivity spectra, including angular dependence and spectral variations associated with the patterned surfaces.</p>
+
+  <p>The agreement between experiment and simulation supports the interpretation that the observed emissivity modifications arise from the periodic surface structures introduced by DLIP. Differences between measured and simulated values are discussed in the context of experimental uncertainty and modeling assumptions.</p>
+
+  <p>The comparison demonstrates that RCWA can be used to describe the emissive behavior of DLIP-patterned steel surfaces within the investigated parameter space.</p>
+
+  <h3>Data presentation and uncertainty considerations</h3>
+
+  <p>The emissivity data are presented graphically, with clear indication of emission angles and spectral ranges. The authors discuss sources of uncertainty in the measurements, including temperature control and radiometric calibration.</p>
+
+  <p>While the paper does not present an exhaustive uncertainty budget, the reported data include sufficient information to assess the reliability and reproducibility of the measurements.</p>
+
+  <h3>Scope and limitations</h3>
+
+  <p>The study is limited to steel surfaces patterned using specific DLIP parameters. The reported results correspond to the investigated surface geometries and measurement conditions. The authors do not generalize the findings to other materials or patterning configurations beyond those studied.</p>
+
+  <p>The numerical modeling is based on idealized representations of the surface geometry and does not account for all possible surface imperfections or variations introduced during laser processing.</p>
+
+  <h3>Possible applications (as implied by the paper)</h3>
+
+  <p>The reported emissivity measurements and numerical analysis provide information relevant for applications involving laser-structured steel surfaces operating at high temperature, where radiative heat transfer plays a role. The combination of directional emissivity data and electromagnetic modeling enables quantitative analysis of thermal radiation from patterned steel under conditions similar to those investigated in the study.</p>
+
+  <blockquote>
+    <strong>Figure callout</strong> &mdash; Directional spectral emissivity of DLIP-patterned steel surfaces and comparison with RCWA simulations.
+  </blockquote>
+
+  <h3>Reference</h3>
+
+  <pre><code>@inproceedings{GabirondoLopez2024EPJDLIP,
+  author    = {Gabirondo-L&oacute;pez, J. and Gonz&aacute;lez de Arrieta, I. and Soldera, M. and Lasagni, A. F. and others},
+  title     = {Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces},
+  booktitle = {EPJ Web of Conferences},
+  volume    = {309},
+  pages     = {13003},
+  year      = {2024},
+  doi       = {10.1051/epjconf/202430913003}
+}</code></pre>
+
+  <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>
+</div>
+```

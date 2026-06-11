@@ -1,0 +1,57 @@
+---
+title: "UChicago Hsu Group"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / UChicago Hsu Group</div>
+```
+
+::: {.page-article}
+# University of Chicago — Hsu Group
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Chicago, IL |
+| **Tier** | Engineered |
+| **Primary ecosystem** | Engineered Emissivity |
+| **Unit** | [Hsu Group, Pritzker School of Molecular Engineering](https://pochunhsu.group/) |
+| **Publicly linked people** | Po-Chun Hsu |
+
+
+## Why it matters internationally
+
+The Hsu group carries engineered emissivity to wearables and dynamic
+materials: fabrics and films whose spectral emissivity is designed, and
+can switch, to manage heat for people and buildings — the
+human-scale face of radiative-property engineering.
+
+## Scope of activity
+
+- **Quantities:** spectrally engineered emissivity of textiles and films
+- **Spectral range:** solar + mid-infrared bands
+- **Methodology:** Radiative cooling and heating textiles with engineered emissivity, including spectrally engineered fabric for urban heat (Science 2024); dynamic and dual-mode emissivity materials.
+
+**Application domains:** personal thermal management textiles · dynamic emissivity materials.
+
+## External sources
+
+- [Hsu Group](https://pochunhsu.group/)
+- [Po-Chun Hsu (UChicago PME)](https://pme.uchicago.edu/faculty/po-chun-hsu)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

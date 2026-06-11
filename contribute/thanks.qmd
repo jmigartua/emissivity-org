@@ -1,0 +1,20 @@
+---
+title: "Submission received"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/contribute/index.html">Contribute</a> / Thank you</div>
+```
+
+::: {.page-article}
+# Thank you — submission received
+
+Your submission has reached the editorial board. Everything published on
+emissivity.org is reviewed and verified against public sources first, so
+expect a short delay — and possibly a follow-up email if we need a source
+clarified.
+
+[Back to the homepage](/index.html) · [Contribute something else](/contribute/index.html)
+:::

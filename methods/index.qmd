@@ -1,0 +1,56 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════ METHODS LANDING ═══════════════ -->
+<section id="methods">
+  <div class="section__head">
+    <div>
+      <div class="section__label">Methods</div>
+      <div class="section__title">Standards, guides, and practical <em>measurement intelligence</em>.</div>
+    </div>
+  </div>
+
+  <div class="methods-grid">
+    <article class="method-card">
+      <div class="method-card__label">Standards &amp; Protocols</div>
+      <h4>Standards and protocol layer</h4>
+      <p>ISO and ASTM standards for emissivity and thermal radiation measurement, community protocols for blackbody traceability, sample preparation, and uncertainty budgeting.</p>
+      <div class="tag-list">
+        <span>ISO 20473</span><span>ASTM E408</span><span>ASTM E903</span><span>ASTM C835</span><span>Protocols</span>
+      </div>
+      <div class="method-card__foot"><a href="/methods/standards.html">Open standards &amp; protocols →</a></div>
+    </article>
+
+    <article class="method-card">
+      <div class="method-card__label">Good-Practice Guides</div>
+      <h4>Directional → hemispherical conversion and more</h4>
+      <p>Concrete, problem-centred guides bridging measurement geometry and engineering quantities. Community-authored and peer-reviewed through the network.</p>
+      <div class="tag-list">
+        <span>Geometry</span><span>Conversion</span><span>Zenodo</span><span>Guide</span>
+      </div>
+      <div class="method-card__foot"><span>Guides available soon →</span></div>
+    </article>
+
+    <article class="method-card">
+      <div class="method-card__label">Measurement Principles</div>
+      <h4>Start here for newcomers</h4>
+      <p>What emissivity is, which quantity matters, and how laboratory practice differs by temperature, angle, and material class. Written for advanced undergraduates and new researchers.</p>
+      <div class="tag-list">
+        <span>Intro path</span><span>Education</span><span>Interpretation</span><span>Newcomers</span>
+      </div>
+      <div class="method-card__foot"><a href="/methods/principles.html">Open measurement principles →</a></div>
+    </article>
+  </div>
+
+  <!-- Resources link -->
+  <div style="margin-top: 48px; padding: 32px; background: var(--c-surface); border: 1px solid var(--c-line); border-radius: 4px; text-align: center;">
+    <h3 style="font-family: var(--f-display); font-size: 22px; font-weight: 400; margin-bottom: 12px; border: none; padding: 0;">Looking for textbooks, software, training courses, or reference links?</h3>
+    <p style="font-size: 14px; color: var(--c-text-dim); margin-bottom: 16px;">Our resources page collects databases, key textbooks, recurring courses (including IR-EMPOWER), software tools, and essential links for the thermal radiation community.</p>
+    <a href="/methods/resources.html" class="btn btn--ghost">Resources &amp; Tools &rarr;</a>
+  </div>
+</section>
+
+```

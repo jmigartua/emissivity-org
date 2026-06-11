@@ -1,0 +1,94 @@
+---
+title: "LTeN-CNRS / Nantes Université — Laboratoire de Thermique et Énergie de Nantes"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / LTeN-CNRS</div>
+```
+
+::: {.page-article}
+# LTeN-CNRS / Nantes Université — Laboratoire de Thermique et Énergie de Nantes
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | France |
+| **City** | Nantes |
+| **Tier** | Extended (Tier II) |
+| **Primary ecosystem** | High-temperature radiative properties — architectured ceramics |
+| **Relevant activity** | LTeN — high-temperature radiative properties of architectured ceramics |
+| **Publicly linked people** | Léo Gaillard |
+| **Thematic focus** | Emissivity as a **designable** property of structured materials |
+
+## Why it matters internationally
+
+LTeN is a smaller but clearly active French node whose importance lies in
+**thematic modernity**. Architectured ceramics and related structured
+materials are exactly the types of systems for which emissivity can no
+longer be treated as a fixed, scalar background parameter. Instead it
+becomes a **designable property**, linked to porosity, geometry, scale
+hierarchy, and spectral response. Laboratories like LTeN carry emissivity
+work into the domain of materials architecture and functional
+microstructure, where the problem becomes not only measurement but
+**interpretation and design**.
+
+## Scope of activity
+
+### Relevant activity
+
+- **LTeN — high-temperature radiative properties of architectured
+  ceramics.** The group works on emissivity characterization of structured
+  ceramics at high temperature and on modeling of emissivity for CeO₂
+  ceramics (traceable in CNRS/HAL records).
+
+### Radiative properties measured
+
+High-temperature emissivity of architectured ceramics — with explicit
+attention to the geometric and microstructural factors that control it.
+
+### Capability envelope
+
+- **Temperature:** high temperature.
+- **Methodology:** high-temperature emissivity characterization of
+  architectured ceramics; modeling of emissivity of CeO₂ ceramics;
+  integration of measurement with structural/architectural descriptors of
+  the material.
+
+### Application domains
+
+- Architectured ceramics
+- Functional microstructure and structured materials where emissivity is
+  linked to porosity, geometry, and spectral response
+- Materials where emissivity engineering is part of the design problem
+
+## IR-EMPOWER contributions
+
+- **Léo Gaillard** — high-temperature emissivity characterization of
+  architectured ceramics.
+
+## Why LTeN-CNRS is a reference pole
+
+Once a material is designed rather than merely sampled, the emissivity
+measurement has to cope with the full heterogeneity of its architecture —
+porosity gradients, surface texture, unit-cell geometry. LTeN is one of
+the laboratories bringing this viewpoint into high-temperature
+measurement, which makes it a natural bridge between the classical
+emissivity community and the rapidly growing engineered-emissivity
+community represented in Tier III.
+
+## External sources
+
+- [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

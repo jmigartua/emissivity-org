@@ -1,0 +1,32 @@
+---
+title: "QIRT 2026 (18th Quantitative InfraRed Thermography Conference)"
+subtitle: "QIRT | Naples, Italy"
+date: 2026-06-29
+description: "International conference on quantitative infrared thermography, including calibration, uncertainty, and emissivity-related measurement topics."
+url: "https://qirt2026.unina.it/"
+categories:
+  - qirt
+  - infrared-thermography
+  - measurement-methods
+  - calibration
+  - emissivity
+  - IR thermography
+  - uncertainty
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-06-29 to 2026-07-03
+
+**Location:** Naples, Italy
+
+[Conference Website](https://qirt2026.unina.it/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+QIRT 2026 (18th International Conference on Quantitative InfraRed Thermography) is scheduled for 29 June to 3 July 2026 in Naples (Italy). The conference scope covers quantitative infrared thermography methods, including calibration, measurement approaches, uncertainty, and quantitative interpretation of infrared data.
+
+

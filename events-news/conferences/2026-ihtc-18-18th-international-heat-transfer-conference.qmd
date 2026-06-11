@@ -1,0 +1,30 @@
+---
+title: "IHTC-18 — 18th International Heat Transfer Conference"
+subtitle: "IHTC | Rio de Janeiro, Brazil"
+date: 2026-08-02
+description: "Flagship international heat transfer conference with radiative heat transfer sessions."
+url: "https://ihtc18.org/"
+categories:
+  - Heat transfer
+  - measurement
+  - radiative
+  - heat-transfer
+  - thermal-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-08-02 to 2026-08-07
+
+**Location:** Rio de Janeiro, Brazil
+
+[Conference Website](https://ihtc18.org/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+IHTC-18 is the quadrennial flagship conference of the international heat transfer community. Covers all heat transfer modes including radiative heat transfer, with sessions on fundamental radiative transfer, coupled conduction-radiation, participating media, and surface property measurement.
+
+

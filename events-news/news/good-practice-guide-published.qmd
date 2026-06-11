@@ -1,0 +1,33 @@
+---
+title: "Good Practice Guide on Emissivity Conversion Published"
+date: "2026-03-15"
+categories: [Publication, Standards, Guide]
+description: "A new good practice guide on converting near-normal directional emissivity into hemispherical emissivity has been published on Zenodo."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+<p class="section-label">News</p>
+
+<h1>Good Practice Guide on Emissivity Conversion Published</h1>
+
+<p>A <strong>Good Practice Guide</strong> on the conversion of near-normal directional emissivity into hemispherical emissivity has been published by Manara, Monte, and collaborators from PTB.</p>
+
+<p>This guide addresses one of the most common practical challenges in emissivity measurement: how to reliably convert between directional and hemispherical quantities. The document provides:</p>
+
+<ul>
+<li>Theoretical background on the relationship between directional and hemispherical emissivity</li>
+<li>Practical conversion procedures with worked examples</li>
+<li>Uncertainty analysis guidance</li>
+<li>Recommended best practices for reporting</li>
+</ul>
+
+<p>The guide is freely available on Zenodo and represents an important step toward standardized practices in our field.</p>
+
+<p><a href="/data/index.html">View the publication</a></p>
+
+<p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>
+</div>
+```

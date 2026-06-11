@@ -1,0 +1,20 @@
+---
+title: "People & laboratories"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / People &amp; labs</div>
+```
+
+::: {.page-article}
+# People & laboratories
+
+This section has been superseded by the **[research map](/network/index.html)** —
+the curated directory of 40 institutions where emissivity and thermal
+radiative properties are actively researched, with verified profiles,
+capability envelopes, and traceable sources.
+
+Browse by [tier, country, or ecosystem](/network/index.html), read the [methodology](/network/methodology.html), or [suggest your laboratory](/contribute/join-network.html).
+:::

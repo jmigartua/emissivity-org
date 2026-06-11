@@ -1,0 +1,85 @@
+---
+title: "DLR — Planetary Spectroscopy Laboratory"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / DLR PSL</div>
+```
+
+::: {.page-article}
+# DLR — Planetary Spectroscopy Laboratory
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Berlin (Adlershof) |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Planetary remote sensing |
+| **Relevant unit** | Planetary Spectroscopy Laboratory (PSL), DLR Institute of Planetary Research |
+| **Publicly linked people** | Jörn Helbert (group lead) |
+| **Database hosted** | Berlin Emissivity Database (BED) |
+
+## Why it matters internationally
+
+PSL — formerly the Planetary Emissivity Laboratory — is one of the very few
+laboratories worldwide where emissivity is the laboratory's central object
+rather than a supporting variable. Its three vacuum FTIR spectrometers measure
+**emissivity, reflectance, and transmittance from 0.3 µm to beyond 100 µm**,
+including the globally rare capability of measuring the emissivity of
+**heated planetary-analog samples under vacuum**, reproducing Mercury and
+Venus surface conditions at several hundred kelvin.
+
+## Scope of activity
+
+### Radiative properties measured
+
+Spectral emissivity · reflectance · transmittance — visible to far infrared.
+
+### Capability envelope
+
+- **Spectral range:** 0.3 µm to >100 µm (three vacuum FTIR spectrometers).
+- **Temperature:** −200 °C to +1000 °C sample temperatures, including
+  hot-emissivity measurements under vacuum; Europlanet transnational access
+  facility.
+- **Specialty:** planetary-analog materials — minerals, rocks, regolith
+  simulants — measured under conditions matching planetary surfaces.
+
+### Data infrastructure
+
+PSL maintains the **Berlin Emissivity Database (BED)**, emissivity spectra of
+planetary-analog materials used for the interpretation and calibration of
+planetary infrared instruments.
+
+### Application domains
+
+Planetary surface remote sensing — including **MERTIS on BepiColombo**
+(Mercury) and support for **VERITAS** (Venus) — plus laboratory
+characterization of analog materials for current and future missions.
+
+## Why PSL is a reference pole
+
+For the emissivity community PSL demonstrates the planetary face of the same
+measurement problem the metrology institutes treat terrestrially: emission
+spectra only become interpretable when laboratory emissivity is measured under
+the right environmental conditions. Its hot-sample vacuum emissivity
+capability has no close equivalent in the directory.
+
+## External sources
+
+- [DLR — Planetary Spectroscopy Laboratory](https://www.dlr.de/en/wr/research-transfer/research-infrastructure/planetary-spectroscopy-laboratory)
+- [Berlin Emissivity Database (DLR)](https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-178/327_read-37531/)
+- [Facility to simulate Venus surface conditions (phys.org coverage)](https://phys.org/news/2018-08-facility-simulate-conditions-venus.html)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against DLR institutional pages).
+:::
+
+:::

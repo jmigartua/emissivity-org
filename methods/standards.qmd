@@ -1,0 +1,119 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════ STANDARDS & PROTOCOLS ═══════════════ -->
+<div class="inner-page">
+
+  <h1>Standards and protocols for emissivity measurement</h1>
+  <p class="inner-page__subtitle">ISO, ASTM, and community protocols governing spectral emissivity and thermal radiation measurement.</p>
+
+  <!-- Key standards -->
+  <section>
+    <h2>Key standards</h2>
+
+    <div class="standard-entry">
+      <h3>ISO 20473 — Optics and photonics: spectral bands</h3>
+      <p>Defines the nomenclature and wavelength boundaries for infrared spectral bands (near-IR, mid-IR, far-IR). Essential for unambiguous reporting of which spectral region an emissivity measurement covers. The standard establishes the vocabulary used across all emissivity literature when referring to wavelength ranges.</p>
+      <div class="tag-list"><span>ISO</span><span>Nomenclature</span><span>Spectral bands</span></div>
+    </div>
+
+    <div class="standard-entry">
+      <h3>ASTM E408 — Total normal emittance of surfaces</h3>
+      <p>Standard test methods for total normal emittance of surfaces using inspection-meter techniques. Covers both the comparison method (using calibrated reference surfaces) and the absolute method (using a heated cavity). Applicable to opaque surfaces at near-ambient temperatures. Widely used in industrial quality control for coatings and surface treatments.</p>
+      <div class="tag-list"><span>ASTM</span><span>Total normal</span><span>Inspection meter</span></div>
+    </div>
+
+    <div class="standard-entry">
+      <h3>ASTM E903 — Solar absorptance, reflectance, and transmittance</h3>
+      <p>Standard test method for solar absorptance, reflectance, and transmittance of materials using integrating spheres. Although focused on the solar spectrum (0.3–2.5 µm), it is frequently paired with thermal-IR emissivity measurements to characterise selective surfaces for solar-thermal applications. Defines the measurement geometry and reference standards required.</p>
+      <div class="tag-list"><span>ASTM</span><span>Solar spectrum</span><span>Integrating sphere</span></div>
+    </div>
+
+    <div class="standard-entry">
+      <h3>ASTM C835 — Total hemispherical emittance of surfaces up to 1400 °C</h3>
+      <p>Standard test method for total hemispherical emittance of surfaces from 20 °C to 1400 °C. Uses a calorimetric technique in which the sample is heated in a vacuum enclosure with cooled walls. The method yields the total hemispherical emittance, which is the quantity needed for radiative heat-transfer calculations. Particularly important for high-temperature materials such as ceramics, refractories, and thermal protection coatings.</p>
+      <div class="tag-list"><span>ASTM</span><span>Total hemispherical</span><span>High temperature</span><span>Calorimetric</span></div>
+    </div>
+  </section>
+
+  <!-- Good-practice guides -->
+  <section>
+    <h2>Good-practice guides</h2>
+
+    <div class="standard-entry">
+      <h3>Rousseau, Rozenbaum &amp; Soum-Glaude — A good-practice guide for emissivity measurement</h3>
+      <p>Community-authored guide published on Zenodo covering the practical aspects of spectral emissivity measurement: sample preparation, blackbody reference usage, atmospheric correction, and uncertainty estimation. Written by experienced practitioners from PROMES and CEMHTI, the guide bridges the gap between formal standards and day-to-day laboratory practice. It addresses common pitfalls such as surface contamination, temperature gradients across samples, and the correct handling of background radiation contributions.</p>
+      <div class="tag-list"><span>Zenodo</span><span>Guide</span><span>PROMES</span><span>CEMHTI</span><span>Practical</span></div>
+      <div style="margin-top: 12px;"><a href="https://doi.org/10.5281/zenodo.17684770" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">DOI: 10.5281/zenodo.17684770 &rarr;</a></div>
+    </div>
+
+    <div class="standard-entry">
+      <h3>Manara &amp; Monte (2025) &mdash; Good practice guide on conversion of near-normal directional emissivity into hemispherical emissivity</h3>
+      <p>Practical guidance on converting directional measurements at near-normal incidence into hemispherical values, including the angular integration methods and their limitations. Co-authored by CAE and PTB researchers.</p>
+      <div class="tag-list"><span>Zenodo</span><span>Conversion</span><span>CAE</span><span>PTB</span></div>
+    </div>
+  </section>
+
+  <!-- Additional ISO standards -->
+  <section>
+    <h2>Additional ISO standards</h2>
+    <div class="standard-entry">
+      <h3>ISO 19618:2017 &mdash; Normal spectral emissivity of fine ceramics</h3>
+      <p>Measurement method of semiconductors &mdash; normal spectral emissivity measurement of fine ceramics at elevated temperatures. Specifically designed for ceramic materials which present unique challenges due to semi-transparency in certain wavelength ranges.</p>
+      <div class="tag-list"><span>ISO</span><span>Ceramics</span><span>Normal spectral</span></div>
+    </div>
+    <div class="standard-entry">
+      <h3>ASTM E1933 &mdash; Emissivity compensation in thermal imaging</h3>
+      <p>Standard practice for measuring and compensating for emissivity using infrared imaging radiometers. Essential for anyone using thermal cameras who needs to correct for the emissivity of the target surface.</p>
+      <div class="tag-list"><span>ASTM</span><span>Thermal imaging</span><span>Compensation</span></div>
+    </div>
+    <div class="standard-entry">
+      <h3>ASTM C1371 &mdash; Portable emissometer measurements near room temperature</h3>
+      <p>Standard test method for determination of emittance of materials near room temperature using portable emissometers. The go-to standard for field measurements and rapid quality control of building and industrial materials.</p>
+      <div class="tag-list"><span>ASTM</span><span>Portable</span><span>Room temperature</span></div>
+    </div>
+  </section>
+
+  <!-- Network protocols -->
+  <section>
+    <h2>Network protocols</h2>
+    <p>The emissivity research network maintains a set of shared protocols that go beyond published standards. These protocols encode the collective practical knowledge of the contributing laboratories.</p>
+
+    <div class="standard-entry">
+      <h3>Blackbody traceability</h3>
+      <p>All spectral emissivity measurements contributed to EKHI must be traceable to a characterised blackbody reference. The protocol specifies minimum requirements for blackbody cavity geometry (effective emissivity &ge; 0.999), temperature uniformity (&le; 0.5 K across the aperture), and calibration interval. Laboratories using commercial blackbody sources must provide the manufacturer calibration certificate and any in-house verification data.</p>
+    </div>
+
+    <div class="standard-entry">
+      <h3>Sample preparation</h3>
+      <p>Surface condition dominates emissivity at short wavelengths and moderate temperatures. The network protocol requires documentation of surface preparation method (polishing grade, cleaning solvent, annealing history), surface roughness (Ra or Sa), and any coatings or oxide layers. For comparative studies, reference samples of known roughness are circulated between laboratories.</p>
+    </div>
+
+    <div class="standard-entry">
+      <h3>Uncertainty budgeting</h3>
+      <p>Every dataset submitted to EKHI must include a GUM-compliant uncertainty budget. The protocol identifies the dominant uncertainty components for spectral emissivity measurements: blackbody temperature, detector non-linearity, atmospheric absorption correction, sample temperature measurement, and angular alignment. Template spreadsheets are provided for common measurement configurations.</p>
+    </div>
+  </section>
+
+  <!-- EKHI data format -->
+  <section>
+    <h2>EKHI data format specification</h2>
+    <p>EKHI uses a structured data format designed for spectral radiative-property data with full provenance. Each record contains:</p>
+
+    <ul>
+      <li><strong>Metadata header</strong> — material identification, sample preparation details, laboratory, operator, and measurement date.</li>
+      <li><strong>Measurement conditions</strong> — temperature (K), emission angle (degrees), atmosphere (air, vacuum, or specified gas), and spectral range (µm).</li>
+      <li><strong>Spectral data columns</strong> — wavelength (µm), emissivity (dimensionless), and expanded uncertainty (k = 2).</li>
+      <li><strong>Provenance block</strong> — DOI or publication reference, dataset version, contributor ORCID, and licence (CC BY 4.0 by default).</li>
+      <li><strong>Auxiliary fields</strong> — surface roughness, coating thickness, substrate material, and any post-processing applied to raw data.</li>
+    </ul>
+
+    <p>The format is available as both CSV (for simplicity) and JSON (for programmatic access). Validation scripts check each submission against the schema before ingestion into the database.</p>
+  </section>
+
+</div>
+
+```

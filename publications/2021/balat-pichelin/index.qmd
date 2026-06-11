@@ -1,0 +1,45 @@
+---
+title: "Emissivity at high temperature of Ni-based superalloys for the design of solar receivers"
+description: >
+  This publication focuses on ni-based superalloys, concentrated solar power, high-temperature emissivity. Solar towers need Nickel alloy emission Receivers designed.
+date: 2021-08-15
+author:
+  - name: "Marianne Balat-Pichelin"
+  - name: "Jean-Louis Sans"
+  - name: "Lisa Charpentier"
+categories:
+  - Ni-based superalloys
+  - Concentrated solar power
+  - High-temperature emissivity
+pub-info:
+  reference: >-
+    Balat-Pichelin et al., Sol. Energy Mater. Sol. Cells 227, 111066 (2021).
+  links:
+    - name: "ScienceDirect"
+      url: https://doi.org/10.1016/j.solmat.2021.111066
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Solar towers need
+  - Nickel alloy emission
+  - Receivers designed
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Emissivity at high temperature of Ni-based superalloys for the design of solar receivers">
+      <meta name="citation_author" content="Marianne Balat-Pichelin">
+      <meta name="citation_author" content="Jean-Louis Sans">
+      <meta name="citation_author" content="Lisa Charpentier">
+      <meta name="citation_date" content="2021-08-15">
+      <meta name="citation_doi" content="10.1016/j.solmat.2021.111066">
+---
+
+## Abstract
+
+This publication focuses on ni-based superalloys, concentrated solar power, high-temperature emissivity. Solar towers need Nickel alloy emission Receivers designed.
+
+## Citation
+
+> Balat-Pichelin et al., Sol. Energy Mater. Sol. Cells 227, 111066 (2021).
+
+::: {.callout-note}
+Click the **ScienceDirect** button above to access the full text or official record.
+:::

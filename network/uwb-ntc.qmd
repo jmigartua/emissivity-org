@@ -1,0 +1,94 @@
+---
+title: "University of West Bohemia / New Technologies — Research Centre (NTC)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / University of West Bohemia / NTC</div>
+```
+
+::: {.page-article}
+# University of West Bohemia / New Technologies — Research Centre (NTC)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Czech Republic |
+| **City** | Pilsen |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Metrology — semitransparent / layered systems |
+| **Relevant unit** | **Photo-thermal properties laboratory (NTC)** |
+| **Publicly linked people** | Zdeněk Veselý |
+| **Distinctive focus** | **Semitransparent coatings** — beyond opaque-body assumptions |
+
+## Why it matters internationally
+
+NTC extends emissivity metrology **beyond ideal opaque bulk samples** toward
+technologically realistic layered and partially transmitting systems. Such
+systems undermine the simple opaque-body assumptions that underwrite much
+textbook emissivity thinking. A direct radiometric method for spectral
+emissivity of **semitransparent coatings** has been developed at NTC, and
+the institutional page explicitly lists transmittance, reflectance,
+emissivity, absorptivity, and thermal conductivity among the measured
+properties.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Photo-thermal properties laboratory (NTC)** — dedicated laboratory
+  equipment for photo-thermal properties, including research on radiative
+  heat transfer and direct radiometric methods tailored to semitransparent
+  samples.
+
+### Radiative properties measured
+
+Transmittance · reflectance · emissivity · absorptivity · (coupled with)
+thermal conductivity.
+
+### Capability envelope
+
+- **Temperature:** both low- and high-temperature work documented.
+- **Methodology:** direct radiometric method for spectral emissivity of
+  semitransparent coatings; laboratory equipment for photo-thermal
+  properties; research on radiative heat transfer in realistic layered
+  systems.
+
+### Application domains
+
+- Coatings — semitransparent and layered systems
+- Radiative heat transfer in technologically realistic systems
+- Windows, glazings, and thin-film systems that violate the opaque
+  assumption
+
+## IR-EMPOWER contributions
+
+- **Zdeněk Veselý** — photo-thermal properties measurement of coatings at
+  low and high temperatures.
+
+## Why UWB / NTC is a reference pole
+
+Most classical emissivity methodology silently assumes the sample is opaque.
+Once coatings, thin films, or transparent substrates enter the picture, that
+assumption fails, and apparent emissivity becomes a complicated function of
+the underlying stack. NTC is one of the laboratories that confronts this
+regime head-on and has developed a documented direct radiometric method for
+semitransparent coatings — placing it in a strategically important niche
+between measurement science and real-world thermal-coating engineering.
+
+## External sources
+
+- [Measurement of photo-thermal properties of materials (NTC)](https://irt.zcu.cz/en/research/photo-thermal-properties/)
+- [Method for emissivity measurement of semitransparent (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5431223/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

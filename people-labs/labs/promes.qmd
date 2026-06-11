@@ -1,0 +1,16 @@
+---
+title: "PROMES — CNRS"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / People &amp; labs</div>
+```
+
+::: {.page-article}
+# PROMES — CNRS
+
+This page has moved: the maintained profile is at
+**[PROMES — CNRS on the research map](/network/promes-cnrs.html)**.
+:::

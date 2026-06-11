@@ -1,0 +1,20 @@
+---
+title: "Laboratory directory"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / People &amp; labs</div>
+```
+
+::: {.page-article}
+# Laboratory directory
+
+This section has been superseded by the **[research map](/network/index.html)** —
+the curated directory of 40 institutions where emissivity and thermal
+radiative properties are actively researched, with verified profiles,
+capability envelopes, and traceable sources.
+
+The full directory now lives at the [research map](/network/index.html).
+:::

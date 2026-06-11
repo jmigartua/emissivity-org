@@ -1,0 +1,94 @@
+---
+title: "Arizona State University — Thermal Emission Spectroscopy Laboratory (Christensen Research Group)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / ASU TES Lab</div>
+```
+
+::: {.page-article}
+# Arizona State University — Thermal Emission Spectroscopy Laboratory (Christensen Research Group)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Tempe, AZ |
+| **Tier** | Extended (Tier II) |
+| **Primary ecosystem** | Spectral libraries — thermal IR emission of geologic materials |
+| **Relevant unit** | **Christensen Research Group — Thermal Emission Spectroscopy Laboratory** |
+| **Signature library** | Thermal IR spectra, typically **~2000 – 220 cm⁻¹** |
+
+## Why it matters internationally
+
+ASU is one of the most important academic institutions for **thermal
+infrared emission spectroscopy of geological materials**. The ASU Thermal
+Emission Spectroscopy Laboratory library consists of thermal infrared
+emission spectra of geologic materials and underlies a substantial body of
+classic publications on rock-forming minerals. ASU helped establish
+thermal emission spectroscopy as a mature laboratory and interpretive
+framework: in the world of minerals, rocks, and planetary surfaces,
+emissivity is not merely a correction factor but **a source of
+compositional information**.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Christensen Research Group / Thermal Emission Spectroscopy Laboratory**
+  — runs the ASU TES spectral library and the instrumentation behind it,
+  alongside a long history of planetary thermal-infrared instruments.
+
+### Radiative properties measured / curated
+
+Thermal infrared emission spectra of geologic materials — minerals, rocks,
+and planetary analog samples.
+
+### Capability envelope
+
+- **Wavelength:** thermal IR spectral library, typically **~2000 – 220
+  cm⁻¹**.
+- **Methodology:** thermal infrared emission spectroscopy laboratory with
+  a large spectral library designed for **direct comparison** with
+  spacecraft, airborne, and laboratory measurements.
+
+### Signature infrastructure
+
+- **ASU Thermal Emission Spectroscopy Laboratory Spectral Library** —
+  thermal IR emission spectra of geologic materials built for comparison
+  with spacecraft, airborne, and laboratory measurements. This is one of
+  the central reference libraries used in planetary thermal IR
+  spectroscopy.
+
+### Application domains
+
+- Mineral emissivity
+- Thermal infrared spectroscopy
+- Planetary surface characterization — Mars missions, Moon, asteroids
+
+## Why ASU TES Lab is a reference pole
+
+What NIST and PTB are to metrological emissivity, ASU is to **mineralogical
+emissivity**. It produced the reference spectra that anchor the
+interpretation of thermal IR data from planetary missions, and it
+demonstrated that the emitted spectrum of a surface can be read as a
+compositional signature. Any serious work on mineral emissivity or
+thermal-IR planetary spectroscopy eventually traces back to the ASU TES
+library.
+
+## External sources
+
+- [Spectral Library — Christensen Research Group](https://christensen.asu.edu/software-and-tools/spectral-library/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

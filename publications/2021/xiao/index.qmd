@@ -1,0 +1,43 @@
+---
+title: "Planck spectroscopy"
+description: >
+  This publication focuses on planck radiation, thermal emission spectroscopy, measurement technique. Planck spectrum used Material properties found Spectroscopy works.
+date: 2021-09-01
+author:
+  - name: "Yujie Xiao"
+  - name: "Mikhail A. Kats"
+categories:
+  - Planck radiation
+  - Thermal emission spectroscopy
+  - Measurement technique
+pub-info:
+  reference: >-
+    Xiao et al., Laser Photonics Rev. 15(9), 2100121 (2021).
+  links:
+    - name: "Wiley"
+      url: https://doi.org/10.1002/lpor.202100121
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Planck spectrum used
+  - Material properties found
+  - Spectroscopy works
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Planck spectroscopy">
+      <meta name="citation_author" content="Yujie Xiao">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2021-09-01">
+      <meta name="citation_doi" content="10.1002/lpor.202100121">
+---
+
+## Abstract
+
+This publication focuses on planck radiation, thermal emission spectroscopy, measurement technique. Planck spectrum used Material properties found Spectroscopy works.
+
+## Citation
+
+> Xiao et al., Laser Photonics Rev. 15(9), 2100121 (2021).
+
+::: {.callout-note}
+Click the **Wiley** button above to access the full text or official record.
+:::

@@ -1,0 +1,61 @@
+---
+title: "Fraunhofer ISE"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Fraunhofer ISE</div>
+```
+
+::: {.page-article}
+# Fraunhofer Institute for Solar Energy Systems ISE
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Freiburg |
+| **Tier** | Extended |
+| **Primary ecosystem** | Applied Energy |
+| **Unit** | [Lab Characterization of Functional Surfaces](https://www.ise.fraunhofer.de/en/rd-infrastructure/center/center-for-functional-surfaces/lab-characterization-of-functional-surfaces.html) |
+| **Unit** | [TestLab Solar Façades (ISO/IEC 17025 accredited)](https://www.ise.fraunhofer.de/en/rd-infrastructure/accredited-labs/testlab-solar-facades.html) |
+
+
+
+## Why it matters internationally
+
+Europe's largest solar research institute operates an accredited
+measurement chain for the two radiative quantities that govern every
+passive surface: solar absorptance and thermal emissivity. Its
+integrating-sphere FTIR capability (to 17 µm) and ISO/IEC 17025
+accreditation make it a reference for applied, standards-conformant
+emissivity characterization of building and energy materials.
+
+## Scope of activity
+
+- **Quantities:** spectral hemispherical reflectance · spectral hemispherical transmittance · solar absorptance · thermal emissivity
+- **Spectral range:** 0.3–2.4 µm and 1.9–17 µm (FTIR + integrating spheres)
+- **Temperature:** room temperature (spectrophotometric)
+- **Methodology:** Spectral hemispherical reflectance and transmittance via spectrophotometer and FTIR with integrating spheres; computes solar absorptance, thermal emissivity, and the Solar Reflectance Index per ASTM E1980; ISO/IEC 17025-accredited façade and solar testing.
+
+**Application domains:** solar façades and building envelopes · functional and selective surfaces · cool surfaces (SRI per ASTM E1980).
+
+## External sources
+
+- [Lab Characterization of Functional Surfaces (Fraunhofer ISE)](https://www.ise.fraunhofer.de/en/rd-infrastructure/center/center-for-functional-surfaces/lab-characterization-of-functional-surfaces.html)
+- [TestLab Solar Façades (Fraunhofer ISE)](https://www.ise.fraunhofer.de/en/rd-infrastructure/accredited-labs/testlab-solar-facades.html)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

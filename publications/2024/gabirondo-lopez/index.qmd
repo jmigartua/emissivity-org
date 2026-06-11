@@ -1,0 +1,43 @@
+---
+title: "Precise spectral directional infrared emissivity of a Cantor high-entropy alloy"
+description: >
+  This publication focuses on high-entropy alloy, cantor alloy, spectral emissivity. High entropy mix Cantor alloy infrared Precise data set.
+date: 2024-07-01
+author:
+  - name: "Jon Gabirondo-López"
+    orcid: 0000-0003-4333-4636
+  - name: "Gabriel A. López"
+categories:
+  - High-entropy alloy
+  - Cantor alloy
+  - Spectral emissivity
+pub-info:
+  reference: >-
+    Gabirondo-López & López, AIP Advances (2024).
+  links:
+    - name: "AIP Advances"
+      url: https://pubs.aip.org/aip/adv/article/14/7/075305/3303425
+      icon: fa-solid fa-file-pdf
+haiku:
+  - High entropy mix
+  - Cantor alloy infrared
+  - Precise data set
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Precise spectral directional infrared emissivity of a Cantor high-entropy alloy">
+      <meta name="citation_author" content="Jon Gabirondo-López">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2024-07-01">
+---
+
+## Abstract
+
+This publication focuses on high-entropy alloy, cantor alloy, spectral emissivity. High entropy mix Cantor alloy infrared Precise data set.
+
+## Citation
+
+> Gabirondo-López & López, AIP Advances (2024).
+
+::: {.callout-note}
+Click the **AIP Advances** button above to access the full text or official record.
+:::

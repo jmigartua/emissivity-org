@@ -1,0 +1,61 @@
+---
+title: "CIEMAT-PSA"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / CIEMAT-PSA</div>
+```
+
+::: {.page-article}
+# CIEMAT — Plataforma Solar de Almería
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Spain |
+| **City** | Tabernas (Almería) |
+| **Tier** | Extended |
+| **Primary ecosystem** | Applied Energy |
+| **Unit** | [OPAC — Optical Characterization and Aging laboratory](https://www.psa.es/en/instalaciones/opac.php) |
+| **Publicly linked people** | Aránzazu Fernández-García |
+
+
+## Why it matters internationally
+
+The Plataforma Solar de Almería is Europe's flagship concentrating
+solar facility, and its OPAC laboratory anchors the radiative-property
+side of that mission: absorptance and emittance of receiver coatings and
+reflectors, plus aging. By leading the SFERA-III intercomparison of
+solar absorptance and thermal emittance measurements, PSA plays for the
+applied-solar community the harmonizing role that CCT comparisons play
+in metrology.
+
+## Scope of activity
+
+- **Quantities:** solar absorptance · thermal emittance · specular and hemispherical reflectance
+- **Spectral range:** 0.28–2.5 µm (solar absorptance); 2–14 µm (thermal emittance, FTIR + integrating sphere)
+- **Temperature:** room temperature (spectrophotometric); aging under concentrated solar conditions
+- **Methodology:** Solar absorptance (Lambda 1050 with 150 mm integrating spheres) and thermal emittance (FTIR with integrating sphere) of receiver coatings and solar reflectors; led the SFERA-III laboratory intercomparison of solar absorptance and thermal emittance measurements.
+
+**Application domains:** concentrating solar thermal receivers and reflectors · coating durability and aging.
+
+## External sources
+
+- [OPAC laboratory (PSA)](https://www.psa.es/en/instalaciones/opac.php)
+- [SFERA-III intercomparison of solar absorptance and thermal emittance](https://sfera3.sollab.eu/2022/02/17/scientific-publication-laboratory-intercomparison-of-solar-absorptance-and-thermal-emittance-measurements-at-room-temperature/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

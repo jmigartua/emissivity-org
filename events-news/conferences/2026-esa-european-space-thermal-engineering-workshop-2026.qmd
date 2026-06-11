@@ -1,0 +1,31 @@
+---
+title: "ESA European Space Thermal Engineering Workshop 2026"
+subtitle: "ESA Thermal Workshop | Noordwijk, The Netherlands"
+date: 2026-10-06
+description: "Spacecraft thermal engineering including surface optical properties (emissivity, absorptance), thermal coatings."
+url: "https://indico.esa.int/event/643/"
+categories:
+  - thermal-control
+  - coatings
+  - Aerospace thermal
+  - space
+  - ESA
+  - emissivity
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-10-06 to 2026-10-08
+
+**Location:** Noordwijk, The Netherlands
+
+[Conference Website](https://indico.esa.int/event/643/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+Annual ESA workshop on spacecraft thermal engineering at ESTEC. Covers thermal control design, analysis, and testing including surface optical properties (absorptance, emittance), thermal coatings, and radiative heat rejection. Emissivity of spacecraft surfaces is a core design parameter.
+
+

@@ -1,0 +1,41 @@
+---
+title: "IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements"
+description: >
+  This publication focuses on ir radiometer, spurious radiation, accuracy. Radiometer fix Spurious light removed now Better data obtained.
+date: 2024-01-24
+author:
+  - name: "Telmo Echániz"
+    orcid: 0000-0002-0330-0653
+categories:
+  - IR Radiometer
+  - Spurious radiation
+  - Accuracy
+pub-info:
+  reference: >-
+    Echániz, arXiv (2024).
+  links:
+    - name: "arXiv"
+      url: https://arxiv.org/abs/2401.13104
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Radiometer fix
+  - Spurious light removed now
+  - Better data obtained
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_date" content="2024-01-24">
+---
+
+## Abstract
+
+This publication focuses on ir radiometer, spurious radiation, accuracy. Radiometer fix Spurious light removed now Better data obtained.
+
+## Citation
+
+> Echániz, arXiv (2024).
+
+::: {.callout-note}
+Click the **arXiv** button above to access the full text or official record.
+:::

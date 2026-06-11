@@ -1,0 +1,81 @@
+---
+title: "Columbia University — Nanfang Yu Group"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Columbia / Nanfang Yu</div>
+```
+
+::: {.page-article}
+# Columbia University — Nanfang Yu Group
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | New York, NY |
+| **Tier** | Engineered emissivity (Tier III) |
+| **Primary ecosystem** | Engineered emissivity — LWIR nanostructures |
+| **Relevant unit** | Department of Applied Physics and Applied Mathematics |
+| **Principal investigator** | Nanfang Yu |
+| **Signature wavelength regime** | Long-wavelength infrared |
+
+## Why it matters internationally
+
+Yu's group works on the **control of long-wavelength infrared radiation
+using nanostructured materials**, and Columbia's own pages tie that work
+directly to cooling, thermal radiation, and bio-inspired radiative-cooling
+materials. This is a strong example of the **engineered-emissivity /
+radiative-cooling branch** of the field.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Department of Applied Physics and Applied Mathematics (Columbia)** —
+  institutional home of the Nanfang Yu Group.
+
+### Methodology
+
+Control of long-wavelength infrared radiation using nanostructured
+materials; bio-inspired radiative-cooling materials; connections between
+nanophotonic design and thermal emission behavior.
+
+### Capability envelope
+
+- **Wavelength regime:** long-wavelength infrared — where radiative
+  cooling into the sky window operates.
+
+### Application domains
+
+- Cooling
+- Thermal radiation control
+- Bio-inspired radiative-cooling materials
+
+## Why Columbia / Nanfang Yu is a reference pole
+
+A significant strand of the radiative-cooling literature concerns the
+deliberate engineering of emissivity spectra in the 8–13 µm atmospheric
+window. Yu's group is one of the academic centers where that
+nanostructure-level design work is developed, and where bio-inspired
+structures are brought into contact with photonic engineering. It
+illustrates how emissivity is increasingly treated as a property to be
+**patterned at the micro- and nanoscale**, not merely measured on a bulk
+sample.
+
+## External sources
+
+- [Nanfang Yu — Applied Physics and Applied Mathematics (Columbia)](https://www.apam.columbia.edu/faculty/nanfang-yu)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

@@ -1,0 +1,109 @@
+---
+title: "Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Thermomat / UPV-EHU</div>
+```
+
+::: {.page-article}
+# Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Spain (Basque Country) |
+| **City** | Leioa / Bilbao |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Thermophysical databases / community infrastructure |
+| **Relevant units** | **Thermomat** research group · **EKHI** open database |
+| **Publicly linked people** | Josu M. Igartua · community contributors through IR-EMPOWER and EKHI |
+| **Signature infrastructure** | **EKHI** — open database + **modular high-performance infrared emissometer** |
+| **Workshop role** | **Organizer of IR-EMPOWER** |
+
+## Why it matters internationally
+
+Thermomat is important not only as a laboratory actor in infrared
+emissometry, but also as a **builder of community infrastructure**. It
+organized IR-EMPOWER as a workshop devoted specifically to infrared
+emissivity measurement techniques and protocols, and its environment has
+developed **EKHI**, a structured open database for optical and radiative
+properties (recent *Scientific Data* / Nature publication). Laboratories
+that both measure *and* curate data help transform a fragmented literature
+into a reusable scientific resource — which makes Thermomat especially
+relevant as a node of community formation, data stewardship, and
+methodological convergence.
+
+## Scope of activity
+
+### Relevant units
+
+- **Thermomat — Thermophysical Properties of Materials Research Group
+  (UPV/EHU)** — infrared emissometry, radiative-property characterization,
+  and development of measurement instrumentation.
+- **EKHI — open database of optical and thermal radiative properties for
+  solid materials** — supports interactive querying and visualization of
+  emittance, reflectance, transmittance, and absorptance records, with a
+  FAIR-compliant data structure.
+
+### Radiative properties measured / curated
+
+Emittance · reflectance · transmittance · absorptance · related thermo-optical
+and radiative quantities.
+
+### Capability envelope
+
+- **Methodology:** in-house modular high-performance infrared emissometer
+  presented at IR-EMPOWER; FAIR-compliant data structure and workflows;
+  community-facing instrumentation development.
+
+### Signature infrastructure
+
+- **Modular high-performance infrared emissometer** — in-house
+  instrumentation presented at IR-EMPOWER.
+- **EKHI** — open database of optical and thermal radiative properties
+  for solid materials, backed by a *Scientific Data* (Nature) publication.
+  EKHI supports interactive querying and visualization of emittance,
+  reflectance, transmittance, and absorptance records.
+
+### Application domains
+
+- Community data stewardship for radiative properties
+- FAIR reuse of emissivity and reflectance data
+- Methodological convergence across the European emissivity community
+- Open infrastructure for radiative-property research
+
+## IR-EMPOWER contributions
+
+- **Organizer of the IR-EMPOWER workshop**.
+- Presentation of a **modular high-performance infrared emissometer**.
+- Presentation of an **open community of radiative properties** built around
+  EKHI.
+
+## Why Thermomat is a reference pole
+
+A working community in radiative-property science needs three things: people
+who measure, people who reason, and infrastructure that outlives any single
+project. Thermomat works on all three axes at once — running its own
+instrumentation, co-organizing the IR-EMPOWER workshop that brings the
+European community together, and maintaining EKHI as a durable open-data
+backbone. Few groups in the field combine all three.
+
+## External sources
+
+- [Thermomat — UPV/EHU](https://thermomat.ehu.eus/)
+- [IR-EMPOWER workshop](https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower)
+- [EKHI — Scientific Data paper (Nature)](https://www.nature.com/articles/s41597-026-07083-9)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

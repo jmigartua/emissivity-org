@@ -1,0 +1,43 @@
+---
+title: "Precision measurements of temperature-dependent and nonequilibrium thermal emitters"
+description: >
+  This publication focuses on thermal emission measurement, nonequilibrium emitters, ftir. Precision achieved Nonequilibrium measured Thermal emitters.
+date: 2020-04-01
+author:
+  - name: "Yujie Xiao"
+  - name: "Mikhail A. Kats"
+categories:
+  - Thermal emission measurement
+  - Nonequilibrium emitters
+  - FTIR
+pub-info:
+  reference: >-
+    Xiao et al., Laser Photonics Rev. 14(4), 1900443 (2020).
+  links:
+    - name: "Wiley"
+      url: https://doi.org/10.1002/lpor.201900443
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Precision achieved
+  - Nonequilibrium measured
+  - Thermal emitters
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Precision measurements of temperature-dependent and nonequilibrium thermal emitters">
+      <meta name="citation_author" content="Yujie Xiao">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2020-04-01">
+      <meta name="citation_doi" content="10.1002/lpor.201900443">
+---
+
+## Abstract
+
+This publication focuses on thermal emission measurement, nonequilibrium emitters, ftir. Precision achieved Nonequilibrium measured Thermal emitters.
+
+## Citation
+
+> Xiao et al., Laser Photonics Rev. 14(4), 1900443 (2020).
+
+::: {.callout-note}
+Click the **Wiley** button above to access the full text or official record.
+:::

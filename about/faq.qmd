@@ -1,0 +1,35 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">About</div>
+  <h1>Frequently Asked <em>Questions</em></h1>
+
+  <h2>What is emissivity.org?</h2>
+  <p>Emissivity.org is the international hub for emissivity research, integrating open data (EKHI), measurement methods, laboratory capabilities, and community activity. It serves as the central platform for researchers, metrologists, and practitioners working with spectral emissivity and thermal radiative properties.</p>
+
+  <h2>What is EKHI?</h2>
+  <p>EKHI is the open-access database for spectral radiative property data. It stores publication-traced, curve-level spectral emissivity measurements contributed by laboratories in the network. All datasets are freely downloadable and citable under CC-BY 4.0.</p>
+
+  <h2>How do I access EKHI data?</h2>
+  <p>Browse the <a href="/data/ekhi.html" style="color: var(--c-cool);">EKHI database</a> directly. No account is required. Datasets can be downloaded in CSV, NetCDF, JSON, HDF5, and Excel formats.</p>
+
+  <h2>How do I cite EKHI data?</h2>
+  <p>See the <a href="/data/cite-ekhi.html" style="color: var(--c-cool);">citation guide</a> for detailed instructions. In general, cite both the original source publication and the EKHI record identifier.</p>
+
+  <h2>Can I contribute data?</h2>
+  <p>Yes. If you have published spectral emissivity measurements, you can <a href="/contribute/submit-data.html" style="color: var(--c-cool);">submit them to EKHI</a>. The process involves providing the source publication, measurement metadata, and data files. Contributed data is reviewed and published with full attribution.</p>
+
+  <h2>How can my laboratory join the network?</h2>
+  <p>Laboratories with active emissivity or thermal radiation measurement capabilities can <a href="/contribute/join-network.html" style="color: var(--c-cool);">apply to join the network</a>. Membership involves listing your capabilities, contributing to EKHI when possible, and participating in community activities.</p>
+
+  <h2>What standards does the community follow?</h2>
+  <p>The community references ISO and ASTM standards for emissivity measurement, including ISO 20473, ASTM E408, ASTM E903, and ASTM C835. The <a href="/methods/standards.html" style="color: var(--c-cool);">standards page</a> provides details and community commentary.</p>
+
+  <h2>Is emissivity.org free to use?</h2>
+  <p>Yes. The website, all EKHI data, and all published content are freely accessible. No registration or subscription is required.</p>
+</div>
+```

@@ -1,0 +1,35 @@
+<script>
+/* Local-preview shim: when the site is opened from the filesystem
+   (file://) rather than a server, rewrite root-absolute links so
+   navigation still works. No effect in production. */
+(function () {
+  if (location.protocol !== "file:") return;
+  var marker = "/_site/";
+  var i = location.pathname.indexOf(marker);
+  if (i < 0) return;
+  var root = location.pathname.slice(0, i + marker.length - 1);
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll('a[href^="/"]').forEach(function (a) {
+      a.setAttribute("href", "file://" + root + a.getAttribute("href"));
+    });
+  });
+})();
+</script>
+<div class="topline"></div>
+<header class="site-head">
+  <div class="site-head__inner">
+    <a href="/index.html" class="wordmark">emissivity<span class="tld">.org</span>
+      <span class="wordmark-sub">Thermal radiative properties of materials</span>
+    </a>
+    <nav class="site-nav">
+      <a href="/network/index.html">Network</a>
+      <a href="/data/index.html">Data</a>
+      <a href="/methods/index.html">Reference</a>
+      <a href="/publications.html">Publications</a>
+      <a href="/events-news/index.html">Events</a>
+      <a href="/news/index.html">News</a>
+      <a href="/about/index.html">About</a>
+      <a href="/contribute/index.html">Contribute</a>
+    </nav>
+  </div>
+</header>

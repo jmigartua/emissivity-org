@@ -1,0 +1,30 @@
+---
+title: "ECTP 2026 — 23rd European Conference on Thermophysical Properties"
+subtitle: "ECTP | Gouvieux (near Paris), France"
+date: 2026-06-21
+description: "Measurement, theory, and modeling of thermophysical properties including radiative and optical properties."
+url: "https://www.ectp2026.com/"
+categories:
+  - measurement
+  - Thermophysical properties
+  - optical-properties
+  - emissivity
+  - thermophysical-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-06-21 to 2026-06-24
+
+**Location:** Gouvieux (near Paris), France
+
+[Conference Website](https://www.ectp2026.com/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+ECTP 2026 is the 23rd edition of the European Conference on Thermophysical Properties. It covers measurement, theory, and modeling of all thermophysical properties including radiative/optical properties of materials. Features the ECTP-NETZSCH Young Scientist Award.
+
+

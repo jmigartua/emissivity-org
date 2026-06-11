@@ -1,0 +1,33 @@
+---
+title: "ITS-10 (10th International Temperature Symposium)"
+subtitle: "International Temperature Symposium (ITS) | Anaheim, California, USA"
+date: 2023-04-03
+description: "Flagship temperature metrology symposium; radiation thermometry and emissivity appear in several sessions."
+url: "https://its10.msc-conf.com/"
+proceedings_url: "https://www.nist.gov/publications/its10-conference-digest"
+categories:
+  - Temperature metrology
+  - traceability
+  - emissivity
+  - temperature-metrology
+  - radiation-thermometry
+  - uncertainty
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2023-04-03 to 2023-04-07
+
+**Location:** Anaheim, California, USA
+
+[Conference Website](https://its10.msc-conf.com/){.btn .btn-primary .btn-sm}
+
+[Proceedings](https://www.nist.gov/publications/its10-conference-digest){.btn .btn-outline-secondary .btn-sm}
+:::
+
+## Overview
+
+The International Temperature Symposium is a conference dedicated to advances in temperature measurement science. Its scope includes contact and non-contact thermometry, radiation thermometry, calibration techniques, and uncertainty analysis. Emissivity-related work appears in the context of radiation thermometry and high-temperature measurement topics.
+
+

@@ -1,0 +1,32 @@
+---
+title: "Thermosense: Thermal Infrared Applications XLIV (SPIE)"
+subtitle: "SPIE ThermoSense | Orlando, Florida, USA"
+date: 2022-04-03
+description: "Thermal infrared applications; emissivity issues arise routinely in applied IR measurement workflows."
+url: "https://spie.org/Publications/Proceedings/Volume/12109"
+proceedings_url: "https://spie.org/Publications/Proceedings/Volume/12109"
+categories:
+  - infrared-thermography
+  - thermal-imaging
+  - emissivity
+  - spie
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2022-04-03 to 2022-04-07
+
+**Location:** Orlando, Florida, USA
+
+[Conference Website](https://spie.org/Publications/Proceedings/Volume/12109){.btn .btn-primary .btn-sm}
+
+[Proceedings](https://spie.org/Publications/Proceedings/Volume/12109){.btn .btn-outline-secondary .btn-sm}
+:::
+
+## Overview
+
+ThermoSense (SPIE) is a proceedings-based conference series on thermal infrared applications and thermography. Topics commonly include IR measurement practices, calibration, data analysis methods, and application-driven studies, where emissivity treatment may be discussed as part of quantitative IR workflows.
+
+

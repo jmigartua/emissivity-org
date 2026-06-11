@@ -1,0 +1,47 @@
+---
+title: "Emissivity measurements on reflective insulation materials"
+description: >
+  This publication focuses on reflective insulation, emissivity measurement, building materials. Reflective foils tested Low emissivity measured Building science gains.
+date: 2021-10-01
+author:
+  - name: "Albert Adibekyan"
+  - name: "Elena Kononogova"
+  - name: "Christian Monte"
+  - name: "Jörg Hollandt"
+categories:
+  - Reflective insulation
+  - Emissivity measurement
+  - Building materials
+pub-info:
+  reference: >-
+    Adibekyan et al., tm - Tech. Messen 88(10), 617-625 (2021).
+  links:
+    - name: "De Gruyter"
+      url: https://doi.org/10.1515/teme-2021-0049
+      icon: fa-solid fa-file
+haiku:
+  - Reflective foils tested
+  - Low emissivity measured
+  - Building science gains
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Emissivity measurements on reflective insulation materials">
+      <meta name="citation_author" content="Albert Adibekyan">
+      <meta name="citation_author" content="Elena Kononogova">
+      <meta name="citation_author" content="Christian Monte">
+      <meta name="citation_author" content="Jörg Hollandt">
+      <meta name="citation_date" content="2021-10-01">
+      <meta name="citation_doi" content="10.1515/teme-2021-0049">
+---
+
+## Abstract
+
+This publication focuses on reflective insulation, emissivity measurement, building materials. Reflective foils tested Low emissivity measured Building science gains.
+
+## Citation
+
+> Adibekyan et al., tm - Tech. Messen 88(10), 617-625 (2021).
+
+::: {.callout-note}
+Click the **De Gruyter** button above to access the full text or official record.
+:::

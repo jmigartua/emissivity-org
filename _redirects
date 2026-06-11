@@ -1,0 +1,9 @@
+# Netlify redirects for the canonical final website live here.
+# Add production rules only after cutover from the legacy site.
+/people-labs/directory.html /network/index.html 301
+/people-labs/labs/ptb.html /network/ptb.html 301
+/people-labs/labs/cemhti.html /network/cemhti-cnrs.html 301
+/people-labs/labs/promes.html /network/promes-cnrs.html 301
+/people-labs/labs/cae.html /network/cae-wuerzburg.html 301
+/people-labs/labs/hairl.html /network/thermomat-ehu.html 301
+/people-labs/labs/uw-thermal.html /network/wisconsin-madison.html 301

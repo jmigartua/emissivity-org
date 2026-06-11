@@ -1,0 +1,27 @@
+```{=html}
+<section class="featured-band" aria-label="Featured announcement">
+  <div class="wrap featured-grid">
+    <div class="featured-main">
+      <div class="featured-kicker">Announcement · Community workshop</div>
+      <h2 class="featured-title">IR-EMPOWER 2026
+        <span class="featured-sub">Infrared emissivity measurement workshop — 2nd edition</span></h2>
+      <p class="featured-body">The community workshop on infrared emissivity measurement returns. Founded in 2024 and first organized by the Thermomat / HAIRL group at UPV/EHU in Bilbao, IR-EMPOWER brings together the laboratories of the research map — metrology institutes, high-temperature facilities, and university groups — around measurement below and above 1000 K.</p>
+      <p class="featured-links"><a href="/events-news/news/ir-empower-2026.html">Workshop announcement</a> <span class="sep">·</span> <a href="/files/ical/emissivity-conferences.ics">Add to calendar (iCal)</a> <span class="sep">·</span> <a href="https://dulcet-sundae-44ceba.netlify.app/">IR-EMPOWER 2024 — first edition</a> </p>
+    </div>
+    <div class="featured-when">
+      <div class="d">28–29 September 2026</div>
+      <div class="l">Würzburg, Germany · hosted by CAE</div>
+      <div class="c mono" id="featured-countdown" data-until="2026-09-28"></div>
+    </div>
+  </div>
+</section>
+<script>
+(function () {
+  var el = document.getElementById("featured-countdown");
+  if (!el) return;
+  var days = Math.ceil((new Date(el.dataset.until) - new Date()) / 864e5);
+  if (days > 1) el.textContent = "in " + days + " days";
+  else if (days >= 0) el.textContent = "this week";
+})();
+</script>
+```

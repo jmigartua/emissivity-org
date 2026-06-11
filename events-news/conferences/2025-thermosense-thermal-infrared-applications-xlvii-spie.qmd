@@ -1,0 +1,32 @@
+---
+title: "Thermosense: Thermal Infrared Applications XLVII (SPIE)"
+subtitle: "SPIE ThermoSense | Orlando, Florida, USA"
+date: 2025-04-15
+description: "Thermal infrared applications and thermography; emissivity treatment appears regularly in methods and applications."
+url: "https://spie.org/Publications/Proceedings/Volume/13470"
+proceedings_url: "https://spie.org/Publications/Proceedings/Volume/13470"
+categories:
+  - infrared-thermography
+  - thermal-imaging
+  - emissivity
+  - spie
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2025-04-15 to 2025-04-17
+
+**Location:** Orlando, Florida, USA
+
+[Conference Website](https://spie.org/Publications/Proceedings/Volume/13470){.btn .btn-primary .btn-sm}
+
+[Proceedings](https://spie.org/Publications/Proceedings/Volume/13470){.btn .btn-outline-secondary .btn-sm}
+:::
+
+## Overview
+
+ThermoSense is a long-running SPIE conference series focused on thermal infrared technologies and applications. Contributions typically cover infrared imaging, measurement methodologies, calibration practices, and applied thermography. Emissivity considerations arise in quantitative measurement and analysis contexts.
+
+

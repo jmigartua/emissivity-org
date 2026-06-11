@@ -1,0 +1,48 @@
+---
+title: "Angle-Resolved Direct Emissivity Measurements on Unencapsulated Solar Cells for Passive Thermal Control"
+description: >
+  This publication focuses on solar cells, passive thermal control, angle-resolved. Solar cells heat up Angleresolved emission Passive cooling aid.
+date: 2024-03-01
+author:
+  - name: "Iñigo González de Arrieta"
+    orcid: 0000-0001-6984-5149
+  - name: "Telmo Echániz"
+    orcid: 0000-0002-0330-0653
+  - name: "Raquel Fuente"
+  - name: "Gabriel A. López"
+categories:
+  - Solar Cells
+  - Passive Thermal Control
+  - Angle-Resolved
+pub-info:
+  reference: >-
+    González de Arrieta et al., IEEE JPV (2024).
+  links:
+    - name: "IEEE Xplore"
+      url: https://ieeexplore.ieee.org/document/10387752
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Solar cells heat up
+  - Angleresolved emission
+  - Passive cooling aid
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Angle-Resolved Direct Emissivity Measurements on Unencapsulated Solar Cells for Passive Thermal Control">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_author" content="Raquel Fuente">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2024-03-01">
+---
+
+## Abstract
+
+This publication focuses on solar cells, passive thermal control, angle-resolved. Solar cells heat up Angleresolved emission Passive cooling aid.
+
+## Citation
+
+> González de Arrieta et al., IEEE JPV (2024).
+
+::: {.callout-note}
+Click the **IEEE Xplore** button above to access the full text or official record.
+:::

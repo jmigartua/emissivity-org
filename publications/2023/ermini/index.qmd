@@ -1,0 +1,46 @@
+---
+title: "Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials"
+description: >
+  This publication focuses on emissivity measurement, molten materials, rapid scan. Melt cools rapidly Scan captures emission Phase change revealed.
+date: 2023-01-01
+author:
+  - name: "Iñigo M. Ermini"
+  - name: "Domingos De Sousa Meneses"
+  - name: "Iñigo González de Arrieta"
+    orcid: 0000-0001-6984-5149
+categories:
+  - Emissivity measurement
+  - Molten materials
+  - Rapid scan
+pub-info:
+  reference: >-
+    Ermini et al., Eng. Proc. 51, 8 (2023).
+  links:
+    - name: "MDPI"
+      url: https://doi.org/10.3390/engproc2023051008
+      icon: fa-solid fa-file
+haiku:
+  - Melt cools rapidly
+  - Scan captures emission
+  - Phase change revealed
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials">
+      <meta name="citation_author" content="Iñigo M. Ermini">
+      <meta name="citation_author" content="Domingos De Sousa Meneses">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_date" content="2023-01-01">
+      <meta name="citation_doi" content="10.3390/engproc2023051008">
+---
+
+## Abstract
+
+This publication focuses on emissivity measurement, molten materials, rapid scan. Melt cools rapidly Scan captures emission Phase change revealed.
+
+## Citation
+
+> Ermini et al., Eng. Proc. 51, 8 (2023).
+
+::: {.callout-note}
+Click the **MDPI** button above to access the full text or official record.
+:::

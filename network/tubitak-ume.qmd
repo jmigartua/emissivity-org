@@ -1,0 +1,55 @@
+---
+title: "TÜBİTAK UME"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / TÜBİTAK UME</div>
+```
+
+::: {.page-article}
+# TÜBİTAK UME — National Metrology Institute of Türkiye
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Türkiye |
+| **City** | Gebze (Kocaeli) |
+| **Tier** | Extended |
+| **Primary ecosystem** | Metrology |
+| **Unit** | [Radiation Temperature Laboratory, Physics Group](https://www.ume.tubitak.gov.tr/en/physics-group-laboratories/radiation-temperature-laboratory/) |
+
+
+
+## Why it matters internationally
+
+UME extends the radiation-thermometry comparison infrastructure to
+Türkiye: blackbody calibration and EMPIR-project participation tie its
+radiometric scales to the European metrology network, the foundation on
+which traceable emissivity measurement rests.
+
+## Scope of activity
+
+- **Quantities:** radiation thermometry · blackbody and IR calibrator calibration
+- **Methodology:** Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European metrology (EMPIR) projects such as MultiFixRad. A dedicated material-emissivity bench is not confirmed from public pages; listed as extended pending verification.
+
+**Application domains:** non-contact thermometry · radiometric calibration.
+
+## External sources
+
+- [Radiation Temperature Laboratory (TÜBİTAK UME)](https://www.ume.tubitak.gov.tr/en/physics-group-laboratories/radiation-temperature-laboratory/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

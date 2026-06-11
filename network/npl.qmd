@@ -1,0 +1,68 @@
+---
+title: "NPL — National Physical Laboratory"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / NPL</div>
+```
+
+::: {.page-article}
+# NPL — National Physical Laboratory
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United Kingdom |
+| **City** | Teddington (London) |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Metrology |
+| **Relevant unit** | Thermal metrology — radiation thermometry and emissivity |
+
+## Why it matters internationally
+
+NPL is the United Kingdom's national metrology institute, and it anchors
+emissivity in the **international comparison infrastructure**: NPL is a
+documented participant in the **CCT Supplementary Comparison S1** of infrared
+spectral normal emissivity (2–14 µm, 23–800 °C) alongside PTB, NIST, and
+NMIJ. Comparisons of this kind are what make emissivity values measured in
+different countries mutually trustworthy.
+
+## Scope of activity
+
+### Radiative properties measured
+
+Infrared spectral normal emissivity · radiation thermometry · land-surface
+temperature and emissivity.
+
+### Capability envelope
+
+- **CCT-S1 comparison scope:** spectral normal emissivity, 2–14 µm,
+  23–800 °C.
+- **Earth observation:** laboratory calibration and field measurement of
+  land-surface temperature and emissivity, linking laboratory radiometry to
+  satellite retrieval.
+
+### Application domains
+
+Non-contact thermometry · Earth observation and climate measurement ·
+radiometric calibration and standards.
+
+## External sources
+
+- [Why is emissivity important? — NPL](https://www.npl.co.uk/resources/q-a/why-is-emissivity-important)
+- [CCT-S1 final report — Metrologia (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5324078/)
+- [Land-surface temperature and emissivity — NPL eprints](https://eprintspublications.npl.co.uk/8390/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against NPL pages and the
+peer-reviewed CCT-S1 comparison report).
+:::
+
+:::

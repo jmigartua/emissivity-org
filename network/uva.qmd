@@ -1,0 +1,94 @@
+---
+title: "University of Virginia — Hopkins Group (ExSiTE Lab)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / University of Virginia</div>
+```
+
+::: {.page-article}
+# University of Virginia — Hopkins Group (ExSiTE Lab)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Charlottesville, VA |
+| **Tier** | Emerging / application-specific (Tier IV) |
+| **Primary ecosystem** | Ultra-high-temperature — laser-heating radiometry |
+| **Relevant unit** | **Patrick Hopkins Group (ExSiTE Lab)** — ultra-high-temperature materials / laser-heating radiometry |
+| **Publicly linked people** | Hunter B. Schonfeld · Patrick Hopkins |
+| **Signature temperature range** | **Room temperature to ~4000 °C** |
+
+## Why it matters internationally
+
+UVA appears in the landscape through **ultra-high-temperature materials**
+work, with IR-EMPOWER reporting measurement of spectral emissivity and
+emittance from room temperature to **~4000 °C**, and independent seminar
+material (Princeton) describing coupled **ellipsometry and laser-heating
+radiometry** up to the melting points of ceramics and carbides. Its
+importance is that it pushes emissivity research toward the
+**ultrahigh-temperature frontier**, where conventional furnace-based
+measurement logic breaks down and coupled optical-thermal methods become
+necessary — strategically relevant for aerospace, re-entry, thermal
+barrier, and refractory systems.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Patrick Hopkins Group (ExSiTE Lab), UVA.** Research program on
+  ultra-high-temperature materials using laser-heating-based radiometry
+  and ellipsometry.
+
+### Radiative properties measured
+
+Spectral emissivity and emittance at extreme temperature · spectral
+absorptivity/emissivity of ceramics and carbides.
+
+### Capability envelope
+
+- **Temperature:** room temperature to ~4000 °C.
+- **Methodology:** combination of ellipsometry and laser-heating-based
+  radiometry for measurement of ceramics and carbides up to their
+  melting points.
+
+### Application domains
+
+- Ultra-high-temperature materials
+- Aerospace
+- Thermal barrier materials
+- Refractory systems
+- Extreme-environment metrology
+
+## IR-EMPOWER contributions
+
+- **Hunter B. Schonfeld** — direct and indirect measurement of spectral
+  emissivity and emittance from room temperature to 4000 °C.
+
+## Why UVA Hopkins Group is a reference pole
+
+Above about 2500 °C, furnace-based methods struggle and almost every
+standard emissivity assumption — thermalization, equilibrium,
+surface stability — becomes fragile. Laboratories that push coupled
+optical-thermal methods into that regime are rare, and they are the
+ones that define how the field extends toward re-entry- and
+hypersonics-relevant temperatures. UVA's combination of ellipsometry
+with laser-heating radiometry places it firmly in that frontier.
+
+## External sources
+
+- [PMI/PCCM Seminar Series — Patrick Hopkins (Princeton)](https://materials.princeton.edu/events/2025/pmipccm-seminar-series-fall-2025-patrick-hopkins-university-virginia)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

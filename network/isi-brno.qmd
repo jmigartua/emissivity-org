@@ -1,0 +1,97 @@
+---
+title: "ISI Brno — Institute of Scientific Instruments, Czech Academy of Sciences"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / ISI Brno</div>
+```
+
+::: {.page-article}
+# ISI Brno — Institute of Scientific Instruments, Czech Academy of Sciences
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Czech Republic |
+| **City** | Brno |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Cryogenic radiative properties |
+| **Relevant unit** | Cryogenics group — radiative-properties activities |
+| **Publicly linked people** | Tomáš Králík · Jiří Frolec |
+| **Signature temperature regime** | **~20 K – 300 K** |
+
+## Why it matters internationally
+
+ISI Brno is a **world-class niche center for cryogenic emissivity and
+absorptivity**. Much emissivity work in the literature is concentrated at
+room or high temperature, but in cryogenics the radiative term can become
+decisive — and reliable data are scarce. The Brno group has built a coherent
+research program around thermal radiative properties for cryogenics,
+including a database of low-temperature hemispherical emissivities and
+absorptivities. It is a clear example of how the emissivity community is
+structured: not by one dominant center, but by highly specialized
+laboratories that solve hard measurement problems in complementary
+temperature regimes.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Cryogenics group — radiative-properties activities.** The dedicated
+  "Emissivity" subpage lists low-temperature radiative-property measurements
+  on samples with different finishes and coatings, alongside
+  database-oriented work on low-temperature hemispherical emissivities and
+  absorptivities.
+
+### Radiative properties measured
+
+Hemispherical total emissivity at cryogenic T · cryogenic absorptivity.
+
+### Capability envelope
+
+- **Temperature:** **~20 K to 300 K**.
+- **Methodology:** low-temperature radiative-property measurement on samples
+  with different finishes and coatings; dedicated experimental approach for
+  cryogenic hemispherical quantities.
+- **Database output:** structured internal database of low-temperature
+  hemispherical emissivities and absorptivities — a rare and valuable
+  resource in this temperature regime.
+
+### Application domains
+
+- Cryogenic engineering
+- Heat-flow calculations at low T
+- Low-temperature thermometry and radiation shielding
+- Space-mission thermal design (where cryogenic radiative terms matter)
+
+## IR-EMPOWER contributions
+
+- **Tomáš Králík and Jiří Frolec** — contributions on emissivity and
+  absorptivity at cryogenic temperatures and thermal radiative properties
+  of materials in the cryogenic regime.
+
+## Why ISI Brno is a reference pole
+
+The cryogenic regime is where emissivity data are hardest to produce and
+most frequently missing from standard compilations. ISI Brno has chosen that
+exact gap and built a program around it — both measuring new data and
+curating them into a usable database. That combination of measurement and
+data stewardship in a narrow but critical regime makes it a de facto
+reference for anyone doing low-temperature thermal-radiation engineering.
+
+## External sources
+
+- [Emissivity — ISI Brno Cryogenics](https://cryogenics.isibrno.cz/?page_id=171)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

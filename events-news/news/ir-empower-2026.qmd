@@ -1,0 +1,36 @@
+---
+title: "IR-EMPOWER 2026 Workshop Dates Confirmed"
+date: "2026-04-10"
+categories: [Workshop, IR-EMPOWER, Training]
+description: "The IR-EMPOWER 2026 workshop on infrared emissivity measurement will take place in September 2026. Registration opening soon."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+<p class="section-label">News</p>
+
+<h1>IR-EMPOWER 2026 Workshop Dates Confirmed</h1>
+
+<p>We are pleased to confirm that the <strong>IR-EMPOWER 2026</strong> workshop will take place in <strong>September 2026</strong>. Exact dates and venue will be announced shortly.</p>
+
+<p>IR-EMPOWER is our network's dedicated training workshop bringing together early-career researchers and experienced practitioners to share knowledge on infrared emissivity measurement techniques.</p>
+
+<p>The 2024 edition, held in Bilbao, was a great success with participants from across Europe. The 2026 edition will build on this with expanded topics including:</p>
+
+<ul>
+<li>Directional and hemispherical emissivity measurement</li>
+<li>High-temperature techniques</li>
+<li>Emissivity uncertainty analysis</li>
+<li>Hands-on laboratory sessions</li>
+<li>Introduction to the EKHI database</li>
+</ul>
+
+<p>Stay tuned for registration details.</p>
+
+<p><a href="https://dulcet-sundae-44ceba.netlify.app/" class="btn btn-outline-primary">View the 2024 Edition</a></p>
+
+<p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>
+</div>
+```

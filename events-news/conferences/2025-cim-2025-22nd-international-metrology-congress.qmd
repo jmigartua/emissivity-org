@@ -1,0 +1,30 @@
+---
+title: "CIM 2025 (22nd International Metrology Congress)"
+subtitle: "CIM (International Metrology Congress) | Lyon, France"
+date: 2025-03-11
+description: "General metrology congress with thermometry and radiation measurement tracks."
+url: "https://www.cim-metrology.org/en/program-2025"
+categories:
+  - thermometry
+  - standards
+  - industry
+  - General metrology
+  - metrology
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2025-03-11 to 2025-03-14
+
+**Location:** Lyon, France
+
+[Conference Website](https://www.cim-metrology.org/en/program-2025){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The International Metrology Congress is a broad metrology conference covering measurement science across multiple domains. Thermometry and radiation measurement topics are commonly included among its technical sessions, providing a forum where emissivity-related issues may arise within wider metrological discussions.
+
+

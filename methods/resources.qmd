@@ -1,0 +1,128 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page" style="max-width: 1000px;">
+  <div class="section__label">Methods</div>
+  <h1>Resources &amp; <em>Tools</em></h1>
+  <p class="page-subtitle">Databases, textbooks, training courses, software, and reference links for emissivity measurement and thermal radiation research.</p>
+
+  <!-- ═══════════ DATABASES ═══════════ -->
+  <h2>Databases</h2>
+  <div class="card-grid">
+    <a href="/data/ekhi.html" class="info-card" style="text-decoration:none; color:inherit; border-left: 3px solid var(--c-warm);">
+      <h3>EKHI Database</h3>
+      <p>The first open-access database for optical and radiative property data. Publication-centred organisation with curve-level spectral datasets, full provenance, and DOI-based citations.</p>
+      <div style="margin-top: 10px; font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">Browse EKHI &rarr;</div>
+    </a>
+    <div class="info-card">
+      <h3>NIST Chemistry WebBook</h3>
+      <p>Reference data from the National Institute of Standards and Technology, including thermochemical and spectral data for many materials.</p>
+      <div style="margin-top: 10px;"><a href="https://webbook.nist.gov/" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">webbook.nist.gov &rarr;</a></div>
+    </div>
+  </div>
+
+  <!-- ═══════════ TEXTBOOKS ═══════════ -->
+  <h2>Key textbooks</h2>
+  <div class="pub-list">
+    <div class="pub-entry">
+      <div class="pub-entry__title">Thermal Radiation Heat Transfer</div>
+      <div class="pub-entry__meta">J.R. Howell, M.P. Mengu&ccedil;, K. Daun, R. Siegel</div>
+      <div class="pub-entry__journal" style="margin-top: 4px;">The standard reference for radiative heat transfer, including extensive coverage of emissivity theory and measurement.</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title">Radiative Heat Transfer</div>
+      <div class="pub-entry__meta">M.F. Modest</div>
+      <div class="pub-entry__journal" style="margin-top: 4px;">Comprehensive treatment of radiative transfer in participating media and at surfaces.</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title">Measurement of the Thermophysical Properties of Solids</div>
+      <div class="pub-entry__meta">C.Y. Ho (ed.)</div>
+      <div class="pub-entry__journal" style="margin-top: 4px;">Reference for measurement techniques of all thermophysical properties.</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title">Heat Transfer: A Basic Approach</div>
+      <div class="pub-entry__meta">Y.A. &Ccedil;engel</div>
+      <div class="pub-entry__journal" style="margin-top: 4px;">Introductory treatment with good coverage of radiation fundamentals.</div>
+    </div>
+  </div>
+
+  <!-- ═══════════ TRAINING ═══════════ -->
+  <h2>Training &amp; education</h2>
+  <h3 style="font-size: 16px; margin-top: 24px;">Workshop series</h3>
+  <div class="card-grid">
+    <a href="https://www.ir-empower.eu/" class="info-card" style="text-decoration:none; color:inherit; border-left: 3px solid var(--c-warm);" target="_blank">
+      <h3>IR-EMPOWER</h3>
+      <p>The network&rsquo;s own training workshop bringing together early-career researchers and experienced practitioners for hands-on emissivity measurement sessions and intercomparisons.</p>
+      <div style="font-family: var(--f-mono); font-size: 11px; color: var(--c-text-dim); margin-top: 8px;">2024: Bilbao &middot; 2026: W&uuml;rzburg (28&ndash;29 Sep)</div>
+      <div style="margin-top: 8px; font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">ir-empower.eu &rarr;</div>
+    </a>
+  </div>
+
+  <h3 style="font-size: 16px; margin-top: 24px;">Recurring courses</h3>
+  <div class="pub-list">
+    <div class="pub-entry">
+      <div class="pub-entry__title">NIST Radiation Thermometry Short Course</div>
+      <div class="pub-entry__meta">Fundamentals and applications of radiation thermometry, including emissivity in uncertainty budgets.</div>
+      <div style="margin-top: 4px;"><a href="https://www.nist.gov/news-events" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">NIST Events &rarr;</a></div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title">Kelvin Training: Surface Temperature &amp; Radiation Thermometry</div>
+      <div class="pub-entry__meta">Practical course on emission coefficient measurement and IR thermometer calibration.</div>
+      <div style="margin-top: 4px;"><a href="https://kelvin.training" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">kelvin.training &rarr;</a></div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title">MSL NZ: IR Radiation Thermometry Workshop</div>
+      <div class="pub-entry__meta">Practical workshop on IR thermometer calibration and emissivity correction.</div>
+      <div style="margin-top: 4px;"><a href="https://www.measurement.govt.nz/training/" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">measurement.govt.nz &rarr;</a></div>
+    </div>
+  </div>
+
+  <!-- ═══════════ SOFTWARE ═══════════ -->
+  <h2>Software &amp; tools</h2>
+  <div class="card-grid">
+    <div class="info-card">
+      <h3>Focus</h3>
+      <p>Software for spectral emissivity data analysis, developed at CEMHTI-CNRS.</p>
+      <div style="margin-top: 10px;"><a href="https://www.cemhti.cnrs-orleans.fr/" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">CEMHTI Tools &rarr;</a></div>
+    </div>
+    <div class="info-card">
+      <h3>RCWA Tools</h3>
+      <p>Rigorous Coupled-Wave Analysis implementations for modelling emissivity of periodic surface structures (relevant for DLIP-modified surfaces).</p>
+    </div>
+    <div class="info-card">
+      <h3>Kirchhoff&rsquo;s Law Calculators</h3>
+      <p>Tools for converting between absorptance and emittance using Kirchhoff&rsquo;s law for opaque surfaces.</p>
+    </div>
+  </div>
+
+  <!-- ═══════════ LINKS ═══════════ -->
+  <h2>Useful links</h2>
+  <div class="pub-list">
+    <div class="pub-entry">
+      <div class="pub-entry__title"><a href="https://www.bipm.org/" target="_blank" style="color: var(--c-cool);">BIPM &mdash; Bureau International des Poids et Mesures</a></div>
+      <div class="pub-entry__meta">International coordination of measurement science</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title"><a href="https://www.bipm.org/en/committees/cc/cct" target="_blank" style="color: var(--c-cool);">CCT &mdash; Consultative Committee for Thermometry</a></div>
+      <div class="pub-entry__meta">Thermometry standards development</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title"><a href="https://www.imeko.org/index.php/tc12-homepage" target="_blank" style="color: var(--c-cool);">IMEKO TC12</a></div>
+      <div class="pub-entry__meta">Technical Committee on Temperature and Thermal Measurements</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title"><a href="http://www.qirt.org/" target="_blank" style="color: var(--c-cool);">QIRT Conference Series</a></div>
+      <div class="pub-entry__meta">Quantitative Infrared Thermography community</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title"><a href="https://www.astm.org/get-involved/technical-committees/committee-e20" target="_blank" style="color: var(--c-cool);">ASTM Committee E20 &mdash; Temperature Measurement</a></div>
+      <div class="pub-entry__meta">Develops standards for radiation thermometry including emissivity measurement. Subcommittee E20.02 focuses on Radiation Thermometry. Meetings semi-annually (May and November), open to observers.</div>
+    </div>
+  </div>
+
+  <p style="margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--c-line);"><a href="/methods/index.html" style="color: var(--c-cool); font-family: var(--f-mono); font-size: 13px;">&larr; Back to Methods</a></p>
+</div>
+```

@@ -1,0 +1,85 @@
+---
+title: "Lawrence Berkeley National Laboratory — Heat Island Group / Cool Surfaces"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / LBNL Heat Island Group</div>
+```
+
+::: {.page-article}
+# Lawrence Berkeley National Laboratory — Heat Island Group / Cool Surfaces
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Berkeley, CA |
+| **Tier** | Engineered emissivity / applied (Tier III) |
+| **Primary ecosystem** | Applied energy — cool roofs, cool walls, urban climate |
+| **Relevant unit** | **Heat Island Group — Cool Surfaces research** |
+| **Radiative properties that define the research** | **Thermal emittance · solar reflectance** |
+
+## Why it matters internationally
+
+LBNL is not a classical emissivity-metrology institute, but it is one of
+the most influential public research groups working on **thermal emittance
+and solar reflectance in the context of buildings, urban climate, and
+energy demand**. The Heat Island Group explicitly defines cool roofs and
+cool walls through those two radiative properties and ties them to urban-
+heat-island mitigation and energy performance. For the **built-environment
+branch** of emissivity / reflectivity research, LBNL is indispensable.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Heat Island Group — Cool Surfaces research (LBNL).** Long-running
+  research program on thermal emittance and solar reflectance as the
+  defining radiative properties of cool roofs, cool walls, and the broader
+  cool-surface literature.
+
+### Radiative properties measured / targeted
+
+Thermal emittance · solar reflectance — treated jointly as the defining
+pair that governs passive cooling performance at building and city scale.
+
+### Methodology
+
+Research on cool roofs and cool walls defined through thermal emittance
+and solar reflectance; linkage to urban-heat-island mitigation and
+energy performance in the built environment.
+
+### Application domains
+
+- Cool roofs and cool walls
+- Buildings and urban climate
+- Urban-heat-island mitigation
+- Energy demand in the built environment
+
+## Why LBNL is a reference pole
+
+Emissivity stops being an abstract optical quantity once it is tied to
+measurable consequences at urban scale: summer energy consumption,
+heat-wave mortality, city air temperature. LBNL's Heat Island Group is
+arguably the most important public research group making that
+translation, and it is why the map cannot be confined to laboratory
+metrology alone. Whatever metric a city eventually chooses to regulate a
+cool surface, the vocabulary — thermal emittance and solar reflectance —
+traces back through work of this kind.
+
+## External sources
+
+- [Cool Roofs — Heat Island Group (LBNL)](https://heatisland.lbl.gov/coolscience/cool-roofs)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

@@ -1,0 +1,41 @@
+---
+title: "Importance of the spectral emissivity measurements at working temperature to determine the efficiency of a solar selective coating"
+description: >
+  This publication focuses on spectral emissivity, solar selective coating, efficiency. Spectral data key High heat needs measurement Accuracy matters.
+date: 2024-01-24
+author:
+  - name: "Telmo Echániz"
+    orcid: 0000-0002-0330-0653
+categories:
+  - Spectral emissivity
+  - Solar selective coating
+  - Efficiency
+pub-info:
+  reference: >-
+    Echániz, arXiv (2024).
+  links:
+    - name: "arXiv"
+      url: https://arxiv.org/abs/2401.13095
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Spectral data key
+  - High heat needs measurement
+  - Accuracy matters
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Importance of the spectral emissivity measurements at working temperature to determine the efficiency of a solar selective coating">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_date" content="2024-01-24">
+---
+
+## Abstract
+
+This publication focuses on spectral emissivity, solar selective coating, efficiency. Spectral data key High heat needs measurement Accuracy matters.
+
+## Citation
+
+> Echániz, arXiv (2024).
+
+::: {.callout-note}
+Click the **arXiv** button above to access the full text or official record.
+:::

@@ -1,0 +1,57 @@
+---
+title: "ESA ESTEC"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / ESA ESTEC</div>
+```
+
+::: {.page-article}
+# ESA ESTEC — Materials and Electrical Components Laboratory
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Netherlands |
+| **City** | Noordwijk |
+| **Tier** | Extended |
+| **Primary ecosystem** | Space Thermal |
+| **Unit** | [Materials & Electrical Components Laboratory (TEC Directorate)](https://technology.esa.int/lab/materials-electrical-components-laboratory) |
+
+
+
+## Why it matters internationally
+
+Every European spacecraft's thermal design depends on trusted α/ε values
+for its surfaces. ESTEC's materials laboratory is where those
+thermo-optical properties are measured and qualified against ECSS
+standards, making it the institutional bridge between laboratory
+emissivity measurement and flight hardware.
+
+## Scope of activity
+
+- **Quantities:** thermo-optical properties: emittance, reflectance, absorptance
+- **Spectral range:** UV–VIS–NIR–IR
+- **Methodology:** Thermo-optical characterization of spacecraft thermal-control materials per ECSS standards, with benchtop and portable instruments; includes studies of lunar-dust degradation of thermo-optical properties.
+
+**Application domains:** spacecraft thermal control · material qualification per ECSS standards.
+
+## External sources
+
+- [Materials & Electrical Components Laboratory (ESA)](https://technology.esa.int/lab/materials-electrical-components-laboratory)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

@@ -1,0 +1,91 @@
+---
+title: "EKHI"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/data/index.html">Data</a> / EKHI</div>
+
+<section class="home-section" style="border-bottom:none; padding-top:32px;">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>EKHI — the open database of optical and thermal radiative properties</h2>
+      <a class="more" href="https://thermomat.ehu.eus/ekhi">Open EKHI →</a>
+    </div>
+    <p class="sec-intro">
+      EKHI is an open, publication-centred database of optical and thermal
+      radiative properties of solid materials: curve-level spectral datasets
+      with explicit provenance, machine-readable downloads, and citation tools.
+      It is developed and maintained by the Thermomat group at the University
+      of the Basque Country (UPV/EHU) and formally described in
+      <a href="https://www.nature.com/articles/s41597-026-07083-9"><em>Scientific Data</em> (2026)</a>.
+    </p>
+
+    <div class="net-stats">
+      <div class="net-stat"><div class="v">1 251</div><div class="k">curve-level dataset entries</div></div>
+      <div class="net-stat"><div class="v">167</div><div class="k">source publications</div></div>
+      <div class="net-stat"><div class="v">0.05–1000 µm</div><div class="k">spectral range</div></div>
+      <div class="net-stat"><div class="v">~0 K → melting</div><div class="k">temperature coverage</div></div>
+    </div>
+    <p style="font-size:13px; color:#74808c; margin-top:-14px;">
+      Counts as published in the <em>Scientific Data</em> descriptor
+      (doi:10.1038/s41597-026-07083-9), January 2026. This page is updated at
+      each EKHI data release, not live.
+    </p>
+  </div>
+</section>
+```
+
+::: {.page-article}
+
+## What EKHI contains
+
+EKHI is organised around **scientific publications**, reflecting how radiative
+and optical data are generated, validated, and cited. Users search by title,
+abstract keywords, authors, or DOI; each publication record exposes one or
+more **dataset entries**, each corresponding to a single curve or a
+well-defined set of curves with its experimental context: material, measured
+or derived property, temperature, wavelength range, measurement geometry, and
+specimen notes.
+
+The initial corpus digitizes emittance, reflectance, transmittance, and
+absorptance curves from the **TPRC Data Series** (Touloukian et al.,
+*Thermophysical Properties of Matter*), with a documented digitization
+workflow, quality controls, and full traceability to the original cited
+publications — designed to support the FAIR principles.
+
+## Access and reuse
+
+Every dataset can be inspected as a table, downloaded in machine-readable form
+(JSON), and traced through an explicit provenance chain: original publication
+DOI → TPRC volume, table, and curve identifier → EKHI record.
+
+- **Browse and search:** [thermomat.ehu.eus/ekhi](https://thermomat.ehu.eus/ekhi)
+- **How to cite EKHI data:** [citation guidelines](/data/cite-ekhi.html)
+- **Reference paper:** [EKHI: an open database of optical and thermal radiative properties of solid materials, *Scientific Data* (2026)](https://www.nature.com/articles/s41597-026-07083-9)
+
+## Typical workflows
+
+Constructing spectral emissivity from reflectance and transmittance data in
+the opaque or semitransparent limits; benchmarking emissometers and
+spectro-reflectometers against canonical compilation curves; assembling
+labelled spectral datasets for modelling and machine-learning studies; and
+teaching radiative heat transfer with real, citable curves instead of
+digitized figures.
+
+## Contributing data
+
+EKHI grows by indexing published, peer-reviewed data with full provenance.
+If you have published spectral radiative-property data that should be indexed,
+see [how to contribute](/contribute/submit-data.html).
+
+::: {.sources-panel}
+### Traceability
+
+Figures on this page come from the EKHI descriptor in *Scientific Data*
+(doi:10.1038/s41597-026-07083-9) and the live database at
+thermomat.ehu.eus/ekhi. Last revised: 2026-06-11.
+:::
+
+:::

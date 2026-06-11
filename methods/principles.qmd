@@ -1,0 +1,87 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════ MEASUREMENT PRINCIPLES ═══════════════ -->
+<div class="inner-page">
+
+  <h1>Measurement principles for emissivity</h1>
+  <p class="inner-page__subtitle">A guided introduction for advanced undergraduates and researchers entering the field of thermal radiation measurement.</p>
+
+  <!-- What is emissivity? -->
+  <section>
+    <h2>What is emissivity?</h2>
+    <p>Emissivity is the ratio of the thermal radiation emitted by a real surface to the radiation that would be emitted by an ideal blackbody at the same temperature. It is a dimensionless quantity between 0 and 1. A perfect blackbody has an emissivity of 1: it absorbs all incident radiation and, by Kirchhoff's law, emits the maximum possible radiation at every wavelength and in every direction.</p>
+    <p>Real surfaces always have emissivity less than 1. The value depends on the material, its surface condition (roughness, oxidation, coatings), the wavelength of radiation, the direction of emission, and the temperature. This dependence is what makes emissivity both practically important and experimentally challenging: a single number rarely captures the full radiative behaviour of a surface.</p>
+    <p>Emissivity matters because it controls how much thermal energy a surface radiates. In industrial furnaces, spacecraft thermal management, building energy performance, concentrated solar power, and infrared thermography, the emissivity of surfaces directly determines temperatures, heat fluxes, and measurement accuracy.</p>
+  </section>
+
+  <!-- Types of emissivity -->
+  <section>
+    <h2>Types of emissivity</h2>
+    <p>There is no single "emissivity" — the quantity must be specified with respect to its spectral and directional character. Four distinct quantities are commonly used, each appropriate to different applications.</p>
+
+    <div class="standard-entry">
+      <h3>&epsilon;(&lambda;, &theta;, T) — Directional spectral emissivity</h3>
+      <p>The most fundamental quantity. It describes the emissivity at a specific wavelength &lambda;, in a specific direction &theta; (measured from the surface normal), and at a specific temperature T. This is what most laboratory instruments actually measure. It contains the richest information and is the basis from which all other emissivity quantities are derived by integration.</p>
+    </div>
+
+    <div class="standard-entry">
+      <h3>&epsilon;(&lambda;, T) — Hemispherical spectral emissivity</h3>
+      <p>Obtained by integrating the directional spectral emissivity over all emission directions (the full hemisphere above the surface). This quantity answers the question: at wavelength &lambda;, how much total power does the surface radiate into all directions, compared to a blackbody? It is the quantity needed when computing spectral radiative heat transfer without concern for directionality.</p>
+    </div>
+
+    <div class="standard-entry">
+      <h3>&epsilon;(&theta;, T) — Directional total emissivity</h3>
+      <p>Obtained by integrating the directional spectral emissivity over all wavelengths, weighted by the Planck function at temperature T. This quantity describes how much total power the surface radiates in a particular direction. It is useful in radiometric and thermographic applications where the detector integrates over a broad spectral band.</p>
+    </div>
+
+    <div class="standard-entry">
+      <h3>&epsilon;(T) — Hemispherical total emissivity</h3>
+      <p>The most aggregated quantity: integrated over all wavelengths and all directions. It is the single number that appears in the Stefan-Boltzmann law for real surfaces (q = &epsilon;&sigma;T&#8308;). This is the quantity engineers typically need for heat-transfer calculations, but it hides all spectral and directional detail. Two surfaces can have the same hemispherical total emissivity while behaving very differently in narrow spectral bands or at grazing angles.</p>
+    </div>
+  </section>
+
+  <!-- How emissivity is measured -->
+  <section>
+    <h2>How emissivity is measured</h2>
+    <p>There are two fundamental approaches to measuring emissivity, and the choice between them depends on the temperature range, the spectral region, and the desired uncertainty.</p>
+
+    <h3>Direct emission method</h3>
+    <p>The sample is heated to a known temperature, and the radiation it emits is measured with a spectrometer or radiometer. The measured spectral radiance is compared to that of a blackbody reference at the same temperature. This method is conceptually straightforward and works well at elevated temperatures (above about 400 K) where the emitted signal is strong. The main challenges are accurate sample temperature measurement, control of background radiation from the surroundings, and maintaining thermal equilibrium during the measurement.</p>
+
+    <h3>Indirect method (reflectance-based)</h3>
+    <p>At lower temperatures, the emitted signal may be too weak to measure accurately. In this case, Kirchhoff's law is used: for an opaque surface, &epsilon;(&lambda;, &theta;) = 1 &minus; &rho;(&lambda;, &theta;), where &rho; is the directional-hemispherical reflectance. The reflectance is measured using an external source (such as a globar or a laser) and an integrating sphere or directional detector. This method avoids the need to heat the sample but introduces its own challenges: the integrating sphere must capture all reflected radiation, and the source must be well-characterised.</p>
+
+    <h3>Instrumentation</h3>
+    <p>Fourier-transform infrared (FTIR) spectrometers are the most common instruments for spectral emissivity measurement in the mid-infrared (2–25 µm). They offer broad spectral coverage, good spectral resolution, and established calibration procedures. For total emissivity measurements, calorimetric techniques (measuring the total radiated power) or broadband radiometers are used. At very high temperatures (above 1500 K), specialised furnaces, vacuum chambers, and optical pyrometers are required.</p>
+  </section>
+
+  <!-- Why geometry matters -->
+  <section>
+    <h2>Why geometry matters</h2>
+    <p>The emissivity of a surface generally depends on the direction of emission. For metals, emissivity is typically low near the surface normal and increases at grazing angles (large &theta;). For dielectrics and oxides, the opposite trend often holds: emissivity is highest near the normal and decreases at grazing incidence.</p>
+    <p>This angular dependence has practical consequences. A measurement made at normal incidence (&theta; = 0°) does not represent the hemispherical emissivity: the conversion requires knowledge of the full angular profile. The relationship between directional and hemispherical emissivity is given by an integral over the hemisphere, weighted by cos&theta; sin&theta;. For surfaces with weak angular dependence, simple correction factors suffice, but for strongly anisotropic surfaces, the full directional profile must be measured.</p>
+    <p>Measurement geometry also matters for the instrument itself. The solid angle subtended by the detector, the f-number of the collection optics, and the angular acceptance of integrating spheres all affect what is actually measured. A reported "normal emissivity" may in practice be averaged over a cone of several degrees around the normal, depending on the optical system.</p>
+  </section>
+
+  <!-- Temperature dependence -->
+  <section>
+    <h2>Temperature dependence</h2>
+    <p>Emissivity changes with temperature for two distinct reasons.</p>
+
+    <h3>Intrinsic material changes</h3>
+    <p>The optical properties of materials (refractive index and extinction coefficient) depend on temperature through lattice vibrations, free-carrier concentration, and phase transitions. Metals generally show increasing emissivity with temperature because electrical resistivity increases, reducing reflectivity. Oxides and ceramics can show more complex behaviour, including changes due to thermal expansion, sintering, or chemical reactions at high temperature.</p>
+
+    <h3>Planck-function weighting</h3>
+    <p>Even if the spectral emissivity were temperature-independent, the total emissivity would still change with temperature because the Planck function shifts its peak to shorter wavelengths as temperature increases (Wien's displacement law). Since spectral emissivity varies with wavelength, the Planck-weighted integral changes. At 300 K the peak emission is near 10 µm; at 1500 K it shifts to about 2 µm. If a material has different emissivity in these two spectral regions, its total emissivity will change with temperature even without any intrinsic material change.</p>
+
+    <h3>Practical implications</h3>
+    <p>Temperature dependence means that emissivity values measured at one temperature cannot be assumed valid at another. For engineering applications requiring emissivity over a range of temperatures, measurements must be performed at multiple temperatures, or a physically motivated model must be used for interpolation. The EKHI database stores temperature as a mandatory metadata field for exactly this reason.</p>
+  </section>
+
+</div>
+
+```

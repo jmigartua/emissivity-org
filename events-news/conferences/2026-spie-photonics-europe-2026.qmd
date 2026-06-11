@@ -1,0 +1,31 @@
+---
+title: "SPIE Photonics Europe 2026"
+subtitle: "SPIE Photonics Europe | Strasbourg, France"
+date: 2026-04-12
+description: "Premier European photonics event covering optical imaging, sensing, metrology, and spectroscopy."
+url: "https://spie.org/conferences-and-exhibitions/photonics-europe"
+categories:
+  - Photonics
+  - SPIE
+  - spectroscopy
+  - photonics
+  - metrology
+  - optics
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-04-12 to 2026-04-16
+
+**Location:** Strasbourg, France
+
+[Conference Website](https://spie.org/conferences-and-exhibitions/photonics-europe){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+SPIE Photonics Europe is the premier European photonics event covering optical imaging, sensing, metrology, and spectroscopy. Co-located with SPIE Optical Systems Design. Relevant for optical/spectroscopic instrumentation used in emissivity characterization.
+
+

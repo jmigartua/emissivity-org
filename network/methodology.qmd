@@ -1,0 +1,176 @@
+---
+title: "Methodology"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / Methodology</div>
+```
+
+::: {.page-article}
+# Methodology
+
+This page documents the scope, inclusion criteria, tier logic, and
+limitations of the Research Map. It is the companion to the
+[master directory](/network/index.html) and the [ecosystems page](/network/ecosystems.html).
+
+## Scope
+
+Included are **non-commercial, research-active entities** whose public
+material explicitly mentions at least one of:
+
+- emissivity / emittance (spectral, total, normal, hemispherical, directional)
+- reflectance
+- transmittance
+- absorptance / absorptivity
+- thermal emission / thermal radiative properties
+- infrared radiometry / radiation thermometry
+- radiative cooling
+- land-surface emissivity.
+
+Included entity types: **universities, national laboratories, research
+institutes, public research centers, and public agencies.** Companies,
+vendors, and for-profit consultancies are **excluded**, regardless of their
+technical quality or visibility.
+
+## Inclusion criteria
+
+An entity qualifies for the map if **at least one** of the following is true:
+
+1. **Named research unit or program** explicitly on the scope topics (e.g.
+   PTB WG 7.35 "Emissivity", CAE "Advanced Thermal Management", Christensen
+   Research Group "Thermal Emission Spectroscopy Laboratory").
+2. **Dedicated facility or named instrument** (e.g. DISCO at PROMES-CNRS,
+   BMEIR at IMT Mines Albi, System for Infrared Spectral Emittance of
+   Materials at NIST).
+3. **Curated public database** on the scope topics (e.g. JEDI at NASA JPL,
+   TPDS at AIST / NMIJ, EKHI at Thermomat / UPV-EHU, USGS Spectral Library).
+4. **Sustained peer-reviewed output** on the scope topics with evidence of
+   ongoing activity (e.g. conference contributions, HAL/arXiv records, group
+   publication pages).
+
+Entities that appear in only one IR-EMPOWER talk and whose own institutional
+pages do not back up the emissivity framing are **retained but flagged**
+(see Tier IV).
+
+## Tier logic
+
+Four tiers are used. The tier of an entity is set by the **strongest
+available evidence** — unit name, facility, database, or sustained output —
+and by the **centrality of emissivity / radiative properties to the entity's
+public identity**.
+
+### Tier I — Core (12 entities)
+
+Directly centered on emissivity / thermo-optical metrology. Typical profile:
+a unit or facility on the scope topics **and** a named instrument or
+measurement capability **and** sustained output. Examples: PTB (WG 7.35
+"Emissivity"), CEMHTI-CNRS (simultaneous T + spectral emittance), PROMES-CNRS
+(DISCO), IMT Mines Albi (BMEIR), ISI Brno (cryogenic emissivity), Institute
+VINČA (direct pulse-heating), NIST (System for IR Spectral Emittance),
+AIST/NMIJ (TPDS), and the Thermomat/EKHI group at UPV-EHU.
+
+### Tier II — Extended (5 entities)
+
+Essential once the scope broadens to reflectance, spectral libraries, and
+radiative-property data infrastructures. These entities may have emissivity
+as one of several roles rather than as their primary identity. Examples:
+NASA JPL (JEDI), ASU TES Laboratory, Brown RELAB, USGS Spectroscopy, LTeN-CNRS
+(architectured ceramics).
+
+### Tier III — Engineered emissivity / thermal photonics (5 entities)
+
+Academic groups that **design** emissivity through nanophotonics, metasurfaces,
+and radiative-cooling schemes, plus closely aligned applied-energy groups.
+Examples: Stanford Fan Group, Columbia / Nanfang Yu Group, Utah / TIFT Lab,
+Vanderbilt / Caldwell Lab, LBNL Heat Island Group.
+
+### Tier IV — Emerging / flagged (4 entities)
+
+Ultrahigh-temperature frontier, application-specific, or conference-affiliated
+where the emissivity infrastructure evidenced in the public record is hosted
+elsewhere. Examples: University of Virginia (~4000 °C work), Ruhr University
+Bochum / LEAT (combustion / powders), University of Wisconsin–Madison (IR
+emission via FTIR, less institutionally visible), LASP Boulder (participant
+affiliation only — talk content evidenced at PTB).
+
+## Ranking within a tier
+
+Ranks within a tier are **relative centrality indicators**, based on:
+
+- explicitness of emissivity in the public institutional identity;
+- breadth of radiative properties covered (emittance, reflectance,
+  transmittance, absorptance);
+- specificity and uniqueness of the measurement capability envelope
+  (temperature range, wavelength range, angular resolution, sample state);
+- presence of a curated database or spectral library;
+- evidence of ongoing activity (recent conferences, 2024–2026 output).
+
+Two entities at the same rank are treated as comparable. Ranks are **not**
+absolute prestige rankings.
+
+## What is deliberately excluded
+
+- **Companies, vendors, and for-profit consultancies**, even those with
+  strong technical reputations (scope criterion).
+- **Individual researchers without a traceable institutional unit on the
+  scope topics** — a person's participation in a conference is not itself
+  sufficient evidence to rank their home institution high.
+- **Historical-only entities** with no evidence of recent activity.
+- **Entities whose public pages do not mention any of the scope topics**,
+  regardless of reputation in adjacent areas.
+
+## Limitations and known gaps
+
+- Several known specialist groups in **Asia** (beyond AIST / NMIJ) are
+  under-represented relative to their likely activity. This is a **visibility
+  gap**, not an absence-of-activity gap, and should be closed in future
+  updates.
+- **Latin America, Africa, Oceania, and India** are similarly under-represented
+  in this version. Contributions naming specific research units on the scope
+  topics are explicitly welcome.
+- **Smaller CNRS laboratories** beyond the five listed may have emissivity
+  work embedded inside broader thermal-science programs — future updates will
+  systematically scan CNRS and HAL for additional nodes.
+- **Commercial-academic hybrid centers** (e.g. certain applied-research
+  institutes in the Fraunhofer, AIDIMME, or Tecnalia network) sit at the
+  boundary of the scope criterion and are currently excluded pending explicit
+  evidence of non-commercial research activity on the scope topics.
+
+## Evidence sources used
+
+The primary public-facing evidence sources used in compiling this map were:
+
+- Institutional laboratory pages (PTB, NIST, CEMHTI, PROMES, ICA, ISI Brno,
+  NTC, VINČA, CNR-INO, CAE, LEAT, Thermomat, etc.).
+- The **IR-EMPOWER program** (EHU-hosted workshop on infrared emissivity
+  measurement) as a concentrated source of European speakers, institutional
+  affiliations, and specific measurement-technique attributions.
+- **Database landing pages** (JEDI, TPDS, EKHI, USGS Spectral Library, ASU
+  TES Library, RELAB).
+- Peer-reviewed articles, HAL records, and ORCID profiles where relevant.
+
+Each institution page lists its own evidence sources at the foot.
+
+## A note on methodology
+
+The map ranks **research entities**, not individual researchers. In several
+cases a speaker in the IR-EMPOWER program was highly relevant but the
+institutional website was not explicit enough to prove that the whole
+institution has emissivity as a core platform. Where that happened, the
+institution was kept on the map but placed in a lower tier. That is why
+**PTB, CEMHTI-CNRS, PROMES-CNRS, ISI Brno, IMT Mines Albi / ICA, and CAE
+Würzburg** rise to the top: they are not only publishing in the area; they
+visibly **maintain experimental infrastructure or institutionalized research
+lines on emissivity and thermo-optical properties**.
+
+## How to contribute
+
+The machine-readable source of truth for this directory is
+`_data/institutions.yml`. Corrections, additions (new units, new instruments,
+new databases, new publications), and newly qualifying institutions are
+welcome. The recommended contribution format is a pull request that updates
+`_data/institutions.yml` and, for new entries, adds a matching
+`institutions/<slug>.qmd` page using an existing entry as a template.
+:::

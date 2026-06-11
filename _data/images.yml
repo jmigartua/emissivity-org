@@ -1,0 +1,144 @@
+# emissivity.org — institution profile images
+# Every entry license-verified (sweep of 2026-06-11). Rules: public domain,
+# CC0/CC-BY/CC-BY-SA, or institutional release only. No stock, no AI imagery.
+# `direct_url` is used by tools/fetch_images.sh; images land in
+# assets/images/network/<id>.jpg and are only rendered once present.
+#
+# Not yet sourced (no license-clean image found): dlr-psl (DLR's PSL chamber
+# photo is CC BY-NC-ND — email DLR media for permission), cae-wuerzburg,
+# stanford-fan, kaist-jang, vinca, tubitak-ume, thermomat-ehu (own photo!),
+# and the remaining directory entries.
+
+images:
+  nist:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/NIST%20AML%20building.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:NIST_AML_building.jpg"
+    license: "Public domain (US federal)"
+    credit: "Photo: Gail Porter / NIST via Wikimedia Commons, public domain"
+    caption: "The Advanced Measurement Laboratory at NIST, Gaithersburg — the institute's flagship precision-measurement facility."
+  nasa-jpl:
+    direct_url: "https://images-assets.nasa.gov/image/PIA25869/PIA25869~large.jpg"
+    license_page: "https://images.nasa.gov/details/PIA25869"
+    license: "Public domain (NASA)"
+    credit: "Photo: NASA/JPL-Caltech, public domain"
+    caption: "JPL engineers integrating an imaging spectrometer in the cleanroom."
+  nasa-gsfc:
+    direct_url: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001401/GSFC_20171208_Archive_e001401~large.jpg"
+    license_page: "https://images.nasa.gov/details/GSFC_20171208_Archive_e001401"
+    license: "Public domain (NASA)"
+    credit: "Photo: NASA / Chris Gunn, public domain"
+    caption: "JWST's science instrument module entering the thermal-vacuum chamber at Goddard, where thermo-optical properties meet flight hardware."
+  usgs-spectroscopy:
+    direct_url: "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/HyperVeg_0.png"
+    license_page: "https://www.usgs.gov/media/images/aviris-spectrometer-images-san-luis-valley-colorado"
+    license: "Public domain (USGS)"
+    credit: "Image: USGS Geology, Geophysics, and Geochemistry Science Center, public domain"
+    caption: "AVIRIS imaging-spectrometer maps of the San Luis Valley, Colorado — spectroscopy-lab data in action."
+  lbnl-heat-island:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Molecular%20Foundry%20at%20Lawrence%20Berkeley%20National%20Laboratory%20(52230758982).jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Molecular_Foundry_at_Lawrence_Berkeley_National_Laboratory_(52230758982).jpg"
+    license: "Public domain (US DOE)"
+    credit: "Photo: U.S. Department of Energy via Wikimedia Commons, public domain"
+    caption: "The Lawrence Berkeley National Laboratory campus (facility view)."
+  promes-cnrs:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Four-solaire-odeillo-07.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Four-solaire-odeillo-07.jpg"
+    license: "CC BY-SA 3.0"
+    credit: "Photo: Björn Appel via Wikimedia Commons, CC BY-SA 3.0"
+    caption: "The 1 MW Odeillo solar furnace (Centre Félix Trombe): parabolic concentrator and heliostat field."
+  esa-estec:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Europe's%20largest%20satellite%20test%20centre.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Europe%27s_largest_satellite_test_centre.jpg"
+    license: "CC BY-SA 3.0 IGO"
+    credit: "Photo: ESA – G. Porter via Wikimedia Commons, CC BY-SA 3.0 IGO"
+    caption: "Inside the ESTEC Test Centre, Noordwijk — Europe's largest satellite environmental test facility."
+  ptb:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Luftbild%20Braunschweig%20PTB.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Luftbild_Braunschweig_PTB.jpg"
+    license: "CC BY-SA 3.0 DE (released by PTB)"
+    credit: "Photo: PTB via Wikimedia Commons, CC BY-SA 3.0 DE"
+    caption: "Aerial view of the PTB campus in Braunschweig (campus view; apparatus photo pending from PTB media services)."
+  cemhti-cnrs:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/200%20MHz%20NMR.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:200_MHz_NMR.jpg"
+    license: "CC BY-SA 4.0"
+    credit: "Photo: K. Bagheri via Wikimedia Commons, CC BY-SA 4.0"
+    caption: "Instrumentation at CEMHTI-CNRS, Orléans (NMR spectrometer shown; emissometry apparatus photo pending from the laboratory)."
+  isi-brno:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Electron%20microscope%20Mamut%20at%20the%20Institute%20of%20Scientific%20Instruments%20of%20the%20Czech%20Academy%20of%20Science%20in%20Brno%20(1).jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Electron_microscope_Mamut_at_the_Institute_of_Scientific_Instruments_of_the_Czech_Academy_of_Science_in_Brno_(1).jpg"
+    license: "CC BY-SA 3.0 CZ"
+    credit: "Photo: Czech Academy of Sciences via Wikimedia Commons, CC BY-SA 3.0 CZ"
+    caption: "Instrument hall at the Institute of Scientific Instruments CAS, Brno (electron microscope shown)."
+  columbia-yu:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Northwest%20Corner%20Building,%20Columbia%20University%20(6435263981).jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Northwest_Corner_Building,_Columbia_University_(6435263981).jpg"
+    license: "CC BY-SA 2.0"
+    credit: "Photo: InSapphoWeTrust via Wikimedia Commons, CC BY-SA 2.0"
+    caption: "Columbia's Northwest Corner Building, home to interdisciplinary science labs (building view)."
+  vanderbilt-caldwell:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Featheringill%20Hall.png?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Featheringill_Hall.png"
+    license: "CC BY-SA 4.0"
+    credit: "Photo: BugsMeanee via Wikimedia Commons, CC BY-SA 4.0"
+    caption: "Featheringill Hall, Vanderbilt School of Engineering (building view)."
+  ucla-raman:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Boelter%20Hall,%20UCLA.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Boelter_Hall,_UCLA.jpg"
+    license: "CC BY 2.0"
+    credit: "Photo: legge_e_mare via Wikimedia Commons, CC BY 2.0"
+    caption: "Boelter Hall, UCLA Samueli School of Engineering (building view)."
+  purdue-ruan:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/BRK%20Wiki2.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:BRK_Wiki2.jpg"
+    license: "CC BY-SA 4.0"
+    credit: "Photo: DrSwatiVPol via Wikimedia Commons, CC BY-SA 4.0"
+    caption: "Birck Nanotechnology Center, Purdue Discovery Park, where the group's nanoscale thermal work is carried out."
+  uchicago-hsu:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/William%20Eckhardt%20Research%20Center,%20University%20of%20Chicago,%20Ellis%20Avenue%20and%2057th%20Street,%20Hyde%20Park,%20Chicago,%20IL%20(54515516675).jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:William_Eckhardt_Research_Center,_University_of_Chicago,_Ellis_Avenue_and_57th_Street,_Hyde_Park,_Chicago,_IL_(54515516675).jpg"
+    license: "CC BY-SA 2.0"
+    credit: "Photo: Warren LeMay via Wikimedia Commons, CC BY-SA 2.0"
+    caption: "William Eckhardt Research Center, home of the Pritzker School of Molecular Engineering (building view)."
+  nanjing-zhu:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Main%20building%20university%20of%20Nanking%202018.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Main_building_university_of_Nanking_2018.jpg"
+    license: "CC BY-SA 4.0"
+    credit: "Photo: ScareCriterion12 via Wikimedia Commons, CC BY-SA 4.0"
+    caption: "Nanjing University, Gulou campus (campus view)."
+  uts-sydney:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/UTS%20Tower%202012-08-06.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:UTS_Tower_2012-08-06.jpg"
+    license: "CC BY-SA 3.0"
+    credit: "Photo: Gareth Edwards via Wikimedia Commons, CC BY-SA 3.0"
+    caption: "The UTS Tower, University of Technology Sydney (building view)."
+  aist-nmij:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/AIST%20Tsukuba%2010.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:AIST_Tsukuba_10.jpg"
+    license: "CC0"
+    credit: "Photo: Syced via Wikimedia Commons, CC0"
+    caption: "AIST Tsukuba campus, headquarters of the National Metrology Institute of Japan (campus view)."
+  npl:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/The%20National%20Physical%20Laboratory,%20Teddington%20-%20geograph.org.uk%20-%204048376.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:The_National_Physical_Laboratory,_Teddington_-_geograph.org.uk_-_4048376.jpg"
+    license: "CC BY-SA 2.0"
+    credit: "Photo: David Howard / geograph.org.uk via Wikimedia Commons, CC BY-SA 2.0"
+    caption: "The National Physical Laboratory, Teddington (building view)."
+  ciemat-psa:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20de%20Receptor%20central%20con%20campo%20de%20heliostatos,%20Plataforma%20Solar%20de%20Almer%C3%ADa.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Sistema_de_Receptor_central_con_campo_de_heliostatos,_Plataforma_Solar_de_Almer%C3%ADa.jpg"
+    license: "CC BY-SA 4.0"
+    credit: "Photo: Opticamecfuam via Wikimedia Commons, CC BY-SA 4.0"
+    caption: "Central-receiver tower and heliostat field at the Plataforma Solar de Almería."
+  onera-dota:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/ONERA%20Toulouse.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:ONERA_Toulouse.jpg"
+    license: "CC BY-SA 4.0"
+    credit: "Photo: YtoSu via Wikimedia Commons, CC BY-SA 4.0"
+    caption: "ONERA's Toulouse centre, one of the DOTA department's two sites (facility view)."
+  fraunhofer-ise:
+    direct_url: "https://commons.wikimedia.org/wiki/Special:FilePath/Fraunhofer%20ISE-Hauptgebaeude.jpg?width=1280"
+    license_page: "https://commons.wikimedia.org/wiki/File:Fraunhofer_ISE-Hauptgebaeude.jpg"
+    license: "CC BY-SA 3.0 DE"
+    credit: "Photo: Guido Kirsch, Fraunhofer ISE, via Wikimedia Commons, CC BY-SA 3.0 DE"
+    caption: "Fraunhofer ISE main building, Freiburg (building view)."

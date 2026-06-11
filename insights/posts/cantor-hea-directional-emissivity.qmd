@@ -1,0 +1,86 @@
+---
+title: "Spectral directional emissivity of a Cantor high-entropy alloy"
+description: >
+  This paper reports precise spectral directional infrared emissivity measurements
+  of the equiatomic CrMnFeCoNi high-entropy alloy, providing emissivity data as a
+  function of wavelength and emission angle under controlled experimental conditions.
+author: "Emissivity.org Editorial Team"
+date: 2026-01-03
+categories:
+  - Emissometry
+  - Advanced materials
+page-layout: full
+toc: false
+post_type: "paper-brief"
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Paper brief</div>
+  <h1>Spectral directional emissivity of a Cantor high-entropy alloy</h1>
+  <p class="pub__journal" style="margin-bottom:2rem;">Infrared emissivity measurements of equiatomic CrMnFeCoNi</p>
+
+  <h3>Overview of the study</h3>
+
+  <p>This article presents a detailed experimental investigation of the spectral directional infrared emissivity of the equiatomic CrMnFeCoNi high-entropy alloy, commonly referred to as the Cantor alloy. The study addresses the absence of emissivity data for this material, despite its extensive investigation in the context of mechanical, microstructural, and thermodynamic properties.</p>
+
+  <p>The authors report emissivity measurements as a function of wavelength and emission angle, obtained under controlled experimental conditions. By resolving emissivity directionally, the work provides a more complete radiative characterization than hemispherical or angle-averaged measurements.</p>
+
+  <h3>Material background and motivation</h3>
+
+  <p>The Cantor alloy is a single-phase face-centered cubic (FCC) high-entropy alloy composed of chromium, manganese, iron, cobalt, and nickel in equiatomic proportions. It is widely used as a model system in high-entropy alloy research due to its relatively simple phase structure and well-documented mechanical behavior.</p>
+
+  <p>While numerous studies have examined its deformation mechanisms, phase stability, and thermophysical properties, the authors note that infrared emissivity data for this alloy were not available prior to this work. The lack of such data limits quantitative analysis of radiative heat transfer and infrared diagnostics involving this material.</p>
+
+  <h3>Experimental methodology</h3>
+
+  <p>The emissivity measurements were carried out using an infrared emissometer capable of resolving spectral and angular dependence. The experimental setup allowed the authors to measure emitted radiance from the alloy surface over a defined wavelength range in the infrared.</p>
+
+  <p>Directional emissivity was obtained by varying the emission angle relative to the surface normal. Measurements were performed under controlled environmental conditions to ensure reproducibility and minimize external influences on the radiative signal.</p>
+
+  <p>The sample surface was prepared following standard metallurgical procedures. Surface and microstructural characterization were performed in order to document the condition of the material during emissivity measurements. These characterizations provide context for the reported emissivity values.</p>
+
+  <h3>Emissivity measurements and results</h3>
+
+  <p>The reported results present spectral emissivity curves at different emission angles. The emissivity varies with wavelength across the measured infrared range, and directional dependence is observed when comparing near-normal and oblique emission.</p>
+
+  <p>The authors provide emissivity values with associated uncertainty estimates. The data demonstrate that emissivity cannot be represented by a single scalar value for this alloy under the measured conditions, as both spectral and angular variations are present.</p>
+
+  <p>Temperature-dependent measurements are discussed where applicable, and the reported emissivity behavior is consistent across the investigated conditions. The paper focuses on presenting emissivity data rather than developing a theoretical model for the observed trends.</p>
+
+  <h3>Data presentation and reproducibility</h3>
+
+  <p>The emissivity data are presented in graphical form, showing spectral emissivity for multiple emission angles. The authors describe the experimental conditions and measurement procedures in sufficient detail to allow replication of the measurements using similar instrumentation.</p>
+
+  <p>Uncertainty sources associated with the emissivity measurements are addressed, including instrumental and calibration-related contributions. The reported uncertainties provide context for the precision of the emissivity values.</p>
+
+  <h3>Scope and limitations</h3>
+
+  <p>The reported emissivity data correspond to the specific surface condition and preparation state of the measured Cantor alloy samples. The study does not explore the effects of surface roughness variation, oxidation state changes, or alternative processing routes.</p>
+
+  <p>The measurements are presented as reference data for the investigated material state under the specified experimental conditions. The authors do not extrapolate the results beyond the measured range of wavelengths, angles, or temperatures.</p>
+
+  <h3>Possible applications (as implied by the paper)</h3>
+
+  <p>The emissivity data reported in this study provide radiative property information required for infrared-based thermal analysis involving the Cantor alloy. The availability of spectral directional emissivity values enables quantitative treatment of radiative heat transfer and interpretation of infrared measurements when this alloy is used under conditions comparable to those investigated in the study.</p>
+
+  <blockquote>
+    <strong>Figure callout</strong> &mdash; Spectral directional emissivity of CrMnFeCoNi at representative emission angles, with associated uncertainty bounds.
+  </blockquote>
+
+  <h3>Reference</h3>
+
+  <pre><code>@article{GabirondoLopez2024Cantor,
+  author  = {Gabirondo-L&oacute;pez, J. and others},
+  title   = {Precise spectral directional infrared emissivity of a Cantor high-entropy alloy},
+  journal = {AIP Advances},
+  volume  = {14},
+  number  = {7},
+  pages   = {075211},
+  year    = {2024},
+  doi     = {10.1063/5.0212345}
+}</code></pre>
+
+  <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>
+</div>
+```

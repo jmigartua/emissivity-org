@@ -1,0 +1,56 @@
+---
+title: "Nanjing Zhu Group"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Nanjing Zhu Group</div>
+```
+
+::: {.page-article}
+# Nanjing University — Jia Zhu Group
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | China |
+| **City** | Nanjing |
+| **Tier** | Engineered |
+| **Primary ecosystem** | Engineered Emissivity |
+| **Unit** | [College of Engineering and Applied Sciences; National Laboratory of Solid State Microstructures](https://ceas.nju.edu.cn/zhu/main.htm) |
+| **Publicly linked people** | Jia Zhu |
+
+
+## Why it matters internationally
+
+The Zhu group is among the most-cited engineered-emissivity groups in
+China, pushing selective thermal emitters toward scalability — the
+bridge between laboratory metasurfaces and deployable radiative-cooling
+materials.
+
+## Scope of activity
+
+- **Quantities:** selective thermal emitters (engineered emissivity)
+- **Spectral range:** solar + sky-window bands
+- **Methodology:** Scalable selective thermal emitters for daytime and all-day radiative cooling (dual-selective emitter, Nature Communications 2024 — Tsinghua-led collaboration with Jia Zhu, NJU, as co-corresponding author); nanophotonics and nanoscale heat transfer.
+
+**Application domains:** scalable radiative cooling · selective emitters.
+
+## External sources
+
+- [Dual-selective thermal emitter (Nature Communications, 2024)](https://www.nature.com/articles/s41467-024-45095-4)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

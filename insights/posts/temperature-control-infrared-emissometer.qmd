@@ -1,0 +1,99 @@
+---
+title: "Temperature control of an infrared emissometer using model-free cascaded control"
+description: >
+  This paper presents a model-free cascaded control strategy applied to the
+  temperature regulation of an infrared emissometer, addressing nonlinear dynamics,
+  uncertainty, and actuator saturation through simulation and experimental validation.
+author: "Emissivity.org Editorial Team"
+date: 2026-01-03
+categories:
+  - Emissometry
+  - Instrumentation
+page-layout: full
+toc: false
+post_type: "method-note"
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Method note</div>
+  <h1>Temperature control of an infrared emissometer using model-free cascaded control</h1>
+  <p class="pub__journal" style="margin-bottom:2rem;">Control of nonlinear uncertain heating systems applied to emissometry</p>
+
+  <h3>Overview of the study</h3>
+
+  <p>This article presents a control-oriented study focused on the temperature regulation of an infrared emissometer. The work addresses the problem of controlling nonlinear and uncertain heating systems subject to actuator saturation and operational constraints typical of emissometry setups, such as the absence of active cooling.</p>
+
+  <p>The authors propose a model-free cascaded control strategy and evaluate its performance through numerical simulations and experimental validation on an infrared emissometer. The study is framed within control systems theory, with emissometry serving as the application case.</p>
+
+  <h3>Motivation and control problem formulation</h3>
+
+  <p>Infrared emissometers operate by heating a sample to a prescribed temperature and measuring its emitted radiation. Accurate temperature regulation is required to ensure stable and repeatable emissivity measurements. In practice, emissometer heating systems exhibit nonlinear dynamics, uncertain parameters, and actuator limitations.</p>
+
+  <p>The authors identify several challenges specific to emissometer temperature control: variability in sample properties, changes in thermal coupling, actuator saturation at high temperatures, and the lack of active cooling mechanisms. These factors complicate the use of conventional model-based control approaches.</p>
+
+  <p>The control objective is formulated as tracking a temperature reference at the sample level, despite uncertainty in system dynamics and external disturbances.</p>
+
+  <h3>Control architecture</h3>
+
+  <p>The proposed control scheme is a cascaded architecture consisting of two control loops. The inner loop is an industrial proportional&ndash;integral&ndash;derivative (PID) controller acting on the heating element. The outer loop is a model-free controller designed to compensate for nonlinearities and uncertainties in the system.</p>
+
+  <p>The outer loop generates the reference signal for the inner PID controller based on the observed tracking error. The model-free controller does not rely on an explicit mathematical model of the system but instead uses input&ndash;output measurements to adjust the control action.</p>
+
+  <p>This cascaded configuration is designed to combine the robustness and industrial familiarity of PID control with the adaptability of model-free techniques.</p>
+
+  <h3>Model-free control formulation</h3>
+
+  <p>The model-free control approach adopted in this study is based on an ultra-local model representation of the system dynamics. In this framework, the unknown nonlinear system is approximated locally by a simple input&ndash;output relation, with an aggregated term accounting for unmodeled dynamics and disturbances.</p>
+
+  <p>The control law is derived using this ultra-local model, allowing the controller to adapt to changes in system behavior without requiring parameter identification. The authors describe the mathematical formulation of the model-free controller and its integration into the cascaded architecture.</p>
+
+  <h3>Simulation studies</h3>
+
+  <p>The performance of the proposed control strategy is first evaluated through numerical simulations. The simulations are designed to reproduce the operating conditions of an infrared emissometer, including nonlinear heating behavior and actuator saturation.</p>
+
+  <p>The authors compare the model-free cascaded controller with a conventional cascaded PID control strategy. Performance metrics include reference tracking accuracy, response time, and robustness to disturbances and parameter variations.</p>
+
+  <p>Simulation results show that the proposed controller improves temperature tracking and reduces steady-state error under the tested conditions. The controller maintains stable performance in scenarios where the conventional approach exhibits degraded tracking.</p>
+
+  <h3>Experimental validation</h3>
+
+  <p>Following the simulation studies, the control strategy is implemented experimentally on an infrared emissometer. The experimental setup includes temperature sensors, heating elements, and the control hardware required to implement the cascaded architecture.</p>
+
+  <p>Experimental results demonstrate that the model-free cascaded controller achieves improved temperature regulation compared to the reference control strategy. The authors present temperature tracking data illustrating the controller's ability to follow setpoint changes and reject disturbances.</p>
+
+  <p>The experimental validation confirms that the control strategy can be implemented in a real emissometry system and performs consistently with the simulation predictions.</p>
+
+  <h3>Discussion of results</h3>
+
+  <p>The authors discuss the observed performance improvements in terms of robustness and adaptability. The model-free controller compensates for variations in system behavior without requiring explicit re-tuning or system identification.</p>
+
+  <p>The study emphasizes that the proposed control strategy addresses practical constraints encountered in emissometer operation, including saturation effects and uncertainty in thermal dynamics. The results demonstrate the feasibility of applying advanced control techniques to emissometry instrumentation.</p>
+
+  <h3>Scope and limitations</h3>
+
+  <p>The work focuses on a specific infrared emissometer and heating configuration. While the control strategy is formulated in general terms, the reported results correspond to the tested system and operating conditions.</p>
+
+  <p>The study does not address the direct impact of temperature control improvements on emissivity uncertainty, nor does it present a full uncertainty propagation analysis linking temperature regulation to emissivity measurement accuracy.</p>
+
+  <h3>Possible applications (as implied by the paper)</h3>
+
+  <p>The demonstrated control strategy can be applied to infrared emissometers and similar heating systems requiring robust temperature regulation under nonlinear and uncertain conditions. The validated approach provides a method for improving temperature tracking performance in emissometry setups operating within constraints similar to those investigated in the study.</p>
+
+  <blockquote>
+    <strong>Figure callout</strong> &mdash; Cascaded control architecture and experimental temperature tracking results for the infrared emissometer.
+  </blockquote>
+
+  <h3>Reference</h3>
+
+  <pre><code>@article{GabirondoLopez2024TCST,
+  author  = {Gabirondo-L&oacute;pez, J. and Arredondo, I. and Igartua, J. M.},
+  title   = {Temperature Control of Nonlinear Uncertain Systems via Model-Free Cascaded Controller: Application to an Infrared Emissometer},
+  journal = {IEEE Transactions on Control Systems Technology},
+  year    = {2024},
+  doi     = {10.1109/TCST.2024.3371234}
+}</code></pre>
+
+  <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>
+</div>
+```

@@ -1,0 +1,101 @@
+---
+title: "AIST / NMIJ — National Metrology Institute of Japan"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / AIST / NMIJ</div>
+```
+
+::: {.page-article}
+# AIST / NMIJ — National Metrology Institute of Japan
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Japan |
+| **City** | Tsukuba |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Thermophysical databases · national metrology |
+| **Signature infrastructure** | **TPDS — Network Database System for Thermophysical Property Data** |
+| **R&D focus** | Nearly ideal blackbody materials · high-emissivity reference devices for thermography |
+
+## Why it matters internationally
+
+AIST/NMIJ is especially important as a **long-term data infrastructure**.
+Its Network Database System for Thermophysical Property Data explicitly
+includes both **spectral emissivity** and **hemispherical total emissivity**
+among curated properties, alongside **reflectivity**; individual materials
+pages show these quantities present in the archive. In parallel, AIST
+reports active R&D on **nearly ideal blackbody materials** and
+**high-emissivity reference devices for thermography**, placing it firmly
+in the emissivity / infrared-radiometry domain rather than only in generic
+materials databases. It is a crucial component of the field's **memory and
+data continuity**.
+
+## Scope of activity
+
+### Relevant units
+
+- **TPDS — Network Database System for Thermophysical Property Data** —
+  AIST-run public resource. Database statistics explicitly list spectral
+  emissivity, hemispherical total emissivity, and reflectivity among
+  curated properties.
+- Broader AIST / NMIJ programs on blackbody standards and thermography
+  reference materials.
+
+### Radiative properties measured / curated
+
+Spectral emissivity · hemispherical total emissivity · reflectivity · other
+thermophysical properties (broad coverage).
+
+### Capability envelope
+
+- **Methodology:** database infrastructure for curated thermophysical-
+  property data; R&D on nearly ideal blackbody materials and high-
+  emissivity reference devices for thermography.
+- **Role:** provides traceability and reference-material support for the
+  thermography / radiation-thermometry community in Japan and
+  internationally.
+
+### Signature infrastructure
+
+- **TPDS (Network Database System for Thermophysical Property Data).**
+  A public resource whose explicit inclusion of emissivity quantities
+  makes it a genuine radiative-property database, not merely a general
+  thermophysical-property archive.
+
+### Application domains
+
+- Thermography and radiation thermometry references
+- Data curation for thermophysical properties
+- Long-term accessibility and reuse of radiative-property data
+- Supply of reference blackbodies and high-emissivity devices
+
+## Why AIST / NMIJ is a reference pole
+
+A research field only matures when it produces data infrastructures that
+outlive individual projects. TPDS is one of the very few public-sector
+thermophysical databases in the world that explicitly curates emissivity
+quantities, and it is operated by a national metrology institute that also
+produces the reference materials underpinning those measurements. That
+combination — long-term database plus active reference-material R&D — is
+rare, and places AIST/NMIJ in the foundational tier alongside PTB and
+NIST.
+
+## External sources
+
+- [TPDS — About (AIST)](https://tpds.db.aist.go.jp/about_en.html)
+- [TPDS — Database statistics](https://tpds.db.aist.go.jp/TPDS-web/statistics/metastatistics.aspx)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

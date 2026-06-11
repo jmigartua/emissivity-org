@@ -1,0 +1,93 @@
+---
+title: "Ruhr University Bochum — LEAT (Department of Energy Plant Technology)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Ruhr University Bochum / LEAT</div>
+```
+
+::: {.page-article}
+# Ruhr University Bochum — LEAT (Department of Energy Plant Technology)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Bochum |
+| **Tier** | Emerging / application-specific (Tier IV) |
+| **Primary ecosystem** | Applied energy — combustion, powders, particulate systems |
+| **Relevant unit** | **LEAT** — experimental combustion investigations |
+| **Distinctive focus** | Spectral normal emissivity of **solid surfaces or powders** |
+
+## Why it matters internationally
+
+LEAT brings emissivity measurement into **non-ideal, process-relevant
+material states**: powders, fuels, ash-forming matter, and hot reacting
+particles. The institute's experimental-facilities page explicitly states
+that LEAT features a setup for determining the spectral normal emissivity
+of solid surfaces or powders; related publications discuss emissivity
+investigations of pulverized biomass and coal char. Its international
+importance lies in **combustion and particulate systems**, where
+emissivity is difficult, transient, and operationally decisive — an
+important expansion beyond polished solids and stable coupons.
+
+## Scope of activity
+
+### Relevant unit
+
+- **LEAT — experimental combustion investigations (Ruhr University
+  Bochum).** Dedicated experimental setup for spectral normal emissivity
+  of solid surfaces or powders, with broader program in combustion-
+  relevant radiative heat transfer.
+
+### Radiative properties measured
+
+Spectral normal emissivity of solid surfaces or powders — under conditions
+relevant to reacting particulate systems.
+
+### Methodology
+
+Application-driven setups for combustion-relevant materials; dedicated
+experimental apparatus for spectral normal emissivity of solid surfaces or
+powders; integration with radiative heat-transfer measurements in
+reacting particulate systems.
+
+### Application domains
+
+- Combustion
+- Single-particle biomass-fuel emissivity during burnout
+- Pulverized biomass and coal char emissivity
+- Radiative heat-transfer measurements in reacting particulate systems
+
+## IR-EMPOWER contributions
+
+- Radiative heat-transfer measurements.
+- Single-particle biomass-fuel emissivity during burnout.
+
+## Why LEAT is a reference pole
+
+Most emissivity data in the literature describe polished, stable,
+equilibrium samples. Combustion and pulverized-fuel engineering operate
+in exactly the opposite regime: evolving particles, reactive surfaces,
+short residence times. LEAT's decision to build dedicated instrumentation
+for spectral normal emissivity of powders and reacting particles fills a
+practical gap that applied-energy modeling has long struggled with, and
+puts the institute firmly on the applied-combustion side of the
+radiative-properties map.
+
+## External sources
+
+- [Experimental combustion investigations — LEAT](https://www.leat.ruhr-uni-bochum.de/leat/forschung/versuchsanlagen.html.en)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

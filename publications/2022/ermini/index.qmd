@@ -1,0 +1,46 @@
+---
+title: "Real time FT-IR observation of materials during their cooling from molten state"
+description: >
+  This publication focuses on ft-ir spectroscopy, molten materials, real-time measurement. Melt observed in time Fourier transform captures Cooling phase spectra.
+date: 2022-12-01
+author:
+  - name: "Iñigo M. Ermini"
+  - name: "Domingos De Sousa Meneses"
+  - name: "Olivier Rozenbaum"
+    orcid: 0000-0002-1474-4970
+categories:
+  - FT-IR spectroscopy
+  - Molten materials
+  - Real-time measurement
+pub-info:
+  reference: >-
+    Ermini et al., Infrared Phys. Technol. 127, 104424 (2022).
+  links:
+    - name: "ScienceDirect"
+      url: https://doi.org/10.1016/j.infrared.2022.104424
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Melt observed in time
+  - Fourier transform captures
+  - Cooling phase spectra
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Real time FT-IR observation of materials during their cooling from molten state">
+      <meta name="citation_author" content="Iñigo M. Ermini">
+      <meta name="citation_author" content="Domingos De Sousa Meneses">
+      <meta name="citation_author" content="Olivier Rozenbaum">
+      <meta name="citation_date" content="2022-12-01">
+      <meta name="citation_doi" content="10.1016/j.infrared.2022.104424">
+---
+
+## Abstract
+
+This publication focuses on ft-ir spectroscopy, molten materials, real-time measurement. Melt observed in time Fourier transform captures Cooling phase spectra.
+
+## Citation
+
+> Ermini et al., Infrared Phys. Technol. 127, 104424 (2022).
+
+::: {.callout-note}
+Click the **ScienceDirect** button above to access the full text or official record.
+:::

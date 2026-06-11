@@ -1,0 +1,93 @@
+---
+title: "USGS — Spectroscopy Laboratory / Astrogeology Science Center"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / USGS Spectroscopy</div>
+```
+
+::: {.page-article}
+# USGS — Spectroscopy Laboratory / Astrogeology Science Center
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Denver (Spectroscopy Lab) · Flagstaff (Astrogeology) |
+| **Tier** | Extended (Tier II) |
+| **Primary ecosystem** | Spectral libraries — Earth and planetary materials |
+| **Relevant units** | **USGS Spectroscopy Laboratory — Spectral Library** · **Astrogeology Science Center** |
+| **Signature infrastructure** | Large spectral-reflectance library |
+
+## Why it matters internationally
+
+USGS is a central institution for **reflectance / emissivity spectroscopy
+of Earth and planetary materials**. The Spectroscopy Laboratory maintains
+a large spectral-reflectance library, while Astrogeology pages document
+laboratory work involving **thermal emission and hemispherical reflectance
+spectra** of Mars analog materials and shocked minerals. It is not an
+"emissivity-only" center, but it is unquestionably part of the research
+ecosystem around spectral radiative properties, and for a broadened scope
+including reflectivity it remains one of the key public research entities.
+
+## Scope of activity
+
+### Relevant units
+
+- **USGS Spectroscopy Laboratory — Spectral Library** — large public
+  reflectance library of Earth and planetary materials.
+- **Astrogeology Science Center** — infrared-spectroscopy activities,
+  including thermal emission and hemispherical reflectance of Mars analog
+  materials and shocked minerals.
+
+### Radiative properties measured / curated
+
+Spectral reflectance · thermal emission spectra · hemispherical
+reflectance — across Earth and planetary materials.
+
+### Capability envelope
+
+- **Methodology:** large spectral-reflectance library; laboratory work on
+  Mars analog materials and shocked minerals; thermal emission and
+  hemispherical reflectance characterization of geological samples.
+- **Role:** reference point for the compositional interpretation of remote
+  surfaces, from Earth mineralogy to planetary exploration.
+
+### Signature infrastructure
+
+- **USGS Spectral Library** — long-running, heavily cited reflectance
+  library of Earth and planetary materials, used across mineralogy, remote
+  sensing, and planetary science.
+
+### Application domains
+
+- Earth and planetary materials spectroscopy
+- Remote sensing
+- Compositional interpretation of remote surfaces
+- Mars analog research
+
+## Why USGS is a reference pole
+
+The reflectance and emissivity communities are deeply entangled — through
+Kirchhoff-related reasoning, through shared spectral libraries, and
+through the optical constants those libraries implicitly encode. USGS's
+Spectral Library is one of the anchor datasets that this shared reasoning
+is built on, which is why it belongs firmly in any map of the broader
+radiative-properties research landscape.
+
+## External sources
+
+- [USGS Spectral Library](https://www.usgs.gov/labs/spectroscopy-lab/science/spectral-library)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

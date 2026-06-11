@@ -1,0 +1,77 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+
+  <div class="section__head">
+    <div>
+      <div class="section__label">About</div>
+      <div class="section__title">About <em>emissivity.org</em></div>
+    </div>
+  </div>
+
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2rem;">Mission</h2>
+
+  <p><strong>Advancing the science and practice of thermal radiative property measurements through global collaboration.</strong></p>
+
+  <p>Emissivity.org is the hub of an international network of research laboratories dedicated to the measurement, understanding, and application of thermal radiative properties &mdash; particularly spectral and directional emissivity. The site integrates open data, measurement methods, laboratory capabilities, and community activity into a single visible surface. It exists to make the field findable, connected, and alive &mdash; for active researchers, for newcomers, and for anyone who needs reliable spectral radiative-property data.</p>
+
+  <p>Our network brings together leading facilities in thermal radiation metrology, including national metrology institutes and university research groups across Europe and beyond.</p>
+
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">Five activities</h2>
+
+  <p>Everything on the site maps to five core activities:</p>
+
+  <ol style="line-height:1.8;color:#1d2630;">
+    <li><strong>Measurement science</strong> &mdash; Connecting laboratory practice, standards, and good-practice guidance so that emissivity measurements are reproducible and comparable across institutions.</li>
+    <li><strong>Open data</strong> &mdash; Curating and publishing spectral emissivity data through <a href="/data/ekhi.html" style="color:#1b3a6b;">EKHI</a>, the open radiative-property database, with publication-traced provenance and curve-level downloads.</li>
+    <li><strong>Standards</strong> &mdash; Tracking ISO and ASTM standards relevant to emissivity and thermal radiation measurement, with community commentary and practical interpretation.</li>
+    <li><strong>Training</strong> &mdash; Through the <a href="https://www.ir-empower.eu/" style="color:#1b3a6b;" target="_blank">IR-EMPOWER</a> workshop series and collaborative research programs, supporting hands-on training, method notes, and educational resources that help researchers and engineers measure and use emissivity data correctly.</li>
+    <li><strong>Connection</strong> &mdash; Making laboratories, researchers, events, and new publications visible in one place, so the community can find each other and collaborate.</li>
+  </ol>
+
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">Origin</h2>
+
+  <p>Emissivity.org was founded by the <strong>HAIRL / Thermomat group</strong> at the University of the Basque Country (UPV/EHU) in Bilbao, Spain. The group&rsquo;s long experience building FTIR-based emissometry systems, curating spectral datasets, and collaborating internationally motivated the creation of a shared platform for the field.</p>
+
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">The network</h2>
+
+  <p>The site documents the worldwide community through its
+  <a href="/network/index.html">research map</a>: a curated, source-verified
+  directory of <strong>40 institutions in 14 countries</strong> — national
+  metrology institutes, high-temperature and solar facilities, remote-sensing
+  and spectral-library groups, spacecraft thermal-control laboratories, and
+  the engineered-emissivity (thermal photonics) community. Inclusion follows a
+  published <a href="/network/methodology.html">methodology</a>; every profile
+  is traceable to public institutional sources.</p>
+
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">Four operational pillars</h2>
+
+  <div class="card-grid" style="margin-top:1rem;">
+    <article class="info-card">
+      <h4>Open by default</h4>
+      <p>All EKHI data is published under CC-BY 4.0. Methods guides, standards commentary, and editorial content are freely accessible. The site does not gate any information behind registration or payment.</p>
+    </article>
+    <article class="info-card">
+      <h4>Publication-traced provenance</h4>
+      <p>Every spectral curve in EKHI links back to a published source. Data without provenance does not enter the database. This ensures that users can always verify, cite, and contextualise any record they download.</p>
+    </article>
+    <article class="info-card">
+      <h4>Community-driven curation</h4>
+      <p>Data submissions, insight proposals, and event announcements come from the community. The editorial team reviews for quality and consistency, but the content reflects the field&rsquo;s own activity and priorities.</p>
+    </article>
+    <article class="info-card">
+      <h4>Visible activity</h4>
+      <p>A field hub should show signs of life. Events, new data, insights, and community changes are surfaced on the homepage and across the site so that visitors see a living resource, not a static archive.</p>
+    </article>
+  </div>
+
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">Contact</h2>
+
+  <p>For questions about the site, data submissions, or network membership, write to <a href="mailto:info@emissivity.org" style="color:#1b3a6b;">info@emissivity.org</a>.</p>
+
+</div>
+```

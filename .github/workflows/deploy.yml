@@ -1,0 +1,43 @@
+# MANUAL FALLBACK ONLY.
+# Production deployment is continuous via Netlify's linked-repository build.
+# Trigger this from the GitHub Actions tab only if Netlify builds are
+# unavailable. Requires NETLIFY_AUTH_TOKEN and NETLIFY_SITE_ID secrets.
+
+name: Manual fallback deploy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "1.6.42"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate and render
+        run: |
+          pip install pyyaml
+          python3 tools/generate_network.py
+          python3 tools/generate_featured.py
+          quarto render
+          mkdir -p _site/assets
+          cp -r assets/data assets/scripts _site/assets/
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v3
+        with:
+          publish-dir: _site
+          production-deploy: true
+          deploy-message: "Manual fallback deploy"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

@@ -1,0 +1,46 @@
+---
+title: "Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect"
+description: >
+  This publication focuses on passive radiative cooling, urban heat island, emissivity characterization. Cities cool at night Radiative surfaces help Heat island reduced.
+date: 2025-03-01
+author:
+  - name: "Jochen Manara"
+    orcid: 0000-0002-5319-6874
+  - name: "Juergen Hartmann"
+  - name: "Hans-Peter Ebert"
+categories:
+  - Passive radiative cooling
+  - Urban heat island
+  - Emissivity characterization
+pub-info:
+  reference: >-
+    Manara et al., Int. J. Thermophys. 46, 58 (2025).
+  links:
+    - name: "Springer"
+      url: https://doi.org/10.1007/s10765-025-03529-1
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Cities cool at night
+  - Radiative surfaces help
+  - Heat island reduced
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_author" content="Juergen Hartmann">
+      <meta name="citation_author" content="Hans-Peter Ebert">
+      <meta name="citation_date" content="2025-03-01">
+      <meta name="citation_doi" content="10.1007/s10765-025-03529-1">
+---
+
+## Abstract
+
+This publication focuses on passive radiative cooling, urban heat island, emissivity characterization. Cities cool at night Radiative surfaces help Heat island reduced.
+
+## Citation
+
+> Manara et al., Int. J. Thermophys. 46, 58 (2025).
+
+::: {.callout-note}
+Click the **Springer** button above to access the full text or official record.
+:::

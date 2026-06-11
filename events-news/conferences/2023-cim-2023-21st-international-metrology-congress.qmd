@@ -1,0 +1,29 @@
+---
+title: "CIM 2023 (21st International Metrology Congress)"
+subtitle: "CIM (International Metrology Congress) | Lyon, France"
+date: 2023-03-07
+description: "General metrology congress; thermometry tracks provide a context for radiation measurement topics."
+url: "https://www.cim-metrology.org/en/archives/2023-edition/programme-2023"
+categories:
+  - General metrology
+  - metrology
+  - thermometry
+  - standards
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2023-03-07 to 2023-03-10
+
+**Location:** Lyon, France
+
+[Conference Website](https://www.cim-metrology.org/en/archives/2023-edition/programme-2023){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+CIM is a general metrology congress with a multi-domain technical program. Thermometry and related measurement science appear regularly among the sessions. Emissivity and radiation-related measurement topics may be present within those thermometry and radiation measurement discussions.
+
+

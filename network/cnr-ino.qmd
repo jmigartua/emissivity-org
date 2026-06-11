@@ -1,0 +1,98 @@
+---
+title: "CNR-INO — Istituto Nazionale di Ottica"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / CNR-INO</div>
+```
+
+::: {.page-article}
+# CNR-INO — Istituto Nazionale di Ottica
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Italy |
+| **City** | Florence |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | High-temperature thermo-optical / solar-energy materials |
+| **Relevant unit** | **Smart and Solar Energy Materials Lab** |
+| **Publicly linked people** | Elisa Sani |
+| **Signature envelope** | **0.2 – 50 µm** · spectral emittance up to **1000 °C** |
+
+## Why it matters internationally
+
+CNR-INO represents a very important **convergence of optics, materials
+characterization, and thermal emittance**, particularly for solar-energy
+materials. The Smart and Solar Energy Materials Lab spans **0.2 to 50 µm**
+and measures spectral emittance as a function of temperature **up to
+1000 °C**, explicitly listing transmittance, reflectance, thermal emittance,
+and absorption among the investigated properties. CNR-INO matters because
+it shows how emissivity research can be embedded within a broader optical-
+science institute while remaining technically serious — especially where
+high-temperature emittance is functionally linked to solar-selective
+behavior, receiver design, and energy conversion.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Smart and Solar Energy Materials Lab (CNR-INO).** Broad optical
+  characterization integrated with high-temperature emittance measurement;
+  spectral reflectance and high-temperature thermal-emittance
+  characterization of ceramics and ultra-high-temperature materials.
+
+### Radiative properties measured
+
+Transmittance · reflectance · spectral emittance · absorption — across an
+unusually wide spectral range.
+
+### Capability envelope
+
+- **Wavelength:** 0.2 µm to 50 µm (UV through far-IR).
+- **Temperature:** spectral emittance vs. temperature up to ~1000 °C.
+- **Methodology:** broad optical characterization combined with
+  high-temperature emittance measurement — allowing the same material to be
+  characterized coherently across solar-absorption, thermal-emission, and
+  intermediate wavelengths.
+
+### Application domains
+
+- Solar-energy materials
+- High-temperature solar receivers
+- Ultra-high-temperature ceramics
+- Selective absorbers
+- Energy conversion
+
+## IR-EMPOWER contributions
+
+- **Elisa Sani** — spectral emittance of ceramics for high-temperature solar
+  receivers.
+
+## Why CNR-INO is a reference pole
+
+For solar-thermal applications the same material must behave very
+differently at solar wavelengths (high absorption) and at thermal-emission
+wavelengths (controlled emittance). Measuring this behavior coherently
+requires a lab that can span the whole range from the UV to the far-IR on
+the same samples at realistic temperatures. CNR-INO's 0.2–50 µm envelope
+up to 1000 °C makes it one of the natural European anchors for
+solar-selective materials research that depends critically on emissivity
+engineering.
+
+## External sources
+
+- [Smart and Solar Energy Materials Lab (CNR-INO)](https://www.ino.cnr.it/?p=a6&page_id=16599)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

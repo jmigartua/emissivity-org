@@ -1,0 +1,101 @@
+---
+title: "PROMES-CNRS — Procédés, Matériaux et Énergie Solaire"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / PROMES-CNRS</div>
+```
+
+::: {.page-article}
+# PROMES-CNRS — Procédés, Matériaux et Énergie Solaire
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | France |
+| **City** | Odeillo / Font-Romeu |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | High-temperature thermo-optical characterization |
+| **Parent organization** | CNRS |
+| **Relevant activity** | Thermal-radiation metrology; solar-energy materials; pyroreflectometry |
+| **Named instrument** | **DISCO** |
+| **Publicly linked people** | Christophe Escape |
+
+## Why it matters internationally
+
+PROMES is globally important because it measures radiative properties in the
+harsh regime of **concentrated fluxes** and **high temperature**, where
+emissivity is essential for obtaining true temperature and for modeling
+solar-thermal systems realistically. Its **DISCO** apparatus is explicitly
+devoted to determining **true temperature, reflectivity, and emissivity at
+high temperature**, and its thermal-radiation-metrology pages emphasize
+calibration and pyrometric methods for real in-situ conditions. PROMES is a
+key bridge between **metrology, solar-thermal engineering, and advanced
+high-temperature materials**.
+
+## Scope of activity
+
+### Relevant units and activities
+
+- **Thermal-radiation metrology** in the context of solar furnaces and
+  extreme radiant environments.
+- **Solar-energy materials** research with emissivity and reflectivity as
+  central variables.
+- **Pyroreflectometric methods** adapted to in-situ solar conditions.
+
+### Named instrument
+
+- **DISCO** — an original experimental setup for determining **true
+  temperature, reflectivity, and emissivity at high temperature**, up to
+  about **1500 °C**.
+
+### Radiative properties measured
+
+Spectral and total emissivity · reflectivity · true temperature under
+concentrated flux · thermo-optical properties at high temperature.
+
+### Capability envelope
+
+- **Temperature:** up to **~1500 °C** on the DISCO platform.
+- **Methodology:** pyroreflectometry; pyrometry adapted to in-situ solar
+  conditions; handling of parasitic reflections and nontrivial geometries
+  under high concentrated fluxes.
+
+### Application domains
+
+Solar-energy materials · solar receivers and advanced ceramics ·
+concentrated-solar thermal systems · pyrometry where classical assumptions
+fail.
+
+## IR-EMPOWER contributions
+
+- **Christophe Escape** — measurement of thermo-optical properties.
+
+## Why PROMES is distinctive
+
+PROMES exemplifies a particularly advanced branch of the field: emissivity
+determination in settings where **optical heating, parasitic reflections,
+high concentrated fluxes**, and **nontrivial geometry** make naive pyrometry
+unreliable. In such environments, knowing emissivity is not an academic
+luxury — it is the **condition for measuring temperature correctly** and for
+modeling solar-thermal systems realistically. The IR-EMPOWER program
+identifies PROMES as a speaker on "measurement of thermo-optical properties,"
+and its research record includes pyroreflectometric methods and high-
+temperature emissivity work on advanced ceramics and solar-receiver materials.
+
+## External sources
+
+- [Solar reactors and enclosures — PROMES](https://www.promes.cnrs.fr/en/infrastructure-solaire/moyens-solaires/solar-reactors-and-enclosures/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

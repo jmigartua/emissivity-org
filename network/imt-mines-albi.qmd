@@ -1,0 +1,99 @@
+---
+title: "IMT Mines Albi / Institut Clément Ader (ICA)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / IMT Mines Albi / ICA</div>
+```
+
+::: {.page-article}
+# IMT Mines Albi / Institut Clément Ader (ICA)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | France |
+| **City** | Albi |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Metrology — directional spectral |
+| **Relevant unit** | ICA (UMR CNRS 5312) — directional spectral emissivity instrumentation |
+| **Publicly linked people** | Yannick Le Maoult |
+| **Signature instrument** | **BMEIR** — 1–11 µm, ~600–1000 °C |
+
+## Why it matters internationally
+
+This laboratory is highly significant **methodologically**, because it is
+associated with a dedicated setup — **BMEIR** — explicitly designed for
+**directional spectral emissivity**, a much richer and more experimentally
+demanding quantity than a single broadband value. Laboratories able to
+measure directional-spectral behavior contribute not only data but also
+**measurement philosophy**: they confront questions of anisotropy, wavelength
+selectivity, surface evolution, and angular dependence under realistic
+conditions.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Institut Clément Ader (ICA), UMR CNRS 5312** — houses the directional
+  spectral emissivity instrumentation.
+
+### Radiative properties measured
+
+**Directional spectral emissivity** — the full angular × wavelength
+dependence of emitted radiation, rather than an integrated or total value.
+
+### Capability envelope
+
+- **Wavelength:** 1 µm to 11 µm.
+- **Temperature:** roughly 600 °C to 1000 °C.
+- **Methodology:** dedicated experimental apparatus (BMEIR) that resolves
+  emissivity in both wavelength and angle, allowing characterization of
+  anisotropic surfaces, spectral selectivity, and thermally induced
+  evolution.
+
+### Signature instrument
+
+- **BMEIR** — experimental setup for directional spectral emissivity between
+  1 and 11 µm over roughly 600–1000 °C. It is one of the better-documented
+  European facilities for directional-spectral work in this temperature
+  window.
+
+### Application domains
+
+- Thermal processing
+- Materials characterization with spectral-angular detail
+- Processes where apparent emissivity varies strongly with viewing geometry
+- Surfaces with roughness-, texture-, or oxidation-driven anisotropy
+
+## IR-EMPOWER contributions
+
+- **Yannick Le Maoult** — contribution on the BMEIR experimental setup for
+  directional spectral emissivity (1–11 µm, 600–1000 °C) and its
+  applications.
+
+## Why IMT Mines Albi / ICA is a reference pole
+
+Most published emissivity values implicitly collapse angular and spectral
+structure into a single number. Laboratories that refuse that collapse —
+that insist on measuring emissivity as a genuinely directional and spectral
+function — are the ones that build the experimental basis for everything
+from accurate pyrometry on real surfaces to the design of engineered
+emitters. ICA/IMT Mines Albi is one of the clearest European examples.
+
+## External sources
+
+- [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

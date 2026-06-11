@@ -1,0 +1,30 @@
+---
+title: "ITCC/ITES 2026 — International Thermal Conductivity Conference & Thermal Expansion Symposium"
+subtitle: "ITCC/ITES | Columbus, Ohio, USA"
+date: 2026-09-29
+description: "Premier meeting on thermophysical properties of materials including thermal radiation characterization."
+url: "https://ceramics.org/event/international-thermal-conductivity-conference-itcc-international-thermal-expansion-symposium-ites-2026/"
+categories:
+  - thermal-conductivity
+  - measurement
+  - Thermophysical properties
+  - materials
+  - thermophysical-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-09-29 to 2026-10-01
+
+**Location:** Columbus, Ohio, USA
+
+[Conference Website](https://ceramics.org/event/international-thermal-conductivity-conference-itcc-international-thermal-expansion-symposium-ites-2026/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+ITCC/ITES 2026 is the premier meeting on thermophysical properties of materials, covering thermal conductivity, diffusivity, thermal expansion, and related phenomena. Emissivity measurement often appears alongside other thermophysical characterization. Co-hosted by Edward Orton Jr. Ceramic Foundation and Hot Disk AB.
+
+

@@ -1,0 +1,58 @@
+---
+title: "Purdue Ruan Group"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Purdue Ruan Group</div>
+```
+
+::: {.page-article}
+# Purdue University — Ruan Group
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | West Lafayette, IN |
+| **Tier** | Engineered |
+| **Primary ecosystem** | Engineered Emissivity |
+| **Unit** | [Ruan Group, School of Mechanical Engineering](https://engineering.purdue.edu/NANOENERGY/) |
+| **Publicly linked people** | Xiulin Ruan |
+
+
+## Why it matters internationally
+
+The Ruan group's barium-sulfate radiative-cooling paints — 98.1% solar
+reflectance with strong sky-window emission — are the most visible
+demonstration that engineered emissivity scales from metasurfaces to
+paint cans, with peer-reviewed field tests behind the headlines.
+
+## Scope of activity
+
+- **Quantities:** solar reflectance · sky-window emissivity (engineered paints)
+- **Spectral range:** solar spectrum + 8–13 µm sky window
+- **Temperature:** field demonstrations under full sun
+- **Methodology:** BaSO4-based radiative cooling paints with 98.1% solar reflectance and high sky-window emissivity (the 'whitest paint'); full-scale field cooling tests.
+
+**Application domains:** radiative cooling paints · building energy.
+
+## External sources
+
+- [The whitest paint is here (Purdue)](https://stories.purdue.edu/the-whitest-paint-is-here-and-its-the-coolest-literally/)
+- [Ultrawhite BaSO4 paints (ACS Appl. Mater. Interfaces)](https://pubs.acs.org/doi/10.1021/acsami.1c02368)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

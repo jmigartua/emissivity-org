@@ -1,0 +1,42 @@
+---
+title: "Real-time emissivity measurements on solid phase formation during solidification of SrAl₂Si₂O₈"
+description: >
+  This publication focuses on real-time measurement, solidification, ceramics. Liquid turns to solid Real time thermal capture Phase change emission.
+date: 2024-07-01
+author:
+  - name: "Zdeněk Veselý"
+  - name: "Leire del Campo"
+    orcid: 0000-0003-2759-9706
+  - name: "Olivier Rozenbaum"
+    orcid: 0000-0002-1474-4970
+  - name: "Iñigo González de Arrieta"
+    orcid: 0000-0001-6984-5149
+  - name: "Domingos De Sousa Meneses"
+categories:
+  - Real-time measurement
+  - Solidification
+  - Ceramics
+pub-info:
+  reference: >-
+    Veselý et al., Infrared Physics and Technology (2024).
+  links:
+    - name: "Record"
+      url: https://research.science.eus/documentos/66a63ce0ee1e685b53ee1ad9
+      icon: fa-solid fa-file
+haiku:
+  - Liquid turns to solid
+  - Real time thermal capture
+  - Phase change emission
+---
+
+## Abstract
+
+This publication focuses on real-time measurement, solidification, ceramics. Liquid turns to solid Real time thermal capture Phase change emission.
+
+## Citation
+
+> Veselý et al., Infrared Physics and Technology (2024).
+
+::: {.callout-note}
+Click the **Record** button above to access the full text or official record.
+:::

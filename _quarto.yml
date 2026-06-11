@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+resources:
+  - _redirects
+  - assets/data/labs.json
+  - assets/scripts/labs-map.js
+  - files/ical/emissivity-conferences.ics
+
+website:
+  title: "emissivity.org"
+  description: "The international hub for emissivity research, integrating open data, measurement methods, laboratory capabilities, and community activity."
+  site-url: "https://emissivity.org"
+  favicon: assets/icons/favicon.png
+  open-graph:
+    image: assets/images/og-image.png
+    description: "Open spectral-emissivity data, measurement methods, laboratory capabilities, and field updates for the international emissivity community."
+  navbar: false
+  search: true
+  page-footer:
+    background: dark
+    left: |
+      &copy; 2026 Emissivity Research Network
+    center: |
+      [About](/about/index.html) &middot; [Editorial Policy](/about/editorial-policy.html) &middot; [Privacy](/privacy.html) &middot; [FAQ](/about/faq.html)
+    right: |
+      [Cite EKHI](/data/cite-ekhi.html) &middot; [Contribute](/contribute/index.html) &middot; [Insights](/insights/index.html)
+
+format:
+  html:
+    theme: none
+    css:
+      - assets/styles/theme.css
+    include-in-header:
+      - assets/includes/fonts.html
+    include-before-body:
+      - assets/includes/site-header.html
+    include-after-body:
+      - assets/includes/site-footer.html
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-copy: true
+    link-external-newwindow: false
+
+execute:
+  freeze: auto

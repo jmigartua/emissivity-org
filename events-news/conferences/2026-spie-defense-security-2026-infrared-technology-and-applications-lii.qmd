@@ -1,0 +1,30 @@
+---
+title: "SPIE Defense + Security 2026 — Infrared Technology and Applications LII"
+subtitle: "SPIE Defense + Security | National Harbor, Maryland, USA"
+date: 2026-04-26
+description: "IR detector arrays, thermal imaging systems, SWIR/MWIR/LWIR technologies."
+url: "https://spie.org/conferences-and-exhibitions/defense-and-security"
+categories:
+  - SPIE
+  - infrared
+  - thermal-imaging
+  - Infrared technology
+  - detectors
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-04-26 to 2026-04-30
+
+**Location:** National Harbor, Maryland, USA
+
+[Conference Website](https://spie.org/conferences-and-exhibitions/defense-and-security){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+SPIE Defense + Security includes the conference "Infrared Technology and Applications LII" covering IR detector arrays, thermal imaging systems, and SWIR/MWIR/LWIR technologies. Four technical tracks: Materials and Devices, Imaging and Analytics, Advanced Sensing, Next-Gen Sensor Systems.
+
+

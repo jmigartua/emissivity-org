@@ -1,0 +1,30 @@
+---
+title: "ECTP 2023 (22nd European Conference on Thermophysical Properties)"
+subtitle: "ECTP | Venice, Italy"
+date: 2023-09-03
+description: "Thermophysical properties measurement and modelling; radiative properties including emissivity are within scope."
+url: "https://www.ectp2023.eu/"
+categories:
+  - measurement-methods
+  - Thermophysical properties
+  - emissivity
+  - materials
+  - thermophysical-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2023-09-03 to 2023-09-06
+
+**Location:** Venice, Italy
+
+[Conference Website](https://www.ectp2023.eu/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+ECTP is an international conference devoted to measurement and modeling of thermophysical properties. The scope includes a range of thermal and radiative properties and associated experimental techniques. Emissivity-related work appears in sessions addressing radiative heat transfer and optical/radiative characterization of materials.
+
+

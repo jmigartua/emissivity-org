@@ -1,0 +1,349 @@
+---
+title: "Research map"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<section class="home-section" style="border-bottom:none; padding-top:40px;">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>The research map</h2>
+      <a class="more" href="/network/methodology.html">Methodology →</a>
+    </div>
+    <p class="sec-intro">
+      The curated directory of non-commercial institutions where emissivity and
+      thermal radiative properties are actively researched. Inclusion criteria,
+      tier logic, and limitations are documented in the
+      <a href="/network/methodology.html">methodology</a>; corrections and
+      additions go through the <a href="/contribute/index.html">editorial board</a>.
+      Directory revision: 2026-06-11.
+    </p>
+
+    <div class="net-stats">
+      <div class="net-stat"><div class="v">40</div><div class="k">institutions</div></div>
+      <div class="net-stat"><div class="v">14</div><div class="k">countries</div></div>
+      <div class="net-stat"><div class="v">14</div><div class="k">core-tier laboratories</div></div>
+      <div class="net-stat"><div class="v">9</div><div class="k">thematic ecosystems</div></div>
+    </div>
+
+    <div id="labmap" class="labmap labmap-tall" aria-label="World map of institutions on the research map"></div>
+    <div class="map-legend">
+      <span class="key"><span class="dot meas"></span> Measurement &amp; metrology laboratories</span>
+      <span class="key"><span class="dot eng"></span> Engineered emissivity (thermal photonics, radiative cooling)</span>
+      <span class="note">Markers link to institution profiles.</span>
+    </div>
+
+    <h3 class="dir-tier">Tier I — Core: emissivity-centred laboratories</h3>
+    <table class="dir">
+      <thead><tr><th>Institution</th><th>Country</th><th>Tier</th><th class="cap">Capability envelope</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="inst"><a href="/network/ptb.html">Physikalisch-Technische Bundesanstalt</a>
+            <span class="unit">Working Group 7.35 — Emissivity</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">1 µm to 1 mm (radiometry); near- to far-infrared (emissivity) · −40 °C to ~2300 °C</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/cemhti-cnrs.html">CEMHTI-CNRS — Conditions Extrêmes et Matériaux : Haute Température et Irradiation</a>
+            <span class="unit">Infrared emission / reflection / transmission spectroscopy activities</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">FTIR-based IR/visible spectroscopy, from ~1 mm to ~0.5 µm · room temperature to high temperature; laser-heated emission up to ~500–2700 K</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/promes-cnrs.html">PROMES-CNRS — Procédés, Matériaux et Énergie Solaire</a>
+            <span class="unit">Thermal-radiation metrology / Solar-energy materials</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">up to ~1500 °C</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/cae-wuerzburg.html">Center for Applied Energy Research (CAE)</a>
+            <span class="unit">Advanced Thermal Management (head: Jochen Manara)</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">broad applied-metrology facilities over a wide temperature range</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/isi-brno.html">Institute of Scientific Instruments, Czech Academy of Sciences</a>
+            <span class="unit">Cryogenics group — radiative-properties activities</span></td>
+          <td class="cc">CZ</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">~20 K to 300 K</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/imt-mines-albi.html">IMT Mines Albi / Institut Clément Ader (ICA), UMR CNRS 5312</a>
+            <span class="unit">ICA — directional spectral emissivity instrumentation</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">1–11 µm · ~600–1000 °C</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU</a>
+            <span class="unit">Thermomat — Thermophysical Properties of Materials</span></td>
+          <td class="cc">ES</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">Modular high-performance infrared emissometer; FAIR-compliant data structure and workflows.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/uwb-ntc.html">University of West Bohemia / New Technologies — Research Centre (NTC)</a>
+            <span class="unit">Photo-thermal properties laboratory (NTC)</span></td>
+          <td class="cc">CZ</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">low- and high-temperature work</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/vinca.html">Institute VINČA</a>
+            <span class="unit">High-temperature thermophysical-property measurement — direct pulse heating</span></td>
+          <td class="cc">RS</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">wide high-temperature range (metals and alloys)</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/cnr-ino.html">CNR-INO — Istituto Nazionale di Ottica</a>
+            <span class="unit">Smart and Solar Energy Materials Lab</span></td>
+          <td class="cc">IT</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">0.2 to 50 µm · up to 1000 °C (spectral emittance vs. temperature)</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/nist.html">NIST — National Institute of Standards and Technology</a>
+            <span class="unit">Physical Measurement Laboratory / Sensor Science Division</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">infrared</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/aist-nmij.html">AIST / NMIJ — National Metrology Institute of Japan</a>
+            <span class="unit">Network Database System for Thermophysical Property Data (TPDS)</span></td>
+          <td class="cc">JP</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">Database infrastructure for curated thermophysical-property data; R&amp;D on nearly ideal blackbody materials and high-emissivity refe…</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/dlr-psl.html">DLR Institute of Planetary Research — Planetary Spectroscopy Laboratory</a>
+            <span class="unit">Planetary Spectroscopy Laboratory (PSL)</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">0.3 µm to &gt;100 µm · −200 °C to +1000 °C (including heated planetary-analog samples; Venus/Mercury surface conditions)</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/npl.html">NPL — National Physical Laboratory</a>
+            <span class="unit">Thermal metrology — radiation thermometry and emissivity</span></td>
+          <td class="cc">GB</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">2 µm to 14 µm (CCT-S1 comparison scope) · 23 °C to 800 °C (CCT-S1 comparison scope)</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 class="dir-tier">Tier II — Extended: radiative properties among core activities</h3>
+    <table class="dir">
+      <thead><tr><th>Institution</th><th>Country</th><th>Tier</th><th class="cap">Capability envelope</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="inst"><a href="/network/nasa-jpl.html">NASA Jet Propulsion Laboratory (JPL)</a>
+            <span class="unit">JEDI — Joint Emissivity Database Initiative</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">thermal infrared</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/usgs-spectroscopy.html">USGS — Spectroscopy Laboratory / Astrogeology Science Center</a>
+            <span class="unit">USGS Spectroscopy Laboratory — Spectral Library</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">Large spectral-reflectance library; laboratory work on Mars analog materials and shocked minerals; thermal emission and hemispheri…</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/asu-tes.html">Arizona State University — Thermal Emission Spectroscopy Laboratory (Christensen Research Group)</a>
+            <span class="unit">Christensen Research Group / Thermal Emission Spectroscopy Laboratory</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">thermal IR spectral library, typically ~2000–220 cm⁻¹</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/brown-relab.html">Brown University — RELAB (Reflectance Experiment Laboratory)</a>
+            <span class="unit">RELAB — Reflectance Experiment Laboratory (NASA-supported multi-user facility)</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">UV–VIS through far-IR; FTIR to ~100 µm</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/lten-cnrs.html">LTeN-CNRS / Nantes Université — Laboratoire de Thermique et Énergie de Nantes</a>
+            <span class="unit">LTeN — high-temperature radiative properties of architectured ceramics</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">high temperature</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/onera-dota.html">ONERA — DOTA, Optics and Associated Techniques</a>
+            <span class="unit">MELOPEE laboratory — optical properties of materials</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">infrared detector characterization 1–20 µm; optical properties from visible to IR</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/fraunhofer-ise.html">Fraunhofer Institute for Solar Energy Systems ISE</a>
+            <span class="unit">Lab Characterization of Functional Surfaces</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">0.3–2.4 µm and 1.9–17 µm (FTIR + integrating spheres) · room temperature (spectrophotometric)</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/ciemat-psa.html">CIEMAT — Plataforma Solar de Almería</a>
+            <span class="unit">OPAC — Optical Characterization and Aging laboratory</span></td>
+          <td class="cc">ES</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">0.28–2.5 µm (solar absorptance); 2–14 µm (thermal emittance, FTIR + integrating sphere) · room temperature (spectrophotometric); aging under concentrated solar conditions</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/esa-estec.html">ESA ESTEC — Materials and Electrical Components Laboratory</a>
+            <span class="unit">Materials &amp; Electrical Components Laboratory (TEC Directorate)</span></td>
+          <td class="cc">NL</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">UV–VIS–NIR–IR</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/tubitak-ume.html">TÜBİTAK UME — National Metrology Institute of Türkiye</a>
+            <span class="unit">Radiation Temperature Laboratory, Physics Group</span></td>
+          <td class="cc">TR</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European metrology (EMPIR) projects …</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/nasa-gsfc.html">NASA Goddard Space Flight Center — Thermal Coatings</a>
+            <span class="unit">Contamination and Coatings Engineering Branch (Code 546)</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">solar and thermal infrared bands</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 class="dir-tier">Engineered emissivity: thermal photonics and radiative cooling</h3>
+    <table class="dir">
+      <thead><tr><th>Institution</th><th>Country</th><th>Tier</th><th class="cap">Capability envelope</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="inst"><a href="/network/stanford-fan.html">Stanford University — Fan Group (Shanhui Fan)</a>
+            <span class="unit">Fan Group — Ginzton Laboratory, Department of Electrical Engineering</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">Thermal photonics and radiative cooling; design of engineered emissivity through nanophotonic structures; foundational work on the…</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/columbia-yu.html">Columbia University — Nanfang Yu Group</a>
+            <span class="unit">Department of Applied Physics and Applied Mathematics</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">long-wavelength infrared</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/utah-tift.html">University of Utah — TIFT Lab (Thermal Innovations for FuTure)</a>
+            <span class="unit">Thermal Innovations for FuTure (TIFT) Lab — Department of Mechanical Engineering</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">Research on thermal radiative properties with emissivity of materials and photon transport inside materials as explicit thrusts.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/vanderbilt-caldwell.html">Vanderbilt University — Caldwell Nanophotonic Materials and Devices Lab</a>
+            <span class="unit">Caldwell Nanophotonic Materials and Devices Lab</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">infrared</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/lbnl-heat-island.html">Lawrence Berkeley National Laboratory — Heat Island Group / Cool Surfaces</a>
+            <span class="unit">Heat Island Group — Cool Surfaces research</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">Research on cool roofs and cool walls defined through thermal emittance and solar reflectance; linkage to urban-heat-island mitiga…</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/ucla-raman.html">UCLA — Raman Lab</a>
+            <span class="unit">Raman Lab, Materials Science and Engineering</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">solar and sky-window (8–13 µm) bands</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/purdue-ruan.html">Purdue University — Ruan Group</a>
+            <span class="unit">Ruan Group, School of Mechanical Engineering</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">solar spectrum + 8–13 µm sky window · field demonstrations under full sun</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/uchicago-hsu.html">University of Chicago — Hsu Group</a>
+            <span class="unit">Hsu Group, Pritzker School of Molecular Engineering</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">solar + mid-infrared bands</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/kaist-jang.html">KAIST — Jang Lab</a>
+            <span class="unit">Jang Lab, School of Electrical Engineering</span></td>
+          <td class="cc">KR</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">solar + mid-infrared bands</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/nanjing-zhu.html">Nanjing University — Jia Zhu Group</a>
+            <span class="unit">College of Engineering and Applied Sciences; National Laboratory of Solid State Microstructures</span></td>
+          <td class="cc">CN</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">solar + sky-window bands</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/uts-sydney.html">University of Technology Sydney — Gentle / Smith</a>
+            <span class="unit">School of Mathematical and Physical Sciences</span></td>
+          <td class="cc">AU</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">solar + 8–13 µm sky window · field demonstrations (roof scale)</td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 class="dir-tier">Emerging and conference-affiliated</h3>
+    <table class="dir">
+      <thead><tr><th>Institution</th><th>Country</th><th>Tier</th><th class="cap">Capability envelope</th></tr></thead>
+      <tbody>
+        <tr>
+          <td class="inst"><a href="/network/uva.html">University of Virginia — Hopkins Group (ExSiTE Lab)</a>
+            <span class="unit">Patrick Hopkins Group (ExSiTE Lab) — ultra-high-temperature materials / laser-heating radiometry</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">emerging</span></td>
+          <td class="cap">room temperature to ~4000 °C</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/ruhr-bochum-leat.html">Ruhr University Bochum — LEAT (Department of Energy Plant Technology)</a>
+            <span class="unit">LEAT — experimental combustion investigations</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill ">emerging</span></td>
+          <td class="cap">Application-driven setups for combustion-relevant materials; dedicated experimental setup for spectral normal emissivity of solid …</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/wisconsin-madison.html">University of Wisconsin–Madison</a>
+            <span class="unit"></span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">emerging</span></td>
+          <td class="cap">infrared</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/lasp-boulder.html">Laboratory for Atmospheric and Space Physics (LASP)</a>
+            <span class="unit"></span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill ">emerging</span></td>
+          <td class="cap">Conference-affiliated contributor; talk was on apparent emissivity of semitransparent samples at PTB.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="countries">Australia · China · Czech Republic · France · Germany · Italy · Japan · Netherlands · Serbia · South Korea · Spain · Türkiye · United Kingdom · United States</p>
+  </div>
+</section>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="../assets/scripts/labs-map.js"></script>
+```

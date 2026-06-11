@@ -1,0 +1,85 @@
+---
+title: "Vanderbilt University — Caldwell Nanophotonic Materials and Devices Lab"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Vanderbilt Caldwell Lab</div>
+```
+
+::: {.page-article}
+# Vanderbilt University — Caldwell Nanophotonic Materials and Devices Lab
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Nashville, TN |
+| **Tier** | Engineered emissivity (Tier III) |
+| **Primary ecosystem** | Engineered emissivity — thermal metasurfaces |
+| **Relevant unit** | **Caldwell Nanophotonic Materials and Devices Lab** |
+| **Principal investigator** | Joshua Caldwell |
+| **Distinctive capability** | **Angle-dependent infrared measurements** on engineered surfaces |
+
+## Why it matters internationally
+
+The Caldwell Lab sits on the **nanophotonics side** of the field but
+clearly belongs in the map. Its listed infrared characterization
+capabilities **explicitly include reflection, absorption, emissivity,
+thermal emission, and angle-dependent measurements**, and Vanderbilt's
+research pages highlight recent work on **high-emissivity thermal
+metasurfaces**. It is a strong institution for advanced infrared
+optical-property characterization and engineered thermal emission.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Caldwell Nanophotonic Materials and Devices Lab (Vanderbilt).** A
+  nanophotonics group with documented infrared characterization
+  infrastructure that explicitly includes emissivity and thermal emission.
+
+### Radiative properties measured
+
+Reflection · absorption · emissivity · thermal emission · angle-dependent
+infrared measurements.
+
+### Methodology
+
+Advanced infrared optical-property characterization including
+angle-dependent measurements; work on high-emissivity thermal
+metasurfaces; integration of nanophotonic design with experimental
+thermal-emission characterization.
+
+### Application domains
+
+- High-emissivity thermal metasurfaces
+- Engineered thermal emission
+- Nanophotonics
+
+## Why Vanderbilt Caldwell Lab is a reference pole
+
+Thermal metasurfaces are a direct challenge to the traditional idea of
+emissivity as a material property: they make it a function of
+subwavelength architecture. The Caldwell Lab's explicit
+angle-dependent infrared capability is well matched to this research
+agenda, because the emission from a metasurface is fundamentally
+anisotropic. Laboratories that can measure what their nanostructures
+actually do — not only simulate it — are the ones that keep the
+engineered-emissivity field grounded experimentally.
+
+## External sources
+
+- [Lab Capabilities and Layout — Caldwell Nanophotonic Materials and Devices Lab](https://my.vanderbilt.edu/caldwellgroup/lab-capabilities-and-layout/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

@@ -1,0 +1,54 @@
+---
+title: "Submit data to EKHI"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/contribute/index.html">Contribute</a> / Data</div>
+```
+
+::: {.page-article}
+# Submit data to EKHI
+
+[EKHI](/data/ekhi.html) indexes curve-level optical and thermal radiative property data with explicit provenance. Submissions are curated by the Thermomat group at UPV/EHU; every accepted dataset remains traceable to its source publication and credits its authors.
+
+```{=html}
+<div class="form-alt">
+  Prefer email? Send the same information to
+  <a href="mailto:info@emissivity.org?subject=EKHI%20data%20submission">info@emissivity.org</a>
+  — every submission, by form or by mail, is reviewed by the editorial board
+  before publication.
+</div>
+
+<form class="c-form" name="submit-data" method="POST" action="/contribute/thanks.html"
+      data-netlify="true" netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="submit-data" />
+  <p style="display:none"><label>Leave empty: <input name="bot-field" /></label></p>
+  <label class="req" for="f-doi">Source publication DOI</label>
+  <input id="f-doi" name="doi" type="text" required />
+  <div class="hint">EKHI is publication-centred: data must trace to a published source</div>
+  <label class="req" for="f-material">Material(s)</label>
+  <input id="f-material" name="material" type="text" required />
+  <div class="hint">e.g. polycrystalline SiC; α-Al₂O₃ ⟨0001⟩</div>
+  <label class="req" for="f-property">Property / quantity</label>
+  <input id="f-property" name="property" type="text" required />
+  <div class="hint">e.g. normal spectral emissivity; hemispherical reflectance</div>
+  <label for="f-conditions">Conditions</label>
+  <textarea id="f-conditions" name="conditions"></textarea>
+  <div class="hint">Temperature, wavelength range, geometry, specimen notes</div>
+  <label class="req" for="f-data_location">Where the data lives</label>
+  <textarea id="f-data_location" name="data_location" required></textarea>
+  <div class="hint">Link to files (Zenodo, institutional repository, supplementary material) or note that you will email them</div>
+
+  <label class="req" for="s-name">Your name</label>
+  <input id="s-name" name="submitter_name" required />
+  <label class="req" for="s-email">Your email</label>
+  <input id="s-email" name="submitter_email" type="email" required />
+  <label for="s-aff">Affiliation</label>
+  <input id="s-aff" name="submitter_affiliation" />
+  <button type="submit">Submit for review</button>
+</form>
+```
+
+:::

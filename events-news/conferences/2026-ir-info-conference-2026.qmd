@@ -1,0 +1,30 @@
+---
+title: "IR/INFO Conference 2026"
+subtitle: "IR/INFO | Orlando, Florida, USA"
+date: 2026-02-01
+description: "Annual infrared thermography conference with sessions and training on thermal imaging and measurement practice."
+url: "https://irinfoconference.com/"
+categories:
+  - infrared-thermography
+  - training
+  - measurement-methods
+  - thermal-imaging
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-02-01 to 2026-02-04
+
+**Location:** Orlando, Florida, USA
+
+[Conference Website](https://irinfoconference.com/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+IR/INFO Conference 2026 is scheduled for 1–4 February 2026 in the Orlando area (Florida, USA). The event is focused on infrared thermography, with conference sessions and training activities centered on thermal imaging practice and related measurement workflows.
+
+

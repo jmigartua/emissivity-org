@@ -1,0 +1,74 @@
+---
+title: "University of Wisconsin–Madison"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Wisconsin–Madison</div>
+```
+
+::: {.page-article}
+# University of Wisconsin–Madison
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Madison, WI |
+| **Tier** | Emerging / conference-affiliated (Tier IV) |
+| **Primary ecosystem** | Metrology — direct IR emission measurement |
+| **Publicly linked people** | Hongyan Mei |
+| **Signature method** | Direct measurement of infrared emission by **FTIR** |
+
+## Why it matters internationally
+
+The IR-EMPOWER talk title for **Hongyan Mei** — *"direct measurement of
+infrared emission using Fourier-transform spectroscopy"* — is highly
+relevant, though public pages are less explicit about emissivity as an
+**institutional program** than for the top-tier labs. Wisconsin–Madison
+has a substantial footprint in infrared spectroscopy and thermal /
+remote-sensing measurement, and is retained here but ranked below
+institutions with more visible dedicated emissivity infrastructure.
+
+## Scope of activity
+
+### Radiative properties measured
+
+Infrared emission — measured directly by Fourier-transform spectroscopy.
+
+### Methodology
+
+Direct measurement of infrared emission using Fourier-transform
+spectroscopy — an approach well suited to spectral emissivity work on
+samples at moderate temperatures.
+
+## IR-EMPOWER contributions
+
+- **Hongyan Mei** — direct measurement of infrared emission using
+  Fourier-transform spectroscopy.
+
+## Why Wisconsin–Madison is retained
+
+IR-EMPOWER participation plus a relevant methodological contribution
+justifies inclusion, even if the institution's public pages do not
+currently name emissivity as a programmatic thrust in the way that Tier
+I–III entries do. This is an **emerging / flagged** placement: the
+methodological work is directly on-topic, but the broader institutional
+framing around emissivity is less visible in the public record, and the
+entry may shift tier as more information becomes available.
+
+## External sources
+
+- [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

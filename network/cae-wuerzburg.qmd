@@ -1,0 +1,96 @@
+---
+title: "CAE Würzburg — Center for Applied Energy Research"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / CAE Würzburg</div>
+```
+
+::: {.page-article}
+# CAE Würzburg — Center for Applied Energy Research
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Würzburg |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Applied energy / applied metrology |
+| **Relevant unit** | **Advanced Thermal Management** (head: Jochen Manara) |
+| **Publicly linked people** | Jochen Manara (ORCID 0000-0002-5319-6874) |
+| **Upcoming role** | **Host of the 2026 IR-EMPOWER workshop** |
+
+## Why it matters internationally
+
+CAE sits at the interface between **precision measurement and energy
+deployment**. PTB stands closer to foundational metrology; CAE stands closer
+to the regime where emissivity and reflectance must be measured because they
+**determine the behavior** of cool materials, high-performance envelopes,
+radiative-cooling systems, and other energy technologies. CAE's selection as
+host of the **2026 IR-EMPOWER workshop** confirms its status as a leading
+applied-research node linking metrology, building materials, and passive
+radiative cooling.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Advanced Thermal Management** — headed by Jochen Manara. The group
+  develops and applies thermal and infrared-optical measurement techniques
+  together with radiative-transport modeling to improve thermophysical
+  materials and systems.
+
+### Radiative properties measured
+
+Emissivity · infrared-optical properties · radiative heat-transfer variables
+across a wide temperature range.
+
+### Capability envelope
+
+- **Temperature:** broad applied-metrology facilities over a wide
+  temperature range.
+- **Methodology:** combined thermal and infrared-optical measurement
+  techniques with radiative-transport modeling.
+- **Approach:** emissivity and reflectance are measured because they govern
+  the real-world performance of the systems being engineered.
+
+### Application domains
+
+- Cool materials — cool roofs and walls
+- High-performance building envelopes
+- Radiative-cooling systems
+- Thermal-management systems
+- Improved thermophysical materials and systems
+
+## IR-EMPOWER contributions
+
+- **Jochen Manara** delivered a plenary on *applied metrological facilities
+  for determining emissivity in a wide temperature range*.
+- **CAE was announced as host of the 2026 IR-EMPOWER workshop in Würzburg**,
+  sealing its role as a focal point for the applied-emissivity community.
+
+## Why CAE is a reference pole
+
+Where PTB treats emissivity as a quantity that must be *defined* to SI, CAE
+treats emissivity as a quantity that must be *deployed*: measured, modeled,
+and engineered into systems that people actually build. That complementarity
+— between a metrology institute and an applied-energy center both working at
+the highest technical level in the same country — is part of what makes the
+German thermo-optical ecosystem exceptionally strong.
+
+## External sources
+
+- [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

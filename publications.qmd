@@ -1,0 +1,95 @@
+---
+page-layout: full
+toc: false
+listing:
+  - id: pubs_2025
+    contents: publications/2025/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+    categories: true
+    filter-ui: [categories]
+  - id: pubs_2024
+    contents: publications/2024/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+    categories: true
+    filter-ui: [categories]
+  - id: pubs_2023
+    contents: publications/2023/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+    categories: true
+  - id: pubs_2022
+    contents: publications/2022/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+    categories: true
+  - id: pubs_2021
+    contents: publications/2021/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+    categories: true
+  - id: pubs_2020
+    contents: publications/2020/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+    categories: true
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / Publications</div>
+```
+
+::: {.page-article .pub-archive}
+# Publications
+
+A bibliography of peer-reviewed work from the laboratories on the research
+map and the wider emissivity community, grouped by year. To add a missing
+publication, see [how to contribute](/contribute/suggest-publication.html).
+
+```{=html}
+<div class="inner-page" style="max-width: 1000px;">
+  <div class="section__label">Research</div>
+  <h1>Publications</h1>
+  <p class="page-subtitle">Selected publications (2020&ndash;2025) from the emissivity.org network and collaborators. 41 publications across emissivity measurement, radiative properties, surface modification, and thermal characterization.</p>
+</div>
+```
+
+
+## 2025
+
+:::{#pubs_2025}
+:::
+
+## 2024
+
+:::{#pubs_2024}
+:::
+
+## 2023
+
+:::{#pubs_2023}
+:::
+
+## 2022
+
+:::{#pubs_2022}
+:::
+
+## 2021
+
+:::{#pubs_2021}
+:::
+
+## 2020
+
+:::{#pubs_2020}
+:::
+
+:::

@@ -1,0 +1,67 @@
+---
+page-layout: full
+toc: false
+listing:
+  - id: insights_archive
+    contents: posts/*.qmd
+    sort: "date desc"
+    type: default
+    categories: true
+---
+
+```{=html}
+<!-- ═══════════════ INSIGHTS ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Insights / blog</div>
+      <div class="section__title">Paper briefs, method notes, and <em>data notes</em>.</div>
+    </div>
+    <a href="/contribute/index.html" class="section__link">Propose an insight &rarr;</a>
+  </div>
+
+  <p style="max-width:680px;color:#4a5662;line-height:1.7;margin-bottom:2.5rem;">
+    Insights is the editorial layer of emissivity.org. Every piece is short, curated, and designed to surface what matters most from recent publications, measurement practice, and data infrastructure. Three formats keep the signal clean.
+  </p>
+
+  <div class="card-grid">
+    <article class="info-card">
+      <h4>Paper briefs</h4>
+      <p>A concise summary of a recent or significant publication in emissivity research. Each brief explains what was measured, why it matters, and how the data connects to EKHI or existing methods. Typically 400&ndash;600 words.</p>
+      <div class="tag-list"><span>Publications</span><span>Curated</span></div>
+    </article>
+    <article class="info-card">
+      <h4>Method notes</h4>
+      <p>Practical guidance on measurement techniques, data processing, or standards interpretation. Written for researchers who need actionable information&mdash;not textbook derivations&mdash;for their laboratory work.</p>
+      <div class="tag-list"><span>Practice</span><span>How-to</span></div>
+    </article>
+    <article class="info-card">
+      <h4>Data notes</h4>
+      <p>Short pieces about the EKHI database itself: new dataset additions, data-quality observations, format changes, or infrastructure updates. These notes keep the community aware of how the shared data layer evolves.</p>
+      <div class="tag-list"><span>EKHI</span><span>Infrastructure</span></div>
+    </article>
+  </div>
+</section>
+
+<!-- ═══════════════ RECENT INSIGHTS ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Recent</div>
+      <div class="section__title">Latest from the <em>editorial layer</em>.</div>
+    </div>
+  </div>
+</section>
+```
+
+::: {.archive-listing}
+:::{#insights_archive}
+:::
+:::
+
+```{=html}
+<div style="max-width:680px;margin:2rem auto;padding:2rem;border:1px solid rgba(78,158,184,0.15);border-radius:8px;text-align:center;color:#4a5662;">
+  <p style="margin:0 0 0.5rem 0;font-size:0.95rem;">More insights coming soon. Have a paper, method, or data story to share?</p>
+  <a href="/contribute/index.html" style="color:#1b3a6b;">Propose an insight &rarr;</a>
+</div>
+```

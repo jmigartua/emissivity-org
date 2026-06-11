@@ -1,0 +1,32 @@
+---
+title: "Thermosense: Thermal Infrared Applications XLV (SPIE)"
+subtitle: "SPIE ThermoSense | Orlando, Florida, USA"
+date: 2023-05-02
+description: "Thermal IR applications and thermography; quantitative workflows commonly intersect emissivity."
+url: "https://spie.org/Publications/Proceedings/Volume/12536"
+proceedings_url: "https://spie.org/Publications/Proceedings/Volume/12536"
+categories:
+  - infrared-thermography
+  - thermal-imaging
+  - emissivity
+  - spie
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2023-05-02 to 2023-05-04
+
+**Location:** Orlando, Florida, USA
+
+[Conference Website](https://spie.org/Publications/Proceedings/Volume/12536){.btn .btn-primary .btn-sm}
+
+[Proceedings](https://spie.org/Publications/Proceedings/Volume/12536){.btn .btn-outline-secondary .btn-sm}
+:::
+
+## Overview
+
+ThermoSense is a SPIE conference series on thermal infrared applications and thermography. Proceedings typically include contributions on IR imaging systems, calibration, measurement methods, data analysis, and applied thermography topics, where emissivity handling is often part of quantitative workflows.
+
+

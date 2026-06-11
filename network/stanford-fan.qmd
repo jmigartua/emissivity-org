@@ -1,0 +1,80 @@
+---
+title: "Stanford University — Fan Group (Shanhui Fan)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Stanford Fan Group</div>
+```
+
+::: {.page-article}
+# Stanford University — Fan Group (Shanhui Fan)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Stanford, CA |
+| **Tier** | Engineered emissivity / thermal photonics (Tier III) |
+| **Primary ecosystem** | Engineered emissivity — thermal photonics |
+| **Relevant unit** | **Fan Group** — Ginzton Laboratory, Department of Electrical Engineering |
+| **Principal investigator** | Shanhui Fan |
+| **Thematic focus** | **Designed** rather than measured emissivity |
+
+## Why it matters internationally
+
+The Fan Group is one of the **landmark academic groups in thermal
+photonics and radiative cooling**. The group lists radiative cooling among
+its current research topics, and its publication record includes
+foundational work on thermal emission control, radiative cooling, photonic
+cooling of solar absorbers, and related optical-thermal engineering. This
+is a premier academic center for **designed** emissivity, rather than only
+measured emissivity.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Fan Group — Ginzton Laboratory, Department of Electrical Engineering.**
+  A nanophotonics research group with a sustained program in thermal
+  photonics and radiative cooling.
+
+### Methodology
+
+Thermal photonics and radiative cooling; design of engineered emissivity
+through nanophotonic structures; foundational theoretical and experimental
+work on thermal emission control.
+
+### Application domains
+
+- Radiative cooling
+- Thermal emission control / engineered emitters
+- Photonic cooling of solar absorbers
+- Optical-thermal engineering
+
+## Why Stanford Fan Group is a reference pole
+
+Passive radiative cooling as a modern research area owes much of its
+current shape to work done at Stanford, where the question shifted from
+"what is the emissivity of this material?" to "what emissivity spectrum
+should we engineer, and how?" Groups that reframe emissivity as a design
+variable — constrained by the atmospheric transmission window, by
+thermodynamic limits, and by photonic reciprocity — sit at a different
+point in the field than metrology labs, but they are equally essential to
+a complete map of it.
+
+## External sources
+
+- [Fan Group at Stanford University](https://web.stanford.edu/group/fan/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

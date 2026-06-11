@@ -1,0 +1,46 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">About</div>
+  <h1>Editorial Policy</h1>
+  <p class="page-subtitle">How content is created, reviewed, and maintained on emissivity.org.</p>
+
+  <h2>Editorial formats</h2>
+  <p>The Insights section publishes three formats only:</p>
+  <ul>
+    <li><strong>Paper brief</strong> — a concise, field-relevant commentary on one recent publication</li>
+    <li><strong>Method note</strong> — a practical explanation of a measurement or interpretation issue</li>
+    <li><strong>Data note</strong> — a short post announcing or contextualizing EKHI content</li>
+  </ul>
+  <p>Limiting formats creates editorial recognizability and prevents drift.</p>
+
+  <h2>Cadence</h2>
+  <ul>
+    <li><strong>Monthly:</strong> one paper brief or method note</li>
+    <li><strong>Monthly:</strong> one EKHI dataset spotlight</li>
+    <li><strong>As needed:</strong> event and news announcements</li>
+    <li><strong>Quarterly:</strong> one laboratory or researcher spotlight</li>
+    <li><strong>Quarterly:</strong> one standards or protocol explainer</li>
+  </ul>
+
+  <h2>Content governance</h2>
+  <p>Each content type has a named owner responsible for creation, maintenance, and archiving:</p>
+  <ul>
+    <li><strong>Editorial lead:</strong> approves homepage priorities and insight posts</li>
+    <li><strong>Data editor:</strong> owns EKHI-facing copy and featured data objects</li>
+    <li><strong>Community editor:</strong> owns people and lab updates and contribution flows</li>
+    <li><strong>Events editor:</strong> owns conferences, news, and calendar integrity</li>
+    <li><strong>Methods editor:</strong> owns standards, guides, and method notes</li>
+  </ul>
+
+  <h2>Photography policy</h2>
+  <p>Emissivity.org uses zero stock photography. All images are either real laboratory photographs supplied by member labs, data visualizations (spectra, thermal images, measurement schematics), or clearly labeled placeholders that communicate what content is forthcoming. If there is no real image to put in a spot, we leave it as text — text is always better than a generic image.</p>
+
+  <h2>Data licensing</h2>
+  <p>All EKHI datasets are published under CC-BY 4.0. Contributors remain the author of record. The source publication is the canonical citation. Contributors have a 14-day withdrawal window after initial publication.</p>
+</div>
+```

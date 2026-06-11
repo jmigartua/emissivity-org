@@ -1,0 +1,30 @@
+---
+title: "SPIE Sensors + Imaging 2026 (Remote Sensing & Security + Defence)"
+subtitle: "SPIE Sensors + Imaging | Edinburgh, UK"
+date: 2026-09-14
+description: "Electro-optical and infrared systems, multispectral/hyperspectral imaging, thermal IR remote sensing."
+url: "https://spie.org/conferences-and-exhibitions/sensors-and-imaging"
+categories:
+  - remote-sensing
+  - hyperspectral
+  - SPIE
+  - infrared
+  - Remote sensing
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-09-14 to 2026-09-17
+
+**Location:** Edinburgh, UK
+
+[Conference Website](https://spie.org/conferences-and-exhibitions/sensors-and-imaging){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+Co-located SPIE Environmental Remote Sensing and SPIE Security + Defence. Includes "Electro-optical and Infrared Systems" track. Covers multispectral and hyperspectral imaging, thermal infrared remote sensing for Earth observation.
+
+

@@ -1,0 +1,30 @@
+---
+title: "ASME Summer Heat Transfer Conference 2026"
+subtitle: "ASME SHTC | Bellevue, Washington, USA"
+date: 2026-07-26
+description: "Annual ASME heat transfer conference with sessions on radiative heat transfer and thermal properties."
+url: "https://event.asme.org/SHTC"
+categories:
+  - Heat transfer
+  - ASME
+  - radiative
+  - heat-transfer
+  - thermal-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-07-26 to 2026-07-29
+
+**Location:** Bellevue, Washington, USA
+
+[Conference Website](https://event.asme.org/SHTC){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+ASME's annual heat transfer conference includes sessions on radiative heat transfer, thermal properties measurement, and combined-mode heat transfer. Relevant for radiative property characterization in engineering contexts.
+
+

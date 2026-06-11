@@ -1,0 +1,14 @@
+<%
+const now = new Date(); now.setDate(now.getDate() - 7);
+const fmt = d => { try { return new Date(d).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }); } catch(e) { return ""; } };
+const href = p => String(p || "").replace(/\.qmd$/, ".html");
+const upcoming = items.filter(it => it.date && new Date(it.date) >= now).slice(0, 4);
+for (const item of upcoming) { %>
+<div class="event-item">
+<div class="when"><%= fmt(item.date) %></div>
+<div class="what">
+<div class="t"><a href="<%- href(item.path) %>"><%= item.title %></a></div>
+<% if (item.subtitle) { %><div class="m"><%= item.subtitle %></div><% } %>
+</div>
+</div>
+<% } %>

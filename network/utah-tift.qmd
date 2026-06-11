@@ -1,0 +1,81 @@
+---
+title: "University of Utah — TIFT Lab (Thermal Innovations for FuTure)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Utah TIFT Lab</div>
+```
+
+::: {.page-article}
+# University of Utah — TIFT Lab (Thermal Innovations for FuTure)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Salt Lake City, UT |
+| **Tier** | Engineered emissivity (Tier III) |
+| **Primary ecosystem** | Engineered thermal radiative properties |
+| **Relevant unit** | **Thermal Innovations for FuTure (TIFT) Lab** — Department of Mechanical Engineering |
+| **Distinctive** | **Explicit thrust: "emissivity of materials, photon transport inside materials"** |
+
+## Why it matters internationally
+
+The TIFT Lab is noteworthy because it **explicitly names** "*thermal
+radiative properties: emissivity of materials, photon transport inside
+materials*" as one of its research thrusts. That direct wording is
+relatively rare on university lab pages, which makes it a particularly
+useful institution to have on a map of the emissivity research community.
+
+## Scope of activity
+
+### Relevant unit
+
+- **Thermal Innovations for FuTure (TIFT) Lab (Department of Mechanical
+  Engineering, University of Utah).** Research on engineered thermal
+  radiative properties, with emissivity of materials and photon transport
+  inside materials as explicit research thrusts.
+
+### Radiative properties measured / studied
+
+Thermal radiative properties — emissivity of materials; photon transport
+inside materials.
+
+### Methodology
+
+Research on thermal radiative properties with emissivity of materials and
+photon transport inside materials as explicit thrusts, linking micro-scale
+radiative transport to engineered material performance.
+
+### Application domains
+
+- Engineered thermal radiative properties
+- Photon transport in materials
+- Thermal-management systems where internal radiative transport matters
+
+## Why Utah TIFT Lab is a reference pole
+
+Most university laboratories that work on emissivity do so implicitly,
+inside a broader heat-transfer or materials program. The TIFT Lab's
+decision to name emissivity of materials as a research thrust — together
+with photon transport inside materials — is the kind of framing choice
+that signals a genuine research program around the quantity itself. That
+makes it a clean, well-labeled node in the Tier III engineered-emissivity
+ecosystem.
+
+## External sources
+
+- [Home Page — Thermal Innovations for FuTure (TIFT) Lab](https://feng.mech.utah.edu/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

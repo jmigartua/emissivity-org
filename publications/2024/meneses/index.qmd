@@ -1,0 +1,47 @@
+---
+title: "Real-time emissivity measurements on solid phase formation during solidification of SrAl₂Si₂O₈ from molten state"
+description: >
+  This publication focuses on real-time measurement, solidification, sral2si2o8. Liquid turns to solid Real time thermal capture Phase change emission.
+date: 2024-07-01
+author:
+  - name: "Domingos De Sousa Meneses"
+  - name: "Iñigo González de Arrieta"
+    orcid: 0000-0001-6984-5149
+  - name: "Olivier Rozenbaum"
+    orcid: 0000-0002-1474-4970
+categories:
+  - Real-time measurement
+  - Solidification
+  - SrAl2Si2O8
+pub-info:
+  reference: >-
+    De Sousa Meneses et al., Infrared Physics & Technology (2024).
+  links:
+    - name: "ScienceDirect"
+      url: https://doi.org/10.1016/j.infrared.2024.105234
+      icon: fa-solid fa-file
+haiku:
+  - Liquid turns to solid
+  - Real time thermal capture
+  - Phase change emission
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Real-time emissivity measurements on solid phase formation during solidification of SrAl₂Si₂O₈ from molten state">
+      <meta name="citation_author" content="Domingos De Sousa Meneses">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Olivier Rozenbaum">
+      <meta name="citation_date" content="2024-07-01">
+      <meta name="citation_doi" content="10.1016/j.infrared.2024.105234">
+---
+
+## Abstract
+
+This publication focuses on real-time measurement, solidification, sral2si2o8. Liquid turns to solid Real time thermal capture Phase change emission.
+
+## Citation
+
+> De Sousa Meneses et al., Infrared Physics & Technology (2024).
+
+::: {.callout-note}
+Click the **ScienceDirect** button above to access the full text or official record.
+:::

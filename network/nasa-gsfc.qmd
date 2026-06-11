@@ -1,0 +1,57 @@
+---
+title: "NASA GSFC"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / NASA GSFC</div>
+```
+
+::: {.page-article}
+# NASA Goddard Space Flight Center — Thermal Coatings
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Greenbelt, MD |
+| **Tier** | Extended |
+| **Primary ecosystem** | Space Thermal |
+| **Unit** | [Contamination and Coatings Engineering Branch (Code 546)](https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/contamination-coatings-engineering/) |
+
+
+
+## Why it matters internationally
+
+GSFC's coatings work produced the α/ε handbooks that generations of
+spacecraft thermal engineers treat as canonical reference data. It
+represents the longest continuous institutional practice of emittance
+measurement for flight hardware in the public record.
+
+## Scope of activity
+
+- **Quantities:** solar absorptance · thermal emittance (hemispherical and normal)
+- **Spectral range:** solar and thermal infrared bands
+- **Methodology:** Routine solar absorptance and calorimetric/normal thermal emittance measurement of spacecraft thermal-control coatings; publisher of canonical α/ε reference compilations used across the space industry. Today the work sits in the Contamination and Coatings Engineering Branch (Code 546).
+
+**Application domains:** spacecraft thermal-control coatings · α/ε reference data.
+
+## External sources
+
+- [GSFC α/ε handbook (NASA NTRS)](https://ntrs.nasa.gov/citations/19840015630)
+- [Thermal coatings lecture (NASA NESC Academy)](https://nescacademy.nasa.gov/video/6b4842a9966043d69cef1193d03885d61d)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

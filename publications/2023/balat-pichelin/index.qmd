@@ -1,0 +1,45 @@
+---
+title: "Oxidation induced emissivity variations of the Haynes 25 alloy at high temperatures"
+description: >
+  This publication focuses on cobalt-based superalloy, emissivity vs oxidation, space debris. Haynes alloy glows Oxidation changes heat Space debris model.
+date: 2023-11-01
+author:
+  - name: "Marianne Balat-Pichelin"
+  - name: "Camille Pellegrini"
+  - name: "Jean-Louis Sans"
+categories:
+  - Cobalt-based superalloy
+  - Emissivity vs oxidation
+  - Space debris
+pub-info:
+  reference: >-
+    Balat-Pichelin et al., Infrared Phys. Technol. 134, 104930 (2023).
+  links:
+    - name: "ScienceDirect"
+      url: https://doi.org/10.1016/j.infrared.2023.104930
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Haynes alloy glows
+  - Oxidation changes heat
+  - Space debris model
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Oxidation induced emissivity variations of the Haynes 25 alloy at high temperatures">
+      <meta name="citation_author" content="Marianne Balat-Pichelin">
+      <meta name="citation_author" content="Camille Pellegrini">
+      <meta name="citation_author" content="Jean-Louis Sans">
+      <meta name="citation_date" content="2023-11-01">
+      <meta name="citation_doi" content="10.1016/j.infrared.2023.104930">
+---
+
+## Abstract
+
+This publication focuses on cobalt-based superalloy, emissivity vs oxidation, space debris. Haynes alloy glows Oxidation changes heat Space debris model.
+
+## Citation
+
+> Balat-Pichelin et al., Infrared Phys. Technol. 134, 104930 (2023).
+
+::: {.callout-note}
+Click the **ScienceDirect** button above to access the full text or official record.
+:::

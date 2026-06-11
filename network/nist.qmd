@@ -1,0 +1,102 @@
+---
+title: "NIST — National Institute of Standards and Technology"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / NIST</div>
+```
+
+::: {.page-article}
+# NIST — National Institute of Standards and Technology
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Gaithersburg, MD |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | National metrology — radiometry / spectral emittance |
+| **Relevant units** | Physical Measurement Laboratory · Sensor Science Division |
+| **Signature facility** | **System for Infrared Spectral Emittance of Materials** |
+| **Additional infrastructure** | **CHILR** reflectometer and FTIS-related facilities |
+
+## Why it matters internationally
+
+NIST is one of the **foundational global anchors of emissivity metrology**.
+Its *System for Infrared Spectral Emittance of Materials* enables
+measurement of spectral emittance by **direct radiance comparison with a
+blackbody reference**; NIST publications also document infrared spectral
+directional emittance measurements and FTIS-based facility development.
+Its global role is analogous to PTB's: NIST anchors emissivity within the
+institutional world of national standards, where calibration, uncertainty
+analysis, and measurement methodology become **durable scientific
+contributions**. It is one of the few institutions that can be cited not
+just as a user of emissivity, but as a **shaper of how emissivity should
+be measured**.
+
+## Scope of activity
+
+### Relevant units
+
+- **Physical Measurement Laboratory / Sensor Science Division** — the home
+  of NIST's infrared spectral emittance work.
+- **System for Infrared Spectral Emittance of Materials** — dedicated
+  facility for spectral emittance measurement by comparison with blackbody
+  references.
+- **CHILR reflectometer** and **FTIS-related infrastructure** — supporting
+  infrared optical-property determination, including reflectance.
+
+### Radiative properties measured
+
+Spectral emittance · reflectance · transmittance · absorptance/emittance ·
+infrared spectral directional emittance.
+
+### Capability envelope
+
+- **Wavelength:** infrared (spectral).
+- **Methodology:** direct radiance comparison with a blackbody reference;
+  FTIS-based infrared optical-property measurements; measurement assurance
+  and uncertainty control at national-standards level.
+
+### Signature facilities
+
+- **System for infrared spectral emittance of materials** — direct
+  blackbody-referenced spectral emittance facility.
+- **CHILR reflectometer** — supports reflectance-based determinations of
+  infrared optical properties.
+
+### Application domains
+
+- Radiation transfer
+- Remote sensing
+- Pyrometry
+- Calibration and national standards
+- Uncertainty analysis for radiative-property measurements
+
+## Why NIST is a reference pole
+
+National metrology institutes shape the field by deciding how a quantity is
+measured, not merely by producing data. NIST's ongoing infrastructure for
+spectral emittance — with directly traceable blackbody-referenced
+measurements and an associated reflectometry capability — means that
+published emissivity values across much of the US literature are anchored,
+directly or indirectly, to work that originates or passes through NIST.
+That institutional weight is what places it alongside PTB at the top of
+the metrological tier.
+
+## External sources
+
+- [System for infrared spectral emittance of materials — NIST](https://www.nist.gov/laboratories/tools-instruments/system-infrared-spectral-emittance-materials)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

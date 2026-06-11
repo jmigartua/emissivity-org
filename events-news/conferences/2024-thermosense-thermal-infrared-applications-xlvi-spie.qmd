@@ -1,0 +1,32 @@
+---
+title: "Thermosense: Thermal Infrared Applications XLVI (SPIE)"
+subtitle: "SPIE ThermoSense | National Harbor, Maryland, USA"
+date: 2024-04-21
+description: "Thermal infrared applications and thermography; quantitative practice commonly intersects emissivity."
+url: "https://spie.org/Publications/Proceedings/Volume/13047"
+proceedings_url: "https://spie.org/Publications/Proceedings/Volume/13047"
+categories:
+  - infrared-thermography
+  - thermal-imaging
+  - emissivity
+  - spie
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2024-04-21 to 2024-04-25
+
+**Location:** National Harbor, Maryland, USA
+
+[Conference Website](https://spie.org/Publications/Proceedings/Volume/13047){.btn .btn-primary .btn-sm}
+
+[Proceedings](https://spie.org/Publications/Proceedings/Volume/13047){.btn .btn-outline-secondary .btn-sm}
+:::
+
+## Overview
+
+ThermoSense (SPIE) publishes proceedings on thermal infrared applications and thermography, including instrumentation, calibration, analysis methods, and application case studies. Emissivity-related issues appear in contributions that address quantitative infrared measurement and interpretation.
+
+

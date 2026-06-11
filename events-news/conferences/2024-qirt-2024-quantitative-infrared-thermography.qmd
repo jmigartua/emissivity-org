@@ -1,0 +1,32 @@
+---
+title: "QIRT 2024 (Quantitative InfraRed Thermography)"
+subtitle: "QIRT"
+date: 2024-01-01
+description: "Biennial quantitative IR thermography meeting; includes emissivity determination, calibration, uncertainty."
+url: "https://qirt.inria.fr/about"
+categories:
+  - qirt
+  - infrared-thermography
+  - calibration
+  - emissivity
+  - IR thermography
+  - uncertainty
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Year:** 2024
+
+[Conference Website](https://qirt.inria.fr/about){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+QIRT is a biennial conference on quantitative infrared thermography. The program typically covers IR measurement techniques, calibration and validation, uncertainty analysis, and applications requiring quantitative interpretation. Emissivity handling is frequently addressed within these methodological discussions.
+
+
+::: {.callout-note}
+Dates/location vary by edition; confirm edition page when curating for a specific year.
+:::

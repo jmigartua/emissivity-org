@@ -1,0 +1,48 @@
+---
+title: "Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring"
+description: >
+  This publication focuses on additive manufacturing, in-situ monitoring, spectral emissivity. Print and monitor Emissivity is the key Quality assured.
+date: 2024-05-01
+author:
+  - name: "Tobias Becker"
+  - name: "Tobias Stark"
+  - name: "Marco Arduini"
+  - name: "Jochen Manara"
+    orcid: 0000-0002-5319-6874
+categories:
+  - Additive manufacturing
+  - In-situ monitoring
+  - Spectral emissivity
+pub-info:
+  reference: >-
+    Becker et al., Prog. Addit. Manuf. 9, 695-704 (2024).
+  links:
+    - name: "Springer"
+      url: https://doi.org/10.1007/s40964-024-00665-2
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Print and monitor
+  - Emissivity is the key
+  - Quality assured
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring">
+      <meta name="citation_author" content="Tobias Becker">
+      <meta name="citation_author" content="Tobias Stark">
+      <meta name="citation_author" content="Marco Arduini">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_date" content="2024-05-01">
+      <meta name="citation_doi" content="10.1007/s40964-024-00665-2">
+---
+
+## Abstract
+
+This publication focuses on additive manufacturing, in-situ monitoring, spectral emissivity. Print and monitor Emissivity is the key Quality assured.
+
+## Citation
+
+> Becker et al., Prog. Addit. Manuf. 9, 695-704 (2024).
+
+::: {.callout-note}
+Click the **Springer** button above to access the full text or official record.
+:::

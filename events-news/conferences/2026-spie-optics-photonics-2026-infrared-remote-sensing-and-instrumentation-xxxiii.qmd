@@ -1,0 +1,31 @@
+---
+title: "SPIE Optics + Photonics 2026 — Infrared Remote Sensing and Instrumentation XXXIII"
+subtitle: "SPIE Optics + Photonics | San Diego, California, USA"
+date: 2026-08-23
+description: "Fourier-transform spectrometers, hyperspectral imagers, radiometric calibration."
+url: "https://spie.org/conferences-and-exhibitions/optics-and-photonics"
+categories:
+  - remote-sensing
+  - SPIE
+  - Infrared instrumentation
+  - spectroscopy
+  - calibration
+  - infrared
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-08-23 to 2026-08-27
+
+**Location:** San Diego, California, USA
+
+[Conference Website](https://spie.org/conferences-and-exhibitions/optics-and-photonics){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+SPIE Optics + Photonics includes "Infrared Remote Sensing and Instrumentation XXXIII" with sessions on Fourier-transform spectrometers, hyperspectral imagers, and radiometric calibration. Directly relevant to spectral emissivity measurement and IR instrumentation.
+
+

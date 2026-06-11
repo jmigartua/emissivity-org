@@ -1,0 +1,60 @@
+---
+title: "Announce an event"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/contribute/index.html">Contribute</a> / Event</div>
+```
+
+::: {.page-article}
+# Announce an event
+
+Conferences, workshops, summer schools, and training activities relevant to thermal radiative properties. Accepted events appear on the [calendar](/events-news/conferences.html), in the iCal feed, and — close to their dates — on the homepage.
+
+```{=html}
+<div class="form-alt">
+  Prefer email? Send the same information to
+  <a href="mailto:info@emissivity.org?subject=Event%20announcement">info@emissivity.org</a>
+  — every submission, by form or by mail, is reviewed by the editorial board
+  before publication.
+</div>
+
+<form class="c-form" name="suggest-event" method="POST" action="/contribute/thanks.html"
+      data-netlify="true" netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="suggest-event" />
+  <p style="display:none"><label>Leave empty: <input name="bot-field" /></label></p>
+  <label class="req" for="f-event_name">Event name</label>
+  <input id="f-event_name" name="event_name" type="text" required />
+  <div class="hint">e.g. QIRT 2027 — 19th Quantitative InfraRed Thermography Conference</div>
+  <label for="f-series">Series</label>
+  <input id="f-series" name="series" type="text" />
+  <div class="hint">e.g. QIRT, NEWRAD, IR-EMPOWER, ECTP — leave empty for one-off events</div>
+  <label class="req" for="f-start_date">Start date</label>
+  <input id="f-start_date" name="start_date" type="date" required />
+  <label for="f-end_date">End date</label>
+  <input id="f-end_date" name="end_date" type="date" />
+  <label class="req" for="f-location">City, country</label>
+  <input id="f-location" name="location" type="text" required />
+  <div class="hint">e.g. Naples, Italy</div>
+  <label class="req" for="f-url">Official website</label>
+  <input id="f-url" name="url" type="url" required />
+  <div class="hint">The event's own page — entries are verified against it</div>
+  <label class="req" for="f-description">One-paragraph description</label>
+  <textarea id="f-description" name="description" required></textarea>
+  <label for="f-deadlines">Key deadlines</label>
+  <textarea id="f-deadlines" name="deadlines"></textarea>
+  <div class="hint">Abstract, registration… one per line, with dates</div>
+
+  <label class="req" for="s-name">Your name</label>
+  <input id="s-name" name="submitter_name" required />
+  <label class="req" for="s-email">Your email</label>
+  <input id="s-email" name="submitter_email" type="email" required />
+  <label for="s-aff">Affiliation</label>
+  <input id="s-aff" name="submitter_affiliation" />
+  <button type="submit">Submit for review</button>
+</form>
+```
+
+:::

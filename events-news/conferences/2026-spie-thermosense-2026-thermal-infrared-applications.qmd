@@ -1,0 +1,28 @@
+---
+title: "SPIE ThermoSense 2026 (Thermal Infrared Applications)"
+subtitle: "SPIE ThermoSense"
+date: 2026-01-01
+description: "SPIE conference on thermal infrared applications and thermography (edition details announced by SPIE)."
+url: "https://spie.org/DS26/conferencedetails/thermosense"
+categories:
+  - infrared-thermography
+  - thermal-imaging
+  - emissivity
+  - spie
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Year:** 2026
+
+[Conference Website](https://spie.org/DS26/conferencedetails/thermosense){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+ThermoSense is an annual SPIE conference series focused on thermal infrared applications and thermography. The SPIE conference page serves as the primary reference point for edition-level details (dates, venue, call for papers, and proceedings links) as they are posted for 2026.
+
+

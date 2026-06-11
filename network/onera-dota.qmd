@@ -1,0 +1,61 @@
+---
+title: "ONERA DOTA"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / ONERA DOTA</div>
+```
+
+::: {.page-article}
+# ONERA — DOTA, Optics and Associated Techniques
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | France |
+| **City** | Palaiseau / Toulouse |
+| **Tier** | Extended |
+| **Primary ecosystem** | Spectral Libraries |
+| **Unit** | [MELOPEE laboratory — optical properties of materials](https://www.onera.fr/en/dota-research-units) |
+
+| **Databases hosted** | MEMOIRES thermo-optical properties database |
+
+## Why it matters internationally
+
+ONERA's DOTA department institutionalizes the optical-properties
+measurement chain for French aerospace research: a dedicated laboratory
+(MELOPEE) measures spectral and polarized optical properties of
+materials, coatings, and paints, and the results are capitalized in the
+MEMOIRES thermo-optical database that feeds infrared signature
+modelling. For the emissivity community it is a reference for the
+data-infrastructure face of radiative-property work.
+
+## Scope of activity
+
+- **Quantities:** spectral reflectance · polarized optical signatures of coatings and paints · infrared signatures
+- **Spectral range:** infrared detector characterization 1–20 µm; optical properties from visible to IR
+- **Methodology:** Measurement of optical properties of materials at the MELOPEE laboratory (spectral and polarized signatures of coatings and paints); results capitalized in the MEMOIRES thermo-optical properties database; radiative-transfer code MATISSE for IR signature studies.
+
+**Application domains:** infrared signature modelling (defense and aerospace) · coating and paint characterization.
+
+## External sources
+
+- [DOTA research units (ONERA)](https://www.onera.fr/en/dota-research-units)
+- [DOTA scientific topics (ONERA)](https://www.onera.fr/en/dota-scientific-topics)
+- [MEMOIRES database (ONERA)](https://onera.fr/en/dota/memoires)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

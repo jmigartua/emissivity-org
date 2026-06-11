@@ -1,0 +1,81 @@
+---
+page-layout: full
+toc: false
+listing:
+  - id: events_upcoming
+    contents:
+      - conferences/2026-*.qmd
+      - conferences/2027-*.qmd
+    sort: "date asc"
+    type: default
+    categories: true
+    filter-ui: false
+    fields: [title, date, description, categories]
+    page-size: 12
+---
+
+```{=html}
+<!-- ═══════════════ EVENTS ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Events</div>
+      <div class="section__title">Conferences, workshops, and community <em>gatherings</em>.</div>
+    </div>
+    <a href="/contribute/index.html" class="section__link">Announce an event &rarr;</a>
+  </div>
+
+  <p style="max-width:700px;color:#4a5662;line-height:1.7;margin-bottom:2rem;">
+    This page shows the upcoming events stream. The full conference archive and recurring-series context remain available separately so current activity and long-term reference do not get mixed together.
+  </p>
+
+  <p style="font-size:13.5px;color:#74808c;">
+    Conferences and workshops for 2026–27, each entry dated and linked to its
+    official site. Subscribe to the
+    <a href="/files/ical/emissivity-conferences.ics">iCal feed</a> to follow
+    the calendar.
+  </p>
+</section>
+
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Upcoming</div>
+      <div class="section__title">The next events on the <em>calendar</em>.</div>
+    </div>
+    <a href="/files/ical/emissivity-conferences.ics" class="section__link">Download .ics calendar &rarr;</a>
+  </div>
+</section>
+```
+
+::: {.archive-listing}
+:::{#events_upcoming}
+:::
+:::
+
+```{=html}
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Archive</div>
+      <div class="section__title">Need the broader conference context?</div>
+    </div>
+    <a href="/events-news/conferences.html" class="section__link">Open full conference archive &rarr;</a>
+  </div>
+
+  <div style="max-width:760px;padding:2rem;border:1px solid rgba(78,158,184,0.15);border-radius:8px;color:#4a5662;">
+    <p style="margin:0 0 0.75rem 0;">The archive page groups events by year and also documents the recurring conference series that regularly intersect emissivity, radiative properties, infrared thermography, and temperature metrology.</p>
+    <a href="/events-news/conferences.html" style="color:#1b3a6b;">Go to conference archive &rarr;</a>
+  </div>
+</section>
+
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">News</div>
+      <div class="section__title">Announcements now live in a dedicated <em>news archive</em>.</div>
+    </div>
+    <a href="/news/index.html" class="section__link">Open news archive &rarr;</a>
+  </div>
+</section>
+```

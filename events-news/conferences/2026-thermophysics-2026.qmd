@@ -1,0 +1,30 @@
+---
+title: "Thermophysics 2026"
+subtitle: "Thermophysics | Krtiny, Czech Republic"
+date: 2026-10-21
+description: "Conference on thermophysics and heat transfer, including radiative properties within broader thermophysical property discussions."
+url: "https://thermophysics.fch.vut.cz/"
+categories:
+  - thermophysics
+  - radiative-properties
+  - Thermophysical properties
+  - materials
+  - heat-transfer
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-10-21 to 2026-10-23
+
+**Location:** Krtiny, Czech Republic
+
+[Conference Website](https://thermophysics.fch.vut.cz/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+Thermophysics 2026 is scheduled for 21–23 October 2026 in Krtiny (Czech Republic). The conference covers thermophysics and heat transfer topics; radiative properties and related measurement/modeling topics commonly appear within the broader program scope.
+
+

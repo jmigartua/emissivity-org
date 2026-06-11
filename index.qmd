@@ -1,0 +1,339 @@
+---
+page-layout: full
+toc: false
+listing:
+  - id: home-news
+    contents: events-news/news/*.qmd
+    sort: "date desc"
+    type: custom
+    template: assets/listings/home-news.ejs
+    max-items: 4
+  - id: home-events
+    contents:
+      - events-news/conferences/2026-*.qmd
+      - events-news/conferences/2027-*.qmd
+    sort: "date asc"
+    type: custom
+    template: assets/listings/home-events.ejs
+---
+
+```{=html}
+<!-- ============ MISSION ============ -->
+<div class="mission">
+  <div class="wrap mission-grid">
+    <div>
+      <h1>emissivity.org is the common reference point for laboratories and research groups working on the <strong>measurement, modelling, and engineering of the thermal radiative properties of materials</strong>.</h1>
+      <p class="who">
+        It maintains the research map of the field, indexes its open data resources,
+        documents measurement standards and good practice, and keeps the community
+        calendar. Editorially maintained by the community; hosted at the
+        University of the Basque Country (UPV/EHU).
+      </p>
+      <p class="quicklinks">
+        <a href="/network/index.html">Research map</a> <span class="sep">·</span>
+        <a href="/data/index.html">Data resources</a> <span class="sep">·</span>
+        <a href="/methods/principles.html">What is emissivity?</a> <span class="sep">·</span>
+        <a href="/events-news/conferences.html">Conference calendar</a>
+      </p>
+    </div>
+
+    <figure class="spectrum">
+      <svg viewBox="0 0 460 300" xmlns="http://www.w3.org/2000/svg" aria-label="Directional spectral emissivity of polycrystalline silicon carbide at 873 kelvin">
+        <g stroke="#e8ecf1" stroke-width="1">
+          <line x1="48" y1="22"  x2="446" y2="22"/>
+          <line x1="48" y1="74"  x2="446" y2="74"/>
+          <line x1="48" y1="126" x2="446" y2="126"/>
+          <line x1="48" y1="178" x2="446" y2="178"/>
+          <line x1="48" y1="230" x2="446" y2="230"/>
+          <line x1="128" y1="22" x2="128" y2="230"/>
+          <line x1="208" y1="22" x2="208" y2="230"/>
+          <line x1="288" y1="22" x2="288" y2="230"/>
+          <line x1="368" y1="22" x2="368" y2="230"/>
+        </g>
+        <line x1="48" y1="230" x2="446" y2="230" stroke="#74808c" stroke-width="1"/>
+        <line x1="48" y1="22"  x2="48"  y2="230" stroke="#74808c" stroke-width="1"/>
+        <rect x="200" y="22" width="84" height="208" fill="#1b3a6b" fill-opacity="0.05"/>
+        <path d="M 48,57 C 84,59 130,64 166,70 C 184,75 197,88 202,106 C 207,142 220,206 246,219 C 264,224 273,210 282,162 C 291,118 309,75 344,66 C 380,60 414,58 446,57"
+              fill="none" stroke="#1b3a6b" stroke-width="1.8"/>
+        <g font-family="IBM Plex Mono, monospace" font-size="9.5" fill="#74808c">
+          <text x="41" y="25"  text-anchor="end">1.0</text>
+          <text x="41" y="77"  text-anchor="end">0.8</text>
+          <text x="41" y="129" text-anchor="end">0.6</text>
+          <text x="41" y="181" text-anchor="end">0.4</text>
+          <text x="41" y="233" text-anchor="end">0.2</text>
+          <text x="48"  y="247" text-anchor="middle">2</text>
+          <text x="128" y="247" text-anchor="middle">5</text>
+          <text x="208" y="247" text-anchor="middle">10</text>
+          <text x="288" y="247" text-anchor="middle">15</text>
+          <text x="368" y="247" text-anchor="middle">20</text>
+          <text x="446" y="247" text-anchor="middle">25</text>
+        </g>
+        <text x="247" y="270" font-family="IBM Plex Mono, monospace" font-size="10" fill="#4a5662" text-anchor="middle">wavelength λ / µm</text>
+        <text x="14" y="126" font-family="IBM Plex Mono, monospace" font-size="10" fill="#4a5662" text-anchor="middle" transform="rotate(-90 14 126)">emissivity ε</text>
+        <text x="242" y="38" font-family="IBM Plex Mono, monospace" font-size="9" fill="#1b3a6b" text-anchor="middle">Reststrahlen band</text>
+      </svg>
+      <figcaption>
+        Directional spectral emissivity of polycrystalline SiC at 873&nbsp;K (θ&nbsp;=&nbsp;0°),
+        showing the characteristic Reststrahlen band near 10–12&nbsp;µm.
+        Illustrative curve — to be replaced by a data export from EKHI with full citation.
+      </figcaption>
+    </figure>
+  </div>
+</div>
+
+```
+
+{{< include _featured-band.qmd >}}
+
+```{=html}
+<!-- ============ NETWORK ============ -->
+<section class="home-section" id="network">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>The research map</h2>
+      <a class="more" href="/network/index.html">Full directory →</a>
+    </div>
+    <p class="sec-intro">
+      A curated directory of the non-commercial institutions where emissivity and
+      thermal radiative properties are actively researched — from national metrology
+      institutes to planetary spectroscopy and engineered thermal emission.
+      Inclusion criteria, tier logic, and limitations are documented in the
+      <a href="/network/methodology.html">methodology</a>. Last revision: 2026-06.
+    </p>
+
+    <div class="net-stats" id="home-net-stats">
+      <div class="net-stat"><div class="v" id="stat-inst">—</div><div class="k">institutions</div></div>
+      <div class="net-stat"><div class="v" id="stat-countries">—</div><div class="k">countries</div></div>
+      <div class="net-stat"><div class="v" id="stat-core">—</div><div class="k">core-tier laboratories</div></div>
+      <div class="net-stat"><div class="v" id="stat-eco">—</div><div class="k">thematic ecosystems</div></div>
+    </div>
+
+    <div id="labmap" class="labmap" aria-label="World map of institutions on the research map"></div>
+    <div class="map-legend">
+      <span class="key"><span class="dot meas"></span> Measurement &amp; metrology laboratories</span>
+      <span class="key"><span class="dot eng"></span> Engineered emissivity (thermal photonics, radiative cooling)</span>
+      <span class="note">Each marker links to the institution's profile.</span>
+    </div>
+
+    <table class="dir">
+      <thead>
+        <tr>
+          <th>Institution</th>
+          <th>Country</th>
+          <th>Tier</th>
+          <th class="cap">Representative capability</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="inst"><a href="/network/ptb.html">Physikalisch-Technische Bundesanstalt</a>
+            <span class="unit">Working Group 7.35 — Emissivity</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">Traceable spectral emissivity, −40 °C to ≈2300 °C, air and vacuum, near to far infrared.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/cemhti-cnrs.html">CEMHTI — CNRS</a>
+            <span class="unit">High-temperature radiative properties, Orléans</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">Spectral emissivity of ceramics, glasses, and refractories above 1500 K.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/dlr-psl.html">DLR Institute of Planetary Research</a>
+            <span class="unit">Planetary Spectroscopy Laboratory, Berlin</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">Vacuum FTIR emissivity 0.3 to &gt;100 µm, heated planetary-analog samples; Berlin Emissivity Database.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat / HAIRL — UPV/EHU</a>
+            <span class="unit">Thermophysical properties group, Bilbao</span></td>
+          <td class="cc">ES</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">FTIR directional spectral emissometry with uncertainty budget; maintainers of EKHI.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/promes-cnrs.html">PROMES — CNRS</a>
+            <span class="unit">Solar furnace facilities, Odeillo</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">High-temperature radiative properties under concentrated solar flux; selective absorbers.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/nist.html">National Institute of Standards and Technology</a>
+            <span class="unit">Infrared radiometry and emittance metrology</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">Infrared spectral emittance, radiance temperature, and radiometric standards.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/stanford-fan.html">Stanford University</a>
+            <span class="unit">Fan Group — Ginzton Laboratory</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">Radiative sky cooling; nanophotonic control of spectral and directional thermal emission.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="countries" id="country-line">
+      <a href="/network/index.html">Browse the full directory by country, tier, or ecosystem →</a>
+    </p>
+  </div>
+</section>
+
+<!-- ============ DATA RESOURCES ============ -->
+<section class="home-section tinted" id="data">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Open data resources</h2>
+      <a class="more" href="/data/index.html">All resources →</a>
+    </div>
+    <p class="sec-intro">
+      The field's openly accessible databases of radiative and optical property data,
+      each maintained by a member institution. Counts are exact and dated; every
+      dataset is traceable to its source publication.
+    </p>
+
+    <div class="res">
+      <div class="res-row">
+        <div class="name"><a href="/data/ekhi.html">EKHI</a>
+          <span class="by">Thermomat / UPV/EHU · Bilbao</span></div>
+        <div class="desc">
+          Open, publication-centred database of optical and thermal radiative properties
+          of solid materials: curve-level spectral datasets with explicit provenance,
+          machine-readable downloads, and citation tools. Described in
+          <a href="https://www.nature.com/articles/s41597-026-07083-9"><em>Scientific Data</em> (2026)</a>.
+        </div>
+        <div class="facts">
+          1 251 curves · 167 publications<br/>
+          0.05–1000 µm · counts at 2026-01<br/>
+          <a href="https://thermomat.ehu.eus/ekhi">thermomat.ehu.eus/ekhi →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="/network/dlr-psl.html">Berlin Emissivity Database</a>
+          <span class="by">DLR Institute of Planetary Research</span></div>
+        <div class="desc">
+          Emissivity spectra of planetary-analog materials (minerals, regolith simulants)
+          measured in vacuum, including heated samples for Mercury and Venus surface
+          conditions. Supports the MERTIS instrument on BepiColombo.
+        </div>
+        <div class="facts">
+          planetary analogs · vacuum FTIR<br/>
+          <a href="/network/dlr-psl.html">maintainer profile →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="https://speclib.jpl.nasa.gov">ECOSTRESS Spectral Library</a>
+          <span class="by">NASA Jet Propulsion Laboratory</span></div>
+        <div class="desc">
+          Laboratory reflectance and emissivity spectra of natural and man-made materials
+          (formerly the ASTER Spectral Library), widely used for land-surface
+          temperature and emissivity retrieval.
+        </div>
+        <div class="facts">
+          natural + man-made materials<br/>
+          <a href="https://speclib.jpl.nasa.gov">speclib.jpl.nasa.gov →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="/network/usgs-spectroscopy.html">USGS Spectral Library</a>
+          <span class="by">U.S. Geological Survey, Spectroscopy Lab</span></div>
+        <div class="desc">
+          Reference reflectance spectra of minerals, rocks, soils, vegetation, and
+          man-made materials, used across remote sensing and as input for emissivity
+          modelling.
+        </div>
+        <div class="facts">
+          version 7 · open access<br/>
+          <a href="/network/usgs-spectroscopy.html">maintainer profile →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ NEWS + EVENTS ============ -->
+<section class="home-section" id="events">
+  <div class="wrap two-col">
+    <div>
+      <div class="col-head">
+        <h2>News</h2>
+        <a href="/news/index.html">Archive →</a>
+      </div>
+```
+
+::: {#home-news}
+:::
+
+```{=html}
+    </div>
+
+    <div>
+      <div class="col-head">
+        <h2>Upcoming meetings</h2>
+        <a href="/events-news/conferences.html">Calendar →</a>
+      </div>
+```
+
+::: {#home-events}
+:::
+
+```{=html}
+      <div class="ical-line">Subscribe: <a href="/files/ical/emissivity-conferences.ics">iCal feed</a> of all listed conferences and deadlines.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ REFERENCE ============ -->
+<section class="home-section">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Reference</h2>
+      <a class="more" href="/methods/index.html">Reference section →</a>
+    </div>
+    <div class="shelf">
+      <div class="shelf-item">
+        <h3><a href="/methods/principles.html">What is emissivity?</a></h3>
+        <p>Definitions, directional and spectral quantities, and why a single "ε value" is rarely enough.</p>
+      </div>
+      <div class="shelf-item">
+        <h3><a href="/methods/index.html">Methods &amp; instruments</a></h3>
+        <p>Direct radiometric emissometry, indirect reflectance methods, calorimetry — with their uncertainty budgets.</p>
+      </div>
+      <div class="shelf-item">
+        <h3><a href="/methods/standards.html">Standards &amp; protocols</a></h3>
+        <p>ISO and ASTM standards, the CCT-S1 international comparison, and community good-practice guides.</p>
+      </div>
+      <div class="shelf-item">
+        <h3><a href="/methods/resources.html">Applications</a></h3>
+        <p>Non-contact thermometry, spacecraft thermal control, radiative cooling, remote sensing, energy systems.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CONTRIBUTE ============ -->
+<section class="home-section tinted contribute-band">
+  <div class="wrap">
+    <p class="lede">The map, the calendar, and the bibliography are maintained by the community they describe.</p>
+    <p>
+      If your laboratory belongs on the research map, if you have published data that
+      should be indexed, or if you are organizing a meeting the community should know
+      about — <a href="/contribute/index.html">write to the editorial board</a>. Inclusion follows the
+      published <a href="/network/methodology.html">methodology</a>; every entry is verified against public
+      institutional sources before it goes live.
+    </p>
+  </div>
+</section>
+
+<!-- ============ MAP DATA + SCRIPT ============ -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="assets/scripts/labs-map.js"></script>
+```

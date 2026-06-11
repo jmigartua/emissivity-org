@@ -1,0 +1,31 @@
+---
+title: "TEMPMEKO–ISHM 2025"
+subtitle: "TEMPMEKO / ISHM | Reims, France"
+date: 2025-10-20
+description: "Temperature, humidity, moisture and thermophysical quantities metrology; radiation thermometry and emissivity are recurring topics."
+url: "https://tempmeko-ishm2025.com/"
+categories:
+  - Temperature metrology
+  - traceability
+  - emissivity
+  - temperature-metrology
+  - radiation-thermometry
+  - uncertainty
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2025-10-20 to 2025-10-24
+
+**Location:** Reims, France
+
+[Conference Website](https://tempmeko-ishm2025.com/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+TEMPMEKO–ISHM is an international metrology symposium focused on temperature, humidity, moisture, and related thermophysical quantities. The conference routinely includes contributions on radiation thermometry, calibration, uncertainty evaluation, and reference sources, where emissivity determination and characterization appear as recurring technical topics. Attendance commonly includes national metrology institutes, calibration laboratories, and academic groups.
+
+

@@ -1,0 +1,44 @@
+---
+title: "Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity"
+description: >
+  This publication focuses on emissivity conversion, standardization, guidance. Standard practice guide Direct to hemispherical Uncertainty low.
+date: 2025-09-30
+author:
+  - name: "Jochen Manara"
+    orcid: 0000-0002-5319-6874
+  - name: "Christian Monte"
+categories:
+  - Emissivity conversion
+  - Standardization
+  - Guidance
+pub-info:
+  reference: >-
+    Manara & Monte, Zenodo (2025).
+  links:
+    - name: "Zenodo"
+      url: https://doi.org/10.5281/zenodo.17684770
+      icon: fa-solid fa-file
+haiku:
+  - Standard practice guide
+  - Direct to hemispherical
+  - Uncertainty low
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_author" content="Christian Monte">
+      <meta name="citation_date" content="2025-09-30">
+      <meta name="citation_doi" content="10.5281/zenodo.17684770">
+---
+
+## Abstract
+
+This publication focuses on emissivity conversion, standardization, guidance. Standard practice guide Direct to hemispherical Uncertainty low.
+
+## Citation
+
+> Manara & Monte, Zenodo (2025).
+
+::: {.callout-note}
+Click the **Zenodo** button above to access the full text or official record.
+:::

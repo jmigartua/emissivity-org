@@ -1,0 +1,23 @@
+# Netlify configuration — emissivity.org
+# Continuous deployment: Netlify watches this repo and runs the build on
+# every push to the production branch. No base directory — the repo root
+# IS the Quarto project.
+
+[build]
+  command = "bash tools/netlify-build.sh"
+  publish = "_site"
+
+[build.environment]
+  PYTHON_VERSION = "3.8"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

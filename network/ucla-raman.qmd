@@ -1,0 +1,58 @@
+---
+title: "UCLA Raman Lab"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / UCLA Raman Lab</div>
+```
+
+::: {.page-article}
+# UCLA — Raman Lab
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Los Angeles, CA |
+| **Tier** | Engineered |
+| **Primary ecosystem** | Engineered Emissivity |
+| **Unit** | [Raman Lab, Materials Science and Engineering](http://www.aaswathraman.com/) |
+| **Publicly linked people** | Aaswath Raman |
+
+
+## Why it matters internationally
+
+The Raman Lab descends directly from the experiments that made daytime
+radiative sky cooling real, and now leads on directional and spectral
+control of thermal emission. It anchors the engineered-emissivity tier:
+emissivity treated not as a property to measure but as a design
+variable.
+
+## Scope of activity
+
+- **Quantities:** spectral and directional emissivity (engineered) · radiative cooling performance
+- **Spectral range:** solar and sky-window (8–13 µm) bands
+- **Methodology:** Radiative sky cooling (lineage of the first daytime demonstration); spectral and directional emissivity control via gradient epsilon-near-zero structures; broadband directional thermal emission.
+
+**Application domains:** passive radiative cooling · thermal photonics.
+
+## External sources
+
+- [Raman Lab](http://www.aaswathraman.com/)
+- [Aaswath Raman (UCLA Samueli)](https://samueli.ucla.edu/people/aaswath-raman/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

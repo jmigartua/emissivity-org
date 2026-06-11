@@ -1,0 +1,72 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════ CONTRIBUTE ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Contribute</div>
+      <div class="section__title">Four ways to make the site feel <em>alive</em>.</div>
+    </div>
+  </div>
+
+  <p style="max-width:680px;color:#4a5662;line-height:1.7;margin-bottom:2.5rem;">
+    Emissivity.org is community-driven. Every dataset, every insight, every event announcement comes from researchers like you. Choose a contribution path below.
+  </p>
+
+  <div class="contribute">
+    <a href="/contribute/submit-data.html" class="contrib" style="text-decoration:none;">
+      <div class="contrib__num">01</div>
+      <div class="contrib__verb"><em>Submit</em> spectral data</div>
+      <div class="contrib__desc">Validated spectra move naturally into EKHI with visible attribution and reuse guidance. Publication-traced provenance, curve-level downloads, CC-BY 4.0 licensing.</div>
+      <span class="contrib__link">Submit to EKHI &rarr;</span>
+    </a>
+    <a href="/contribute/join-network.html" class="contrib" style="text-decoration:none;">
+      <div class="contrib__num">02</div>
+      <div class="contrib__verb"><em>Join</em> the network</div>
+      <div class="contrib__desc">Turn the network from a static roster into a living community by listing your laboratory and capabilities. Become visible to collaborators worldwide.</div>
+      <span class="contrib__link">Apply to the network &rarr;</span>
+    </a>
+    <a href="/contribute/suggest-publication.html" class="contrib" style="text-decoration:none;">
+      <div class="contrib__num">03</div>
+      <div class="contrib__verb"><em>Propose</em> a paper or note</div>
+      <div class="contrib__desc">Feed the Insights layer with curated paper briefs, method notes, and data notes. Share what you have learned with the community.</div>
+      <span class="contrib__link">Suggest an insight &rarr;</span>
+    </a>
+    <a href="/contribute/suggest-event.html" class="contrib" style="text-decoration:none;">
+      <div class="contrib__num">04</div>
+      <div class="contrib__verb"><em>Announce</em> an event</div>
+      <div class="contrib__desc">Workshop, conference, call, or training activity. A field hub should make temporal activity visible. Let the community know what is coming.</div>
+      <span class="contrib__link">Post an event &rarr;</span>
+    </a>
+  </div>
+</section>
+
+<!-- ═══════════════ HOW IT WORKS ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Process</div>
+      <div class="section__title">How contributions reach the <em>site</em>.</div>
+    </div>
+  </div>
+
+  <div class="card-grid">
+    <article class="info-card">
+      <h4>1. You submit</h4>
+      <p>Send your data, insight proposal, event, or membership application through the relevant form or by email to <a href="mailto:info@emissivity.org" style="color:#1b3a6b;">info@emissivity.org</a>.</p>
+    </article>
+    <article class="info-card">
+      <h4>2. We review</h4>
+      <p>The editorial team checks for completeness, accuracy, and consistency with site standards. We may ask clarifying questions.</p>
+    </article>
+    <article class="info-card">
+      <h4>3. It goes live</h4>
+      <p>Accepted contributions appear on the site with full attribution. Data enters EKHI; insights appear in the editorial layer; events join the calendar.</p>
+    </article>
+  </div>
+</section>
+```

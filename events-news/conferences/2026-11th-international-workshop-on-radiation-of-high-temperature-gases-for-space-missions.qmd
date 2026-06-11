@@ -1,0 +1,30 @@
+---
+title: "11th International Workshop on Radiation of High Temperature Gases for Space Missions"
+subtitle: "Radiation of High Temperature Gases Workshop | Mola di Bari, Italy"
+date: 2026-09-21
+description: "Workshop on radiation of high-temperature gases, including radiative property modeling and measurement topics relevant to high-temperature radiative transfer."
+url: "https://indico.esa.int/event/594/"
+categories:
+  - radiometry
+  - radiation
+  - radiative-properties
+  - Thermophysical properties
+  - high-temperature-gases
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-09-21 to 2026-09-25
+
+**Location:** Mola di Bari, Italy
+
+[Conference Website](https://indico.esa.int/event/594/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+This workshop (11th edition) is scheduled for 21–25 September 2026 in Mola di Bari (Italy). The meeting focuses on radiation of high-temperature gases in the context of space missions, covering topics related to radiative properties and high-temperature radiation modeling/analysis in that domain.
+
+

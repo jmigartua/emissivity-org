@@ -1,0 +1,95 @@
+---
+title: "Institute VINČA"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Institute VINČA</div>
+```
+
+::: {.page-article}
+# Institute VINČA
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Serbia |
+| **City** | Belgrade |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | High-temperature metrology — metals and alloys |
+| **Relevant activity** | High-temperature thermophysical-property measurement by direct pulse heating |
+| **Publicly linked people** | Nenad Milošević |
+| **Signature method** | **Direct pulse-heating** (pulse calorimetry) |
+
+## Why it matters internationally
+
+VINČA is a significant specialist institution in the field of
+**high-temperature emissivity of metals and alloys** through the **direct
+pulse-heating** approach. Pulse-heating-based emissivity work belongs to a
+lineage of high-temperature thermophysical-property measurement where
+transient methods, rapid heating, and conductive materials are central.
+VINČA is therefore important not as a broad-spectrum emissivity center, but
+as a highly relevant **high-temperature specialist laboratory** occupying a
+valuable methodological niche.
+
+## Scope of activity
+
+### Relevant activity
+
+- **High-temperature thermophysical-property measurement — direct pulse
+  heating.** A dedicated experimental program for simultaneous determination
+  of thermal, electrical, and radiative properties of electrically
+  conductive materials.
+
+### Radiative properties measured
+
+Hemispherical total emissivity · normal spectral emissivity — measured
+simultaneously with specific heat and electrical resistivity during the
+pulse-heating event.
+
+### Capability envelope
+
+- **Temperature:** wide high-temperature range accessible to metals and
+  alloys through rapid resistive heating.
+- **Methodology:** direct pulse-heating / pulse calorimetry. The method is
+  particularly well suited to conductive refractory materials that are
+  difficult to measure with furnace-based techniques.
+
+### Application domains
+
+- Metals and alloys at high temperature
+- Refractory and conductive materials
+- Fast-heating / transient thermal regimes
+- Systems where self-heating and rapid thermalization are experimentally
+  convenient
+
+## IR-EMPOWER contributions
+
+- **Nenad Milošević** — hemispherical total and normal spectral emissivity
+  measurement of metals and alloys over a wide high-temperature range by
+  the direct pulse-heating technique.
+
+## Why VINČA is a reference pole
+
+Direct pulse-heating is one of the few techniques that deliver consistent
+radiative-property data for conductive materials at temperatures where
+furnace methods struggle. VINČA's sustained use of this approach makes it
+the natural reference point for the high-temperature metallic branch of the
+emissivity community, complementing optical and laser-heating methods used
+elsewhere.
+
+## External sources
+
+- [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

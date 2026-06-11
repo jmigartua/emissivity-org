@@ -1,0 +1,11 @@
+<%
+const fmt = d => { try { return new Date(d).toISOString().slice(0,10); } catch(e) { return ""; } };
+const href = p => String(p || "").replace(/\.qmd$/, ".html");
+for (const item of items.slice(0, 4)) { %>
+<div class="news-item">
+<div class="date"><%= fmt(item.date) %></div>
+<div class="title"><a href="<%- href(item.path) %>"><%= item.title %></a></div>
+<% if (item.description) { %><div class="summary"><%= item.description %></div><% } %>
+<div class="by">Emissivity.org Editorial Board</div>
+</div>
+<% } %>

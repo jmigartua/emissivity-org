@@ -1,0 +1,98 @@
+---
+title: "Tuning infrared radiative properties using Direct Laser Interference Patterning"
+description: >
+  This paper investigates the modification of infrared emissivity induced by Direct
+  Laser Interference Patterning through experimental measurements and electromagnetic
+  simulations, demonstrating the effect of periodic surface structuring on radiative
+  properties.
+author: "Emissivity.org Editorial Team"
+date: 2026-01-03
+categories:
+  - Emissometry
+  - Surface engineering
+page-layout: full
+toc: false
+post_type: "paper-brief"
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Paper brief</div>
+  <h1>Tuning infrared radiative properties using Direct Laser Interference Patterning</h1>
+  <p class="pub__journal" style="margin-bottom:2rem;">Experimental emissivity measurements and numerical interpretation</p>
+
+  <h3>Overview of the study</h3>
+
+  <p>This article reports an experimental and numerical investigation of the influence of Direct Laser Interference Patterning (DLIP) on the infrared radiative properties of metallic surfaces. The work focuses on quantifying how periodic surface structures produced by DLIP modify emissivity in the infrared spectral range.</p>
+
+  <p>The authors present emissivity measurements performed on metallic samples before and after laser patterning. By comparing the emissive behavior of polished and patterned surfaces, the study isolates the effect of surface structuring on infrared emission. Numerical simulations based on electromagnetic modeling are employed to interpret the experimental observations.</p>
+
+  <h3>Direct Laser Interference Patterning approach</h3>
+
+  <p>DLIP is a laser-based surface structuring technique that uses the interference of coherent laser beams to generate periodic intensity patterns on a material surface. When applied to metallic substrates, DLIP produces regular surface features with controlled periodicity and depth.</p>
+
+  <p>The paper describes the DLIP configuration used to pattern the samples, including laser parameters and interference conditions. The resulting surface structures exhibit periodic geometries with characteristic dimensions comparable to infrared wavelengths, making them relevant for modifying radiative properties.</p>
+
+  <p>Surface characterization was performed to document the geometry of the DLIP-induced structures. These geometric parameters are subsequently used as inputs for numerical modeling.</p>
+
+  <h3>Experimental emissivity measurements</h3>
+
+  <p>Infrared emissivity measurements were conducted on both polished and DLIP-patterned samples. The measurements were performed using an infrared emissometer, with emissivity determined as a function of wavelength over the relevant infrared spectral range.</p>
+
+  <p>The comparison between polished and patterned surfaces allows direct assessment of the impact of DLIP on emissivity. The measurements show that surface patterning induces measurable changes in infrared emissivity relative to the unstructured surface.</p>
+
+  <p>The experimental conditions are described to ensure reproducibility, including information on sample preparation, measurement geometry, and calibration procedures. The reported emissivity values are presented as spectral curves.</p>
+
+  <h3>Experimental results</h3>
+
+  <p>The experimental results demonstrate that DLIP-patterned surfaces exhibit emissivity values that differ from those of polished surfaces across the investigated spectral range. The magnitude and spectral dependence of the emissivity modification depend on the specific surface patterning parameters.</p>
+
+  <p>The authors report that emissivity changes are not limited to a narrow spectral region but extend across a broad infrared range. The measured differences between polished and patterned surfaces provide direct evidence that periodic surface structuring affects infrared emission.</p>
+
+  <p>The paper presents representative emissivity spectra illustrating the effect of DLIP, allowing direct visual comparison between the two surface states.</p>
+
+  <h3>Numerical modeling and interpretation</h3>
+
+  <p>To interpret the experimental emissivity modifications, the authors perform numerical simulations based on electromagnetic modeling. The modeling approach accounts for the periodic geometry of the DLIP-induced surface structures and the optical properties of the substrate material.</p>
+
+  <p>The simulations calculate infrared emissivity for surfaces with geometries corresponding to the experimentally characterized DLIP patterns. The modeled emissivity spectra are compared directly with the measured data.</p>
+
+  <p>The numerical results reproduce the main trends observed experimentally, including the spectral dependence and magnitude of the emissivity changes induced by DLIP. This agreement supports the interpretation that the observed emissivity modification arises from the interaction of infrared radiation with the periodic surface structures.</p>
+
+  <h3>Comparison between experiment and simulation</h3>
+
+  <p>The comparison between experimental measurements and numerical simulations shows consistency between the two approaches. The simulated emissivity spectra capture the key features observed in the experimental data, including differences between polished and patterned surfaces.</p>
+
+  <p>Discrepancies between measured and simulated emissivity values are discussed in terms of modeling assumptions and experimental uncertainties. The authors note that idealized representations of surface geometry may contribute to differences between simulations and measurements.</p>
+
+  <p>Overall, the combined experimental and numerical results demonstrate that electromagnetic modeling can account for the emissivity changes induced by DLIP within the investigated parameter range.</p>
+
+  <h3>Data presentation and limitations</h3>
+
+  <p>The emissivity data are presented as spectral curves, with clear identification of surface state and measurement conditions. The study focuses on demonstrating the effect of DLIP on emissivity rather than providing an exhaustive parametric analysis.</p>
+
+  <p>The reported results correspond to specific DLIP configurations and material systems. The study does not explore the full range of possible pattern geometries, depths, or materials, and the conclusions are limited to the investigated cases.</p>
+
+  <h3>Possible applications (as implied by the paper)</h3>
+
+  <p>The results reported in this study provide experimental and numerical evidence that infrared emissivity can be modified through DLIP-induced surface structuring. The measured emissivity data and supporting simulations enable quantitative analysis of radiative properties for laser-patterned metallic surfaces under conditions similar to those investigated.</p>
+
+  <blockquote>
+    <strong>Figure callout</strong> &mdash; Infrared emissivity spectra of polished and DLIP-patterned surfaces and comparison with electromagnetic simulations.
+  </blockquote>
+
+  <h3>Reference</h3>
+
+  <pre><code>@article{GabirondoLopez2025DLIP,
+  author  = {Gabirondo-L&oacute;pez, J. and others},
+  title   = {Tuning infrared radiative properties using Direct Laser Interference Patterning},
+  journal = {Materials Letters},
+  volume  = {391},
+  pages   = {136045},
+  year    = {2025},
+  doi     = {10.1016/j.matlet.2024.136045}
+}</code></pre>
+
+  <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>
+</div>
+```

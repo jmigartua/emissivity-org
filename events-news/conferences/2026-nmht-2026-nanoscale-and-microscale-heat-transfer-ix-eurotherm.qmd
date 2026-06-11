@@ -1,0 +1,30 @@
+---
+title: "NMHT 2026 — Nanoscale and Microscale Heat Transfer IX (Eurotherm)"
+subtitle: "NMHT / Eurotherm | Berlin, Germany"
+date: 2026-04-20
+description: "Near-field radiative heat transfer, photon transport, thermal radiation at nanoscale."
+url: "https://premc.org/nmht2026/"
+categories:
+  - near-field
+  - radiative-transfer
+  - photon-transport
+  - Nanoscale thermal
+  - nanoscale
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-04-20 to 2026-04-24
+
+**Location:** Berlin, Germany
+
+[Conference Website](https://premc.org/nmht2026/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+Eurotherm-affiliated seminar on heat transport at micro/nanoscale including near-field radiative heat transfer, photon transport, and thermal radiation at nanoscale. Relevant for fundamental emissivity physics at sub-wavelength scales.
+
+

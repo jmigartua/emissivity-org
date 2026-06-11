@@ -1,0 +1,150 @@
+---
+title: "EKHI: an open database for optical and radiative property data"
+description: >
+  EKHI is an open, publication-centred database that provides searchable access to
+  optical and radiative property data extracted from the scientific literature.
+  The platform exposes curve-level spectral datasets with explicit provenance,
+  machine-readable downloads, and citation tools, enabling direct reuse in
+  emissivity research, radiative modelling, experimental benchmarking, and education.
+author: "Emissivity.org Editorial Team"
+date: 2026-01-04
+categories:
+  - Featured
+  - Emissometry
+  - Radiative properties
+  - Databases
+  - Open data
+page-layout: full
+toc: false
+post_type: "data-note"
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Data note</div>
+  <h1>EKHI: an open database for optical and radiative property data</h1>
+  <p class="pub__journal" style="margin-bottom:2rem;">From literature figures to reusable spectral datasets for emissivity research</p>
+
+  <h2>From literature figures to reusable scientific data</h2>
+
+  <p>The <strong><a href="https://thermomat.ehu.eus/ekhi">EKHI</a> database</strong> is an open, web-accessible repository designed to make <strong>optical and radiative property data</strong> from the scientific literature <strong>searchable, inspectable, citable, and directly reusable</strong>. Hosted at the University of the Basque Country (UPV/EHU), <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> provides structured access to <strong>curve-level datasets</strong> associated with peer-reviewed publications, addressing a long-standing bottleneck in radiative heat-transfer and emissivity research: the fragmentation of high-quality experimental data across thousands of articles and handbooks.</p>
+
+  <p>At the time of writing, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> aggregates <strong>167 publications</strong> and <strong>1251 individual dataset entries</strong>, already constituting a corpus large enough to support comparative studies, benchmarking activities, and model validation across multiple materials classes and application domains.</p>
+
+  <div style="background:rgba(78,158,184,0.08);border-left:3px solid #4e9eb8;padding:1rem 1.25rem;border-radius:4px;margin:1.5rem 0;">
+    <strong>Access EKHI:</strong> <a href="https://thermomat.ehu.eus/ekhi">https://thermomat.ehu.eus/ekhi</a>
+  </div>
+
+  <h2>What EKHI contains</h2>
+
+  <h3>Publication-centred data organisation</h3>
+
+  <p><a href="https://thermomat.ehu.eus/ekhi">EKHI</a> is organised around <strong>scientific publications</strong>, reflecting how radiative and optical data are traditionally generated, validated, and cited. Users can search the database by <strong>title, abstract keywords, authors, or DOI</strong>, and browse the results through a paginated interface. Each publication entry acts as a container for one or more <strong>data entries</strong>, typically corresponding to individual curves or sets of curves reported in the original work.</p>
+
+  <p>This publication-centred approach ensures that data are never detached from their scientific context, while still enabling direct numerical reuse.</p>
+
+  <h3>Dataset entries at curve level</h3>
+
+  <p>Within each publication record, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> exposes one or more <strong>dataset entries</strong>, each associated with a specific:</p>
+
+  <ul>
+    <li><strong>Material or material family</strong></li>
+    <li><strong>Measured or derived property</strong> (e.g. normal spectral transmittance, spectral reflectance)</li>
+    <li><strong>Experimental or descriptive conditions</strong>, such as:
+      <ul>
+        <li>temperature,</li>
+        <li>wavelength range,</li>
+        <li>measurement geometry,</li>
+        <li>specimen notes (thickness, composition, remarks).</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p>Each entry corresponds, in practice, to a <strong>single curve or a well-defined set of curves</strong>, rather than to a vague material average. This level of granularity is essential for radiative-property work, where temperature, surface condition, and spectral band strongly condition the results.</p>
+
+  <h2>Access to the data: inspection, download, and provenance</h2>
+
+  <h3>Human-readable inspection</h3>
+
+  <p>For each dataset entry, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> provides an in-browser <strong>tabulated view of the numerical data</strong> ("View table"). This allows users to rapidly assess units, resolution, spectral range, and general consistency before committing to a download.</p>
+
+  <h3>Machine-readable downloads</h3>
+
+  <p>Each curve can be downloaded in <strong>JSON format</strong>, enabling immediate integration into computational workflows (Python, MATLAB, Julia, R, etc.) without manual digitisation or reformatting. This design choice significantly lowers the barrier between literature data and quantitative modelling.</p>
+
+  <h3>Explicit provenance and traceability</h3>
+
+  <p>A defining feature of <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> is its explicit treatment of <strong>data provenance</strong>. For each curve, the database documents:</p>
+
+  <ul>
+    <li>the <strong>original scientific publication</strong> (with DOI),</li>
+    <li>when applicable, the <strong>secondary source</strong> from which numerical tables were extracted (e.g. standard reference compilations),</li>
+    <li>and the relationship between the original figure/table and the served numerical dataset.</li>
+  </ul>
+
+  <p>This provenance chain is presented transparently on the dataset page itself, supporting proper citation, reproducibility assessments, and informed judgement about uncertainty and data quality.</p>
+
+  <h2>Citation and scholarly reuse</h2>
+
+  <p>Each publication record in <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> provides:</p>
+
+  <ul>
+    <li>a <strong>direct DOI link</strong> to the original article,</li>
+    <li>a <strong>BibTeX export</strong>, facilitating correct and consistent citation in scholarly work.</li>
+  </ul>
+
+  <p>This reinforces a core principle of the database: <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> does not replace the original literature, but <strong>amplifies its usability</strong>, ensuring that experimental work continues to receive appropriate credit when its data are reused in modelling, comparison, or synthesis studies.</p>
+
+  <h2>Typical workflows enabled by EKHI</h2>
+
+  <h3>Radiative modelling and simulation</h3>
+
+  <p>Researchers can directly import spectral datasets from <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> into radiative transfer or thermal balance models, avoiding the traditional sequence of figure digitisation, interpolation, and manual unit checking. The availability of curve-level metadata (temperature, wavelength limits) supports physically consistent model inputs.</p>
+
+  <h3>Instrument benchmarking and validation</h3>
+
+  <p><a href="https://thermomat.ehu.eus/ekhi">EKHI</a> provides a practical reference for <strong>benchmarking emissometers, spectro-reflectometers, and radiative measurement setups</strong>. By comparing new measurements against well-documented literature curves under comparable conditions, users can identify calibration offsets, angular effects, or specimen-preparation artefacts.</p>
+
+  <h3>Materials development and comparison</h3>
+
+  <p>For coatings, ceramics, glasses, and semiconductors, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> enables <strong>cross-publication comparison of spectral behaviour</strong>, supporting material selection, design of radiative surfaces, and identification of gaps in existing experimental coverage.</p>
+
+  <h3>Education and reproducible research</h3>
+
+  <p>The combination of DOI-anchored context, visible tables, and downloadable numerical data makes <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> particularly suitable for <strong>teaching and training</strong>. Students can be guided from a literature reference to numerical analysis within a single session, reinforcing best practices in data citation and reproducibility.</p>
+
+  <h2>Why EKHI matters for the emissivity community</h2>
+
+  <p>From the perspective of emissivity and radiative-properties research, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> addresses several long-standing issues:</p>
+
+  <ol>
+    <li><strong>Data accessibility</strong> &ndash; numerical values are directly available, not trapped in plots.</li>
+    <li><strong>Context preservation</strong> &ndash; datasets remain explicitly linked to publications and experimental descriptions.</li>
+    <li><strong>Granularity</strong> &ndash; individual curves and conditions are treated as first-class objects.</li>
+    <li><strong>Scalability</strong> &ndash; with over a thousand entries already available, systematic comparisons become feasible.</li>
+  </ol>
+
+  <p>These characteristics make <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> a natural complement to experimental facilities, modelling tools, and emerging data-driven approaches in thermal radiation.</p>
+
+  <h2>Community invitation (open and forward-looking)</h2>
+
+  <p>The <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> database is designed as a <strong>living scientific resource</strong>. The broader community is explicitly invited to engage with it in several ways:</p>
+
+  <ul>
+    <li><strong>Use the data</strong> in modelling, validation, and teaching, citing both the original publications and EKHI where appropriate.</li>
+    <li><strong>Provide feedback</strong> on usability, metadata clarity, and desired features.</li>
+    <li><strong>Suggest priority materials or properties</strong> that would be most valuable for future inclusion.</li>
+    <li><strong>Identify gaps or ambiguities</strong> in existing entries that could be clarified or expanded.</li>
+  </ul>
+
+  <p>By aligning rigorous provenance with practical usability, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> aims to evolve into a shared reference point for the optical and radiative-properties community.</p>
+
+  <h2>Concluding remarks</h2>
+
+  <p><a href="https://thermomat.ehu.eus/ekhi">EKHI</a> represents a concrete step toward <strong>open, reusable, and citable radiative-property data</strong>. Its publication-anchored structure, curve-level granularity, and emphasis on provenance respond directly to the needs of researchers working at the interface of experiment, modelling, and application.</p>
+
+  <p>For the emissivity community, <a href="https://thermomat.ehu.eus/ekhi">EKHI</a> is not merely a database to consult, but an infrastructure to build upon.</p>
+
+  <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>
+</div>
+```

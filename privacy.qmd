@@ -1,0 +1,27 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+  <div class="section__label">Legal</div>
+  <h1>Privacy Policy</h1>
+  <p class="page-subtitle">How emissivity.org handles your data.</p>
+
+  <h2>Data collection</h2>
+  <p>Emissivity.org is a static website. We do not use cookies, tracking pixels, or analytics services that collect personal data. No user accounts are required to browse the site or access EKHI data.</p>
+
+  <h2>EKHI contributions</h2>
+  <p>When you contribute spectral data to EKHI, we collect the metadata you provide (material description, measurement conditions, author names, publication reference). This information is published openly under CC-BY 4.0 as part of the EKHI database. Contributors retain authorship and can request withdrawal within 14 days of publication.</p>
+
+  <h2>Contact forms</h2>
+  <p>If you contact us through the website, we process your message and email address solely to respond to your inquiry. We do not share this information with third parties.</p>
+
+  <h2>Hosting</h2>
+  <p>This site is hosted on Netlify. Netlify may collect server logs including IP addresses as part of standard web hosting. See <a href="https://www.netlify.com/privacy/" style="color: var(--c-cool);">Netlify's privacy policy</a> for details.</p>
+
+  <h2>Contact</h2>
+  <p>For privacy-related questions, contact the emissivity.org editorial team.</p>
+</div>
+```

@@ -1,0 +1,30 @@
+---
+title: "IMEKO World Congress 2021 (IMEKO2021)"
+subtitle: "IMEKO World Congress"
+date: 2021-01-01
+description: "General measurement science congress; relevant for cross-cutting metrology developments."
+url: "https://imeko2021.org/"
+categories:
+  - General metrology
+  - metrology
+  - imeko
+  - measurement-science
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Year:** 2021
+
+[Conference Website](https://imeko2021.org/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The IMEKO World Congress is a broad measurement science conference covering multiple metrology domains. While not emissivity-specific, it serves as an umbrella meeting where thermometry, radiation measurement, and related metrological topics may be represented among wider measurement science tracks.
+
+
+::: {.callout-note}
+Not emissivity-specific; included as a broad metrology venue where relevant sessions may occur.
+:::

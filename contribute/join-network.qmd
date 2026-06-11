@@ -1,0 +1,66 @@
+---
+title: "List your laboratory"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/contribute/index.html">Contribute</a> / Laboratory</div>
+```
+
+::: {.page-article}
+# List your laboratory
+
+The [research map](/network/index.html) is curated under a published [methodology](/network/methodology.html): non-commercial, research-active institutions whose public material documents work on thermal radiative properties. Profiles are verified against public sources before going live — the more evidence you give, the faster that goes.
+
+```{=html}
+<div class="form-alt">
+  Prefer email? Send the same information to
+  <a href="mailto:info@emissivity.org?subject=Research%20map%20application">info@emissivity.org</a>
+  — every submission, by form or by mail, is reviewed by the editorial board
+  before publication.
+</div>
+
+<form class="c-form" name="join-network" method="POST" action="/contribute/thanks.html"
+      data-netlify="true" netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="join-network" />
+  <p style="display:none"><label>Leave empty: <input name="bot-field" /></label></p>
+  <label class="req" for="f-institution">Institution name</label>
+  <input id="f-institution" name="institution" type="text" required />
+  <label class="req" for="f-unit">Research unit / group</label>
+  <input id="f-unit" name="unit" type="text" required />
+  <div class="hint">The named unit doing the radiative-properties work</div>
+  <label class="req" for="f-location">City, country</label>
+  <input id="f-location" name="location" type="text" required />
+  <label class="req" for="f-unit_url">Official unit URL</label>
+  <input id="f-unit_url" name="unit_url" type="url" required />
+  <div class="hint">Public page naming the unit — required by the inclusion criteria</div>
+  <label class="req" for="f-quantities">Quantities measured or engineered</label>
+  <textarea id="f-quantities" name="quantities" required></textarea>
+  <div class="hint">e.g. directional spectral emissivity, hemispherical reflectance…</div>
+  <label for="f-capabilities">Capability envelope</label>
+  <textarea id="f-capabilities" name="capabilities"></textarea>
+  <div class="hint">Temperature range, spectral range, atmospheres, named instruments</div>
+  <label class="req" for="f-evidence">Evidence links</label>
+  <textarea id="f-evidence" name="evidence" required></textarea>
+  <div class="hint">At least one: facility page, peer-reviewed paper describing the setup, comparison participation… Every profile claim must be traceable</div>
+  <label for="f-tier">Suggested tier</label>
+  <select id="f-tier" name="tier">
+    <option>(let the editors judge)</option>
+    <option>core — emissivity-centred</option>
+    <option>extended — among core activities</option>
+    <option>engineered — thermal photonics / radiative cooling</option>
+    <option>emerging</option>
+  </select>
+
+  <label class="req" for="s-name">Your name</label>
+  <input id="s-name" name="submitter_name" required />
+  <label class="req" for="s-email">Your email</label>
+  <input id="s-email" name="submitter_email" type="email" required />
+  <label for="s-aff">Affiliation</label>
+  <input id="s-aff" name="submitter_affiliation" />
+  <button type="submit">Submit for review</button>
+</form>
+```
+
+:::

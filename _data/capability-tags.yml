@@ -1,0 +1,47 @@
+capability_tags:
+  - directional spectral emissivity
+  - total normal emittance
+  - hemispherical emissivity
+  - angular resolved measurements
+  - infrared instrumentation
+  - thermography
+  - high-temperature measurements
+  - calibration
+  - modelling
+  - good-practice guides
+
+material_tags:
+  - metals
+  - ceramics
+  - coatings
+  - semiconductors
+  - composites
+  - molten materials
+  - structured surfaces
+
+environment_tags:
+  - air
+  - vacuum
+  - controlled atmosphere
+
+application_tags:
+  - aerospace
+  - solar energy
+  - building physics
+  - thermal imaging
+  - manufacturing
+
+ekhi_material_families:
+  - Metals
+  - Oxides
+  - Coatings
+  - Composites
+  - Selective absorbers
+  - Polymers
+  - Refractories
+
+ekhi_quantity_types:
+  - Directional spectral emissivity
+  - Hemispherical spectral emissivity
+  - Directional total emissivity
+  - Hemispherical total emissivity

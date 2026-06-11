@@ -1,0 +1,96 @@
+---
+title: "NASA Jet Propulsion Laboratory (JPL)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / NASA JPL</div>
+```
+
+::: {.page-article}
+# NASA Jet Propulsion Laboratory (JPL)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Pasadena, CA |
+| **Tier** | Extended (Tier II) |
+| **Primary ecosystem** | Earth / planetary remote sensing |
+| **Relevant units** | **JEDI** (Joint Emissivity Database Initiative) · **LST&E Portal** (Land Surface Temperature & Emissivity) |
+| **Scale** | Earth-system, multi-mission, multi-decadal |
+
+## Why it matters internationally
+
+JPL is one of the world's leading institutions in the **remote-sensing
+branch** of emissivity research. **JEDI** aims to create a unified
+land-surface emissivity Earth System Data Record — a long-term, consistent,
+calibrated emissivity dataset across multiple sensors and missions — while
+the **LST&E Portal** focuses on reconciliation, validation, metadata, and
+community use. In materials laboratories emissivity is often measured on
+individual samples; at JPL, emissivity is an **Earth-system variable** that
+must be retrieved, reconciled, and distributed at scale. Any serious map
+of emissivity research that excludes JPL would be incomplete, because it
+would omit the entire planetary and Earth-observation branch of the field.
+
+## Scope of activity
+
+### Relevant units
+
+- **JEDI — Joint Emissivity Database Initiative** — unified land-surface
+  emissivity Earth System Data Record.
+- **LST&E Portal — Land Surface Temperature & Emissivity Portal** —
+  reconciliation, validation, metadata, and community use of LST&E
+  products.
+
+### Radiative properties measured / retrieved
+
+Land-surface emissivity · land-surface temperature — as retrieved from
+satellite thermal-infrared data.
+
+### Capability envelope
+
+- **Wavelength:** thermal infrared.
+- **Methodology:** Earth-system emissivity retrieval, reconciliation, and
+  long-term data records across multiple missions — **MODIS, AIRS, ASTER,
+  VIIRS** — with cross-mission harmonization of LST&E products.
+
+### Signature infrastructure
+
+- **JEDI land-surface emissivity Earth System Data Record** — a unified
+  emissivity ESDR drawing on multiple sensors.
+- **LST&E Portal** — reconciliation, validation, metadata, and community
+  use of land-surface temperature and emissivity products.
+
+### Application domains
+
+- Climate science
+- Surface temperature retrieval
+- Satellite calibration
+- Thermal remote sensing at Earth-system scale
+
+## Why NASA JPL is a reference pole
+
+At JPL, emissivity is not one quantity measured on one sample — it is a
+global, gridded, time-resolved field produced by reconciling data from
+multiple satellites. This makes JPL the reference institution for any
+discussion of emissivity at planetary scale: whenever the question is
+"what is the emissivity of a region of the Earth (or Mars) in this
+wavelength band, right now?", the answer traces back through JEDI and
+LST&E infrastructure.
+
+## External sources
+
+- [Joint Emissivity Database Initiative (JEDI)](https://emissivity.jpl.nasa.gov/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

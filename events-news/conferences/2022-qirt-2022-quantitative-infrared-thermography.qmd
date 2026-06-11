@@ -1,0 +1,32 @@
+---
+title: "QIRT 2022 (Quantitative InfraRed Thermography)"
+subtitle: "QIRT"
+date: 2022-01-01
+description: "Quantitative IR thermography; explicit attention to emissivity determination and quantitative calibration."
+url: "https://qirt.org/image_site/QIRT_2022_Call_for_papers.pdf"
+categories:
+  - qirt
+  - infrared-thermography
+  - calibration
+  - emissivity
+  - IR thermography
+  - uncertainty
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Year:** 2022
+
+[Conference Website](https://qirt.org/image_site/QIRT_2022_Call_for_papers.pdf){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+QIRT is a conference series devoted to quantitative infrared thermography. Its scope includes measurement methods, calibration procedures, uncertainty analysis, and quantitative interpretation of infrared data. Emissivity determination and handling are recurring methodological topics due to their role in quantitative IR measurements.
+
+
+::: {.callout-note}
+This entry uses the 2022 call-for-papers PDF as an archival handle; add an edition page if you prefer.
+:::

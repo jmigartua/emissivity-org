@@ -1,0 +1,31 @@
+---
+title: "NEWRAD 2026 — 16th International Conference on New Developments and Applications in Optical Radiometry"
+subtitle: "NEWRAD | Jeju Island, South Korea"
+date: 2026-09-13
+description: "THE optical radiometry conference — directly covers emissivity measurement, blackbody calibration, detector-based radiometry."
+url: "https://www.newrad2026.org/"
+categories:
+  - Radiometry
+  - radiometry
+  - calibration
+  - blackbody
+  - emissivity
+  - metrology
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-09-13 to 2026-09-17
+
+**Location:** Jeju Island, South Korea
+
+[Conference Website](https://www.newrad2026.org/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+NEWRAD 2026 is the premier international conference on optical radiometry. It directly covers spectral radiance, irradiance, emissivity measurement, blackbody calibration, and detector-based radiometry. Speakers from NPL, PTB, NIST, NRC, CNAM, and INMETRO.
+
+

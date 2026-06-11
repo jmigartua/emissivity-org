@@ -1,0 +1,36 @@
+---
+title: "Messung des spektralen Emissionsgrads im Hochtemperaturbereich bis 2500 K"
+description: >
+  This publication focuses on high temperature, spectral emissivity, metrology. Hot spectral meas Up to two thousand five K Precision thermal.
+date: 2025-06-18
+author:
+  - name: "David Urban"
+    orcid: 0000-0002-0089-0563
+categories:
+  - High temperature
+  - Spectral emissivity
+  - Metrology
+pub-info:
+  reference: >-
+    Urban, PTB-OAR (2025).
+  links:
+    - name: "PTB-OAR"
+      url: https://oar.ptb.de/resources/show/10.7795/110.20250618
+      icon: fa-solid fa-file
+haiku:
+  - Hot spectral meas
+  - Up to two thousand five K
+  - Precision thermal
+---
+
+## Abstract
+
+This publication focuses on high temperature, spectral emissivity, metrology. Hot spectral meas Up to two thousand five K Precision thermal.
+
+## Citation
+
+> Urban, PTB-OAR (2025).
+
+::: {.callout-note}
+Click the **PTB-OAR** button above to access the full text or official record.
+:::

@@ -1,0 +1,45 @@
+---
+title: "Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER"
+description: >
+  This publication focuses on high-temperature optical properties, alloy oxidation, solar absorptivity. Alloys oxidize Optical properties shift High heat measured.
+date: 2020-04-01
+author:
+  - name: "Julien Colas"
+  - name: "Lisa Charpentier"
+  - name: "Marianne Balat-Pichelin"
+categories:
+  - High-temperature optical properties
+  - Alloy oxidation
+  - Solar absorptivity
+pub-info:
+  reference: >-
+    Colas et al., Oxid. Met. 93, 355-370 (2020).
+  links:
+    - name: "Springer"
+      url: https://doi.org/10.1007/s11085-020-09959-6
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Alloys oxidize
+  - Optical properties shift
+  - High heat measured
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER">
+      <meta name="citation_author" content="Julien Colas">
+      <meta name="citation_author" content="Lisa Charpentier">
+      <meta name="citation_author" content="Marianne Balat-Pichelin">
+      <meta name="citation_date" content="2020-04-01">
+      <meta name="citation_doi" content="10.1007/s11085-020-09959-6">
+---
+
+## Abstract
+
+This publication focuses on high-temperature optical properties, alloy oxidation, solar absorptivity. Alloys oxidize Optical properties shift High heat measured.
+
+## Citation
+
+> Colas et al., Oxid. Met. 93, 355-370 (2020).
+
+::: {.callout-note}
+Click the **Springer** button above to access the full text or official record.
+:::

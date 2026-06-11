@@ -1,0 +1,105 @@
+---
+title: "CEMHTI-CNRS — Conditions Extrêmes et Matériaux : Haute Température et Irradiation"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / CEMHTI-CNRS</div>
+```
+
+::: {.page-article}
+# CEMHTI-CNRS — Conditions Extrêmes et Matériaux : Haute Température et Irradiation
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | France |
+| **City** | Orléans |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | High-temperature thermo-optical characterization |
+| **Parent organization** | CNRS (UPR 3079) |
+| **Relevant activity** | Infrared / visible spectroscopy by reflection, transmission, and emission; high-temperature radiative-property activities |
+| **Publicly linked people** | Leire del Campo · Domingos de Sousa Meneses |
+
+## Why it matters internationally
+
+CEMHTI is one of the strongest European laboratories in the field because it
+operates precisely in the experimentally difficult regime where emissivity
+**cannot be separated from the problem of true-temperature measurement**.
+Its public instrumentation pages describe infrared / visible spectroscopy by
+**reflection, transmission, and emission**. The IR-EMPOWER program confirms
+CEMHTI's central role through contributions on radiative-property
+characterization and simultaneous temperature–emittance determination. It is
+a major bridge between **fundamental spectroscopy, high-temperature materials
+science, and practical radiative metrology**.
+
+## Scope of activity
+
+### Relevant units and activities
+
+- Dedicated infrared / visible spectroscopy benches operating by reflection,
+  transmission, and emission.
+- Active high-temperature radiative-property activities documented through
+  both the CEMHTI instrumentation pages and IR-EMPOWER contributions.
+
+### Radiative properties measured
+
+Reflectance · transmittance · emittance (normal spectral) · simultaneous
+true-temperature determination coupled to emittance.
+
+### Capability envelope
+
+- **Temperature:** room temperature to high temperature; **laser-heated
+  emission up to ~500–2700 K**.
+- **Wavelength:** FTIR-based IR / visible spectroscopy, approximately from
+  **1 mm to 0.5 µm**.
+- **Methodology:** robust non-contact methodology for in-situ determination
+  of temperature *and* spectral emissivity under severe experimental
+  conditions.
+
+### Application domains
+
+High-temperature materials under severe conditions · simultaneous
+temperature–emittance determination · high-temperature spectral emissivity
+of **glasses, crystals, ceramics**.
+
+## IR-EMPOWER contributions
+
+- **Leire del Campo** — radiative properties by infrared spectroscopy from
+  room temperature to high temperature: *reflectance, transmittance, and
+  emittance*.
+- **Domingos de Sousa Meneses** — simultaneous measurement of temperature and
+  normal spectral emittance under unconventional conditions.
+
+## Why CEMHTI is a bridge laboratory
+
+What makes CEMHTI especially significant is the **breadth of its radiative-
+property agenda**. This is not merely a laboratory that measures one
+emissivity number at one temperature; it works in the much more demanding
+regime where true temperature, optical response, and spectral emissivity must
+be separated under severe experimental conditions. Published work associated
+with CEMHTI shows robust non-contact methodologies for in-situ determination
+of temperature and spectral emissivity; public records show active work on
+spectral emissivity, transmittance, and reflectance, particularly at high
+temperature.
+
+In the global ecosystem, CEMHTI matters because it is a laboratory where
+emissivity is treated as a **spectral, temperature-dependent, experimentally
+nontrivial quantity** — not as a tabulated constant.
+
+## External sources
+
+- [IR Emission — CEMHTI CNRS UPR3079 Orléans France](https://www.cemhti.cnrs-orleans.fr/instruments/ir_emission.aspx)
+- [High temperature spectral emissivity of glass and crystal — HAL](https://univ-orleans.hal.science/insu-03718694/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

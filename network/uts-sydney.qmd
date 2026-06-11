@@ -1,0 +1,59 @@
+---
+title: "UTS Sydney"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / UTS Sydney</div>
+```
+
+::: {.page-article}
+# University of Technology Sydney — Gentle / Smith
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Australia |
+| **City** | Sydney |
+| **Tier** | Engineered |
+| **Primary ecosystem** | Engineered Emissivity |
+| **Unit** | [School of Mathematical and Physical Sciences](https://profiles.uts.edu.au/geoff.smith) |
+| **Publicly linked people** | Angus Gentle · Geoff Smith |
+
+
+## Why it matters internationally
+
+Gentle and Smith demonstrated sub-ambient daytime radiative cooling on
+real roofs before the field's current boom, anchoring the
+Southern-Hemisphere presence of engineered emissivity and its building
+applications.
+
+## Scope of activity
+
+- **Quantities:** spectrally selective surfaces · sub-ambient radiative cooling performance
+- **Spectral range:** solar + 8–13 µm sky window
+- **Temperature:** field demonstrations (roof scale)
+- **Methodology:** Pioneering sub-ambient daytime radiative cooling roof demonstrations (coated polymer stack on silver absorbing ~3% solar while strongly emitting in the sky window); spectrally selective surfaces for buildings.
+
+**Application domains:** cool roofs and buildings · spectrally selective surfaces.
+
+## External sources
+
+- [Geoff Smith (UTS profile)](https://profiles.uts.edu.au/geoff.smith)
+- [A Subambient Open Roof Surface under the Mid-Summer Sun (Adv. Sci., 2015)](https://doi.org/10.1002/advs.201500119)
+- [Sub-ambient daytime radiative cooling roof (Advanced Science / PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115392/)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-06-11 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

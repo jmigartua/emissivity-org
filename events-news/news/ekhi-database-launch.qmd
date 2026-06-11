@@ -1,0 +1,26 @@
+---
+title: "EKHI Database Launched"
+date: "2026-01-04"
+categories: [Database, EKHI, Launch]
+description: "The EKHI open database for optical and radiative property data is now available, providing access to curve-level spectral datasets for the emissivity research community."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+<p class="section-label">News</p>
+
+<h1>EKHI Database Launched</h1>
+
+<p>We are pleased to announce the launch of <strong>EKHI</strong>, the first open-access database dedicated to optical and radiative property data.</p>
+
+<p>EKHI provides publication-centered data organization with curve-level spectral datasets, inspection and download mechanisms, and full provenance tracking. Researchers can browse, visualize, and download emissivity and reflectance spectra contributed by laboratories across our network.</p>
+
+<p><a href="/data/ekhi.html">Read the full EKHI application note</a> for details on the database structure, data formats, and how to contribute your measurements.</p>
+
+<p><a href="https://ekhi.ehu.eus" class="btn btn-primary">Access the EKHI Database</a></p>
+
+<p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>
+</div>
+```

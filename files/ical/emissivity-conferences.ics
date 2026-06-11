@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//emissivity.org//Conferences//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Emissivity.org Conferences
+X-WR-CALDESC:Conferences relevant to emissivity and thermal radiation research
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260205
+SUMMARY:IR/INFO Conference 2026
+LOCATION:Orlando, Florida, USA
+DESCRIPTION:Annual infrared thermography conference with sessions and training on thermal imaging and measurement practice.
+URL:https://irinfoconference.com/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260704
+SUMMARY:QIRT 2026 (18th Quantitative InfraRed Thermography Conference)
+LOCATION:Naples, Italy
+DESCRIPTION:International conference on quantitative infrared thermography, including calibration, uncertainty, and emissivity-related measurement topics.
+URL:https://qirt2026.unina.it/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:11th International Workshop on Radiation of High Temperature Gases for Space Missions
+LOCATION:Mola di Bari, Italy
+DESCRIPTION:Workshop on radiation of high-temperature gases, including radiative property modeling and measurement topics relevant to high-temperature radiative transfer.
+URL:https://indico.esa.int/event/594/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:Thermophysics 2026
+LOCATION:Krtiny, Czech Republic
+DESCRIPTION:Conference on thermophysics and heat transfer, including radiative properties within broader thermophysical property discussions.
+URL:https://thermophysics.fch.vut.cz/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251025
+SUMMARY:TEMPMEKO–ISHM 2025
+LOCATION:Reims, France
+DESCRIPTION:Temperature, humidity, moisture and thermophysical quantities metrology; radiation thermometry and emissivity are recurring topics.
+URL:https://tempmeko-ishm2025.com/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250719
+SUMMARY:QIRT-Asia 2025 (5th Asian Quantitative Infrared Thermography Conference)
+LOCATION:Harbin, China
+DESCRIPTION:Quantitative infrared thermography; emissivity handling is central to quantitative IR workflows.
+URL:https://www.chsndt.org/interconference/3706.html
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20250415
+DTEND;VALUE=DATE:20250418
+SUMMARY:Thermosense: Thermal Infrared Applications XLVII (SPIE)
+LOCATION:Orlando, Florida, USA
+DESCRIPTION:Thermal infrared applications and thermography; emissivity treatment appears regularly in methods and applications.
+URL:https://spie.org/Publications/Proceedings/Volume/13470
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240426
+SUMMARY:Thermosense: Thermal Infrared Applications XLVI (SPIE)
+LOCATION:National Harbor, Maryland, USA
+DESCRIPTION:Thermal infrared applications and thermography; quantitative practice commonly intersects emissivity.
+URL:https://spie.org/Publications/Proceedings/Volume/13047
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20240905
+DTEND;VALUE=DATE:20240907
+SUMMARY:IR-EMPOWER 2024
+LOCATION:Bilbao, Spain
+DESCRIPTION:Workshop on infrared emissivity measurement techniques and protocols.
+URL:https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20230502
+DTEND;VALUE=DATE:20230505
+SUMMARY:Thermosense: Thermal Infrared Applications XLV (SPIE)
+LOCATION:Orlando, Florida, USA
+DESCRIPTION:Thermal IR applications and thermography; quantitative workflows commonly intersect emissivity.
+URL:https://spie.org/Publications/Proceedings/Volume/12536
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20230903
+DTEND;VALUE=DATE:20230907
+SUMMARY:ECTP 2023 (22nd European Conference on Thermophysical Properties)
+LOCATION:Venice, Italy
+DESCRIPTION:Thermophysical properties measurement and modelling; radiative properties including emissivity are within scope.
+URL:https://www.ectp2023.eu/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20230403
+DTEND;VALUE=DATE:20230408
+SUMMARY:ITS-10 (10th International Temperature Symposium)
+LOCATION:Anaheim, California, USA
+DESCRIPTION:Flagship temperature metrology symposium; radiation thermometry and emissivity appear in several sessions.
+URL:https://its10.msc-conf.com/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DTEND;VALUE=DATE:20250315
+SUMMARY:CIM 2025 (22nd International Metrology Congress)
+LOCATION:Lyon, France
+DESCRIPTION:General metrology congress with thermometry and radiation measurement tracks.
+URL:https://www.cim-metrology.org/en/program-2025
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20230307
+DTEND;VALUE=DATE:20230311
+SUMMARY:CIM 2023 (21st International Metrology Congress)
+LOCATION:Lyon, France
+DESCRIPTION:General metrology congress; thermometry tracks provide a context for radiation measurement topics.
+URL:https://www.cim-metrology.org/en/archives/2023-edition/programme-2023
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20220403
+DTEND;VALUE=DATE:20220408
+SUMMARY:Thermosense: Thermal Infrared Applications XLIV (SPIE)
+LOCATION:Orlando, Florida, USA
+DESCRIPTION:Thermal infrared applications; emissivity issues arise routinely in applied IR measurement workflows.
+URL:https://spie.org/Publications/Proceedings/Volume/12109
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260918
+SUMMARY:NEWRAD 2026 — 16th International Conference on New Developments and Applications in Optical Radiometry
+LOCATION:Jeju Island, South Korea
+DESCRIPTION:THE optical radiometry conference — directly covers emissivity measurement, blackbody calibration, detector-based radiometry.
+URL:https://www.newrad2026.org/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260625
+SUMMARY:ECTP 2026 — 23rd European Conference on Thermophysical Properties
+LOCATION:Gouvieux (near Paris), France
+DESCRIPTION:Measurement, theory, and modeling of thermophysical properties including radiative and optical properties.
+URL:https://www.ectp2026.com/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260912
+SUMMARY:CPEM 2026 — Conference on Precision Electromagnetic Measurements
+LOCATION:Madrid, Spain
+DESCRIPTION:35th edition covering electromagnetic standards, radiometric quantities, precision instrumentation.
+URL:https://cpem2026.com/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+SUMMARY:ESA European Space Thermal Engineering Workshop 2026
+LOCATION:Noordwijk, The Netherlands
+DESCRIPTION:Spacecraft thermal engineering including surface optical properties (emissivity, absorptance), thermal coatings.
+URL:https://indico.esa.int/event/643/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260808
+SUMMARY:IHTC-18 — 18th International Heat Transfer Conference
+LOCATION:Rio de Janeiro, Brazil
+DESCRIPTION:Flagship international heat transfer conference with radiative heat transfer sessions.
+URL:https://ihtc18.org/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261002
+SUMMARY:ITCC/ITES 2026 — International Thermal Conductivity Conference & Thermal Expansion Symposium
+LOCATION:Columbus, Ohio, USA
+DESCRIPTION:Premier meeting on thermophysical properties of materials including thermal radiation characterization.
+URL:https://ceramics.org/event/international-thermal-conductivity-conference-itcc-international-thermal-expansion-symposium-ites-2026/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260501
+SUMMARY:SPIE Defense + Security 2026 — Infrared Technology and Applications LII
+LOCATION:National Harbor, Maryland, USA
+DESCRIPTION:IR detector arrays, thermal imaging systems, SWIR/MWIR/LWIR technologies.
+URL:https://spie.org/conferences-and-exhibitions/defense-and-security
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260828
+SUMMARY:SPIE Optics + Photonics 2026 — Infrared Remote Sensing and Instrumentation XXXIII
+LOCATION:San Diego, California, USA
+DESCRIPTION:Fourier-transform spectrometers, hyperspectral imagers, radiometric calibration.
+URL:https://spie.org/conferences-and-exhibitions/optics-and-photonics
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:AIAA Thermophysics and Heat Transfer Conference 2026
+LOCATION:San Diego, California, USA
+DESCRIPTION:Aerospace thermophysics — thermal protection systems, ablation, surface radiation.
+URL:https://aviation.aiaa.org/jointthermht/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270904
+SUMMARY:IMEKO World Congress 2027 — Metrology for Humanity
+LOCATION:Rimini, Italy
+DESCRIPTION:Umbrella congress for all IMEKO Technical Committees including TC12 (Temperature and Thermal Measurements).
+URL:https://imeko2027.org/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260417
+SUMMARY:SPIE Photonics Europe 2026
+LOCATION:Strasbourg, France
+DESCRIPTION:Premier European photonics event covering optical imaging, sensing, metrology, and spectroscopy.
+URL:https://spie.org/conferences-and-exhibitions/photonics-europe
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:NMHT 2026 — Nanoscale and Microscale Heat Transfer IX (Eurotherm)
+LOCATION:Berlin, Germany
+DESCRIPTION:Near-field radiative heat transfer, photon transport, thermal radiation at nanoscale.
+URL:https://premc.org/nmht2026/
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260730
+SUMMARY:ASME Summer Heat Transfer Conference 2026
+LOCATION:Bellevue, Washington, USA
+DESCRIPTION:Annual ASME heat transfer conference with sessions on radiative heat transfer and thermal properties.
+URL:https://event.asme.org/SHTC
+END:VEVENTBEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260918
+SUMMARY:SPIE Sensors + Imaging 2026 (Remote Sensing & Security + Defence)
+LOCATION:Edinburgh, UK
+DESCRIPTION:Electro-optical and infrared systems, multispectral/hyperspectral imaging, thermal IR remote sensing.
+URL:https://spie.org/conferences-and-exhibitions/sensors-and-imaging
+END:VEVENT
+END:VCALENDAR

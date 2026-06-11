@@ -1,0 +1,31 @@
+---
+title: "IR-EMPOWER 2024"
+subtitle: "IR-EMPOWER Workshop | Bilbao, Spain"
+date: 2024-09-05
+description: "Workshop on infrared emissivity measurement techniques and protocols."
+url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower"
+categories:
+  - workshop
+  - measurement-methods
+  - protocols
+  - emissivity
+  - IR thermography
+  - emissometry
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2024-09-05 to 2024-09-06
+
+**Location:** Bilbao, Spain
+
+[Conference Website](https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+IR-EMPOWER 2024 was a specialized workshop held on 5–6 September 2024 in Bilbao (Spain), devoted to infrared emissivity measurement techniques and experimental protocols. The workshop focused on methodological aspects of emissivity determination, including measurement approaches, instrumentation, and protocol comparison, and was organized as a technical meeting with invited participation.
+
+

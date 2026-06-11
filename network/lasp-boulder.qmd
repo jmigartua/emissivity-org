@@ -1,0 +1,74 @@
+---
+title: "Laboratory for Atmospheric and Space Physics (LASP)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / LASP Boulder</div>
+```
+
+::: {.page-article}
+# Laboratory for Atmospheric and Space Physics (LASP)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Boulder, CO |
+| **Tier** | Emerging / conference-affiliated (Tier IV) |
+| **Primary ecosystem** | Metrology / remote sensing — flagged |
+| **Publicly linked people** | Julian Gieseler |
+| **Flag** | IR-EMPOWER talk was on **apparent emissivity of semitransparent samples at PTB** — the evidenced instrumentation is PTB's |
+
+## Why it matters — and why it is flagged
+
+LASP enters the map through participant affiliation: the IR-EMPOWER talk
+was explicitly about **apparent emissivity of semitransparent samples at
+PTB**, so the emissivity instrumentation evidenced in the public record
+is mainly PTB's. LASP is therefore flagged as a **conference-affiliated
+contributor** rather than a primary emissivity institution on the same
+footing as PTB or CEMHTI. Retained for completeness.
+
+## Scope of activity (as evidenced publicly)
+
+### Methodology
+
+Conference-affiliated contributor; talk was on apparent emissivity of
+semitransparent samples at PTB. The visible scientific link runs through
+collaboration with PTB's emissivity infrastructure rather than through
+LASP-hosted emissivity facilities.
+
+### Application domains
+
+- Atmospheric and space physics
+
+## IR-EMPOWER contributions
+
+- **Julian Gieseler** — apparent emissivity of semitransparent samples
+  at PTB.
+
+## Why LASP is retained
+
+The map deliberately tolerates a small "flagged" tier for entities whose
+IR-EMPOWER participation is documented but whose public institutional
+pages do not currently surface emissivity as a program. Including them
+keeps the record honest: it distinguishes institutions with dedicated
+facilities from institutions whose visible contribution, at this point,
+is a specific piece of collaborative work carried out at someone else's
+facility. LASP is an example of the latter category.
+
+## External sources
+
+- [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

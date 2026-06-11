@@ -1,0 +1,2144 @@
+# Emissivity.org — Research Map
+# Structured directory of academic and public-sector groups working on
+# emissivity, reflectance, transmittance, thermal radiative properties,
+# and adjacent infrared / optical characterization.
+#
+# Scope: non-commercial, research-active entities only.
+# Ordering within a tier: by direct centrality to emissivity / radiative-property
+# research (not by general prestige).
+
+meta:
+  version: "1.0"
+  last_updated: "2026-04"
+  scope: |
+    Non-commercial, research-active entities whose public material explicitly
+    mentions emissivity / emittance, reflectance, transmittance, thermal
+    emission, radiative cooling, or land-surface emissivity, and that show
+    clear evidence of active research programs, dedicated facilities,
+    databases, or sustained peer-reviewed output.
+  tiers:
+    core: "Directly centered on emissivity / thermo-optical metrology"
+    extended: "Essential once scope broadens to reflectance, spectral libraries, and radiative-property data infrastructures"
+    engineered: "Thermal photonics / radiative cooling / engineered emissivity"
+    emerging: "Application-specific, ultrahigh-T frontier, or conference-affiliated"
+  ecosystems:
+    metrology: "National metrology and infrared radiometry"
+    high_temperature: "High-temperature thermo-optical characterization"
+    cryogenic: "Cryogenic radiative properties"
+    remote_sensing: "Earth and planetary remote-sensing emissivity"
+    spectral_libraries: "Spectral libraries and reflectance/emission databases"
+    thermophysical_databases: "Curated thermophysical-property data infrastructures"
+    engineered_emissivity: "Thermal photonics, metasurfaces, radiative cooling"
+    applied_energy: "Applied energy materials, cool surfaces, combustion"
+    space_thermal: "Spacecraft thermal control and thermo-optical properties"
+
+institutions:
+
+  # ─────────────────────────── TIER I — CORE ───────────────────────────
+
+  - id: ptb
+    rank: 1
+    tier: core
+    name: "Physikalisch-Technische Bundesanstalt"
+    short_name: "PTB"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Berlin / Braunschweig"
+    ecosystems: [metrology]
+    ecosystem_primary: metrology
+
+    units:
+      - name: "Working Group 7.35 — Emissivity"
+        url: "https://www.ptb.de/cms/en/ptb/fachabteilungen/abt7/fb-73/ag-735.html"
+      - name: "Working Group 7.32 — Infrared Radiometry"
+        url: "https://www.ptb.de/cms/en/ptb/fachabteilungen/abt7/fb-73/ag-732.html"
+
+    people:
+      - name: "Albert Adibekyan"
+        source: "IR-EMPOWER program"
+      - name: "David Urban"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "spectral emissivity"
+      - "infrared radiance"
+      - "radiation thermometry"
+      - "reflectance"
+      - "transmittance"
+
+    capabilities:
+      temperature_range_text: "−40 °C to ~2300 °C"
+      wavelength_range_text: "1 µm to 1 mm (radiometry); near- to far-infrared (emissivity)"
+      atmospheres: [air, vacuum]
+      methodology_notes: "Accurate and traceable, SI-linked emissivity measurement under air and vacuum; spectral radiance from 1 µm to 1 mm."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "non-contact thermometry / radiation thermometry"
+      - "Earth and planetary remote sensing"
+      - "passive radiative cooling"
+      - "energy systems"
+      - "radiometric calibration and standards"
+
+    ir_empower_contributions:
+      - "Multiple plenary-level contributions on emissivity below and above 1000 K (Adibekyan, Urban, and work on semitransparent samples at PTB facilities)"
+
+    why_it_matters: |
+      PTB is one of the very few institutions in the world whose internal
+      structure includes a unit explicitly named "Emissivity." That is not a
+      semantic detail: it signals that emissivity is not merely an application
+      variable, but an institutionalized metrological object requiring
+      traceable, uncertainty-controlled, SI-linked measurement. WG 7.35 covers
+      accurate and traceable emissivity measurement from near to far infrared
+      under air and vacuum, while the adjacent WG 7.32 ties spectral emissivity
+      to infrared radiometry and radiation thermometry. PTB is therefore a
+      reference institution for pyrometry, remote sensing, radiative cooling,
+      and the calibration logic underlying all non-contact temperature
+      measurement.
+
+    external_sources:
+      - label: "WG 7.35 Emissivity (PTB)"
+        url: "https://www.ptb.de/cms/en/ptb/fachabteilungen/abt7/fb-73/ag-735.html"
+
+  - id: cemhti-cnrs
+    rank: 2
+    tier: core
+    name: "CEMHTI-CNRS — Conditions Extrêmes et Matériaux : Haute Température et Irradiation"
+    short_name: "CEMHTI-CNRS"
+    country: "France"
+    iso_country: "FR"
+    city: "Orléans"
+    ecosystems: [metrology, high_temperature]
+    ecosystem_primary: high_temperature
+
+    units:
+      - name: "Infrared emission / reflection / transmission spectroscopy activities"
+        url: "https://www.cemhti.cnrs-orleans.fr/instruments/ir_emission.aspx"
+
+    people:
+      - name: "Leire del Campo"
+        source: "IR-EMPOWER program"
+      - name: "Domingos de Sousa Meneses"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "reflectance"
+      - "transmittance"
+      - "emittance (normal spectral)"
+      - "true temperature (simultaneous with emittance)"
+
+    capabilities:
+      temperature_range_text: "room temperature to high temperature; laser-heated emission up to ~500–2700 K"
+      wavelength_range_text: "FTIR-based IR/visible spectroscopy, from ~1 mm to ~0.5 µm"
+      atmospheres: []
+      methodology_notes: "Infrared/visible spectroscopy by reflection, transmission, and emission; robust non-contact methodology for in-situ determination of temperature and spectral emissivity under unconventional conditions."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "high-temperature materials under severe conditions"
+      - "simultaneous temperature–emittance determination"
+      - "high-temperature spectral emissivity of glasses, crystals, ceramics"
+
+    ir_empower_contributions:
+      - "Leire del Campo — radiative properties by infrared spectroscopy from room temperature to high temperature: reflectance, transmittance, and emittance"
+      - "Domingos de Sousa Meneses — simultaneous measurement of temperature and normal spectral emittance under unconventional conditions"
+
+    why_it_matters: |
+      CEMHTI is one of the strongest European laboratories in the field because
+      it operates precisely in the experimentally difficult regime where
+      emissivity cannot be separated from the problem of true temperature
+      measurement. Its public instrumentation pages describe infrared/visible
+      spectroscopy by reflection, transmission, and emission; the IR-EMPOWER
+      program confirms CEMHTI's central role through contributions on
+      radiative-property characterization and simultaneous temperature–emittance
+      determination. It is a major bridge between fundamental spectroscopy,
+      high-temperature materials science, and practical radiative metrology.
+
+    external_sources:
+      - label: "IR Emission | CEMHTI"
+        url: "https://www.cemhti.cnrs-orleans.fr/instruments/ir_emission.aspx"
+      - label: "High-temperature spectral emissivity of glass and crystal (HAL)"
+        url: "https://univ-orleans.hal.science/insu-03718694/"
+
+  - id: promes-cnrs
+    rank: 3
+    tier: core
+    name: "PROMES-CNRS — Procédés, Matériaux et Énergie Solaire"
+    short_name: "PROMES-CNRS"
+    country: "France"
+    iso_country: "FR"
+    city: "Odeillo / Font-Romeu"
+    ecosystems: [metrology, high_temperature, applied_energy]
+    ecosystem_primary: high_temperature
+
+    units:
+      - name: "Thermal-radiation metrology / Solar-energy materials"
+        url: "https://www.promes.cnrs.fr/en/infrastructure-solaire/moyens-solaires/solar-reactors-and-enclosures/"
+
+    people:
+      - name: "Christophe Escape"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "spectral and total emissivity"
+      - "reflectivity"
+      - "true temperature under concentrated flux"
+      - "thermo-optical properties at high temperature"
+
+    capabilities:
+      temperature_range_text: "up to ~1500 °C"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Pyroreflectometric methods; pyrometry adapted to in-situ solar conditions; measurement under concentrated flux."
+
+    instruments_named:
+      - name: "DISCO"
+        description: "Experimental setup for determining true temperature, reflectivity, and emissivity at high temperature, up to ~1500 °C"
+
+    databases_hosted: []
+
+    applications:
+      - "solar-energy materials"
+      - "solar receivers and advanced ceramics"
+      - "concentrated-solar thermal systems"
+      - "pyrometry under parasitic reflections and high concentrated fluxes"
+
+    ir_empower_contributions:
+      - "Christophe Escape — measurement of thermo-optical properties"
+
+    why_it_matters: |
+      PROMES represents the branch of emissivity research in which the quantity
+      must be determined under high flux, high temperature, and process-relevant
+      optical environments. DISCO is explicitly devoted to determining true
+      temperature, reflectivity, and emissivity at high temperature; PROMES'
+      thermal-radiation-metrology pages emphasize calibration and pyrometric
+      methods for real in-situ conditions. In such environments, knowing
+      emissivity is the condition for measuring temperature correctly and for
+      modeling solar-thermal systems realistically. PROMES is therefore one of
+      the clearest global centers for high-temperature thermo-optical
+      characterization under real process conditions.
+
+    external_sources:
+      - label: "Solar reactors and enclosures (PROMES)"
+        url: "https://www.promes.cnrs.fr/en/infrastructure-solaire/moyens-solaires/solar-reactors-and-enclosures/"
+
+  - id: cae-wuerzburg
+    rank: 4
+    tier: core
+    name: "Center for Applied Energy Research (CAE)"
+    short_name: "CAE Würzburg"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Würzburg"
+    ecosystems: [metrology, applied_energy, engineered_emissivity]
+    ecosystem_primary: applied_energy
+
+    units:
+      - name: "Advanced Thermal Management (head: Jochen Manara)"
+        url: ""
+
+    people:
+      - name: "Jochen Manara"
+        role: "Head, Advanced Thermal Management"
+        source: "IR-EMPOWER program / ORCID 0000-0002-5319-6874"
+
+    properties_measured:
+      - "emissivity"
+      - "infrared-optical properties"
+      - "radiative heat transfer variables"
+
+    capabilities:
+      temperature_range_text: "broad applied-metrology facilities over a wide temperature range"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Thermal and infrared-optical measurement techniques; radiative-transport modeling; improved thermophysical materials and systems."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "cool materials / cool roofs and walls"
+      - "high-performance building envelopes"
+      - "radiative cooling systems"
+      - "thermal-management systems"
+      - "improved thermophysical materials and systems"
+
+    ir_empower_contributions:
+      - "Jochen Manara — plenary: applied metrological facilities for determining emissivity in a wide temperature range"
+      - "CAE announced as host of the 2026 IR-EMPOWER workshop in Würzburg"
+
+    why_it_matters: |
+      CAE sits at the interface between precision measurement and energy
+      deployment. PTB stands closer to foundational metrology; CAE stands
+      closer to the regime where emissivity and reflectance must be measured
+      because they determine the behavior of cool materials, high-performance
+      envelopes, radiative-cooling systems, and other energy technologies. The
+      IR-EMPOWER plenary by Jochen Manara and CAE's role hosting the 2026
+      workshop confirm its status as a leading applied-research node linking
+      metrology, building materials, and passive radiative cooling.
+
+    external_sources:
+      - label: "IR-EMPOWER program (EHU)"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program"
+
+  - id: isi-brno
+    rank: 5
+    tier: core
+    name: "Institute of Scientific Instruments, Czech Academy of Sciences"
+    short_name: "ISI Brno"
+    country: "Czech Republic"
+    iso_country: "CZ"
+    city: "Brno"
+    ecosystems: [cryogenic, metrology]
+    ecosystem_primary: cryogenic
+
+    units:
+      - name: "Cryogenics group — radiative-properties activities"
+        url: "https://cryogenics.isibrno.cz/?page_id=171"
+
+    people:
+      - name: "Tomáš Králík"
+        source: "IR-EMPOWER program"
+      - name: "Jiří Frolec"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "emissivity (hemispherical, at cryogenic T)"
+      - "absorptivity (cryogenic)"
+
+    capabilities:
+      temperature_range_text: "~20 K to 300 K"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Low-temperature radiative-property measurement on samples with different finishes and coatings; database-oriented work on low-temperature hemispherical emissivities and absorptivities."
+
+    instruments_named: []
+
+    databases_hosted:
+      - name: "Low-temperature hemispherical emissivity / absorptivity database"
+        description: "Internal database-oriented work on cryogenic radiative properties"
+
+    applications:
+      - "cryogenic engineering"
+      - "heat-flow calculations at low T"
+      - "low-temperature thermometry and radiation shielding"
+
+    ir_empower_contributions:
+      - "Tomáš Králík and Jiří Frolec — emissivity/absorptivity at cryogenic temperatures and thermal radiative properties"
+
+    why_it_matters: |
+      ISI Brno is a world-class niche center for cryogenic emissivity and
+      absorptivity. Much emissivity work in the literature is concentrated at
+      room or high temperature, but in cryogenics the radiative term can become
+      decisive and reliable data are scarce. The Brno group has built a
+      coherent research program around thermal radiative properties for
+      cryogenics, including a database of low-temperature hemispherical
+      emissivities and absorptivities. It is a clear example of how the
+      emissivity community is structured: not by one dominant center, but by
+      highly specialized laboratories that solve hard measurement problems in
+      complementary temperature regimes.
+
+    external_sources:
+      - label: "Emissivity — ISI Brno Cryogenics"
+        url: "https://cryogenics.isibrno.cz/?page_id=171"
+
+  - id: imt-mines-albi
+    rank: 6
+    tier: core
+    name: "IMT Mines Albi / Institut Clément Ader (ICA), UMR CNRS 5312"
+    short_name: "IMT Mines Albi / ICA"
+    country: "France"
+    iso_country: "FR"
+    city: "Albi"
+    ecosystems: [metrology, high_temperature]
+    ecosystem_primary: metrology
+
+    units:
+      - name: "ICA — directional spectral emissivity instrumentation"
+        url: ""
+
+    people:
+      - name: "Yannick Le Maoult"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "directional spectral emissivity"
+
+    capabilities:
+      temperature_range_text: "~600–1000 °C"
+      wavelength_range_text: "1–11 µm"
+      atmospheres: []
+      methodology_notes: "Dedicated experimental apparatus explicitly designed for directional spectral — rather than total or approximate — emissivity; confronts anisotropy, wavelength selectivity, surface evolution, and angular dependence."
+
+    instruments_named:
+      - name: "BMEIR"
+        description: "Experimental setup for directional spectral emissivity between 1 and 11 µm over roughly 600–1000 °C"
+
+    databases_hosted: []
+
+    applications:
+      - "thermal processing"
+      - "materials characterization with spectral-angular detail"
+
+    ir_empower_contributions:
+      - "Yannick Le Maoult — BMEIR experimental setup for directional spectral emissivity, 1–11 µm, 600–1000 °C, and applications"
+
+    why_it_matters: |
+      This laboratory is highly significant methodologically because it is
+      associated with a dedicated setup — BMEIR — explicitly designed for
+      directional spectral emissivity, a much richer and more experimentally
+      demanding quantity than a single broadband value. Laboratories able to
+      measure directional-spectral behavior contribute not only data but also
+      measurement philosophy, because they confront questions of anisotropy,
+      wavelength selectivity, surface evolution, and angular dependence under
+      realistic conditions.
+
+    external_sources:
+      - label: "IR-EMPOWER program (EHU)"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program"
+
+  - id: thermomat-ehu
+    rank: 7
+    tier: core
+    name: "Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU"
+    short_name: "Thermomat / UPV-EHU"
+    country: "Spain"
+    iso_country: "ES"
+    city: "Leioa / Bilbao"
+    ecosystems: [metrology, thermophysical_databases, spectral_libraries]
+    ecosystem_primary: thermophysical_databases
+
+    units:
+      - name: "Thermomat — Thermophysical Properties of Materials"
+        url: "https://thermomat.ehu.eus/"
+      - name: "EKHI — open database of optical and thermal radiative properties"
+        url: ""
+
+    people:
+      - name: "Josu M. Igartua"
+        source: "Thermomat / IR-EMPOWER"
+      - name: "Community contributors through IR-EMPOWER and EKHI"
+        source: "IR-EMPOWER program / EKHI"
+
+    properties_measured:
+      - "emittance"
+      - "reflectance"
+      - "transmittance"
+      - "absorptance"
+      - "other thermo-optical and radiative properties"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Modular high-performance infrared emissometer; FAIR-compliant data structure and workflows."
+
+    instruments_named:
+      - name: "Modular high-performance infrared emissometer"
+        description: "In-house emissometer presented at IR-EMPOWER"
+
+    databases_hosted:
+      - name: "EKHI"
+        description: "Open database of optical and thermal radiative properties for solid materials; supports interactive querying and visualization of emittance, reflectance, transmittance, and absorptance records."
+        reference: "Scientific Data publication (Nature) on EKHI"
+
+    applications:
+      - "community data stewardship for radiative properties"
+      - "FAIR reuse of emissivity and reflectance data"
+      - "methodological convergence across the European emissivity community"
+
+    ir_empower_contributions:
+      - "Organizer of the IR-EMPOWER workshop"
+      - "Presentation of a modular high-performance infrared emissometer"
+      - "Presentation of an open community of radiative properties"
+
+    why_it_matters: |
+      Thermomat is important not only as a laboratory actor in infrared
+      emissometry, but also as a builder of community infrastructure. It
+      organized IR-EMPOWER as a workshop devoted specifically to infrared
+      emissivity measurement techniques and protocols, and its environment has
+      developed EKHI, a structured open database for optical and radiative
+      properties (recent Scientific Data publication). Laboratories that both
+      measure and curate data help transform a fragmented literature into a
+      reusable scientific resource — which makes Thermomat especially relevant
+      as a node of community formation, data stewardship, and methodological
+      convergence.
+
+    external_sources:
+      - label: "Thermomat — UPV/EHU"
+        url: "https://thermomat.ehu.eus/"
+      - label: "IR-EMPOWER workshop"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower"
+      - label: "EKHI — Scientific Data paper (Nature)"
+        url: "https://www.nature.com/articles/s41597-026-07083-9"
+
+  - id: uwb-ntc
+    rank: 8
+    tier: core
+    name: "University of West Bohemia / New Technologies — Research Centre (NTC)"
+    short_name: "University of West Bohemia / NTC"
+    country: "Czech Republic"
+    iso_country: "CZ"
+    city: "Pilsen"
+    ecosystems: [metrology, high_temperature]
+    ecosystem_primary: metrology
+
+    units:
+      - name: "Photo-thermal properties laboratory (NTC)"
+        url: "https://irt.zcu.cz/en/research/photo-thermal-properties/"
+
+    people:
+      - name: "Zdeněk Veselý"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "transmittance"
+      - "reflectance"
+      - "emissivity"
+      - "absorptivity"
+      - "thermal conductivity"
+
+    capabilities:
+      temperature_range_text: "low- and high-temperature work"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Direct radiometric method for spectral emissivity of semitransparent coatings; laboratory equipment for photo-thermal properties; research on radiative heat transfer."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "coatings (semitransparent and layered)"
+      - "radiative heat transfer in technologically realistic systems"
+
+    ir_empower_contributions:
+      - "Zdeněk Veselý — photo-thermal properties measurement of coatings at low and high temperatures"
+
+    why_it_matters: |
+      NTC extends emissivity metrology beyond ideal opaque bulk samples toward
+      technologically realistic layered and partially transmitting systems.
+      Such systems undermine the simple opaque-body assumptions that underwrite
+      much textbook emissivity thinking. A direct radiometric method for
+      spectral emissivity of semitransparent coatings has been developed at
+      NTC; the institutional page explicitly lists transmittance, reflectance,
+      emissivity, absorptivity, and thermal conductivity as measured
+      properties.
+
+    external_sources:
+      - label: "Measurement of photo-thermal properties of materials (NTC)"
+        url: "https://irt.zcu.cz/en/research/photo-thermal-properties/"
+      - label: "Method for emissivity measurement of semitransparent (PMC)"
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5431223/"
+
+  - id: vinca
+    rank: 9
+    tier: core
+    name: "Institute VINČA"
+    short_name: "Institute VINČA"
+    country: "Serbia"
+    iso_country: "RS"
+    city: "Belgrade"
+    ecosystems: [metrology, high_temperature]
+    ecosystem_primary: high_temperature
+
+    units:
+      - name: "High-temperature thermophysical-property measurement — direct pulse heating"
+        url: ""
+
+    people:
+      - name: "Nenad Milošević"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "hemispherical total emissivity"
+      - "normal spectral emissivity"
+      - "specific heat"
+      - "electrical resistivity"
+
+    capabilities:
+      temperature_range_text: "wide high-temperature range (metals and alloys)"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Direct pulse-heating (pulse calorimetry) technique for simultaneous determination of thermal, electrical, and radiative properties of electrically conductive materials."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "metals and alloys at high temperature"
+      - "refractory and conductive materials"
+      - "fast-heating / transient thermal regimes"
+
+    ir_empower_contributions:
+      - "Nenad Milošević — hemispherical total and normal spectral emissivity measurement of metals and alloys over a wide high-temperature range by the direct pulse-heating technique"
+
+    why_it_matters: |
+      VINČA is a significant specialist institution in the field of
+      high-temperature emissivity of metals and alloys through the direct
+      pulse-heating approach. Pulse-heating-based emissivity work belongs to a
+      lineage of high-temperature thermophysical-property measurement where
+      transient methods, rapid heating, and conductive materials are central.
+      VINČA is therefore important not as a broad-spectrum emissivity center,
+      but as a highly relevant high-temperature specialist laboratory occupying
+      a valuable methodological niche.
+
+    external_sources:
+      - label: "IR-EMPOWER program (EHU)"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program"
+
+  - id: cnr-ino
+    rank: 10
+    tier: core
+    name: "CNR-INO — Istituto Nazionale di Ottica"
+    short_name: "CNR-INO"
+    country: "Italy"
+    iso_country: "IT"
+    city: "Florence"
+    ecosystems: [high_temperature, applied_energy]
+    ecosystem_primary: high_temperature
+
+    units:
+      - name: "Smart and Solar Energy Materials Lab"
+        url: "https://www.ino.cnr.it/?p=a6&page_id=16599"
+
+    people:
+      - name: "Elisa Sani"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "transmittance"
+      - "reflectance"
+      - "spectral emittance"
+      - "absorption"
+
+    capabilities:
+      temperature_range_text: "up to 1000 °C (spectral emittance vs. temperature)"
+      wavelength_range_text: "0.2 to 50 µm"
+      atmospheres: []
+      methodology_notes: "Broad optical characterization integrated with high-temperature emittance measurement; spectral reflectance and high-temperature thermal emittance characterization of ceramics and ultra-high-temperature materials."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "solar-energy materials"
+      - "high-temperature solar receivers"
+      - "ultra-high-temperature ceramics"
+      - "selective absorbers"
+      - "energy conversion"
+
+    ir_empower_contributions:
+      - "Elisa Sani — spectral emittance of ceramics for high-temperature solar receivers"
+
+    why_it_matters: |
+      CNR-INO represents a very important convergence of optics, materials
+      characterization, and thermal emittance, particularly for solar-energy
+      materials. The Smart and Solar Energy Materials Lab spans 0.2 to 50 µm
+      and measures spectral emittance as a function of temperature up to
+      1000 °C, explicitly listing transmittance, reflectance, thermal
+      emittance, and absorption among the investigated properties. CNR-INO
+      matters because it shows how emissivity research can be embedded within
+      a broader optical-science institute while remaining technically serious
+      — especially where high-temperature emittance is functionally linked to
+      solar-selective behavior, receiver design, and energy conversion.
+
+    external_sources:
+      - label: "Smart and Solar Energy Materials Lab (CNR-INO)"
+        url: "https://www.ino.cnr.it/?p=a6&page_id=16599"
+
+  - id: nist
+    rank: 11
+    tier: core
+    name: "NIST — National Institute of Standards and Technology"
+    short_name: "NIST"
+    country: "United States"
+    iso_country: "US"
+    city: "Gaithersburg"
+    ecosystems: [metrology, spectral_libraries]
+    ecosystem_primary: metrology
+
+    units:
+      - name: "Physical Measurement Laboratory / Sensor Science Division"
+        url: "https://www.nist.gov/laboratories/tools-instruments/system-infrared-spectral-emittance-materials"
+      - name: "System for Infrared Spectral Emittance of Materials"
+        url: "https://www.nist.gov/laboratories/tools-instruments/system-infrared-spectral-emittance-materials"
+      - name: "CHILR reflectometer and FTIS-related infrastructure"
+        url: ""
+
+    people: []
+
+    properties_measured:
+      - "spectral emittance"
+      - "reflectance"
+      - "transmittance"
+      - "absorptance/emittance"
+      - "infrared spectral directional emittance"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "infrared"
+      atmospheres: []
+      methodology_notes: "Direct radiance comparison with a blackbody reference; FTIS-based infrared optical-property measurements; measurement assurance and uncertainty control."
+
+    instruments_named:
+      - name: "System for infrared spectral emittance of materials"
+        description: "Facility for spectral emittance measurement by comparison with blackbody references"
+      - name: "CHILR"
+        description: "Reflectometer supporting infrared optical-property determination"
+
+    databases_hosted: []
+
+    applications:
+      - "radiation transfer"
+      - "remote sensing"
+      - "pyrometry"
+      - "calibration and national standards"
+      - "uncertainty analysis"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      NIST is one of the foundational global anchors of emissivity metrology.
+      Its "System for infrared spectral emittance of materials" enables
+      measurement of spectral emittance by direct radiance comparison with a
+      blackbody reference; NIST publications also document infrared spectral
+      directional emittance measurements and FTIS-based facility development.
+      Its global role is analogous to PTB's: NIST anchors emissivity within
+      the institutional world of national standards, where calibration,
+      uncertainty analysis, and measurement methodology become durable
+      scientific contributions. It is one of the few institutions that can be
+      cited not just as a user of emissivity, but as a shaper of how
+      emissivity should be measured.
+
+    external_sources:
+      - label: "System for infrared spectral emittance of materials (NIST)"
+        url: "https://www.nist.gov/laboratories/tools-instruments/system-infrared-spectral-emittance-materials"
+
+  - id: aist-nmij
+    rank: 12
+    tier: core
+    name: "AIST / NMIJ — National Metrology Institute of Japan"
+    short_name: "AIST / NMIJ"
+    country: "Japan"
+    iso_country: "JP"
+    city: "Tsukuba"
+    ecosystems: [metrology, thermophysical_databases]
+    ecosystem_primary: thermophysical_databases
+
+    units:
+      - name: "Network Database System for Thermophysical Property Data (TPDS)"
+        url: "https://tpds.db.aist.go.jp/about_en.html"
+
+    people: []
+
+    properties_measured:
+      - "spectral emissivity"
+      - "hemispherical total emissivity"
+      - "reflectivity"
+      - "other thermophysical properties (broad coverage)"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Database infrastructure for curated thermophysical-property data; R&D on nearly ideal blackbody materials and high-emissivity reference devices for thermography."
+
+    instruments_named: []
+
+    databases_hosted:
+      - name: "TPDS — Network Database System for Thermophysical Property Data"
+        description: "AIST-run public resource; database statistics explicitly list spectral emissivity, hemispherical total emissivity, and reflectivity among curated properties."
+
+    applications:
+      - "thermography and radiation thermometry references"
+      - "data curation for thermophysical properties"
+      - "long-term accessibility and reuse of radiative-property data"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      AIST/NMIJ is especially important as a long-term data infrastructure.
+      Its Network Database System for Thermophysical Property Data explicitly
+      includes both spectral emissivity and hemispherical total emissivity
+      among curated properties, alongside reflectivity; individual materials
+      pages show these quantities present in the archive. In parallel, AIST
+      reports active R&D on nearly ideal blackbody materials and high-
+      emissivity reference devices for thermography, placing it firmly in the
+      emissivity / infrared-radiometry domain rather than only in generic
+      materials databases. It is a crucial component of the field's memory
+      and data continuity.
+
+    external_sources:
+      - label: "TPDS — About (AIST)"
+        url: "https://tpds.db.aist.go.jp/about_en.html"
+      - label: "TPDS — Database statistics"
+        url: "https://tpds.db.aist.go.jp/TPDS-web/statistics/metastatistics.aspx"
+
+  # ─────────────────────────── TIER II — EXTENDED ───────────────────────────
+
+  - id: nasa-jpl
+    rank: 13
+    tier: extended
+    name: "NASA Jet Propulsion Laboratory (JPL)"
+    short_name: "NASA JPL"
+    country: "United States"
+    iso_country: "US"
+    city: "Pasadena"
+    ecosystems: [remote_sensing, spectral_libraries, thermophysical_databases]
+    ecosystem_primary: remote_sensing
+
+    units:
+      - name: "JEDI — Joint Emissivity Database Initiative"
+        url: "https://emissivity.jpl.nasa.gov/"
+      - name: "LST&E Portal — Land Surface Temperature & Emissivity Portal"
+        url: ""
+
+    people: []
+
+    properties_measured:
+      - "land-surface emissivity"
+      - "land-surface temperature"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "thermal infrared"
+      atmospheres: []
+      methodology_notes: "Earth-system emissivity retrieval, reconciliation, and long-term data records across multiple missions (MODIS, AIRS, ASTER, VIIRS); cross-mission harmonization of LST&E products."
+
+    instruments_named: []
+
+    databases_hosted:
+      - name: "JEDI land-surface emissivity Earth System Data Record"
+        description: "Unified land-surface emissivity ESDR drawing on MODIS, AIRS, ASTER, and VIIRS."
+      - name: "LST&E Portal"
+        description: "Reconciliation, validation, metadata, and community use of land-surface temperature and emissivity products."
+
+    applications:
+      - "climate science"
+      - "surface temperature retrieval"
+      - "satellite calibration"
+      - "thermal remote sensing at Earth-system scale"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      JPL is one of the world's leading institutions in the remote-sensing
+      branch of emissivity research. JEDI aims to create a unified
+      land-surface emissivity Earth System Data Record — a long-term,
+      consistent, calibrated emissivity dataset across multiple sensors and
+      missions — while the LST&E Portal focuses on reconciliation, validation,
+      metadata, and community use. In materials laboratories emissivity is
+      often measured on individual samples; at JPL, emissivity is an
+      Earth-system variable that must be retrieved, reconciled, and distributed
+      at scale. Any serious map of emissivity research that excludes JPL would
+      be incomplete, because it would omit the entire planetary and
+      Earth-observation branch of the field.
+
+    external_sources:
+      - label: "Joint Emissivity Database Initiative (JEDI)"
+        url: "https://emissivity.jpl.nasa.gov/"
+
+  - id: usgs-spectroscopy
+    rank: 14
+    tier: extended
+    name: "USGS — Spectroscopy Laboratory / Astrogeology Science Center"
+    short_name: "USGS Spectroscopy"
+    country: "United States"
+    iso_country: "US"
+    city: "Denver (Spectroscopy Lab) / Flagstaff (Astrogeology)"
+    ecosystems: [spectral_libraries, remote_sensing]
+    ecosystem_primary: spectral_libraries
+
+    units:
+      - name: "USGS Spectroscopy Laboratory — Spectral Library"
+        url: "https://www.usgs.gov/labs/spectroscopy-lab/science/spectral-library"
+      - name: "Astrogeology Science Center — infrared-spectroscopy activities"
+        url: ""
+
+    people: []
+
+    properties_measured:
+      - "spectral reflectance (large library)"
+      - "thermal emission spectra"
+      - "hemispherical reflectance"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Large spectral-reflectance library; laboratory work on Mars analog materials and shocked minerals; thermal emission and hemispherical reflectance of geological samples."
+
+    instruments_named: []
+
+    databases_hosted:
+      - name: "USGS Spectral Library"
+        description: "Large spectral-reflectance library of Earth and planetary materials."
+
+    applications:
+      - "Earth and planetary materials spectroscopy"
+      - "remote sensing"
+      - "compositional interpretation of remote surfaces"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      USGS is a central institution for reflectance / emissivity spectroscopy
+      of Earth and planetary materials. The Spectroscopy Laboratory maintains
+      a large spectral-reflectance library, while Astrogeology pages document
+      laboratory work involving thermal emission and hemispherical reflectance
+      spectra of Mars analog materials and shocked minerals. It is not an
+      "emissivity-only" center, but it is unquestionably part of the research
+      ecosystem around spectral radiative properties, and for a broadened
+      scope including "reflectivity etc." it remains one of the key public
+      research entities.
+
+    external_sources:
+      - label: "USGS Spectral Library"
+        url: "https://www.usgs.gov/labs/spectroscopy-lab/science/spectral-library"
+
+  - id: asu-tes
+    rank: 15
+    tier: extended
+    name: "Arizona State University — Thermal Emission Spectroscopy Laboratory (Christensen Research Group)"
+    short_name: "ASU TES Lab"
+    country: "United States"
+    iso_country: "US"
+    city: "Tempe"
+    ecosystems: [spectral_libraries, remote_sensing]
+    ecosystem_primary: spectral_libraries
+
+    units:
+      - name: "Christensen Research Group / Thermal Emission Spectroscopy Laboratory"
+        url: "https://christensen.asu.edu/software-and-tools/spectral-library/"
+
+    people: []
+
+    properties_measured:
+      - "thermal infrared emission spectra of geologic materials"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "thermal IR spectral library, typically ~2000–220 cm⁻¹"
+      atmospheres: []
+      methodology_notes: "Thermal infrared emission spectroscopy laboratory with a large spectral library designed for comparison with spacecraft, airborne, and laboratory measurements."
+
+    instruments_named: []
+
+    databases_hosted:
+      - name: "ASU Thermal Emission Spectroscopy Laboratory Spectral Library"
+        description: "Thermal infrared emission spectra of geologic materials built for comparison with spacecraft, airborne, and laboratory measurements."
+
+    applications:
+      - "mineral emissivity"
+      - "thermal infrared spectroscopy"
+      - "planetary surface characterization (Mars missions, Moon, asteroids)"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      ASU is one of the most important academic institutions for thermal
+      infrared emission spectroscopy of geological materials. The ASU
+      Thermal Emission Spectroscopy Laboratory library consists of thermal
+      infrared emission spectra of geologic materials and underlies a
+      substantial body of classic publications on rock-forming minerals. ASU
+      helped establish thermal emission spectroscopy as a mature laboratory
+      and interpretive framework: in the world of minerals, rocks, and
+      planetary surfaces, emissivity is not merely a correction factor but a
+      source of compositional information.
+
+    external_sources:
+      - label: "Spectral Library — Christensen Research Group"
+        url: "https://christensen.asu.edu/software-and-tools/spectral-library/"
+
+  - id: brown-relab
+    rank: 16
+    tier: extended
+    name: "Brown University — RELAB (Reflectance Experiment Laboratory)"
+    short_name: "Brown RELAB"
+    country: "United States"
+    iso_country: "US"
+    city: "Providence"
+    ecosystems: [spectral_libraries, remote_sensing]
+    ecosystem_primary: spectral_libraries
+
+    units:
+      - name: "RELAB — Reflectance Experiment Laboratory (NASA-supported multi-user facility)"
+        url: "https://sites.brown.edu/relab/"
+      - name: "DEEPS — Department of Earth, Environmental & Planetary Sciences"
+        url: "https://deeps.brown.edu/research/resources"
+
+    people: []
+
+    properties_measured:
+      - "spectral reflectance (UV–VIS–NIR bidirectional)"
+      - "reflectance and transmission in near-, mid-, and far-IR"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "UV–VIS through far-IR; FTIR to ~100 µm"
+      atmospheres: []
+      methodology_notes: "UV–VIS–NIR bidirectional spectrometer and near-/mid-/far-IR FTIR spectrometers; NASA-supported multi-user facility."
+
+    instruments_named: []
+
+    databases_hosted:
+      - name: "RELAB spectra archive"
+        description: "Spectral reflectance and transmission data of Earth and planetary materials from visible through near-, mid-, and far-infrared wavelengths."
+
+    applications:
+      - "planetary surface compositional interpretation"
+      - "remote sensing spectroscopy"
+      - "optical-constant interpretation and spectral-library reasoning"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      RELAB is primarily a reflectance spectroscopy facility, but it belongs on
+      any research map whose scope includes "reflectivity etc." Brown's DEEPS
+      department identifies RELAB as a research facility whose spectra provide
+      the interpretive basis for remote compositional analysis; the laboratory
+      operates UV–VIS–NIR bidirectional and near-/mid-/far-IR FTIR spectrometers
+      (to about 100 µm). RELAB has served for decades as a NASA-supported
+      multi-user spectroscopy facility whose data underpin compositional
+      interpretation of remote planetary surfaces. It represents the truth that
+      reflectance and emissivity communities are deeply connected: Kirchhoff-
+      related reasoning, spectral libraries, and optical-constant interpretation
+      cross these boundaries constantly.
+
+    external_sources:
+      - label: "RELAB — Bidirectional reflectance spectrometer"
+        url: "https://sites.brown.edu/relab/"
+      - label: "Research Facilities and Resources | DEEPS Brown"
+        url: "https://deeps.brown.edu/research/resources"
+
+  - id: lten-cnrs
+    rank: 17
+    tier: extended
+    name: "LTeN-CNRS / Nantes Université — Laboratoire de Thermique et Énergie de Nantes"
+    short_name: "LTeN-CNRS"
+    country: "France"
+    iso_country: "FR"
+    city: "Nantes"
+    ecosystems: [high_temperature, engineered_emissivity]
+    ecosystem_primary: high_temperature
+
+    units:
+      - name: "LTeN — high-temperature radiative properties of architectured ceramics"
+        url: ""
+
+    people:
+      - name: "Léo Gaillard"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "high-temperature emissivity of architectured ceramics"
+
+    capabilities:
+      temperature_range_text: "high temperature"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "High-temperature emissivity characterization of architectured ceramics; modeling of emissivity of CeO₂ ceramics (traceable in CNRS/HAL records)."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "architectured ceramics"
+      - "functional microstructure and structured materials where emissivity is linked to porosity, geometry, and spectral response"
+
+    ir_empower_contributions:
+      - "Léo Gaillard — high-temperature emissivity characterization of architectured ceramics"
+
+    why_it_matters: |
+      LTeN is a smaller but clearly active French node whose importance lies
+      in thematic modernity. Architectured ceramics and related structured
+      materials are exactly the types of systems for which emissivity can no
+      longer be treated as a fixed, scalar background parameter. Instead it
+      becomes a designable property, linked to porosity, geometry, scale
+      hierarchy, and spectral response. Laboratories like LTeN carry
+      emissivity work into the domain of materials architecture and functional
+      microstructure, where the problem becomes not only measurement, but
+      interpretation and design.
+
+    external_sources:
+      - label: "IR-EMPOWER program (EHU)"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program"
+
+  # ──────────────────── TIER III — ENGINEERED EMISSIVITY / THERMAL PHOTONICS ────────────────────
+
+  - id: stanford-fan
+    rank: 18
+    tier: engineered
+    name: "Stanford University — Fan Group (Shanhui Fan)"
+    short_name: "Stanford Fan Group"
+    country: "United States"
+    iso_country: "US"
+    city: "Stanford"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+
+    units:
+      - name: "Fan Group — Ginzton Laboratory, Department of Electrical Engineering"
+        url: "https://web.stanford.edu/group/fan/"
+
+    people:
+      - name: "Shanhui Fan"
+        role: "Principal investigator"
+
+    properties_measured: []
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Thermal photonics and radiative cooling; design of engineered emissivity through nanophotonic structures; foundational work on thermal emission control."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "radiative cooling"
+      - "thermal emission control / engineered emitters"
+      - "photonic cooling of solar absorbers"
+      - "optical-thermal engineering"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      The Fan Group is one of the landmark academic groups in thermal
+      photonics and radiative cooling. The group lists radiative cooling
+      among its current research topics, and its publication record includes
+      foundational work on thermal emission control, radiative cooling,
+      photonic cooling of solar absorbers, and related optical-thermal
+      engineering. This is a premier academic center for designed emissivity,
+      rather than only measured emissivity.
+
+    external_sources:
+      - label: "Fan Group at Stanford University"
+        url: "https://web.stanford.edu/group/fan/"
+
+  - id: columbia-yu
+    rank: 19
+    tier: engineered
+    name: "Columbia University — Nanfang Yu Group"
+    short_name: "Columbia / Nanfang Yu"
+    country: "United States"
+    iso_country: "US"
+    city: "New York"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+
+    units:
+      - name: "Department of Applied Physics and Applied Mathematics"
+        url: "https://www.apam.columbia.edu/faculty/nanfang-yu"
+
+    people:
+      - name: "Nanfang Yu"
+        role: "Principal investigator"
+
+    properties_measured: []
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "long-wavelength infrared"
+      atmospheres: []
+      methodology_notes: "Control of long-wavelength infrared radiation using nanostructured materials; bio-inspired radiative-cooling materials."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "cooling"
+      - "thermal radiation control"
+      - "bio-inspired radiative-cooling materials"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      Yu's group works on the control of long-wavelength infrared radiation
+      using nanostructured materials, and Columbia's own pages tie that work
+      directly to cooling, thermal radiation, and bio-inspired radiative-
+      cooling materials. This is a strong example of the engineered-emissivity
+      / radiative-cooling branch of the field.
+
+    external_sources:
+      - label: "Nanfang Yu | Applied Physics and Applied Mathematics (Columbia)"
+        url: "https://www.apam.columbia.edu/faculty/nanfang-yu"
+
+  - id: utah-tift
+    rank: 20
+    tier: engineered
+    name: "University of Utah — TIFT Lab (Thermal Innovations for FuTure)"
+    short_name: "Utah TIFT Lab"
+    country: "United States"
+    iso_country: "US"
+    city: "Salt Lake City"
+    ecosystems: [engineered_emissivity, high_temperature]
+    ecosystem_primary: engineered_emissivity
+
+    units:
+      - name: "Thermal Innovations for FuTure (TIFT) Lab — Department of Mechanical Engineering"
+        url: "https://feng.mech.utah.edu/"
+
+    people: []
+
+    properties_measured:
+      - "thermal radiative properties: emissivity of materials"
+      - "photon transport inside materials"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Research on thermal radiative properties with emissivity of materials and photon transport inside materials as explicit thrusts."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "engineered thermal radiative properties"
+      - "photon transport in materials"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      The TIFT Lab is noteworthy because it explicitly names "thermal
+      radiative properties: emissivity of materials, photon transport inside
+      materials" as one of its research thrusts. That direct wording is
+      relatively rare on university lab pages, which makes it a particularly
+      useful institution to have on a map of the emissivity research
+      community.
+
+    external_sources:
+      - label: "Home Page — Thermal Innovations for FuTure (TIFT) Lab"
+        url: "https://feng.mech.utah.edu/"
+
+  - id: vanderbilt-caldwell
+    rank: 21
+    tier: engineered
+    name: "Vanderbilt University — Caldwell Nanophotonic Materials and Devices Lab"
+    short_name: "Vanderbilt Caldwell Lab"
+    country: "United States"
+    iso_country: "US"
+    city: "Nashville"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+
+    units:
+      - name: "Caldwell Nanophotonic Materials and Devices Lab"
+        url: "https://my.vanderbilt.edu/caldwellgroup/lab-capabilities-and-layout/"
+
+    people:
+      - name: "Joshua Caldwell"
+        role: "Principal investigator"
+
+    properties_measured:
+      - "reflection"
+      - "absorption"
+      - "emissivity"
+      - "thermal emission"
+      - "angle-dependent infrared measurements"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "infrared"
+      atmospheres: []
+      methodology_notes: "Advanced infrared optical-property characterization including angle-dependent measurements; work on high-emissivity thermal metasurfaces."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "high-emissivity thermal metasurfaces"
+      - "engineered thermal emission"
+      - "nanophotonics"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      The Caldwell Lab sits on the nanophotonics side of the field but clearly
+      belongs in the map. Its listed infrared characterization capabilities
+      explicitly include reflection, absorption, emissivity, thermal emission,
+      and angle-dependent measurements, and Vanderbilt's research pages
+      highlight recent work on high-emissivity thermal metasurfaces. It is a
+      strong institution for advanced infrared optical-property
+      characterization and engineered thermal emission.
+
+    external_sources:
+      - label: "Lab Capabilities and Layout — Caldwell Nanophotonic Materials and Devices Lab"
+        url: "https://my.vanderbilt.edu/caldwellgroup/lab-capabilities-and-layout/"
+
+  - id: lbnl-heat-island
+    rank: 22
+    tier: engineered
+    name: "Lawrence Berkeley National Laboratory — Heat Island Group / Cool Surfaces"
+    short_name: "LBNL Heat Island Group"
+    country: "United States"
+    iso_country: "US"
+    city: "Berkeley"
+    ecosystems: [applied_energy, engineered_emissivity]
+    ecosystem_primary: applied_energy
+
+    units:
+      - name: "Heat Island Group — Cool Surfaces research"
+        url: "https://heatisland.lbl.gov/coolscience/cool-roofs"
+
+    people: []
+
+    properties_measured:
+      - "thermal emittance"
+      - "solar reflectance"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Research on cool roofs and cool walls defined through thermal emittance and solar reflectance; linkage to urban-heat-island mitigation and energy performance."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "cool roofs and cool walls"
+      - "buildings and urban climate"
+      - "urban-heat-island mitigation"
+      - "energy demand in the built environment"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      LBNL is not a classical emissivity-metrology institute, but it is one of
+      the most influential public research groups working on thermal emittance
+      and solar reflectance in the context of buildings, urban climate, and
+      energy demand. The Heat Island Group explicitly defines cool roofs and
+      cool walls through those two radiative properties and ties them to
+      urban-heat-island mitigation and energy performance. For the
+      built-environment branch of emissivity / reflectivity research, LBNL is
+      indispensable.
+
+    external_sources:
+      - label: "Cool Roofs | Heat Island Group (LBNL)"
+        url: "https://heatisland.lbl.gov/coolscience/cool-roofs"
+
+  # ───────────────── TIER IV — EMERGING / APPLICATION-SPECIFIC / FLAGGED ─────────────────
+
+  - id: uva
+    rank: 23
+    tier: emerging
+    name: "University of Virginia — Hopkins Group (ExSiTE Lab)"
+    short_name: "University of Virginia"
+    country: "United States"
+    iso_country: "US"
+    city: "Charlottesville"
+    ecosystems: [high_temperature]
+    ecosystem_primary: high_temperature
+
+    units:
+      - name: "Patrick Hopkins Group (ExSiTE Lab) — ultra-high-temperature materials / laser-heating radiometry"
+        url: ""
+
+    people:
+      - name: "Hunter B. Schonfeld"
+        source: "IR-EMPOWER program"
+      - name: "Patrick Hopkins"
+        role: "Principal investigator"
+        source: "Princeton-hosted seminar material"
+
+    properties_measured:
+      - "spectral emissivity and emittance at extreme temperature"
+      - "spectral absorptivity/emissivity"
+
+    capabilities:
+      temperature_range_text: "room temperature to ~4000 °C"
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Combination of ellipsometry and laser-heating-based radiometry for measurement of ceramics and carbides up to their melting points."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "ultra-high-temperature materials"
+      - "aerospace"
+      - "thermal barrier materials"
+      - "refractory systems"
+      - "extreme-environment metrology"
+
+    ir_empower_contributions:
+      - "Hunter B. Schonfeld — direct and indirect measurement of spectral emissivity and emittance from room temperature to 4000 °C"
+
+    why_it_matters: |
+      UVA appears in the landscape through ultra-high-temperature materials
+      work, with IR-EMPOWER reporting measurement of spectral emissivity and
+      emittance from room temperature to ~4000 °C, and independent seminar
+      material (Princeton) describing coupled ellipsometry and laser-heating
+      radiometry up to the melting points of ceramics and carbides. Its
+      importance is that it pushes emissivity research toward the
+      ultrahigh-temperature frontier, where conventional furnace-based
+      measurement logic breaks down and coupled optical-thermal methods become
+      necessary — strategically relevant for aerospace, re-entry, thermal
+      barrier, and refractory systems.
+
+    external_sources:
+      - label: "PMI/PCCM Seminar Series — Patrick Hopkins (Princeton)"
+        url: "https://materials.princeton.edu/events/2025/pmipccm-seminar-series-fall-2025-patrick-hopkins-university-virginia"
+
+  - id: ruhr-bochum-leat
+    rank: 24
+    tier: emerging
+    name: "Ruhr University Bochum — LEAT (Department of Energy Plant Technology)"
+    short_name: "Ruhr University Bochum / LEAT"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Bochum"
+    ecosystems: [applied_energy, high_temperature]
+    ecosystem_primary: applied_energy
+
+    units:
+      - name: "LEAT — experimental combustion investigations"
+        url: "https://www.leat.ruhr-uni-bochum.de/leat/forschung/versuchsanlagen.html.en"
+
+    people: []
+
+    properties_measured:
+      - "spectral normal emissivity of solid surfaces or powders"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Application-driven setups for combustion-relevant materials; dedicated experimental setup for spectral normal emissivity of solid surfaces or powders."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "combustion"
+      - "single-particle biomass-fuel emissivity during burnout"
+      - "pulverized biomass and coal char emissivity"
+      - "radiative heat-transfer measurements in reacting particulate systems"
+
+    ir_empower_contributions:
+      - "Radiative heat transfer measurements"
+      - "Single-particle biomass-fuel emissivity during burnout"
+
+    why_it_matters: |
+      LEAT brings emissivity measurement into non-ideal, process-relevant
+      material states: powders, fuels, ash-forming matter, and hot reacting
+      particles. The institute's experimental-facilities page explicitly states
+      that LEAT features a setup for determining the spectral normal emissivity
+      of solid surfaces or powders; related publications discuss emissivity
+      investigations of pulverized biomass and coal char. Its international
+      importance lies in combustion and particulate systems, where emissivity
+      is difficult, transient, and operationally decisive — an important
+      expansion beyond polished solids and stable coupons.
+
+    external_sources:
+      - label: "Experimental combustion investigations — LEAT"
+        url: "https://www.leat.ruhr-uni-bochum.de/leat/forschung/versuchsanlagen.html.en"
+
+  - id: wisconsin-madison
+    rank: 25
+    tier: emerging
+    name: "University of Wisconsin–Madison"
+    short_name: "Wisconsin–Madison"
+    country: "United States"
+    iso_country: "US"
+    city: "Madison"
+    ecosystems: [metrology, engineered_emissivity]
+    ecosystem_primary: metrology
+
+    units: []
+
+    people:
+      - name: "Hongyan Mei"
+        source: "IR-EMPOWER program"
+
+    properties_measured:
+      - "infrared emission (direct measurement by FTIR)"
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "infrared"
+      atmospheres: []
+      methodology_notes: "Direct measurement of infrared emission using Fourier-transform spectroscopy."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications: []
+
+    ir_empower_contributions:
+      - "Hongyan Mei — direct measurement of infrared emission using Fourier-transform spectroscopy"
+
+    why_it_matters: |
+      The IR-EMPOWER talk title for Hongyan Mei — "direct measurement of
+      infrared emission using Fourier-transform spectroscopy" — is highly
+      relevant, though public pages are less explicit about emissivity as an
+      institutional program than for the top-tier labs. Wisconsin–Madison has
+      a substantial footprint in infrared spectroscopy and thermal / remote-
+      sensing measurement, and is retained here but ranked below institutions
+      with more visible dedicated emissivity infrastructure.
+
+    external_sources:
+      - label: "IR-EMPOWER program (EHU)"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program"
+
+  - id: lasp-boulder
+    rank: 26
+    tier: emerging
+    name: "Laboratory for Atmospheric and Space Physics (LASP)"
+    short_name: "LASP Boulder"
+    country: "United States"
+    iso_country: "US"
+    city: "Boulder"
+    ecosystems: [metrology, remote_sensing]
+    ecosystem_primary: metrology
+
+    units: []
+
+    people:
+      - name: "Julian Gieseler"
+        source: "IR-EMPOWER program"
+
+    properties_measured: []
+
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: []
+      methodology_notes: "Conference-affiliated contributor; talk was on apparent emissivity of semitransparent samples at PTB."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "atmospheric and space physics"
+
+    ir_empower_contributions:
+      - "Julian Gieseler — apparent emissivity of semitransparent samples at PTB"
+
+    why_it_matters: |
+      LASP enters the map through participant affiliation: the IR-EMPOWER talk
+      was explicitly about apparent emissivity of semitransparent samples at
+      PTB, so the emissivity instrumentation evidenced in the public record is
+      mainly PTB's. LASP is therefore flagged as a conference-affiliated
+      contributor rather than a primary emissivity institution on the same
+      footing as PTB or CEMHTI. Retained for completeness.
+
+    external_sources:
+      - label: "IR-EMPOWER program (EHU)"
+        url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program"
+
+  # ──────────────── ADDED 2026-06-11 (verified additions) ────────────────
+  # Editorial note: ranks provisional; re-rank within tiers at next revision.
+
+  - id: dlr-psl
+    rank: 27
+    tier: core
+    name: "DLR Institute of Planetary Research — Planetary Spectroscopy Laboratory"
+    short_name: "DLR PSL"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Berlin"
+    ecosystems: [remote_sensing, spectral_libraries, high_temperature]
+    ecosystem_primary: remote_sensing
+
+    units:
+      - name: "Planetary Spectroscopy Laboratory (PSL)"
+        url: "https://www.dlr.de/en/wr/research-transfer/research-infrastructure/planetary-spectroscopy-laboratory"
+
+    people:
+      - name: "Jörn Helbert"
+        source: "DLR PSL group lead, public institutional pages"
+
+    properties_measured:
+      - "spectral emissivity"
+      - "reflectance"
+      - "transmittance"
+
+    capabilities:
+      temperature_range_text: "−200 °C to +1000 °C (including heated planetary-analog samples; Venus/Mercury surface conditions)"
+      wavelength_range_text: "0.3 µm to >100 µm"
+      atmospheres: [vacuum, air]
+      methodology_notes: "Three vacuum FTIR spectrometers measuring emissivity, transmittance and reflectance from visible to far infrared, including emissivity of hot samples under vacuum for planetary surface conditions."
+
+    instruments_named:
+      - "Three vacuum FTIR spectrometers (PSL); Europlanet transnational access facility"
+    databases_hosted:
+      - "Berlin Emissivity Database (BED)"
+
+    applications:
+      - "planetary surface remote sensing (MERTIS/BepiColombo, VERITAS)"
+      - "planetary-analog material characterization"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      PSL is one of the very few laboratories worldwide where emissivity is the
+      laboratory's central object: vacuum FTIR emissivity measurement of
+      planetary-analog materials from the visible to beyond 100 µm, including
+      heated samples reproducing Mercury and Venus surface conditions. It
+      maintains the Berlin Emissivity Database and underpins the calibration
+      and interpretation of planetary IR instruments such as MERTIS on
+      BepiColombo.
+
+    external_sources:
+      - label: "DLR — Planetary Laboratories (PSL)"
+        url: "https://www.dlr.de/en/wr/research-transfer/research-infrastructure/planetary-spectroscopy-laboratory"
+      - label: "Berlin Emissivity Database (DLR)"
+        url: "https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-178/327_read-37531/"
+
+  - id: npl
+    rank: 28
+    tier: core
+    name: "NPL — National Physical Laboratory"
+    short_name: "NPL"
+    country: "United Kingdom"
+    iso_country: "GB"
+    city: "Teddington"
+    ecosystems: [metrology]
+    ecosystem_primary: metrology
+
+    units:
+      - name: "Thermal metrology — radiation thermometry and emissivity"
+        url: "https://www.npl.co.uk/resources/q-a/why-is-emissivity-important"
+
+    people: []
+
+    properties_measured:
+      - "infrared spectral normal emissivity"
+      - "radiation thermometry"
+      - "land-surface temperature and emissivity"
+
+    capabilities:
+      temperature_range_text: "23 °C to 800 °C (CCT-S1 comparison scope)"
+      wavelength_range_text: "2 µm to 14 µm (CCT-S1 comparison scope)"
+      atmospheres: [air, vacuum]
+      methodology_notes: "Emissivity measurement for non-contact thermometry and heat transfer; participant in the CCT Supplementary Comparison S1 of infrared spectral normal emissivity alongside PTB, NIST and NMIJ; laboratory calibration and field measurement of land-surface emissivity."
+
+    instruments_named: []
+    databases_hosted: []
+
+    applications:
+      - "non-contact thermometry"
+      - "Earth observation / land-surface temperature"
+      - "radiometric calibration and standards"
+
+    ir_empower_contributions: []
+
+    why_it_matters: |
+      As the UK national metrology institute, NPL anchors emissivity in the
+      international comparison infrastructure: it is a documented participant
+      in the CCT-S1 supplementary comparison of infrared spectral normal
+      emissivity (2–14 µm, 23–800 °C), and its land-surface temperature and
+      emissivity work links laboratory radiometry to satellite Earth
+      observation.
+
+    external_sources:
+      - label: "Why is emissivity important? (NPL)"
+        url: "https://www.npl.co.uk/resources/q-a/why-is-emissivity-important"
+      - label: "CCT-S1 final report (Metrologia / PMC)"
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5324078/"
+
+  # ──────────────── ADDED 2026-06-11, batch 2 (verified additions) ────────────────
+
+  - id: onera-dota
+    rank: 29
+    tier: extended
+    name: "ONERA — DOTA, Optics and Associated Techniques"
+    short_name: "ONERA DOTA"
+    country: "France"
+    iso_country: "FR"
+    city: "Palaiseau / Toulouse"
+    ecosystems: [spectral_libraries, thermophysical_databases]
+    ecosystem_primary: spectral_libraries
+    units:
+      - name: "MELOPEE laboratory — optical properties of materials"
+        url: "https://www.onera.fr/en/dota-research-units"
+    people: []
+    properties_measured:
+      - "spectral reflectance"
+      - "polarized optical signatures of coatings and paints"
+      - "infrared signatures"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "infrared detector characterization 1–20 µm; optical properties from visible to IR"
+      atmospheres: [air]
+      methodology_notes: "Measurement of optical properties of materials at the MELOPEE laboratory (spectral and polarized signatures of coatings and paints); results capitalized in the MEMOIRES thermo-optical properties database; radiative-transfer code MATISSE for IR signature studies."
+    instruments_named:
+      - "MELOPEE optical-properties laboratory"
+    databases_hosted:
+      - "MEMOIRES thermo-optical properties database"
+    applications:
+      - "infrared signature modelling (defense and aerospace)"
+      - "coating and paint characterization"
+    ir_empower_contributions: []
+    why_it_matters: |
+      ONERA's DOTA department institutionalizes the optical-properties
+      measurement chain for French aerospace research: a dedicated laboratory
+      (MELOPEE) measures spectral and polarized optical properties of
+      materials, coatings, and paints, and the results are capitalized in the
+      MEMOIRES thermo-optical database that feeds infrared signature
+      modelling. For the emissivity community it is a reference for the
+      data-infrastructure face of radiative-property work.
+    external_sources:
+      - label: "DOTA research units (ONERA)"
+        url: "https://www.onera.fr/en/dota-research-units"
+      - label: "DOTA scientific topics (ONERA)"
+        url: "https://www.onera.fr/en/dota-scientific-topics"
+      - label: "MEMOIRES database (ONERA)"
+        url: "https://onera.fr/en/dota/memoires"
+
+  - id: fraunhofer-ise
+    rank: 30
+    tier: extended
+    name: "Fraunhofer Institute for Solar Energy Systems ISE"
+    short_name: "Fraunhofer ISE"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Freiburg"
+    ecosystems: [applied_energy]
+    ecosystem_primary: applied_energy
+    units:
+      - name: "Lab Characterization of Functional Surfaces"
+        url: "https://www.ise.fraunhofer.de/en/rd-infrastructure/center/center-for-functional-surfaces/lab-characterization-of-functional-surfaces.html"
+      - name: "TestLab Solar Façades (ISO/IEC 17025 accredited)"
+        url: "https://www.ise.fraunhofer.de/en/rd-infrastructure/accredited-labs/testlab-solar-facades.html"
+    people: []
+    properties_measured:
+      - "spectral hemispherical reflectance"
+      - "spectral hemispherical transmittance"
+      - "solar absorptance"
+      - "thermal emissivity"
+    capabilities:
+      temperature_range_text: "room temperature (spectrophotometric)"
+      wavelength_range_text: "0.3–2.4 µm and 1.9–17 µm (FTIR + integrating spheres)"
+      atmospheres: [air]
+      methodology_notes: "Spectral hemispherical reflectance and transmittance via spectrophotometer and FTIR with integrating spheres; computes solar absorptance, thermal emissivity, and the Solar Reflectance Index per ASTM E1980; ISO/IEC 17025-accredited façade and solar testing."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "solar façades and building envelopes"
+      - "functional and selective surfaces"
+      - "cool surfaces (SRI per ASTM E1980)"
+    ir_empower_contributions: []
+    why_it_matters: |
+      Europe's largest solar research institute operates an accredited
+      measurement chain for the two radiative quantities that govern every
+      passive surface: solar absorptance and thermal emissivity. Its
+      integrating-sphere FTIR capability (to 17 µm) and ISO/IEC 17025
+      accreditation make it a reference for applied, standards-conformant
+      emissivity characterization of building and energy materials.
+    external_sources:
+      - label: "Lab Characterization of Functional Surfaces (Fraunhofer ISE)"
+        url: "https://www.ise.fraunhofer.de/en/rd-infrastructure/center/center-for-functional-surfaces/lab-characterization-of-functional-surfaces.html"
+      - label: "TestLab Solar Façades (Fraunhofer ISE)"
+        url: "https://www.ise.fraunhofer.de/en/rd-infrastructure/accredited-labs/testlab-solar-facades.html"
+
+  - id: ciemat-psa
+    rank: 31
+    tier: extended
+    name: "CIEMAT — Plataforma Solar de Almería"
+    short_name: "CIEMAT-PSA"
+    country: "Spain"
+    iso_country: "ES"
+    city: "Tabernas (Almería)"
+    ecosystems: [applied_energy, high_temperature]
+    ecosystem_primary: applied_energy
+    units:
+      - name: "OPAC — Optical Characterization and Aging laboratory"
+        url: "https://www.psa.es/en/instalaciones/opac.php"
+    people:
+      - name: "Aránzazu Fernández-García"
+        source: "PSA Materials Unit public team page"
+    properties_measured:
+      - "solar absorptance"
+      - "thermal emittance"
+      - "specular and hemispherical reflectance"
+    capabilities:
+      temperature_range_text: "room temperature (spectrophotometric); aging under concentrated solar conditions"
+      wavelength_range_text: "0.28–2.5 µm (solar absorptance); 2–14 µm (thermal emittance, FTIR + integrating sphere)"
+      atmospheres: [air]
+      methodology_notes: "Solar absorptance (Lambda 1050 with 150 mm integrating spheres) and thermal emittance (FTIR with integrating sphere) of receiver coatings and solar reflectors; led the SFERA-III laboratory intercomparison of solar absorptance and thermal emittance measurements."
+    instruments_named:
+      - "OPAC optical characterization laboratory"
+    databases_hosted: []
+    applications:
+      - "concentrating solar thermal receivers and reflectors"
+      - "coating durability and aging"
+    ir_empower_contributions: []
+    why_it_matters: |
+      The Plataforma Solar de Almería is Europe's flagship concentrating
+      solar facility, and its OPAC laboratory anchors the radiative-property
+      side of that mission: absorptance and emittance of receiver coatings and
+      reflectors, plus aging. By leading the SFERA-III intercomparison of
+      solar absorptance and thermal emittance measurements, PSA plays for the
+      applied-solar community the harmonizing role that CCT comparisons play
+      in metrology.
+    external_sources:
+      - label: "OPAC laboratory (PSA)"
+        url: "https://www.psa.es/en/instalaciones/opac.php"
+      - label: "SFERA-III intercomparison of solar absorptance and thermal emittance"
+        url: "https://sfera3.sollab.eu/2022/02/17/scientific-publication-laboratory-intercomparison-of-solar-absorptance-and-thermal-emittance-measurements-at-room-temperature/"
+
+  - id: esa-estec
+    rank: 32
+    tier: extended
+    name: "ESA ESTEC — Materials and Electrical Components Laboratory"
+    short_name: "ESA ESTEC"
+    country: "Netherlands"
+    iso_country: "NL"
+    city: "Noordwijk"
+    ecosystems: [space_thermal]
+    ecosystem_primary: space_thermal
+    units:
+      - name: "Materials & Electrical Components Laboratory (TEC Directorate)"
+        url: "https://technology.esa.int/lab/materials-electrical-components-laboratory"
+    people: []
+    properties_measured:
+      - "thermo-optical properties: emittance, reflectance, absorptance"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "UV–VIS–NIR–IR"
+      atmospheres: [air, vacuum]
+      methodology_notes: "Thermo-optical characterization of spacecraft thermal-control materials per ECSS standards, with benchtop and portable instruments; includes studies of lunar-dust degradation of thermo-optical properties."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "spacecraft thermal control"
+      - "material qualification per ECSS standards"
+    ir_empower_contributions: []
+    why_it_matters: |
+      Every European spacecraft's thermal design depends on trusted α/ε values
+      for its surfaces. ESTEC's materials laboratory is where those
+      thermo-optical properties are measured and qualified against ECSS
+      standards, making it the institutional bridge between laboratory
+      emissivity measurement and flight hardware.
+    external_sources:
+      - label: "Materials & Electrical Components Laboratory (ESA)"
+        url: "https://technology.esa.int/lab/materials-electrical-components-laboratory"
+
+  - id: tubitak-ume
+    rank: 33
+    tier: extended
+    name: "TÜBİTAK UME — National Metrology Institute of Türkiye"
+    short_name: "TÜBİTAK UME"
+    country: "Türkiye"
+    iso_country: "TR"
+    city: "Gebze (Kocaeli)"
+    ecosystems: [metrology]
+    ecosystem_primary: metrology
+    units:
+      - name: "Radiation Temperature Laboratory, Physics Group"
+        url: "https://www.ume.tubitak.gov.tr/en/physics-group-laboratories/radiation-temperature-laboratory/"
+    people: []
+    properties_measured:
+      - "radiation thermometry"
+      - "blackbody and IR calibrator calibration"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: ""
+      atmospheres: [air]
+      methodology_notes: "Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European metrology (EMPIR) projects such as MultiFixRad. A dedicated material-emissivity bench is not confirmed from public pages; listed as extended pending verification."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "non-contact thermometry"
+      - "radiometric calibration"
+    ir_empower_contributions: []
+    why_it_matters: |
+      UME extends the radiation-thermometry comparison infrastructure to
+      Türkiye: blackbody calibration and EMPIR-project participation tie its
+      radiometric scales to the European metrology network, the foundation on
+      which traceable emissivity measurement rests.
+    external_sources:
+      - label: "Radiation Temperature Laboratory (TÜBİTAK UME)"
+        url: "https://www.ume.tubitak.gov.tr/en/physics-group-laboratories/radiation-temperature-laboratory/"
+
+  - id: nasa-gsfc
+    rank: 34
+    tier: extended
+    name: "NASA Goddard Space Flight Center — Thermal Coatings"
+    short_name: "NASA GSFC"
+    country: "United States"
+    iso_country: "US"
+    city: "Greenbelt, MD"
+    ecosystems: [space_thermal]
+    ecosystem_primary: space_thermal
+    units:
+      - name: "Contamination and Coatings Engineering Branch (Code 546)"
+        url: "https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/contamination-coatings-engineering/"
+    people: []
+    properties_measured:
+      - "solar absorptance"
+      - "thermal emittance (hemispherical and normal)"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "solar and thermal infrared bands"
+      atmospheres: [air, vacuum]
+      methodology_notes: "Routine solar absorptance and calorimetric/normal thermal emittance measurement of spacecraft thermal-control coatings; publisher of canonical α/ε reference compilations used across the space industry. Today the work sits in the Contamination and Coatings Engineering Branch (Code 546)."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "spacecraft thermal-control coatings"
+      - "α/ε reference data"
+    ir_empower_contributions: []
+    why_it_matters: |
+      GSFC's coatings work produced the α/ε handbooks that generations of
+      spacecraft thermal engineers treat as canonical reference data. It
+      represents the longest continuous institutional practice of emittance
+      measurement for flight hardware in the public record.
+    external_sources:
+      - label: "GSFC α/ε handbook (NASA NTRS)"
+        url: "https://ntrs.nasa.gov/citations/19840015630"
+      - label: "Thermal coatings lecture (NASA NESC Academy)"
+        url: "https://nescacademy.nasa.gov/video/6b4842a9966043d69cef1193d03885d61d"
+
+  - id: ucla-raman
+    rank: 35
+    tier: engineered
+    name: "UCLA — Raman Lab"
+    short_name: "UCLA Raman Lab"
+    country: "United States"
+    iso_country: "US"
+    city: "Los Angeles, CA"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "Raman Lab, Materials Science and Engineering"
+        url: "http://www.aaswathraman.com/"
+    people:
+      - name: "Aaswath Raman"
+        source: "UCLA Samueli faculty page"
+    properties_measured:
+      - "spectral and directional emissivity (engineered)"
+      - "radiative cooling performance"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "solar and sky-window (8–13 µm) bands"
+      atmospheres: [air]
+      methodology_notes: "Radiative sky cooling (lineage of the first daytime demonstration); spectral and directional emissivity control via gradient epsilon-near-zero structures; broadband directional thermal emission."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "passive radiative cooling"
+      - "thermal photonics"
+    ir_empower_contributions: []
+    why_it_matters: |
+      The Raman Lab descends directly from the experiments that made daytime
+      radiative sky cooling real, and now leads on directional and spectral
+      control of thermal emission. It anchors the engineered-emissivity tier:
+      emissivity treated not as a property to measure but as a design
+      variable.
+    external_sources:
+      - label: "Raman Lab"
+        url: "http://www.aaswathraman.com/"
+      - label: "Aaswath Raman (UCLA Samueli)"
+        url: "https://samueli.ucla.edu/people/aaswath-raman/"
+
+  - id: purdue-ruan
+    rank: 36
+    tier: engineered
+    name: "Purdue University — Ruan Group"
+    short_name: "Purdue Ruan Group"
+    country: "United States"
+    iso_country: "US"
+    city: "West Lafayette, IN"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "Ruan Group, School of Mechanical Engineering"
+        url: "https://engineering.purdue.edu/NANOENERGY/"
+    people:
+      - name: "Xiulin Ruan"
+        source: "Purdue faculty page"
+    properties_measured:
+      - "solar reflectance"
+      - "sky-window emissivity (engineered paints)"
+    capabilities:
+      temperature_range_text: "field demonstrations under full sun"
+      wavelength_range_text: "solar spectrum + 8–13 µm sky window"
+      atmospheres: [air]
+      methodology_notes: "BaSO4-based radiative cooling paints with 98.1% solar reflectance and high sky-window emissivity (the 'whitest paint'); full-scale field cooling tests."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "radiative cooling paints"
+      - "building energy"
+    ir_empower_contributions: []
+    why_it_matters: |
+      The Ruan group's barium-sulfate radiative-cooling paints — 98.1% solar
+      reflectance with strong sky-window emission — are the most visible
+      demonstration that engineered emissivity scales from metasurfaces to
+      paint cans, with peer-reviewed field tests behind the headlines.
+    external_sources:
+      - label: "The whitest paint is here (Purdue)"
+        url: "https://stories.purdue.edu/the-whitest-paint-is-here-and-its-the-coolest-literally/"
+      - label: "Ultrawhite BaSO4 paints (ACS Appl. Mater. Interfaces)"
+        url: "https://pubs.acs.org/doi/10.1021/acsami.1c02368"
+
+  - id: uchicago-hsu
+    rank: 37
+    tier: engineered
+    name: "University of Chicago — Hsu Group"
+    short_name: "UChicago Hsu Group"
+    country: "United States"
+    iso_country: "US"
+    city: "Chicago, IL"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "Hsu Group, Pritzker School of Molecular Engineering"
+        url: "https://pochunhsu.group/"
+    people:
+      - name: "Po-Chun Hsu"
+        source: "UChicago PME faculty page"
+    properties_measured:
+      - "spectrally engineered emissivity of textiles and films"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "solar + mid-infrared bands"
+      atmospheres: [air]
+      methodology_notes: "Radiative cooling and heating textiles with engineered emissivity, including spectrally engineered fabric for urban heat (Science 2024); dynamic and dual-mode emissivity materials."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "personal thermal management textiles"
+      - "dynamic emissivity materials"
+    ir_empower_contributions: []
+    why_it_matters: |
+      The Hsu group carries engineered emissivity to wearables and dynamic
+      materials: fabrics and films whose spectral emissivity is designed, and
+      can switch, to manage heat for people and buildings — the
+      human-scale face of radiative-property engineering.
+    external_sources:
+      - label: "Hsu Group"
+        url: "https://pochunhsu.group/"
+      - label: "Po-Chun Hsu (UChicago PME)"
+        url: "https://pme.uchicago.edu/faculty/po-chun-hsu"
+
+  - id: kaist-jang
+    rank: 38
+    tier: engineered
+    name: "KAIST — Jang Lab"
+    short_name: "KAIST Jang Lab"
+    country: "South Korea"
+    iso_country: "KR"
+    city: "Daejeon"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "Jang Lab, School of Electrical Engineering"
+        url: "https://janglab.org/"
+    people:
+      - name: "Min Seok Jang"
+        source: "Lab website"
+    properties_measured:
+      - "engineered thermal emission of nanophotonic coatings"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "solar + mid-infrared bands"
+      atmospheres: [air]
+      methodology_notes: "Nanophotonics including radiative cooling for photovoltaics, with solution-processable solar-transparent mesoporous nanoparticle coatings; thermal-emission control."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "radiative cooling for photovoltaics"
+      - "nanophotonic thermal emitters"
+    ir_empower_contributions: []
+    why_it_matters: |
+      The Jang lab represents the strong Korean school of nanophotonic
+      thermal-emission control, notably solution-processable radiative-cooling
+      coatings for photovoltaics — engineered emissivity aimed at
+      manufacturability.
+    external_sources:
+      - label: "Jang Lab (KAIST)"
+        url: "https://janglab.org/"
+
+  - id: nanjing-zhu
+    rank: 39
+    tier: engineered
+    name: "Nanjing University — Jia Zhu Group"
+    short_name: "Nanjing Zhu Group"
+    country: "China"
+    iso_country: "CN"
+    city: "Nanjing"
+    ecosystems: [engineered_emissivity]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "College of Engineering and Applied Sciences; National Laboratory of Solid State Microstructures"
+        url: "https://ceas.nju.edu.cn/zhu/main.htm"
+    people:
+      - name: "Jia Zhu"
+        source: "Nature Communications 2024 author affiliation"
+    properties_measured:
+      - "selective thermal emitters (engineered emissivity)"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "solar + sky-window bands"
+      atmospheres: [air]
+      methodology_notes: "Scalable selective thermal emitters for daytime and all-day radiative cooling (dual-selective emitter, Nature Communications 2024 — Tsinghua-led collaboration with Jia Zhu, NJU, as co-corresponding author); nanophotonics and nanoscale heat transfer."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "scalable radiative cooling"
+      - "selective emitters"
+    ir_empower_contributions: []
+    why_it_matters: |
+      The Zhu group is among the most-cited engineered-emissivity groups in
+      China, pushing selective thermal emitters toward scalability — the
+      bridge between laboratory metasurfaces and deployable radiative-cooling
+      materials.
+    external_sources:
+      - label: "Dual-selective thermal emitter (Nature Communications, 2024)"
+        url: "https://www.nature.com/articles/s41467-024-45095-4"
+
+  - id: uts-sydney
+    rank: 40
+    tier: engineered
+    name: "University of Technology Sydney — Gentle / Smith"
+    short_name: "UTS Sydney"
+    country: "Australia"
+    iso_country: "AU"
+    city: "Sydney"
+    ecosystems: [engineered_emissivity, applied_energy]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "School of Mathematical and Physical Sciences"
+        url: "https://profiles.uts.edu.au/geoff.smith"
+    people:
+      - name: "Angus Gentle"
+        source: "UTS staff pages"
+      - name: "Geoff Smith"
+        source: "UTS staff pages (emeritus)"
+    properties_measured:
+      - "spectrally selective surfaces"
+      - "sub-ambient radiative cooling performance"
+    capabilities:
+      temperature_range_text: "field demonstrations (roof scale)"
+      wavelength_range_text: "solar + 8–13 µm sky window"
+      atmospheres: [air]
+      methodology_notes: "Pioneering sub-ambient daytime radiative cooling roof demonstrations (coated polymer stack on silver absorbing ~3% solar while strongly emitting in the sky window); spectrally selective surfaces for buildings."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "cool roofs and buildings"
+      - "spectrally selective surfaces"
+    ir_empower_contributions: []
+    why_it_matters: |
+      Gentle and Smith demonstrated sub-ambient daytime radiative cooling on
+      real roofs before the field's current boom, anchoring the
+      Southern-Hemisphere presence of engineered emissivity and its building
+      applications.
+    external_sources:
+      - label: "Geoff Smith (UTS profile)"
+        url: "https://profiles.uts.edu.au/geoff.smith"
+      - label: "A Subambient Open Roof Surface under the Mid-Summer Sun (Adv. Sci., 2015)"
+        url: "https://doi.org/10.1002/advs.201500119"
+      - label: "Sub-ambient daytime radiative cooling roof (Advanced Science / PMC)"
+        url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115392/"

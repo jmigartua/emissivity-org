@@ -1,0 +1,194 @@
+---
+page-layout: full
+toc: false
+listing:
+  - id: confs-2027
+    contents: conferences/2027-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
+  - id: confs-2026
+    contents: conferences/2026-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 20
+    fields: [title, date, description, categories]
+  - id: confs-2025
+    contents: conferences/2025-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
+  - id: confs-2024
+    contents: conferences/2024-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
+  - id: confs-2023
+    contents: conferences/2023-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
+  - id: confs-2022
+    contents: conferences/2022-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
+  - id: confs-2021
+    contents: conferences/2021-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
+---
+
+```{=html}
+<!-- ═══════════════ HERO ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Conferences</div>
+      <div class="section__title">Conferences in emissivity &amp; <em>emissometry</em>.</div>
+    </div>
+    <a href="/contribute/index.html" class="section__link">Suggest a conference &rarr;</a>
+  </div>
+
+  <p class="inner-page" style="max-width:52rem; line-height:1.7; color:var(--text-secondary,#555);">
+    Curated index of conferences relevant to emissivity, emissometry, infrared thermography, and temperature metrology.
+    Subscribe to our calendar to stay up to date with upcoming events.
+  </p>
+
+  <p style="margin-top:0.5rem;">
+    <a href="/files/ical/emissivity-conferences.ics" style="display:inline-block; padding:0.4rem 1rem; background:#1b3a6b; color:#fff; border-radius:4px; text-decoration:none; font-size:0.85rem;">Download .ics Calendar</a>
+  </p>
+</section>
+```
+
+## 2027
+
+:::{#confs-2027}
+:::
+
+## 2026
+
+:::{#confs-2026}
+:::
+
+## 2025
+
+:::{#confs-2025}
+:::
+
+## 2024
+
+:::{#confs-2024}
+:::
+
+## 2023
+
+:::{#confs-2023}
+:::
+
+## 2022
+
+:::{#confs-2022}
+:::
+
+## 2021
+
+:::{#confs-2021}
+:::
+
+```{=html}
+<!-- ═══════════════ CONFERENCE SERIES ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Conference series</div>
+      <div class="section__title">Recurring series relevant to emissivity <em>research</em>.</div>
+    </div>
+  </div>
+
+  <div class="inner-page" style="max-width:52rem; line-height:1.7; color:var(--text-secondary,#555);">
+    <p>The following recurring conference series regularly feature sessions, papers, or workshops on emissivity, radiative properties, infrared thermography, and temperature metrology:</p>
+
+    <table style="width:100%; border-collapse:collapse; margin-top:1rem; font-size:0.9rem;">
+      <thead>
+        <tr style="border-bottom:2px solid #1b3a6b; text-align:left;">
+          <th style="padding:0.5rem;">Series</th>
+          <th style="padding:0.5rem;">Focus</th>
+          <th style="padding:0.5rem;">Frequency</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>QIRT</strong></td>
+          <td style="padding:0.5rem;">Quantitative infrared thermography &mdash; calibration, emissivity measurement, NDT</td>
+          <td style="padding:0.5rem;">Biennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>ECTP</strong></td>
+          <td style="padding:0.5rem;">European Conference on Thermophysical Properties &mdash; thermal conductivity, diffusivity, emissivity</td>
+          <td style="padding:0.5rem;">Triennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>TEMPMEKO</strong></td>
+          <td style="padding:0.5rem;">International symposium on temperature, humidity, moisture, and thermal measurements in industry and science</td>
+          <td style="padding:0.5rem;">Triennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>SPIE ThermoSense</strong></td>
+          <td style="padding:0.5rem;">Thermal infrared applications and thermography</td>
+          <td style="padding:0.5rem;">Annual</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>NEWRAD</strong></td>
+          <td style="padding:0.5rem;">New developments and applications in optical radiometry</td>
+          <td style="padding:0.5rem;">Quadrennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>ITS</strong></td>
+          <td style="padding:0.5rem;">International Temperature Symposium</td>
+          <td style="padding:0.5rem;">~Every 4 years</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>IMEKO World Congress</strong></td>
+          <td style="padding:0.5rem;">International Measurement Confederation &mdash; metrology across disciplines</td>
+          <td style="padding:0.5rem;">Triennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>CIM</strong></td>
+          <td style="padding:0.5rem;">International Metrology Congress &mdash; measurement science and applications</td>
+          <td style="padding:0.5rem;">Biennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>IHTC</strong></td>
+          <td style="padding:0.5rem;">International Heat Transfer Conference &mdash; radiative heat transfer sessions</td>
+          <td style="padding:0.5rem;">Quadrennial</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>IR-EMPOWER</strong></td>
+          <td style="padding:0.5rem;">Workshop and network coordination for emissivity measurement in Europe</td>
+          <td style="padding:0.5rem;">Annual</td>
+        </tr>
+        <tr>
+          <td style="padding:0.5rem;"><strong>ITCC/ITES</strong></td>
+          <td style="padding:0.5rem;">International Thermal Conductivity Conference / Thermal Expansion Symposium</td>
+          <td style="padding:0.5rem;">Annual</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+```

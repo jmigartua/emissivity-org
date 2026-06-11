@@ -1,0 +1,49 @@
+---
+title: "Small-polaron-induced infrared opacification in rutile TiO2"
+description: >
+  This publication focuses on tio2, infrared opacification, small polarons. Rutile turns opaque Polarons block infrared TiO2 data.
+date: 2021-08-01
+author:
+  - name: "Iñigo González de Arrieta"
+    orcid: 0000-0001-6984-5149
+  - name: "Telmo Echániz"
+    orcid: 0000-0002-0330-0653
+  - name: "Domingos De Sousa Meneses"
+  - name: "Gabriel A. López"
+categories:
+  - TiO2
+  - Infrared opacification
+  - Small polarons
+pub-info:
+  reference: >-
+    González de Arrieta et al., J. Appl. Phys. 130, 075105 (2021).
+  links:
+    - name: "AIP"
+      url: https://doi.org/10.1063/5.0056081
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Rutile turns opaque
+  - Polarons block infrared
+  - TiO2 data
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Small-polaron-induced infrared opacification in rutile TiO2">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_author" content="Domingos De Sousa Meneses">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2021-08-01">
+      <meta name="citation_doi" content="10.1063/5.0056081">
+---
+
+## Abstract
+
+This publication focuses on tio2, infrared opacification, small polarons. Rutile turns opaque Polarons block infrared TiO2 data.
+
+## Citation
+
+> González de Arrieta et al., J. Appl. Phys. 130, 075105 (2021).
+
+::: {.callout-note}
+Click the **AIP** button above to access the full text or official record.
+:::

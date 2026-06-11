@@ -1,0 +1,110 @@
+---
+title: "Data"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<section class="home-section" style="border-bottom:none; padding-top:40px;">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Open data resources</h2>
+      <a class="more" href="/data/ekhi.html">EKHI — flagship resource →</a>
+    </div>
+    <p class="sec-intro">
+      The field's openly accessible databases of radiative and optical property
+      data, each maintained by an institution on the
+      <a href="/network/index.html">research map</a>. Counts are exact and
+      dated; every dataset is traceable to its source publication.
+    </p>
+
+    <div class="res">
+      <div class="res-row">
+        <div class="name"><a href="/data/ekhi.html">EKHI</a>
+          <span class="by">Thermomat / UPV/EHU · Bilbao</span></div>
+        <div class="desc">
+          Open, publication-centred database of optical and thermal radiative
+          properties of solid materials: curve-level spectral datasets with
+          explicit provenance, machine-readable downloads, and citation tools.
+          Described in <a href="https://www.nature.com/articles/s41597-026-07083-9"><em>Scientific Data</em> (2026)</a>.
+          See the latest entries directly in the
+          <a href="https://thermomat.ehu.eus/ekhi">live database</a>.
+        </div>
+        <div class="facts">
+          1 251 curves · 167 publications<br/>
+          0.05–1000 µm · counts at 2026-01<br/>
+          <a href="https://thermomat.ehu.eus/ekhi">thermomat.ehu.eus/ekhi →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="/network/dlr-psl.html">Berlin Emissivity Database</a>
+          <span class="by">DLR Institute of Planetary Research</span></div>
+        <div class="desc">
+          Emissivity spectra of planetary-analog materials (minerals, regolith
+          simulants) measured in vacuum, including heated samples for Mercury
+          and Venus surface conditions. Supports the MERTIS instrument on
+          BepiColombo.
+        </div>
+        <div class="facts">
+          planetary analogs · vacuum FTIR<br/>
+          <a href="/network/dlr-psl.html">maintainer profile →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="https://speclib.jpl.nasa.gov">ECOSTRESS Spectral Library</a>
+          <span class="by">NASA Jet Propulsion Laboratory</span></div>
+        <div class="desc">
+          Laboratory reflectance and emissivity spectra of natural and man-made
+          materials (formerly the ASTER Spectral Library), widely used for
+          land-surface temperature and emissivity retrieval.
+        </div>
+        <div class="facts">
+          natural + man-made materials<br/>
+          <a href="https://speclib.jpl.nasa.gov">speclib.jpl.nasa.gov →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="/network/usgs-spectroscopy.html">USGS Spectral Library</a>
+          <span class="by">U.S. Geological Survey, Spectroscopy Lab</span></div>
+        <div class="desc">
+          Reference reflectance spectra of minerals, rocks, soils, vegetation,
+          and man-made materials, used across remote sensing and as input for
+          emissivity modelling.
+        </div>
+        <div class="facts">
+          version 7 · open access<br/>
+          <a href="/network/usgs-spectroscopy.html">maintainer profile →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
+        <div class="name"><a href="/network/onera-dota.html">MEMOIRES</a>
+          <span class="by">ONERA — DOTA</span></div>
+        <div class="desc">
+          Thermo-optical properties database capitalizing ONERA's measurements
+          of the optical properties of materials, coatings, and paints for
+          infrared signature studies.
+        </div>
+        <div class="facts">
+          coatings · IR signatures<br/>
+          <a href="https://onera.fr/en/dota/memoires">onera.fr/en/dota/memoires →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section tinted contribute-band" style="border-bottom:none;">
+  <div class="wrap">
+    <p class="lede">Maintain a radiative-property data resource that belongs here?</p>
+    <p>
+      The directory indexes openly accessible, non-commercial databases with
+      traceable provenance. <a href="/contribute/index.html">Write to the
+      editorial board</a> to have a resource profiled.
+    </p>
+  </div>
+</section>
+```

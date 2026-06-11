@@ -1,0 +1,30 @@
+---
+title: "QIRT-Asia 2025 (5th Asian Quantitative Infrared Thermography Conference)"
+subtitle: "QIRT-Asia | Harbin, China"
+date: 2025-07-14
+description: "Quantitative infrared thermography; emissivity handling is central to quantitative IR workflows."
+url: "https://www.chsndt.org/interconference/3706.html"
+categories:
+  - qirt
+  - infrared-thermography
+  - measurement-methods
+  - emissivity
+  - IR thermography
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2025-07-14 to 2025-07-18
+
+**Location:** Harbin, China
+
+[Conference Website](https://www.chsndt.org/interconference/3706.html){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+QIRT-Asia is a regional conference aligned with the QIRT series, focusing on quantitative infrared thermography in research and applied contexts. The scope includes infrared measurement techniques, emissivity treatment, calibration, and data interpretation within quantitative IR workflows.
+
+

@@ -1,0 +1,227 @@
+---
+title: "Ecosystems"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / Ecosystems</div>
+```
+
+::: {.page-article}
+# Ecosystems
+
+The research landscape around emissivity, reflectance, transmittance, and
+thermal radiative properties is **not organized around many autonomous
+"emissivity institutes."** Instead, it is distributed across several
+partially overlapping but technically coherent subcommunities. This page
+synthesizes the landscape by **ecosystem** rather than by country or tier,
+and it names — for each ecosystem — the institutions whose contributions
+matter most.
+
+A single sentence captures the pattern: **the strongest laboratories are
+usually those that have built measurement platforms or data infrastructures
+able to handle difficult combinations of wavelength range, temperature,
+surface state, semitransparency, angular dependence, or traceability**.
+
+---
+
+## The three centers of gravity — and two more
+
+If one asks which laboratories are most central **strictly for emissivity
+itself**, the landscape collapses into three centers of gravity, with two
+further branches that have grown rapidly in recent years.
+
+### 1. Metrology
+
+Institutions whose activity is about *what emissivity measurements can be
+trusted, under what conditions, and with what uncertainty*.
+
+- **PTB** — the one national institute with a unit literally called
+  *Emissivity*.
+- **NIST** — the System for Infrared Spectral Emittance of Materials;
+  uncertainty and calibration methodology.
+- **CAE Würzburg** — applied metrological facilities for emissivity across a
+  wide temperature range.
+- **IMT Mines Albi / ICA** — directional spectral emissivity with the BMEIR
+  setup.
+- **CEMHTI-CNRS**, **PROMES-CNRS**, **ISI Brno** form a wider technical belt,
+  each occupying a distinct temperature and methodological niche.
+
+This is the branch that determines what can be called an emissivity *value*
+in a traceable sense. Everything else in the field depends on this branch,
+directly or indirectly, because every non-contact temperature measurement
+does.
+
+### 2. Materials under demanding thermal conditions
+
+Laboratories where emissivity is not static but evolves with temperature,
+wavelength, geometry, semitransparency, oxidation, microstructure, and
+phase state.
+
+- **PROMES-CNRS** — concentrated-solar flux, DISCO, pyroreflectometry.
+- **CEMHTI-CNRS** — simultaneous determination of true temperature and
+  spectral emittance under unconventional conditions.
+- **CNR-INO** — solar-energy materials, ultra-high-temperature ceramics.
+- **Institute VINČA** — direct pulse-heating of metals and alloys.
+- **University of Virginia** (Hopkins Group) — emissivity up to ~4000 °C via
+  coupled ellipsometry + laser-heating radiometry.
+- **LTeN-CNRS** — high-temperature emissivity of architectured ceramics.
+- **University of West Bohemia / NTC** — semitransparent coatings.
+- **Ruhr University Bochum / LEAT** — powders, fuels, reacting particulates.
+
+This is the living edge of **high-temperature thermo-optical science**. The
+core intellectual move in this branch is recognizing that emissivity is a
+*function*, not a *number* — a function of temperature, wavelength, angle,
+and surface state.
+
+### 3. Spectral interpretation and large-scale data ecosystems
+
+Laboratories and initiatives that make the field cumulative, interoperable,
+and reusable.
+
+- **NASA JPL** — JEDI and the LST&E Portal, unifying land-surface emissivity
+  records across missions.
+- **ASU Thermal Emission Spectroscopy Laboratory** — canonical thermal-IR
+  emission spectra of geologic materials.
+- **Brown RELAB** — NASA-supported multi-user reflectance facility.
+- **USGS Spectroscopy Laboratory** — reflectance library and Astrogeology
+  infrared-spectroscopy work.
+- **AIST / NMIJ TPDS** — national thermophysical-property database with
+  explicit emissivity and reflectivity records.
+- **Thermomat / UPV-EHU / EKHI** — open database of optical and thermal
+  radiative properties, FAIR-compliant.
+
+A field only becomes cumulative when measurements can be organized into
+datasets, libraries, and retrieval frameworks that others can reuse. In that
+respect, these institutions help emissivity research evolve from scattered
+specialist measurements into a coherent scientific infrastructure.
+
+### 4. Engineered emissivity / thermal photonics
+
+Academic groups that *design* emissivity through nanophotonic structures,
+metasurfaces, and radiative-cooling schemes.
+
+- **Stanford Fan Group** — thermal emission control, photonic cooling of
+  solar absorbers, foundational radiative-cooling work.
+- **Columbia — Nanfang Yu Group** — LWIR control with nanostructured
+  materials, bio-inspired radiative cooling.
+- **Utah — TIFT Lab** — research thrust explicitly named "emissivity of
+  materials, photon transport inside materials."
+- **Vanderbilt — Caldwell Lab** — high-emissivity thermal metasurfaces,
+  angle-dependent IR characterization.
+
+This is emissivity as a **design variable** rather than a measurand. It has
+grown rapidly enough that it now forms a recognizable community parallel to
+classical metrology, with its own publication venues and its own
+characterization techniques (ellipsometry, near-field probes, FTIR with
+angle-resolved optics).
+
+### 5. Applied energy and built environment
+
+Where solar reflectance and thermal emittance are *design* and *deployment*
+variables for cool materials, urban climate, and built-environment energy
+performance.
+
+- **LBNL Heat Island Group** — cool roofs and cool walls defined through
+  thermal emittance and solar reflectance.
+- **CAE Würzburg** — applied-metrology bridge to energy materials.
+- **Ruhr University Bochum / LEAT** — combustion-relevant emissivity.
+
+---
+
+## Two orthogonal cuts: temperature regimes and measurement difficulty
+
+### By temperature regime
+
+| Regime | Key laboratories |
+|---|---|
+| **Cryogenic (~20–300 K)** | ISI Brno (specialist) |
+| **Near room temperature** | NIST, PTB, AIST/NMIJ |
+| **Mid high-temperature (~300–1500 °C)** | PROMES-CNRS (DISCO), CEMHTI-CNRS, CNR-INO, IMT Mines Albi (BMEIR), CAE Würzburg, University of West Bohemia, Thermomat/UPV-EHU |
+| **High to very high temperature (~1500–2500 °C)** | PTB (to ~2300 °C), CEMHTI-CNRS (to ~2700 K), VINČA (pulse heating of metals/alloys) |
+| **Ultrahigh temperature (>3000 °C)** | University of Virginia (Hopkins Group, to ~4000 °C) |
+
+### By measurement difficulty
+
+| Difficulty class | Key laboratories |
+|---|---|
+| **Traceable, SI-linked emissivity** | PTB, NIST |
+| **Simultaneous T + emittance (severe conditions)** | CEMHTI-CNRS, PROMES-CNRS |
+| **Directional spectral emissivity** | IMT Mines Albi / ICA (BMEIR) |
+| **Semitransparent and layered coatings** | UWB / NTC, PTB (apparent emissivity of semitransparent samples) |
+| **Pulse-heating of conductive metals/alloys** | Institute VINČA |
+| **Powders, fuels, reacting particulates** | Ruhr University Bochum / LEAT |
+| **Cryogenic radiative properties** | ISI Brno |
+| **Ultrahigh-T coupled optical–thermal** | University of Virginia (Hopkins Group) |
+
+---
+
+## Geography at a glance
+
+### Europe (a dense, partly hidden network)
+
+Germany hosts **PTB** and **CAE Würzburg** plus **Ruhr University Bochum /
+LEAT**. France concentrates a cluster of CNRS laboratories — **CEMHTI
+(Orléans)**, **PROMES (Odeillo/Font-Romeu)**, **IMT Mines Albi / ICA**, and
+**LTeN (Nantes)**. The Czech Republic contributes two specialist nodes —
+**ISI Brno** for cryogenics and **UWB / NTC** for photo-thermal properties of
+coatings. Italy contributes **CNR-INO** for solar-energy and optical-range
+work. Spain contributes **Thermomat / UPV-EHU** with **EKHI** and the
+IR-EMPOWER workshop. Serbia contributes **Institute VINČA** for pulse-heating
+high-temperature metals/alloys work.
+
+The IR-EMPOWER program confirms that Europe has a **dense, partly hidden
+network** of emissivity researchers distributed across materials, metrology,
+cryogenics, solar-energy materials, and radiative heat transfer — a network
+that is easily missed by generic web searches because most of its members are
+embedded inside broader laboratories rather than branded as "emissivity
+centers."
+
+### North America
+
+The United States contributes the national-metrology anchor **NIST**, the
+planetary and Earth-observation hub **NASA JPL (JEDI + LST&E)**, the spectral-
+library infrastructures at **ASU TES Lab**, **Brown RELAB**, and **USGS
+Spectroscopy**, the built-environment **LBNL Heat Island Group**, the
+thermal-photonics groups **Stanford Fan**, **Columbia / Nanfang Yu**,
+**Utah / TIFT Lab**, and **Vanderbilt / Caldwell**, and the ultrahigh-T
+frontier at the **University of Virginia / Hopkins Group**, plus further
+contributions from **University of Wisconsin–Madison** and **LASP Boulder**.
+
+### Asia
+
+Japan contributes **AIST / NMIJ** with the TPDS database, a key component of
+the field's data infrastructure.
+
+---
+
+## Synthesis
+
+If one looks at the full map, the emissivity research community has three
+conspicuous structural features:
+
+1. **It is distributed, not centralized.** No single institution dominates.
+   Instead, each specialist node solves a hard measurement problem in a
+   particular regime (cryogenic, ultrahigh-T, semitransparent, directional,
+   powders, planetary), and the collective ecosystem emerges from their
+   complementarity.
+
+2. **Metrology and materials-under-demanding-conditions are partly
+   integrated.** The same laboratories that measure emissivity at 2000 K are
+   often the ones that care most about traceability and uncertainty, because
+   at such temperatures emissivity is inseparable from the validity of the
+   temperature measurement itself.
+
+3. **Data stewardship is now a recognizable third leg.** Databases (JEDI,
+   TPDS, ASU TES Library, RELAB, EKHI) have become infrastructure on the
+   same footing as instrumentation. Institutions that both measure and curate
+   — notably **AIST / NMIJ** and **Thermomat / UPV-EHU** — occupy an
+   increasingly strategic position.
+
+Engineered emissivity / thermal photonics and applied-energy / cool-surface
+research are two further branches that have grown quickly over the past
+decade and now form coherent communities of their own, connected to classical
+emissivity metrology but operating with different publication venues,
+different techniques, and different goals.
+:::

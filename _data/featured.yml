@@ -1,0 +1,25 @@
+# Featured announcement — rendered as the homepage band by
+# tools/generate_featured.py (run it after editing, then quarto render).
+# Set enabled: false to remove the band entirely.
+
+featured:
+  enabled: true
+  kicker: "Announcement · Community workshop"
+  title: "IR-EMPOWER 2026"
+  subtitle: "Infrared emissivity measurement workshop — 2nd edition"
+  date_text: "28–29 September 2026"
+  location: "Würzburg, Germany · hosted by CAE"
+  countdown_to: "2026-09-28"
+  body: >
+    The community workshop on infrared emissivity measurement returns.
+    Founded in 2024 and first organized by the Thermomat / HAIRL group at
+    UPV/EHU in Bilbao, IR-EMPOWER brings together the laboratories of the
+    research map — metrology institutes, high-temperature facilities, and
+    university groups — around measurement below and above 1000 K.
+  links:
+    - label: "Workshop announcement"
+      url: "/events-news/news/ir-empower-2026.html"
+    - label: "Add to calendar (iCal)"
+      url: "/files/ical/emissivity-conferences.ics"
+    - label: "IR-EMPOWER 2024 — first edition"
+      url: "https://dulcet-sundae-44ceba.netlify.app/"

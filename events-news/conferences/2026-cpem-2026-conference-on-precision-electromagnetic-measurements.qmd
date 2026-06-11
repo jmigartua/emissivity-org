@@ -1,0 +1,30 @@
+---
+title: "CPEM 2026 — Conference on Precision Electromagnetic Measurements"
+subtitle: "CPEM | Madrid, Spain"
+date: 2026-09-06
+description: "35th edition covering electromagnetic standards, radiometric quantities, precision instrumentation."
+url: "https://cpem2026.com/"
+categories:
+  - Precision metrology
+  - radiometric
+  - electromagnetic
+  - metrology
+  - precision-measurement
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2026-09-06 to 2026-09-11
+
+**Location:** Madrid, Spain
+
+[Conference Website](https://cpem2026.com/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+CPEM 2026 is the 35th edition of the Conference on Precision Electromagnetic Measurements, covering electromagnetic standards from DC to optical frequencies including radiometric quantities. Sessions on precision instrumentation, physical constants, and measurement uncertainty relevant to radiometric/emissivity traceability. ~400 participants from NMIs worldwide.
+
+

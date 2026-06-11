@@ -1,0 +1,165 @@
+---
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════ CITATION GUIDE ═══════════════ -->
+<section class="inner-page">
+  <div style="max-width:52rem; margin:0 auto; padding:3rem 1.5rem 1rem; text-align:center;">
+    <div class="section__label">Data · Cite EKHI</div>
+    <h1 class="section__title" style="font-size:2.4rem; line-height:1.25;">How to cite and reuse <em>EKHI data</em>.</h1>
+    <p style="color:#4a5662; font-size:1.05rem; max-width:40rem; margin:1rem auto 0;">
+      Proper citation ensures credit flows to the researchers who measured the data and supports the sustainability of open data infrastructure.
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════ LICENSE ═══════════════ -->
+<section class="inner-page" style="border-top:1px solid #d9dee6;">
+  <div style="max-width:52rem; margin:0 auto; padding:3rem 1.5rem;">
+    <div class="section__head">
+      <div>
+        <div class="section__label">License</div>
+        <div class="section__title">CC-BY 4.0 <em>International</em>.</div>
+      </div>
+    </div>
+
+    <div style="color:#c4bfb2; line-height:1.75; font-size:1rem; margin-top:1.5rem;">
+      <p style="margin-bottom:1rem;">
+        All spectral data in EKHI is released under the <strong style="color:#1d2630;">Creative Commons Attribution 4.0 International</strong> (CC-BY 4.0) license. You are free to:
+      </p>
+      <ul style="margin:0 0 1.5rem 1.5rem; line-height:2;">
+        <li><strong style="color:#1d2630;">Share</strong> — copy and redistribute the data in any medium or format.</li>
+        <li><strong style="color:#1d2630;">Adapt</strong> — remix, transform, and build upon the data for any purpose, including commercial.</li>
+      </ul>
+      <p style="margin-bottom:1rem;">
+        The only requirement is <strong style="color:#1b3a6b;">attribution</strong>. You must cite both the original publication (the source paper) and the EKHI database record from which you obtained the data.
+      </p>
+      <p>
+        Full license text: <a href="https://creativecommons.org/licenses/by/4.0/" style="color:#1b3a6b;">creativecommons.org/licenses/by/4.0/</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ CITING THE DATABASE ═══════════════ -->
+<section style="border-top:1px solid #d9dee6;">
+  <div style="max-width:52rem; margin:0 auto; padding:3rem 1.5rem;">
+    <div class="section__head">
+      <div>
+        <div class="section__label">Citation format</div>
+        <div class="section__title">Citing the <em>EKHI database</em> itself.</div>
+      </div>
+    </div>
+
+    <div style="margin-top:1.5rem;">
+      <p style="color:#4a5662; margin-bottom:1.2rem;">When referring to EKHI as a whole (e.g., in a methods or data-availability section), use:</p>
+
+      <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Plain text</div>
+        Emissivity Research Network. EKHI: Open Spectral Emissivity Database.<br/>
+        https://emissivity.org/data/ekhi (accessed [date]).
+      </div>
+
+      <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">BibTeX</div>
+        @misc{ekhi,<br/>
+        &nbsp;&nbsp;author = {{Emissivity Research Network}},<br/>
+        &nbsp;&nbsp;title  = {{EKHI}: Open Spectral Emissivity Database},<br/>
+        &nbsp;&nbsp;url    = {https://emissivity.org/data/ekhi},<br/>
+        &nbsp;&nbsp;year   = {2026},<br/>
+        &nbsp;&nbsp;note   = {Accessed: [date]}<br/>
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ CITING INDIVIDUAL DATASETS ═══════════════ -->
+<section style="border-top:1px solid #d9dee6;">
+  <div style="max-width:52rem; margin:0 auto; padding:3rem 1.5rem;">
+    <div class="section__head">
+      <div>
+        <div class="section__label">Dataset citation</div>
+        <div class="section__title">Citing an <em>individual record</em>.</div>
+      </div>
+    </div>
+
+    <div style="margin-top:1.5rem;">
+      <p style="color:#4a5662; margin-bottom:1.2rem;">When using specific spectral data from EKHI, cite both the original publication and the EKHI record:</p>
+
+      <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Step 1 — cite the source publication</div>
+        [Authors]. [Title]. [Journal], [Volume], [Pages], [Year].<br/>
+        DOI: [doi]
+      </div>
+
+      <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Step 2 — cite the EKHI record</div>
+        Data obtained via EKHI record #[ID],<br/>
+        Emissivity Research Network,<br/>
+        https://emissivity.org/data/ekhi#[ID]
+      </div>
+
+      <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Example — in a data-availability statement</div>
+        "Spectral emissivity data for SiC were obtained from<br/>
+        &nbsp;EKHI record #03921 (Rozenbaum et al., 2024), available<br/>
+        &nbsp;at https://emissivity.org/data/ekhi under CC-BY 4.0."
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ BEST PRACTICES ═══════════════ -->
+<section style="border-top:1px solid #d9dee6;">
+  <div style="max-width:52rem; margin:0 auto; padding:3rem 1.5rem;">
+    <div class="section__head">
+      <div>
+        <div class="section__label">Best practices</div>
+        <div class="section__title">Making data reuse <em>transparent</em>.</div>
+      </div>
+    </div>
+
+    <div style="margin-top:1.5rem; display:grid; gap:1.5rem;">
+      <div class="contrib">
+        <div class="contrib__num">01</div>
+        <div class="contrib__verb"><em>Always</em> cite the original paper</div>
+        <div class="contrib__desc">EKHI is a distribution channel, not the data source. The original authors and their publication deserve primary credit. Dual citation (paper + EKHI) is the expected practice.</div>
+      </div>
+      <div class="contrib">
+        <div class="contrib__num">02</div>
+        <div class="contrib__verb"><em>Include</em> the EKHI record ID</div>
+        <div class="contrib__desc">Record IDs (e.g., #03921) make your data provenance unambiguous and allow readers to retrieve the exact curve you used, including measurement conditions and metadata.</div>
+      </div>
+      <div class="contrib">
+        <div class="contrib__num">03</div>
+        <div class="contrib__verb"><em>State</em> the access date</div>
+        <div class="contrib__desc">EKHI is updated weekly. Including the access date documents which version of the data you used and aids reproducibility if records are corrected or supplemented.</div>
+      </div>
+      <div class="contrib">
+        <div class="contrib__num">04</div>
+        <div class="contrib__verb"><em>Note</em> any transformations</div>
+        <div class="contrib__desc">If you interpolated, smoothed, or converted the data (e.g., directional to hemispherical), state this clearly. Raw EKHI data should be distinguishable from derived quantities.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ CTA ═══════════════ -->
+<section style="border-top:1px solid #d9dee6;">
+  <div style="max-width:48rem; margin:0 auto; padding:3rem 1.5rem; text-align:center;">
+    <div class="section__label">Questions</div>
+    <h2 class="section__title" style="font-size:1.8rem;">Need help with <em>data reuse</em>?</h2>
+    <p style="color:#4a5662; margin:1rem auto 1.5rem; max-width:36rem;">
+      If you have questions about citing EKHI data, licensing terms, or data-availability statements, contact the network.
+    </p>
+    <div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
+      <a href="/data/ekhi.html" class="btn btn--primary">Browse EKHI →</a>
+      <a href="/contribute/index.html" class="btn btn--ghost">Contact the network</a>
+    </div>
+  </div>
+</section>
+
+```

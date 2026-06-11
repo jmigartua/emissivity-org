@@ -1,0 +1,46 @@
+---
+title: "Tuning infrared radiative properties using Direct Laser Interference Patterning"
+description: >
+  This publication focuses on dlip, surface modification, radiative properties. Laser patterns carve Tuning heat radiation Surface control key.
+date: 2025-07-15
+author:
+  - name: "Jon Gabirondo-López"
+    orcid: 0000-0003-4333-4636
+  - name: "Josu M. Igartua"
+  - name: "Gabriel A. López"
+categories:
+  - DLIP
+  - Surface modification
+  - Radiative properties
+pub-info:
+  reference: >-
+    Gabirondo-López et al., Materials Letters (2025).
+  links:
+    - name: "ScienceDirect"
+      url: https://doi.org/10.1016/j.matlet.2025.138485
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Laser patterns carve
+  - Tuning heat radiation
+  - Surface control key
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Tuning infrared radiative properties using Direct Laser Interference Patterning">
+      <meta name="citation_author" content="Jon Gabirondo-López">
+      <meta name="citation_author" content="Josu M. Igartua">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2025-07-15">
+      <meta name="citation_doi" content="10.1016/j.matlet.2025.138485">
+---
+
+## Abstract
+
+This publication focuses on dlip, surface modification, radiative properties. Laser patterns carve Tuning heat radiation Surface control key.
+
+## Citation
+
+> Gabirondo-López et al., Materials Letters (2025).
+
+::: {.callout-note}
+Click the **ScienceDirect** button above to access the full text or official record.
+:::

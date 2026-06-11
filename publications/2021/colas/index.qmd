@@ -1,0 +1,47 @@
+---
+title: "Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy"
+description: >
+  This publication focuses on radiative properties, intermetallic alloy, high temperature. Kanthal alloy heated Radiation measured high Oxidation tracked.
+date: 2021-08-01
+author:
+  - name: "Julien Colas"
+  - name: "Lisa Charpentier"
+  - name: "Domingos De Sousa Meneses"
+  - name: "Marianne Balat-Pichelin"
+categories:
+  - Radiative properties
+  - Intermetallic alloy
+  - High temperature
+pub-info:
+  reference: >-
+    Colas et al., Corrosion Sci. 189, 109601 (2021).
+  links:
+    - name: "ScienceDirect"
+      url: https://doi.org/10.1016/j.corsci.2021.109601
+      icon: fa-solid fa-file-pdf
+haiku:
+  - Kanthal alloy heated
+  - Radiation measured high
+  - Oxidation tracked
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy">
+      <meta name="citation_author" content="Julien Colas">
+      <meta name="citation_author" content="Lisa Charpentier">
+      <meta name="citation_author" content="Domingos De Sousa Meneses">
+      <meta name="citation_author" content="Marianne Balat-Pichelin">
+      <meta name="citation_date" content="2021-08-01">
+      <meta name="citation_doi" content="10.1016/j.corsci.2021.109601">
+---
+
+## Abstract
+
+This publication focuses on radiative properties, intermetallic alloy, high temperature. Kanthal alloy heated Radiation measured high Oxidation tracked.
+
+## Citation
+
+> Colas et al., Corrosion Sci. 189, 109601 (2021).
+
+::: {.callout-note}
+Click the **ScienceDirect** button above to access the full text or official record.
+:::

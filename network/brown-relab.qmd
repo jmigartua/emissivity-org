@@ -1,0 +1,97 @@
+---
+title: "Brown University — RELAB (Reflectance Experiment Laboratory)"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Brown RELAB</div>
+```
+
+::: {.page-article}
+# Brown University — RELAB (Reflectance Experiment Laboratory)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Providence, RI |
+| **Tier** | Extended (Tier II) |
+| **Primary ecosystem** | Spectral libraries — reflectance (UV through far-IR) |
+| **Relevant units** | **RELAB** (NASA-supported multi-user facility) · **DEEPS** (Earth, Environmental & Planetary Sciences) |
+| **Signature envelope** | UV–VIS through far-IR; FTIR to **~100 µm** |
+
+## Why it matters internationally
+
+RELAB is primarily a **reflectance spectroscopy facility**, but it belongs
+on any research map whose scope includes "reflectivity etc." Brown's DEEPS
+department identifies RELAB as a research facility whose spectra provide
+the **interpretive basis for remote compositional analysis**; the
+laboratory operates UV–VIS–NIR bidirectional and near-/mid-/far-IR FTIR
+spectrometers (to about 100 µm). RELAB has served for decades as a
+NASA-supported multi-user spectroscopy facility whose data underpin
+compositional interpretation of remote planetary surfaces. It represents
+the truth that **reflectance and emissivity communities are deeply
+connected** — Kirchhoff-related reasoning, spectral libraries, and
+optical-constant interpretation cross these boundaries constantly.
+
+## Scope of activity
+
+### Relevant units
+
+- **RELAB — Reflectance Experiment Laboratory** — NASA-supported multi-user
+  facility at Brown, operating UV–VIS–NIR bidirectional and near-/mid-/
+  far-IR FTIR spectrometers.
+- **DEEPS — Department of Earth, Environmental & Planetary Sciences** —
+  institutional home; presents RELAB as a core research resource.
+
+### Radiative properties measured / curated
+
+Spectral reflectance (UV–VIS–NIR bidirectional) · reflectance and
+transmission in the near-, mid-, and far-IR.
+
+### Capability envelope
+
+- **Wavelength:** UV–VIS through far-IR; FTIR to **~100 µm**.
+- **Methodology:** UV–VIS–NIR bidirectional spectrometer and near-/mid-/
+  far-IR FTIR spectrometers; NASA-supported multi-user access for the
+  external community.
+
+### Signature infrastructure
+
+- **RELAB spectra archive** — spectral reflectance and transmission data of
+  Earth and planetary materials from visible through near-, mid-, and
+  far-infrared wavelengths. A backbone dataset for planetary remote
+  sensing.
+
+### Application domains
+
+- Planetary surface compositional interpretation
+- Remote sensing spectroscopy
+- Optical-constant interpretation and spectral-library reasoning
+
+## Why Brown RELAB is a reference pole
+
+The far-IR reach (to ~100 µm) and the breadth of materials in the RELAB
+archive mean that a very large fraction of the published inversion chains
+linking laboratory spectra to remote thermal-IR observations either
+include RELAB data or rely on facilities like it. For the reflectance
+half of the reflectance/emittance pair — which cannot be cleanly separated
+from emissivity in any serious optical analysis — RELAB is one of the
+indispensable US nodes.
+
+## External sources
+
+- [RELAB — Bidirectional reflectance spectrometer](https://sites.brown.edu/relab/)
+- [Research Facilities and Resources — DEEPS Brown](https://deeps.brown.edu/research/resources)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::

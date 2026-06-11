@@ -1,0 +1,98 @@
+---
+title: "PTB — Physikalisch-Technische Bundesanstalt"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / PTB</div>
+```
+
+::: {.page-article}
+# PTB — Physikalisch-Technische Bundesanstalt
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Berlin / Braunschweig |
+| **Tier** | Core (Tier I) |
+| **Primary ecosystem** | Metrology |
+| **Relevant units** | Working Group **7.35 — Emissivity**; Working Group **7.32 — Infrared Radiometry** |
+| **Publicly linked people** | Albert Adibekyan · David Urban |
+
+## Why it matters internationally
+
+PTB is one of the very few institutions in the world whose internal structure
+includes a unit **explicitly named "Emissivity."** That is not a semantic
+detail. It signals that emissivity is not merely an application variable here,
+but an **institutionalized metrological object** requiring traceable,
+uncertainty-controlled, SI-linked measurement. WG 7.35 covers accurate and
+traceable emissivity measurement from near to far infrared under air and
+vacuum, while the adjacent WG 7.32 ties spectral emissivity to infrared
+radiometry and radiation thermometry. PTB is therefore a reference
+institution for **pyrometry**, **remote sensing**, **passive radiative
+cooling**, and the calibration logic underlying all non-contact temperature
+measurement.
+
+## Scope of activity
+
+### Relevant units
+
+- **Working Group 7.35 — Emissivity** — the primary task is accurate and
+  traceable emissivity measurement for materials and surfaces from the near
+  to the far infrared.
+- **Working Group 7.32 — Infrared Radiometry** — lists emissivity
+  measurement, infrared optical properties, and traceability for radiation
+  thermometry and remote sensing as core tasks.
+
+### Radiative properties measured
+
+Spectral emissivity · infrared radiance · radiation thermometry · reflectance
+· transmittance.
+
+### Capability envelope
+
+- **Temperature:** emissivity measurements from about **−40 °C to ~2300 °C**,
+  under air and vacuum conditions.
+- **Wavelength:** spectral radiance from roughly **1 µm to 1 mm**.
+- **Methodology:** traceable, SI-linked emissivity measurement;
+  uncertainty-quantified radiometric characterization.
+
+### Application domains
+
+Non-contact thermometry / radiation thermometry · Earth and planetary remote
+sensing · passive radiative cooling · energy systems · radiometric
+calibration and standards.
+
+## IR-EMPOWER contributions
+
+PTB contributed multiple plenary-level talks (Albert Adibekyan, David Urban,
+and associated work on semitransparent samples at PTB facilities). This
+confirms PTB's central role in the current European emissivity network on
+measurement below and above 1000 K.
+
+## Why PTB is a reference pole
+
+In many laboratories emissivity is measured because it is needed for another
+purpose. **At PTB, emissivity is itself the quantity** — treated as one that
+must be measured traceably, uncertainty-quantified, and linked to SI
+radiometry. That vantage point is what makes PTB a reference institution not
+only for materials research, but for **pyrometry, remote sensing, radiative
+cooling, and the calibration logic underlying all non-contact temperature
+measurement**.
+
+## External sources
+
+- [WG 7.35 Emissivity — PTB](https://www.ptb.de/cms/en/ptb/fachabteilungen/abt7/fb-73/ag-735.html)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Last verified: 2026-04 (directory revision 2026-06-11).
+:::
+
+:::
