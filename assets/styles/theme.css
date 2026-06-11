@@ -534,10 +534,17 @@ body > h2 {
   gap: 20px; margin: 16px 0 28px;
 }
 .speaker-card { text-align: center; font-size: 13px; line-height: 1.4; }
-.speaker-card img {
-  width: 110px; height: 110px; object-fit: cover; border-radius: 50%;
-  border: 1px solid var(--line); display: block; margin: 0 auto 8px;
-  background: var(--tint);
+.speaker-card .avatar {
+  position: relative; width: 110px; height: 110px; margin: 0 auto 8px;
+  border-radius: 50%; border: 1px solid var(--line); background: var(--tint);
+  display: grid; place-items: center; overflow: hidden;
+}
+.speaker-card .avatar span {
+  font-family: var(--serif); font-size: 34px; font-weight: 600;
+  color: var(--ink-faint); letter-spacing: 0.02em;
+}
+.speaker-card .avatar img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
 }
 .speaker-card .n { font-weight: 600; color: var(--ink); }
 .speaker-card .a { color: var(--ink-faint); font-size: 12px; }
