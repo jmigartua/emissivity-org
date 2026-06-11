@@ -1,0 +1,26 @@
+---
+title: "IR-EMPOWER 2026 — Workshop on Infrared Emissivity Measurements"
+subtitle: "IR-EMPOWER | Würzburg, Germany"
+date: 2026-09-28
+description: "Community workshop on infrared emissivity measurement: techniques and protocols, intercomparisons and databases, modelling, and thermophysical metrology. 2nd edition; first organized 2024 by UPV/EHU."
+url: "https://cae-zerocarbon.de/IR-Empower-Workshop.html"
+categories: [ir-empower, emissivity, workshop, training]
+---
+
+::: {.page-article}
+# IR-EMPOWER 2026 — Workshop on Infrared Emissivity Measurements
+
+**Dates:** 28–29 September 2026
+**Location:** Center for Applied Energy Research (CAE), Magdalene-Schoch-Straße 3, Würzburg, Germany
+**Official site & registration:** <https://cae-zerocarbon.de/IR-Empower-Workshop.html>
+
+A place to discuss infrared emissivity measurement in depth: measurement
+techniques and protocols, intercomparisons and databases, modelling and
+simulations, and thermophysical metrology and applications.
+
+**Key dates:** poster abstract submission and early registration close
+**31 July 2026**; cancellation without fee until 31 August 2026.
+
+Second edition of the series founded in 2024, first organized by the
+Thermomat / HAIRL group at UPV/EHU in Bilbao.
+:::
