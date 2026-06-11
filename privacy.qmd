@@ -10,7 +10,10 @@ toc: false
   <p class="page-subtitle">How emissivity.org handles your data.</p>
 
   <h2>Data collection</h2>
-  <p>Emissivity.org is a static website. We do not use cookies, tracking pixels, or analytics services that collect personal data. No user accounts are required to browse the site or access EKHI data.</p>
+  <p>Emissivity.org is a static website. We do not use cookies or tracking pixels, and no user accounts are required to browse the site or access EKHI data.</p>
+
+  <h2>Analytics</h2>
+  <p>We use <a href="https://www.goatcounter.com/">GoatCounter</a>, an open-source, privacy-respecting analytics service, to count page visits. GoatCounter sets no cookies and stores no personal data: the visited URL, referrer, browser type, screen size, and country are recorded; IP addresses are hashed with a daily-rotating salt and discarded, used only to distinguish unique visits within a single day. The Do-Not-Track browser setting is honoured. Under the GDPR and ePrivacy rules this requires no consent banner — which is why you do not see one.</p>
 
   <h2>EKHI contributions</h2>
   <p>When you contribute spectral data to EKHI, we collect the metadata you provide (material description, measurement conditions, author names, publication reference). This information is published openly under CC-BY 4.0 as part of the EKHI database. Contributors retain authorship and can request withdrawal within 14 days of publication.</p>
