@@ -42,6 +42,42 @@ Jochen Manara (CAE, Würzburg) · Christian Monte (PTB, Berlin) · Olivier
 Rozenbaum (CEMHTI, Orléans) · Konstantinos Boboridis (JRC, Karlsruhe) ·
 Audrey Soum-Glaude (PROMES, Odeillo)
 
+## Speakers
+
+```{=html}
+<h3>Plenary speakers</h3>
+<div class="speaker-grid">
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/albert-adibekyan.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/albert-adibekyan.jpg';" alt="Albert Adibekyan" loading="lazy"/><div class="n">Albert Adibekyan</div><div class="a">PTB, Berlin</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/jochen-manara.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/jochen-manara.jpg';" alt="Jochen Manara" loading="lazy"/><div class="n">Jochen Manara</div><div class="a">CAE, Würzburg</div></div>
+</div>
+<h3>Young speakers</h3>
+<div class="speaker-grid">
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/david-urban.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/david-urban.jpg';" alt="David Urban" loading="lazy"/><div class="n">David Urban</div><div class="a">PTB, Berlin</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/hongyan-mei.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/hongyan-mei.jpg';" alt="Hongyan Mei" loading="lazy"/><div class="n">Hongyan Mei</div><div class="a">U. Wisconsin–Madison</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/leo-gaillard.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/leo-gaillard.jpg';" alt="Léo Gaillard" loading="lazy"/><div class="n">Léo Gaillard</div><div class="a">LTeN-CNRS, Nantes</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/mireia-sainz-menchon.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/mireia-sainz-menchon.jpg';" alt="Mireia Sainz-Menchón" loading="lazy"/><div class="n">Mireia Sainz-Menchón</div><div class="a">UPV/EHU, Leioa</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/jon-gabirondo-lopez.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/jon-gabirondo-lopez.jpg';" alt="Jon Gabirondo-López" loading="lazy"/><div class="n">Jon Gabirondo-López</div><div class="a">UPV/EHU, Leioa</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/matthias-tyslik.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/matthias-tyslik.jpg';" alt="Matthias Tyslik" loading="lazy"/><div class="n">Matthias Tyslik</div><div class="a">Ruhr U., Bochum</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/lukas-portner.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/lukas-portner.jpg';" alt="Lukas Pörtner" loading="lazy"/><div class="n">Lukas Pörtner</div><div class="a">Ruhr U., Bochum</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/hunter-schonfeld.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/hunter-schonfeld.jpg';" alt="Hunter B. Schonfeld" loading="lazy"/><div class="n">Hunter B. Schonfeld</div><div class="a">U. Virginia, Charlottesville</div></div>
+</div>
+<h3>Invited speakers</h3>
+<div class="speaker-grid">
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/elisa-sani.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/elisa-sani.jpg';" alt="Elisa Sani" loading="lazy"/><div class="n">Elisa Sani</div><div class="a">INO-CNR, Florence</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/zdenek-vesely.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/zdenek-vesely.jpg';" alt="Zdeněk Veselý" loading="lazy"/><div class="n">Zdeněk Veselý</div><div class="a">U. West Bohemia, Pilsen</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/julian-gieseler.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/julian-gieseler.jpg';" alt="Julian Gieseler" loading="lazy"/><div class="n">Julian Gieseler</div><div class="a">LASP, Boulder & PTB, Berlin</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/leire-del-campo.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/leire-del-campo.jpg';" alt="Leire del Campo" loading="lazy"/><div class="n">Leire del Campo</div><div class="a">CEMHTI-CNRS, Orléans</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/domingos-de-sousa-meneses.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/domingos-de-sousa-meneses.jpg';" alt="Domingos De Sousa Meneses" loading="lazy"/><div class="n">Domingos De Sousa Meneses</div><div class="a">CEMHTI-CNRS, Orléans</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/nenad-milosevic.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/nenad-milosevic.jpg';" alt="Nenad Milošević" loading="lazy"/><div class="n">Nenad Milošević</div><div class="a">Vinča Institute, Belgrade</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/tomas-kralik.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/tomas-kralik.jpg';" alt="Tomáš Králík" loading="lazy"/><div class="n">Tomáš Králík</div><div class="a">Czech Academy of Sciences, Brno</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/konstantinos-boboridis.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/konstantinos-boboridis.jpg';" alt="Konstantinos Boboridis" loading="lazy"/><div class="n">Konstantinos Boboridis</div><div class="a">JRC, Karlsruhe</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/christophe-escape.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/christophe-escape.jpg';" alt="Christophe Escape" loading="lazy"/><div class="n">Christophe Escape</div><div class="a">PROMES-CNRS, Odeillo</div></div>
+<div class="speaker-card"><img src="/assets/images/ir-empower-2024/yannick-le-maoult.jpg" onerror="this.onerror=null;this.src='https://dulcet-sundae-44ceba.netlify.app/speakers/yannick-le-maoult.jpg';" alt="Yannick Le Maoult" loading="lazy"/><div class="n">Yannick Le Maoult</div><div class="a">IMT Mines, Albi</div></div>
+</div>
+```
+
+*Photographs from the IR-EMPOWER 2024 workshop records, © Thermomat / HAIRL, UPV/EHU.*
+
 ## Program — Thursday 5 September 2024
 
 | Time | Session | Speaker |
