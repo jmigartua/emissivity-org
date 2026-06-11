@@ -1,0 +1,52 @@
+---
+title: "A Comparison of Radiometric and Spectrometric Emissivity Evaluation Methods in Infrared Thermometry"
+date: 2026-03-06
+author:
+  - name: "Vid Mlačnik"
+  - name: "Igor Pušnik"
+description: "Compares spectral and radiometric methods for evaluating surface emissivity under application-relevant conditions in infrared thermometry."
+categories:
+  - Emissivity metrology
+  - Infrared thermometry
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="A Comparison of Radiometric and Spectrometric Emissivity Evaluation Methods in Infrared Thermometry">
+      <meta name="citation_author" content="Vid Mlačnik">
+      <meta name="citation_author" content="Igor Pušnik">
+      <meta name="citation_date" content="2026-03-06">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# A Comparison of Radiometric and Spectrometric Emissivity Evaluation Methods in Infrared Thermometry
+
+**Vid Mlačnik, Igor Pušnik**
+
+Vid Mlačnik and Igor Pušnik, Sensors 26, 1671 (2026).
+
+[**DOI →**](https://doi.org/10.3390/s26051671)
+
+## Abstract
+
+Compares spectral and radiometric methods for evaluating surface emissivity under application-relevant conditions in infrared thermometry.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Vid Mlačnik and Igor Pušnik, Sensors 26, 1671 (2026). Available at https://doi.org/10.3390/s26051671
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

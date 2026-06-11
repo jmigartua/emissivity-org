@@ -1,36 +1,28 @@
 ---
-title: Tuning infrared radiative properties using Direct Laser Interference Patterning
+title: "Tuning infrared radiative properties using Direct Laser Interference Patterning"
 date: 2025-07-15
 author:
-- name: Jon Gabirondo-López
-  orcid: 0000-0003-4333-4636
-- name: Josu M. Igartua
-- name: Gabriel A. López
-description: This publication focuses on dlip, surface modification, radiative properties.
+  - name: "Jon Gabirondo-López"
+  - name: "Marcos Soldera"
+  - name: "Josu M. Igartua"
+  - name: "Andrés Fabián Lasagni"
+  - name: "Gabriel A. López"
+description: "This publication focuses on dlip, surface modification, radiative properties."
 categories:
-- DLIP
-- Surface modification
-- Radiative properties
-pub-info:
-  reference: Gabirondo-López et al., Materials Letters (2025).
-  links:
-  - name: ScienceDirect
-    url: https://doi.org/10.1016/j.matlet.2025.138485
-    icon: fa-solid fa-file-pdf
+  - DLIP
+  - Surface modification
+  - Radiative properties
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Tuning infrared radiative properties using Direct Laser Interference Patterning">
-
-    <meta name="citation_author" content="Jon Gabirondo-López">
-
-    <meta name="citation_author" content="Josu M. Igartua">
-
-    <meta name="citation_author" content="Gabriel A. López">
-
-    <meta name="citation_date" content="2025-07-15">
-
-    <meta name="citation_doi" content="10.1016/j.matlet.2025.138485">'
+  - text: |
+      <meta name="citation_title" content="Tuning infrared radiative properties using Direct Laser Interference Patterning">
+      <meta name="citation_author" content="Jon Gabirondo-López">
+      <meta name="citation_author" content="Marcos Soldera">
+      <meta name="citation_author" content="Josu M. Igartua">
+      <meta name="citation_author" content="Andrés Fabián Lasagni">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2025-07-15">
 ---
 
 ```{=html}
@@ -40,11 +32,11 @@ include-in-header:
 ::: {.page-article}
 # Tuning infrared radiative properties using Direct Laser Interference Patterning
 
-**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Josu M. Igartua, Gabriel A. López**
+**Jon Gabirondo-López, Marcos Soldera, Josu M. Igartua, Andrés Fabián Lasagni, Gabriel A. López**
 
-Gabirondo-López et al., Materials Letters (2025).
+Jon Gabirondo-López et al., Materials Letters 391, 138485 (2025).
 
-[**ScienceDirect →**](https://doi.org/10.1016/j.matlet.2025.138485)
+[**DOI →**](https://doi.org/10.1016/j.matlet.2025.138485)
 
 ## Abstract
 
@@ -55,5 +47,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Gabirondo-López et al., Materials Letters (2025). Available at https://doi.org/10.1016/j.matlet.2025.138485
+> Jon Gabirondo-López et al., Materials Letters 391, 138485 (2025). Available at https://doi.org/10.1016/j.matlet.2025.138485
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

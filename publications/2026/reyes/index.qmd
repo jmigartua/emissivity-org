@@ -1,0 +1,69 @@
+---
+title: "Thermal conductivity, emissivity, and solidus and liquidus temperatures of additively manufactured 316L stainless steel (316L SS) using steady-state laser heating-based thermography techniques"
+date: 2026-11-01
+author:
+  - name: "Jessica Reyes"
+  - name: "Hunter B. Schonfeld"
+  - name: "Jeffrey L. Braun"
+  - name: "Saman Zare"
+  - name: "Bryan N. Baines"
+  - name: "John T. Gaskins"
+  - name: "Michael A. Gallegos"
+  - name: "David Saiz"
+  - name: "Bryan Kaehr"
+  - name: "Patrick E. Hopkins"
+description: "Measures thermal conductivity, emissivity, and solidus/liquidus temperatures of additively manufactured 316L stainless steel via steady-state laser-heating thermography."
+categories:
+  - Emissivity
+  - Thermography
+  - Additive manufacturing
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Thermal conductivity, emissivity, and solidus and liquidus temperatures of additively manufactured 316L stainless steel (316L SS) using steady-state laser heating-based thermography techniques">
+      <meta name="citation_author" content="Jessica Reyes">
+      <meta name="citation_author" content="Hunter B. Schonfeld">
+      <meta name="citation_author" content="Jeffrey L. Braun">
+      <meta name="citation_author" content="Saman Zare">
+      <meta name="citation_author" content="Bryan N. Baines">
+      <meta name="citation_author" content="John T. Gaskins">
+      <meta name="citation_author" content="Michael A. Gallegos">
+      <meta name="citation_author" content="David Saiz">
+      <meta name="citation_author" content="Bryan Kaehr">
+      <meta name="citation_author" content="Patrick E. Hopkins">
+      <meta name="citation_date" content="2026-11-01">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# Thermal conductivity, emissivity, and solidus and liquidus temperatures of additively manufactured 316L stainless steel (316L SS) using steady-state laser heating-based thermography techniques
+
+**Jessica Reyes, Hunter B. Schonfeld, Jeffrey L. Braun, Saman Zare, Bryan N. Baines, John T. Gaskins, Michael A. Gallegos, David Saiz, Bryan Kaehr, Patrick E. Hopkins**
+
+Jessica Reyes et al., International Journal of Heat and Mass Transfer 269, 129055 (2026).
+
+[**DOI →**](https://doi.org/10.1016/j.ijheatmasstransfer.2026.129055)
+
+## Abstract
+
+Measures thermal conductivity, emissivity, and solidus/liquidus temperatures of additively manufactured 316L stainless steel via steady-state laser-heating thermography.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Jessica Reyes et al., International Journal of Heat and Mass Transfer 269, 129055 (2026). Available at https://doi.org/10.1016/j.ijheatmasstransfer.2026.129055
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

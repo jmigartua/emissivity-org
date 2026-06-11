@@ -1,39 +1,28 @@
 ---
-title: 'Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring'
+title: "Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring"
 date: 2024-05-01
 author:
-- name: Tobias Becker
-- name: Tobias Stark
-- name: Marco Arduini
-- name: Jochen Manara
-  orcid: 0000-0002-5319-6874
-description: This publication focuses on additive manufacturing, in-situ monitoring, spectral emissivity.
+  - name: "Tina Becker"
+  - name: "Thomas Stark"
+  - name: "Mariacarla Arduini"
+  - name: "Jochen Manara"
+  - name: "Simon J. Altenburg"
+description: "This publication focuses on additive manufacturing, in-situ monitoring, spectral emissivity."
 categories:
-- Additive manufacturing
-- In-situ monitoring
-- Spectral emissivity
-pub-info:
-  reference: Becker et al., Prog. Addit. Manuf. 9, 695-704 (2024).
-  links:
-  - name: Springer
-    url: https://doi.org/10.1007/s40964-024-00665-2
-    icon: fa-solid fa-file-pdf
+  - Additive manufacturing
+  - In-situ monitoring
+  - Spectral emissivity
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring">
-
-    <meta name="citation_author" content="Tobias Becker">
-
-    <meta name="citation_author" content="Tobias Stark">
-
-    <meta name="citation_author" content="Marco Arduini">
-
-    <meta name="citation_author" content="Jochen Manara">
-
-    <meta name="citation_date" content="2024-05-01">
-
-    <meta name="citation_doi" content="10.1007/s40964-024-00665-2">'
+  - text: |
+      <meta name="citation_title" content="Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring">
+      <meta name="citation_author" content="Tina Becker">
+      <meta name="citation_author" content="Thomas Stark">
+      <meta name="citation_author" content="Mariacarla Arduini">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_author" content="Simon J. Altenburg">
+      <meta name="citation_date" content="2024-05-01">
 ---
 
 ```{=html}
@@ -43,11 +32,11 @@ include-in-header:
 ::: {.page-article}
 # Knowing the spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces: gamechanger for quantitative in situ monitoring
 
-**Tobias Becker, Tobias Stark, Marco Arduini, Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874)**
+**Tina Becker, Thomas Stark, Mariacarla Arduini, Jochen Manara, Simon J. Altenburg**
 
-Becker et al., Prog. Addit. Manuf. 9, 695-704 (2024).
+Tina Becker et al., Progress in Additive Manufacturing 9, 695-704 (2024).
 
-[**Springer →**](https://doi.org/10.1007/s40964-024-00665-2)
+[**DOI →**](https://doi.org/10.1007/s40964-024-00665-2)
 
 ## Abstract
 
@@ -58,5 +47,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Becker et al., Prog. Addit. Manuf. 9, 695-704 (2024). Available at https://doi.org/10.1007/s40964-024-00665-2
+> Tina Becker et al., Progress in Additive Manufacturing 9, 695-704 (2024). Available at https://doi.org/10.1007/s40964-024-00665-2
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

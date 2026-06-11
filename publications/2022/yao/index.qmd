@@ -1,35 +1,38 @@
 ---
-title: Correcting thermal-emission-induced detector saturation in infrared spectroscopy
+title: "Correcting thermal-emission-induced detector saturation in infrared spectroscopy"
 date: 2022-10-01
 author:
-- name: Chenghao Yao
-- name: Yujie Xiao
-- name: Mikhail A. Kats
-description: This publication focuses on detector saturation, ir spectroscopy correction, emissivity measurement.
+  - name: "Chunhui Yao"
+  - name: "Hongyan Mei"
+  - name: "Yuzhe Xiao"
+  - name: "Alireza Shahsafi"
+  - name: "William Derdeyn"
+  - name: "Jonathan L. King"
+  - name: "Chenghao Wan"
+  - name: "Raluca O. Scarlat"
+  - name: "Mark H. Anderson"
+  - name: "Mikhail A. Kats"
+description: "This publication focuses on detector saturation, ir spectroscopy correction, emissivity measurement."
 categories:
-- Detector saturation
-- IR spectroscopy correction
-- Emissivity measurement
-pub-info:
-  reference: Yao et al., Opt. Express 30(22), 38458 (2022).
-  links:
-  - name: Optica
-    url: https://doi.org/10.1364/OE.30.038458
-    icon: fa-solid fa-file
+  - Detector saturation
+  - IR spectroscopy correction
+  - Emissivity measurement
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Correcting thermal-emission-induced detector saturation in infrared spectroscopy">
-
-    <meta name="citation_author" content="Chenghao Yao">
-
-    <meta name="citation_author" content="Yujie Xiao">
-
-    <meta name="citation_author" content="Mikhail A. Kats">
-
-    <meta name="citation_date" content="2022-10-01">
-
-    <meta name="citation_doi" content="10.1364/OE.30.038458">'
+  - text: |
+      <meta name="citation_title" content="Correcting thermal-emission-induced detector saturation in infrared spectroscopy">
+      <meta name="citation_author" content="Chunhui Yao">
+      <meta name="citation_author" content="Hongyan Mei">
+      <meta name="citation_author" content="Yuzhe Xiao">
+      <meta name="citation_author" content="Alireza Shahsafi">
+      <meta name="citation_author" content="William Derdeyn">
+      <meta name="citation_author" content="Jonathan L. King">
+      <meta name="citation_author" content="Chenghao Wan">
+      <meta name="citation_author" content="Raluca O. Scarlat">
+      <meta name="citation_author" content="Mark H. Anderson">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2022-10-01">
 ---
 
 ```{=html}
@@ -39,11 +42,11 @@ include-in-header:
 ::: {.page-article}
 # Correcting thermal-emission-induced detector saturation in infrared spectroscopy
 
-**Chenghao Yao, Yujie Xiao, Mikhail A. Kats**
+**Chunhui Yao, Hongyan Mei, Yuzhe Xiao, Alireza Shahsafi, William Derdeyn, Jonathan L. King, Chenghao Wan, Raluca O. Scarlat, Mark H. Anderson, Mikhail A. Kats**
 
-Yao et al., Opt. Express 30(22), 38458 (2022).
+Chunhui Yao et al., Optics Express 30, 38458-38473 (2022).
 
-[**Optica →**](https://doi.org/10.1364/OE.30.038458)
+[**DOI →**](https://doi.org/10.1364/OE.466102)
 
 ## Abstract
 
@@ -54,5 +57,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Yao et al., Opt. Express 30(22), 38458 (2022). Available at https://doi.org/10.1364/OE.30.038458
+> Chunhui Yao et al., Optics Express 30, 38458-38473 (2022). Available at https://doi.org/10.1364/OE.466102
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

@@ -1,38 +1,30 @@
 ---
-title: Emissivity measurements on reflective insulation materials
+title: "Emissivity measurements on reflective insulation materials"
 date: 2021-10-01
 author:
-- name: Albert Adibekyan
-- name: Elena Kononogova
-- name: Christian Monte
-- name: Jörg Hollandt
-description: This publication focuses on reflective insulation, emissivity measurement, building materials.
+  - name: "Albert Adibekyan"
+  - name: "Elena Kononogova"
+  - name: "Jacques Hameury"
+  - name: "Marcus Lauenstein"
+  - name: "Christian Monte"
+  - name: "Jörg Hollandt"
+description: "This publication focuses on reflective insulation, emissivity measurement, building materials."
 categories:
-- Reflective insulation
-- Emissivity measurement
-- Building materials
-pub-info:
-  reference: Adibekyan et al., tm - Tech. Messen 88(10), 617-625 (2021).
-  links:
-  - name: De Gruyter
-    url: https://doi.org/10.1515/teme-2021-0049
-    icon: fa-solid fa-file
+  - Reflective insulation
+  - Emissivity measurement
+  - Building materials
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Emissivity measurements on reflective insulation materials">
-
-    <meta name="citation_author" content="Albert Adibekyan">
-
-    <meta name="citation_author" content="Elena Kononogova">
-
-    <meta name="citation_author" content="Christian Monte">
-
-    <meta name="citation_author" content="Jörg Hollandt">
-
-    <meta name="citation_date" content="2021-10-01">
-
-    <meta name="citation_doi" content="10.1515/teme-2021-0049">'
+  - text: |
+      <meta name="citation_title" content="Emissivity measurements on reflective insulation materials">
+      <meta name="citation_author" content="Albert Adibekyan">
+      <meta name="citation_author" content="Elena Kononogova">
+      <meta name="citation_author" content="Jacques Hameury">
+      <meta name="citation_author" content="Marcus Lauenstein">
+      <meta name="citation_author" content="Christian Monte">
+      <meta name="citation_author" content="Jörg Hollandt">
+      <meta name="citation_date" content="2021-10-01">
 ---
 
 ```{=html}
@@ -42,11 +34,11 @@ include-in-header:
 ::: {.page-article}
 # Emissivity measurements on reflective insulation materials
 
-**Albert Adibekyan, Elena Kononogova, Christian Monte, Jörg Hollandt**
+**Albert Adibekyan, Elena Kononogova, Jacques Hameury, Marcus Lauenstein, Christian Monte, Jörg Hollandt**
 
-Adibekyan et al., tm - Tech. Messen 88(10), 617-625 (2021).
+Albert Adibekyan et al., tm - Technisches Messen 88, 617-625 (2021).
 
-[**De Gruyter →**](https://doi.org/10.1515/teme-2021-0049)
+[**DOI →**](https://doi.org/10.1515/teme-2021-0049)
 
 ## Abstract
 
@@ -57,5 +49,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Adibekyan et al., tm - Tech. Messen 88(10), 617-625 (2021). Available at https://doi.org/10.1515/teme-2021-0049
+> Albert Adibekyan et al., tm - Technisches Messen 88, 617-625 (2021). Available at https://doi.org/10.1515/teme-2021-0049
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

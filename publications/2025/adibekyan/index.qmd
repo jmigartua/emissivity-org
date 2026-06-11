@@ -1,36 +1,76 @@
 ---
-title: Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies
+title: "Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies"
 date: 2025-03-15
 author:
-- name: Albert Adibekyan
-- name: Jochen Manara
-  orcid: 0000-0002-5319-6874
-- name: Christian Monte
-description: This publication focuses on passive radiative cooling, emissivity measurement, metrology.
+  - name: "A. Adibekyan"
+  - name: "J. Schumacher"
+  - name: "L. Pattelli"
+  - name: "J. Manara"
+  - name: "S. Meriç"
+  - name: "Ö. Bazkir"
+  - name: "C. Cucchi"
+  - name: "C. Sprengard"
+  - name: "G. Pérez"
+  - name: "J. Campos"
+  - name: "J. Hameury"
+  - name: "A. Andersson"
+  - name: "S. Clausen"
+  - name: "A. Rasmussen"
+  - name: "C. Belotti"
+  - name: "S. Efthymiou"
+  - name: "M.-N. Assimakopoulos"
+  - name: "D. Papadaki"
+  - name: "F. Manoocheri"
+  - name: "A. Llados"
+  - name: "J. Jaramillo-Fernandez"
+  - name: "T. Gionfini"
+  - name: "M. Ortisi"
+  - name: "A. Peter"
+  - name: "M. Kleinbub"
+  - name: "J. Bante"
+  - name: "L. Donath"
+  - name: "H. Herzog"
+  - name: "C. Monte"
+description: "This publication focuses on passive radiative cooling, emissivity measurement, metrology."
 categories:
-- Passive radiative cooling
-- Emissivity measurement
-- Metrology
-pub-info:
-  reference: Adibekyan et al., Int. J. Thermophys. 46, 66 (2025).
-  links:
-  - name: Springer
-    url: https://doi.org/10.1007/s10765-025-03532-6
-    icon: fa-solid fa-file-pdf
+  - Passive radiative cooling
+  - Emissivity measurement
+  - Metrology
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies">
-
-    <meta name="citation_author" content="Albert Adibekyan">
-
-    <meta name="citation_author" content="Jochen Manara">
-
-    <meta name="citation_author" content="Christian Monte">
-
-    <meta name="citation_date" content="2025-03-15">
-
-    <meta name="citation_doi" content="10.1007/s10765-025-03532-6">'
+  - text: |
+      <meta name="citation_title" content="Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies">
+      <meta name="citation_author" content="A. Adibekyan">
+      <meta name="citation_author" content="J. Schumacher">
+      <meta name="citation_author" content="L. Pattelli">
+      <meta name="citation_author" content="J. Manara">
+      <meta name="citation_author" content="S. Meriç">
+      <meta name="citation_author" content="Ö. Bazkir">
+      <meta name="citation_author" content="C. Cucchi">
+      <meta name="citation_author" content="C. Sprengard">
+      <meta name="citation_author" content="G. Pérez">
+      <meta name="citation_author" content="J. Campos">
+      <meta name="citation_author" content="J. Hameury">
+      <meta name="citation_author" content="A. Andersson">
+      <meta name="citation_author" content="S. Clausen">
+      <meta name="citation_author" content="A. Rasmussen">
+      <meta name="citation_author" content="C. Belotti">
+      <meta name="citation_author" content="S. Efthymiou">
+      <meta name="citation_author" content="M.-N. Assimakopoulos">
+      <meta name="citation_author" content="D. Papadaki">
+      <meta name="citation_author" content="F. Manoocheri">
+      <meta name="citation_author" content="A. Llados">
+      <meta name="citation_author" content="J. Jaramillo-Fernandez">
+      <meta name="citation_author" content="T. Gionfini">
+      <meta name="citation_author" content="M. Ortisi">
+      <meta name="citation_author" content="A. Peter">
+      <meta name="citation_author" content="M. Kleinbub">
+      <meta name="citation_author" content="J. Bante">
+      <meta name="citation_author" content="L. Donath">
+      <meta name="citation_author" content="H. Herzog">
+      <meta name="citation_author" content="C. Monte">
+      <meta name="citation_date" content="2025-03-15">
 ---
 
 ```{=html}
@@ -40,11 +80,11 @@ include-in-header:
 ::: {.page-article}
 # Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies
 
-**Albert Adibekyan, Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874), Christian Monte**
+**A. Adibekyan, J. Schumacher, L. Pattelli, J. Manara, S. Meriç, Ö. Bazkir, C. Cucchi, C. Sprengard, G. Pérez, J. Campos, J. Hameury, A. Andersson, S. Clausen, A. Rasmussen, C. Belotti, S. Efthymiou, M.-N. Assimakopoulos, D. Papadaki, F. Manoocheri, A. Llados, J. Jaramillo-Fernandez, T. Gionfini, M. Ortisi, A. Peter, M. Kleinbub, J. Bante, L. Donath, H. Herzog, C. Monte**
 
-Adibekyan et al., Int. J. Thermophys. 46, 66 (2025).
+A. Adibekyan et al., International Journal of Thermophysics 46, 66 (2025).
 
-[**Springer →**](https://doi.org/10.1007/s10765-025-03532-6)
+[**DOI →**](https://doi.org/10.1007/s10765-025-03532-6)
 
 ## Abstract
 
@@ -55,5 +95,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Adibekyan et al., Int. J. Thermophys. 46, 66 (2025). Available at https://doi.org/10.1007/s10765-025-03532-6
+> A. Adibekyan et al., International Journal of Thermophysics 46, 66 (2025). Available at https://doi.org/10.1007/s10765-025-03532-6
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

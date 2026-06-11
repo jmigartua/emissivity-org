@@ -1,36 +1,32 @@
 ---
-title: Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials
+title: "Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials"
 date: 2023-01-01
 author:
-- name: Iñigo M. Ermini
-- name: Domingos De Sousa Meneses
-- name: Iñigo González de Arrieta
-  orcid: 0000-0001-6984-5149
-description: This publication focuses on emissivity measurement, molten materials, rapid scan.
+  - name: "Ilse Maria Ermini"
+  - name: "Lionel Cosson"
+  - name: "Franck Fayon"
+  - name: "Iñigo González de Arrieta"
+  - name: "Olivier Rozenbaum"
+  - name: "Pierrick Vespa"
+  - name: "Domingos De Sousa Meneses"
+description: "This publication focuses on emissivity measurement, molten materials, rapid scan."
 categories:
-- Emissivity measurement
-- Molten materials
-- Rapid scan
-pub-info:
-  reference: Ermini et al., Eng. Proc. 51, 8 (2023).
-  links:
-  - name: MDPI
-    url: https://doi.org/10.3390/engproc2023051008
-    icon: fa-solid fa-file
+  - Emissivity measurement
+  - Molten materials
+  - Rapid scan
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials">
-
-    <meta name="citation_author" content="Iñigo M. Ermini">
-
-    <meta name="citation_author" content="Domingos De Sousa Meneses">
-
-    <meta name="citation_author" content="Iñigo González de Arrieta">
-
-    <meta name="citation_date" content="2023-01-01">
-
-    <meta name="citation_doi" content="10.3390/engproc2023051008">'
+  - text: |
+      <meta name="citation_title" content="Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials">
+      <meta name="citation_author" content="Ilse Maria Ermini">
+      <meta name="citation_author" content="Lionel Cosson">
+      <meta name="citation_author" content="Franck Fayon">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Olivier Rozenbaum">
+      <meta name="citation_author" content="Pierrick Vespa">
+      <meta name="citation_author" content="Domingos De Sousa Meneses">
+      <meta name="citation_date" content="2023-01-01">
 ---
 
 ```{=html}
@@ -40,11 +36,11 @@ include-in-header:
 ::: {.page-article}
 # Development and Application of a Rapid Scan Technique for Emissivity Measurements of Cooled-Down Molten Materials
 
-**Iñigo M. Ermini, Domingos De Sousa Meneses, Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149)**
+**Ilse Maria Ermini, Lionel Cosson, Franck Fayon, Iñigo González de Arrieta, Olivier Rozenbaum, Pierrick Vespa, Domingos De Sousa Meneses**
 
-Ermini et al., Eng. Proc. 51, 8 (2023).
+Ilse Maria Ermini et al., Engineering Proceedings (17th AITA 2023) 51, 8 (2023).
 
-[**MDPI →**](https://doi.org/10.3390/engproc2023051008)
+[**DOI →**](https://doi.org/10.3390/engproc2023051008)
 
 ## Abstract
 
@@ -55,5 +51,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Ermini et al., Eng. Proc. 51, 8 (2023). Available at https://doi.org/10.3390/engproc2023051008
+> Ilse Maria Ermini et al., Engineering Proceedings (17th AITA 2023) 51, 8 (2023). Available at https://doi.org/10.3390/engproc2023051008
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

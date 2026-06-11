@@ -1,40 +1,30 @@
 ---
-title: Small-polaron-induced infrared opacification in rutile TiO2
+title: "Small-polaron-induced infrared opacification in rutile TiO2"
 date: 2021-08-01
 author:
-- name: Iñigo González de Arrieta
-  orcid: 0000-0001-6984-5149
-- name: Telmo Echániz
-  orcid: 0000-0002-0330-0653
-- name: Domingos De Sousa Meneses
-- name: Gabriel A. López
-description: This publication focuses on tio2, infrared opacification, small polarons.
+  - name: "I. González de Arrieta"
+  - name: "L. González-Fernández"
+  - name: "T. Echániz"
+  - name: "L. del Campo"
+  - name: "D. De Sousa Meneses"
+  - name: "G. A. López"
+description: "This publication focuses on tio2, infrared opacification, small polarons."
 categories:
-- TiO2
-- Infrared opacification
-- Small polarons
-pub-info:
-  reference: González de Arrieta et al., J. Appl. Phys. 130, 075105 (2021).
-  links:
-  - name: AIP
-    url: https://doi.org/10.1063/5.0056081
-    icon: fa-solid fa-file-pdf
+  - TiO2
+  - Infrared opacification
+  - Small polarons
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Small-polaron-induced infrared opacification in rutile TiO2">
-
-    <meta name="citation_author" content="Iñigo González de Arrieta">
-
-    <meta name="citation_author" content="Telmo Echániz">
-
-    <meta name="citation_author" content="Domingos De Sousa Meneses">
-
-    <meta name="citation_author" content="Gabriel A. López">
-
-    <meta name="citation_date" content="2021-08-01">
-
-    <meta name="citation_doi" content="10.1063/5.0056081">'
+  - text: |
+      <meta name="citation_title" content="Small-polaron-induced infrared opacification in rutile TiO2">
+      <meta name="citation_author" content="I. González de Arrieta">
+      <meta name="citation_author" content="L. González-Fernández">
+      <meta name="citation_author" content="T. Echániz">
+      <meta name="citation_author" content="L. del Campo">
+      <meta name="citation_author" content="D. De Sousa Meneses">
+      <meta name="citation_author" content="G. A. López">
+      <meta name="citation_date" content="2021-08-01">
 ---
 
 ```{=html}
@@ -44,11 +34,11 @@ include-in-header:
 ::: {.page-article}
 # Small-polaron-induced infrared opacification in rutile TiO2
 
-**Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Domingos De Sousa Meneses, Gabriel A. López**
+**I. González de Arrieta, L. González-Fernández, T. Echániz, L. del Campo, D. De Sousa Meneses, G. A. López**
 
-González de Arrieta et al., J. Appl. Phys. 130, 075105 (2021).
+I. González de Arrieta et al., Journal of Applied Physics 130, 075105 (2021).
 
-[**AIP →**](https://doi.org/10.1063/5.0056081)
+[**DOI →**](https://doi.org/10.1063/5.0056081)
 
 ## Abstract
 
@@ -59,5 +49,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> González de Arrieta et al., J. Appl. Phys. 130, 075105 (2021). Available at https://doi.org/10.1063/5.0056081
+> I. González de Arrieta et al., Journal of Applied Physics 130, 075105 (2021). Available at https://doi.org/10.1063/5.0056081
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

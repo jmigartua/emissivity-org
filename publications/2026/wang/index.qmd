@@ -1,0 +1,67 @@
+---
+title: "In situ measurement system for ultra-high temperature spectral emissivity of samples under plasma wind tunnel"
+date: 2026-01-01
+author:
+  - name: "Guoqing Wang"
+  - name: "Guolin Wang"
+  - name: "Jia Yu"
+  - name: "Zuozheng Chen"
+  - name: "Jinglai Zheng"
+  - name: "Buyue Zhao"
+  - name: "Shanggeng Li"
+  - name: "Liping Liu"
+  - name: "Haiming Huang"
+description: "Develops an in situ system for measuring ultra-high-temperature spectral emissivity of samples inside a plasma wind tunnel."
+categories:
+  - Spectral emissivity
+  - Ultra-high temperature
+  - Aerothermal testing
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="In situ measurement system for ultra-high temperature spectral emissivity of samples under plasma wind tunnel">
+      <meta name="citation_author" content="Guoqing Wang">
+      <meta name="citation_author" content="Guolin Wang">
+      <meta name="citation_author" content="Jia Yu">
+      <meta name="citation_author" content="Zuozheng Chen">
+      <meta name="citation_author" content="Jinglai Zheng">
+      <meta name="citation_author" content="Buyue Zhao">
+      <meta name="citation_author" content="Shanggeng Li">
+      <meta name="citation_author" content="Liping Liu">
+      <meta name="citation_author" content="Haiming Huang">
+      <meta name="citation_date" content="2026-01-01">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# In situ measurement system for ultra-high temperature spectral emissivity of samples under plasma wind tunnel
+
+**Guoqing Wang, Guolin Wang, Jia Yu, Zuozheng Chen, Jinglai Zheng, Buyue Zhao, Shanggeng Li, Liping Liu, Haiming Huang**
+
+Guoqing Wang et al., Infrared Physics & Technology 153, 106356 (2026).
+
+[**DOI →**](https://doi.org/10.1016/j.infrared.2025.106356)
+
+## Abstract
+
+Develops an in situ system for measuring ultra-high-temperature spectral emissivity of samples inside a plasma wind tunnel.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Guoqing Wang et al., Infrared Physics & Technology 153, 106356 (2026). Available at https://doi.org/10.1016/j.infrared.2025.106356
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

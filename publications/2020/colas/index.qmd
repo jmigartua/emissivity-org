@@ -1,35 +1,24 @@
 ---
-title: Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER
+title: "Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER"
 date: 2020-04-01
 author:
-- name: Julien Colas
-- name: Lisa Charpentier
-- name: Marianne Balat-Pichelin
-description: This publication focuses on high-temperature optical properties, alloy oxidation, solar absorptivity.
+  - name: "Johann Colas"
+  - name: "Ludovic Charpentier"
+  - name: "Marianne Balat-Pichelin"
+description: "This publication focuses on high-temperature optical properties, alloy oxidation, solar absorptivity."
 categories:
-- High-temperature optical properties
-- Alloy oxidation
-- Solar absorptivity
-pub-info:
-  reference: Colas et al., Oxid. Met. 93, 355-370 (2020).
-  links:
-  - name: Springer
-    url: https://doi.org/10.1007/s11085-020-09959-6
-    icon: fa-solid fa-file-pdf
+  - High-temperature optical properties
+  - Alloy oxidation
+  - Solar absorptivity
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER">
-
-    <meta name="citation_author" content="Julien Colas">
-
-    <meta name="citation_author" content="Lisa Charpentier">
-
-    <meta name="citation_author" content="Marianne Balat-Pichelin">
-
-    <meta name="citation_date" content="2020-04-01">
-
-    <meta name="citation_doi" content="10.1007/s11085-020-09959-6">'
+  - text: |
+      <meta name="citation_title" content="Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER">
+      <meta name="citation_author" content="Johann Colas">
+      <meta name="citation_author" content="Ludovic Charpentier">
+      <meta name="citation_author" content="Marianne Balat-Pichelin">
+      <meta name="citation_date" content="2020-04-01">
 ---
 
 ```{=html}
@@ -39,11 +28,11 @@ include-in-header:
 ::: {.page-article}
 # Oxidation in Air at 1400 K and Optical Properties of Inconel 625, FeCrAlloy and Kanthal Super ER
 
-**Julien Colas, Lisa Charpentier, Marianne Balat-Pichelin**
+**Johann Colas, Ludovic Charpentier, Marianne Balat-Pichelin**
 
-Colas et al., Oxid. Met. 93, 355-370 (2020).
+Johann Colas et al., Oxidation of Metals 93, 355-370 (2020).
 
-[**Springer →**](https://doi.org/10.1007/s11085-020-09959-6)
+[**DOI →**](https://doi.org/10.1007/s11085-020-09959-6)
 
 ## Abstract
 
@@ -54,5 +43,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Colas et al., Oxid. Met. 93, 355-370 (2020). Available at https://doi.org/10.1007/s11085-020-09959-6
+> Johann Colas et al., Oxidation of Metals 93, 355-370 (2020). Available at https://doi.org/10.1007/s11085-020-09959-6
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

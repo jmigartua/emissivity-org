@@ -1,38 +1,32 @@
 ---
-title: Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces
+title: "Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces"
 date: 2024-10-01
 author:
-- name: Jon Gabirondo-López
-  orcid: 0000-0003-4333-4636
-- name: Iñigo González de Arrieta
-  orcid: 0000-0001-6984-5149
-- name: Josu M. Igartua
-- name: Gabriel A. López
-description: This publication focuses on laser-patterning, steel surfaces, modeling.
+  - name: "Jon Gabirondo-López"
+  - name: "Iñigo González de Arrieta"
+  - name: "Marcos Soldera"
+  - name: "Andrés F. Lasagni"
+  - name: "Iñigo Arredondo"
+  - name: "Josu M. Igartua"
+  - name: "Gabriel A. López"
+description: "This publication focuses on laser-patterning, steel surfaces, modeling."
 categories:
-- Laser-patterning
-- Steel surfaces
-- Modeling
-pub-info:
-  reference: Gabirondo-López et al., EPJ Web of Conf (2024).
-  links:
-  - name: EPJ Web Conf
-    url: https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html
-    icon: fa-solid fa-file
+  - Laser-patterning
+  - Steel surfaces
+  - Modeling
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces">
-
-    <meta name="citation_author" content="Jon Gabirondo-López">
-
-    <meta name="citation_author" content="Iñigo González de Arrieta">
-
-    <meta name="citation_author" content="Josu M. Igartua">
-
-    <meta name="citation_author" content="Gabriel A. López">
-
-    <meta name="citation_date" content="2024-10-01">'
+  - text: |
+      <meta name="citation_title" content="Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces">
+      <meta name="citation_author" content="Jon Gabirondo-López">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Marcos Soldera">
+      <meta name="citation_author" content="Andrés F. Lasagni">
+      <meta name="citation_author" content="Iñigo Arredondo">
+      <meta name="citation_author" content="Josu M. Igartua">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2024-10-01">
 ---
 
 ```{=html}
@@ -42,11 +36,11 @@ include-in-header:
 ::: {.page-article}
 # Directional spectral emissivity characterization and modeling of laser-patterned steel surfaces
 
-**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Josu M. Igartua, Gabriel A. López**
+**Jon Gabirondo-López, Iñigo González de Arrieta, Marcos Soldera, Andrés F. Lasagni, Iñigo Arredondo, Josu M. Igartua, Gabriel A. López**
 
-Gabirondo-López et al., EPJ Web of Conf (2024).
+Jon Gabirondo-López et al., EPJ Web of Conferences (EOSAM 2024) 309, 13003 (2024).
 
-[**EPJ Web Conf →**](https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html)
+[**DOI →**](https://doi.org/10.1051/epjconf/202430913003)
 
 ## Abstract
 
@@ -57,5 +51,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Gabirondo-López et al., EPJ Web of Conf (2024). Available at https://www.epj-conferences.org/articles/epjconf/abs/2024/22/epjconf_eosam2024_13003/epjconf_eosam2024_13003.html
+> Jon Gabirondo-López et al., EPJ Web of Conferences (EOSAM 2024) 309, 13003 (2024). Available at https://doi.org/10.1051/epjconf/202430913003
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

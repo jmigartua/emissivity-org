@@ -1,38 +1,30 @@
 ---
-title: 'Emissivity measurements on noble metals: validation of a free-electron description including the anomalous skin effect'
+title: "Emissivity measurements on noble metals: validation of a free-electron description including the anomalous skin effect"
 date: 2024-11-01
 author:
-- name: Iñigo González de Arrieta
-  orcid: 0000-0001-6984-5149
-- name: Telmo Echániz
-  orcid: 0000-0002-0330-0653
-- name: Albert Adibekyan
-- name: Gabriel A. López
-description: This publication focuses on noble metals, free-electron model, anomalous skin effect.
+  - name: "Iñigo González de Arrieta"
+  - name: "Telmo Echániz"
+  - name: "Albert Adibekyan"
+  - name: "Christian Monte"
+  - name: "Jörg Hollandt"
+  - name: "Gabriel A. López"
+description: "This publication focuses on noble metals, free-electron model, anomalous skin effect."
 categories:
-- Noble metals
-- Free-electron model
-- Anomalous skin effect
-pub-info:
-  reference: González de Arrieta et al., EPJ Plus (2024).
-  links:
-  - name: Article
-    url: https://link.springer.com/article/10.1140/epjp/s13360-024-05819-3
-    icon: fa-solid fa-file-pdf
+  - Noble metals
+  - Free-electron model
+  - Anomalous skin effect
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Emissivity measurements on noble metals: validation of a free-electron description including the anomalous skin effect">
-
-    <meta name="citation_author" content="Iñigo González de Arrieta">
-
-    <meta name="citation_author" content="Telmo Echániz">
-
-    <meta name="citation_author" content="Albert Adibekyan">
-
-    <meta name="citation_author" content="Gabriel A. López">
-
-    <meta name="citation_date" content="2024-11-01">'
+  - text: |
+      <meta name="citation_title" content="Emissivity measurements on noble metals: validation of a free-electron description including the anomalous skin effect">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_author" content="Albert Adibekyan">
+      <meta name="citation_author" content="Christian Monte">
+      <meta name="citation_author" content="Jörg Hollandt">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_date" content="2024-11-01">
 ---
 
 ```{=html}
@@ -42,11 +34,11 @@ include-in-header:
 ::: {.page-article}
 # Emissivity measurements on noble metals: validation of a free-electron description including the anomalous skin effect
 
-**Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653), Albert Adibekyan, Gabriel A. López**
+**Iñigo González de Arrieta, Telmo Echániz, Albert Adibekyan, Christian Monte, Jörg Hollandt, Gabriel A. López**
 
-González de Arrieta et al., EPJ Plus (2024).
+Iñigo González de Arrieta et al., The European Physical Journal Plus 139, 1043 (2024).
 
-[**Article →**](https://link.springer.com/article/10.1140/epjp/s13360-024-05819-3)
+[**DOI →**](https://doi.org/10.1140/epjp/s13360-024-05819-3)
 
 ## Abstract
 
@@ -57,5 +49,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> González de Arrieta et al., EPJ Plus (2024). Available at https://link.springer.com/article/10.1140/epjp/s13360-024-05819-3
+> Iñigo González de Arrieta et al., The European Physical Journal Plus 139, 1043 (2024). Available at https://doi.org/10.1140/epjp/s13360-024-05819-3
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

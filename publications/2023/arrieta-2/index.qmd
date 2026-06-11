@@ -1,34 +1,34 @@
 ---
-title: Role of structural disorder in the vibrational spectra of sol-gel gamma and delta-Al2O3 nanoparticles
+title: "Role of structural disorder in the vibrational spectra of sol-gel γ and δ-Al2O3 nanoparticles"
 date: 2023-10-01
 author:
-- name: Iñigo González de Arrieta
-  orcid: 0000-0001-6984-5149
-- name: Olivier Rozenbaum
-  orcid: 0000-0002-1474-4970
-description: This publication focuses on nanoparticles, al2o3, vibrational spectroscopy.
+  - name: "I. González de Arrieta"
+  - name: "A. Zaki"
+  - name: "A. Canizarès"
+  - name: "E. Véron"
+  - name: "C. Genevois"
+  - name: "L. del Campo"
+  - name: "C. Blanchard"
+  - name: "O. Rozenbaum"
+description: "This publication focuses on nanoparticles, al2o3, vibrational spectroscopy."
 categories:
-- Nanoparticles
-- Al2O3
-- Vibrational spectroscopy
-pub-info:
-  reference: González de Arrieta et al., Spectrochim. Acta A 298, 122795 (2023).
-  links:
-  - name: ScienceDirect
-    url: https://doi.org/10.1016/j.saa.2023.122795
-    icon: fa-solid fa-file-pdf
+  - Nanoparticles
+  - Al2O3
+  - Vibrational spectroscopy
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Role of structural disorder in the vibrational spectra of sol-gel gamma and delta-Al2O3 nanoparticles">
-
-    <meta name="citation_author" content="Iñigo González de Arrieta">
-
-    <meta name="citation_author" content="Olivier Rozenbaum">
-
-    <meta name="citation_date" content="2023-10-01">
-
-    <meta name="citation_doi" content="10.1016/j.saa.2023.122795">'
+  - text: |
+      <meta name="citation_title" content="Role of structural disorder in the vibrational spectra of sol-gel γ and δ-Al2O3 nanoparticles">
+      <meta name="citation_author" content="I. González de Arrieta">
+      <meta name="citation_author" content="A. Zaki">
+      <meta name="citation_author" content="A. Canizarès">
+      <meta name="citation_author" content="E. Véron">
+      <meta name="citation_author" content="C. Genevois">
+      <meta name="citation_author" content="L. del Campo">
+      <meta name="citation_author" content="C. Blanchard">
+      <meta name="citation_author" content="O. Rozenbaum">
+      <meta name="citation_date" content="2023-10-01">
 ---
 
 ```{=html}
@@ -36,13 +36,13 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Role of structural disorder in the vibrational spectra of sol-gel gamma and delta-Al2O3 nanoparticles
+# Role of structural disorder in the vibrational spectra of sol-gel γ and δ-Al2O3 nanoparticles
 
-**Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Olivier Rozenbaum [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-1474-4970)**
+**I. González de Arrieta, A. Zaki, A. Canizarès, E. Véron, C. Genevois, L. del Campo, C. Blanchard, O. Rozenbaum**
 
-González de Arrieta et al., Spectrochim. Acta A 298, 122795 (2023).
+I. González de Arrieta et al., Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 298, 122795 (2023).
 
-[**ScienceDirect →**](https://doi.org/10.1016/j.saa.2023.122795)
+[**DOI →**](https://doi.org/10.1016/j.saa.2023.122795)
 
 ## Abstract
 
@@ -53,5 +53,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> González de Arrieta et al., Spectrochim. Acta A 298, 122795 (2023). Available at https://doi.org/10.1016/j.saa.2023.122795
+> I. González de Arrieta et al., Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 298, 122795 (2023). Available at https://doi.org/10.1016/j.saa.2023.122795
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

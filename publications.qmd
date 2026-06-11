@@ -2,6 +2,11 @@
 page-layout: full
 toc: false
 listing:
+  - id: pubs_2026
+    contents: publications/2026/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
   - id: pubs_2025
     contents: publications/2025/**/index.qmd
     sort: "date desc"
@@ -40,6 +45,16 @@ listing:
     type: default
     fields: [title, author, date]
     categories: true
+  - id: pubs_2017
+    contents: publications/2017/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
+  - id: pubs_2015
+    contents: publications/2015/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
 ---
 
 ```{=html}
@@ -61,6 +76,11 @@ publication, see [how to contribute](/contribute/suggest-publication.html).
 </div>
 ```
 
+
+## 2026
+
+:::{#pubs_2026}
+:::
 
 ## 2025
 
@@ -90,6 +110,17 @@ publication, see [how to contribute](/contribute/suggest-publication.html).
 ## 2020
 
 :::{#pubs_2020}
+:::
+
+
+## 2017
+
+:::{#pubs_2017}
+:::
+
+## 2015
+
+:::{#pubs_2015}
 :::
 
 :::

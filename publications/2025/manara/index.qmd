@@ -1,33 +1,40 @@
 ---
-title: Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity
+title: "Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity with a target uncertainty of below 5 % taking into account the IR (2.5 µm – 50 µm) spectral region"
 date: 2025-09-30
 author:
-- name: Jochen Manara
-  orcid: 0000-0002-5319-6874
-- name: Christian Monte
-description: This publication focuses on emissivity conversion, standardization, guidance.
+  - name: "Albert Adibekyan"
+  - name: "Anne Andersson"
+  - name: "Mariacarla Arduini-Schuster"
+  - name: "Chiara Cucchi"
+  - name: "Jacques Hameury"
+  - name: "Michael Kamml"
+  - name: "Jochen Manara"
+  - name: "Refat Razouk"
+  - name: "Christoph Sprengard"
+  - name: "Lorenzo Pattelli"
+  - name: "Christian Monte"
+description: "This publication focuses on emissivity conversion, standardization, guidance."
 categories:
-- Emissivity conversion
-- Standardization
-- Guidance
-pub-info:
-  reference: Manara & Monte, Zenodo (2025).
-  links:
-  - name: Zenodo
-    url: https://doi.org/10.5281/zenodo.17684770
-    icon: fa-solid fa-file
+  - Emissivity conversion
+  - Standardization
+  - Guidance
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity">
-
-    <meta name="citation_author" content="Jochen Manara">
-
-    <meta name="citation_author" content="Christian Monte">
-
-    <meta name="citation_date" content="2025-09-30">
-
-    <meta name="citation_doi" content="10.5281/zenodo.17684770">'
+  - text: |
+      <meta name="citation_title" content="Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity with a target uncertainty of below 5 % taking into account the IR (2.5 µm – 50 µm) spectral region">
+      <meta name="citation_author" content="Albert Adibekyan">
+      <meta name="citation_author" content="Anne Andersson">
+      <meta name="citation_author" content="Mariacarla Arduini-Schuster">
+      <meta name="citation_author" content="Chiara Cucchi">
+      <meta name="citation_author" content="Jacques Hameury">
+      <meta name="citation_author" content="Michael Kamml">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_author" content="Refat Razouk">
+      <meta name="citation_author" content="Christoph Sprengard">
+      <meta name="citation_author" content="Lorenzo Pattelli">
+      <meta name="citation_author" content="Christian Monte">
+      <meta name="citation_date" content="2025-09-30">
 ---
 
 ```{=html}
@@ -35,11 +42,11 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity
+# Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity with a target uncertainty of below 5 % taking into account the IR (2.5 µm – 50 µm) spectral region
 
-**Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874), Christian Monte**
+**Albert Adibekyan, Anne Andersson, Mariacarla Arduini-Schuster, Chiara Cucchi, Jacques Hameury, Michael Kamml, Jochen Manara, Refat Razouk, Christoph Sprengard, Lorenzo Pattelli, Christian Monte**
 
-Manara & Monte, Zenodo (2025).
+Albert Adibekyan et al., Zenodo (project deliverable, 21GRD03 PaRaMetriC) (2025).
 
 [**Zenodo →**](https://doi.org/10.5281/zenodo.17684770)
 
@@ -52,5 +59,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Manara & Monte, Zenodo (2025). Available at https://doi.org/10.5281/zenodo.17684770
+> Albert Adibekyan et al., Zenodo (project deliverable, 21GRD03 PaRaMetriC) (2025). Available at https://doi.org/10.5281/zenodo.17684770
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

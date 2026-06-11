@@ -1,0 +1,59 @@
+---
+title: "Tunable thermal emissivity with non-volatile switching: A Ge2Sb2Te5-based multilayer film for adaptive camouflage and radiative cooling"
+date: 2026-05-01
+author:
+  - name: "Fanxi Sun"
+  - name: "Longtian Xie"
+  - name: "Kaihua Zhang"
+  - name: "Kun Yu"
+  - name: "Yufang Liu"
+description: "Demonstrates a Ge2Sb2Te5-based multilayer film with non-volatile switching of thermal emissivity for adaptive camouflage and radiative cooling."
+categories:
+  - Tunable emissivity
+  - Phase-change materials
+  - Radiative cooling
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Tunable thermal emissivity with non-volatile switching: A Ge2Sb2Te5-based multilayer film for adaptive camouflage and radiative cooling">
+      <meta name="citation_author" content="Fanxi Sun">
+      <meta name="citation_author" content="Longtian Xie">
+      <meta name="citation_author" content="Kaihua Zhang">
+      <meta name="citation_author" content="Kun Yu">
+      <meta name="citation_author" content="Yufang Liu">
+      <meta name="citation_date" content="2026-05-01">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# Tunable thermal emissivity with non-volatile switching: A Ge2Sb2Te5-based multilayer film for adaptive camouflage and radiative cooling
+
+**Fanxi Sun, Longtian Xie, Kaihua Zhang, Kun Yu, Yufang Liu**
+
+Fanxi Sun et al., Infrared Physics & Technology 155, 106478 (2026).
+
+[**DOI →**](https://doi.org/10.1016/j.infrared.2026.106478)
+
+## Abstract
+
+Demonstrates a Ge2Sb2Te5-based multilayer film with non-volatile switching of thermal emissivity for adaptive camouflage and radiative cooling.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Fanxi Sun et al., Infrared Physics & Technology 155, 106478 (2026). Available at https://doi.org/10.1016/j.infrared.2026.106478
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

@@ -1,0 +1,64 @@
+---
+title: "Determination of total hemispherical emissivity utilizing an in-situ calibrated, coupled experimental–simulative electron beam calorimetric approach"
+date: 2026-05-01
+author:
+  - name: "Konrad Kerber"
+  - name: "Alexander Kreisch"
+  - name: "Philipp Hengst"
+  - name: "Niclas Reuter"
+  - name: "Markus Radajewski"
+  - name: "Lars Halbauer"
+  - name: "Anja Buchwalder"
+  - name: "Horst Biermann"
+description: "Determines total hemispherical emissivity using an in-situ calibrated electron beam calorimetric approach coupling experiment and simulation."
+categories:
+  - Hemispherical emissivity
+  - Calorimetry
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Determination of total hemispherical emissivity utilizing an in-situ calibrated, coupled experimental–simulative electron beam calorimetric approach">
+      <meta name="citation_author" content="Konrad Kerber">
+      <meta name="citation_author" content="Alexander Kreisch">
+      <meta name="citation_author" content="Philipp Hengst">
+      <meta name="citation_author" content="Niclas Reuter">
+      <meta name="citation_author" content="Markus Radajewski">
+      <meta name="citation_author" content="Lars Halbauer">
+      <meta name="citation_author" content="Anja Buchwalder">
+      <meta name="citation_author" content="Horst Biermann">
+      <meta name="citation_date" content="2026-05-01">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# Determination of total hemispherical emissivity utilizing an in-situ calibrated, coupled experimental–simulative electron beam calorimetric approach
+
+**Konrad Kerber, Alexander Kreisch, Philipp Hengst, Niclas Reuter, Markus Radajewski, Lars Halbauer, Anja Buchwalder, Horst Biermann**
+
+Konrad Kerber et al., Measurement 272, 120958 (2026).
+
+[**DOI →**](https://doi.org/10.1016/j.measurement.2026.120958)
+
+## Abstract
+
+Determines total hemispherical emissivity using an in-situ calibrated electron beam calorimetric approach coupling experiment and simulation.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Konrad Kerber et al., Measurement 272, 120958 (2026). Available at https://doi.org/10.1016/j.measurement.2026.120958
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

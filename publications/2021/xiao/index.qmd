@@ -1,32 +1,32 @@
 ---
-title: Planck spectroscopy
+title: "Planck Spectroscopy"
 date: 2021-09-01
 author:
-- name: Yujie Xiao
-- name: Mikhail A. Kats
-description: This publication focuses on planck radiation, thermal emission spectroscopy, measurement technique.
+  - name: "Yuzhe Xiao"
+  - name: "Chenghao Wan"
+  - name: "Jad Salman"
+  - name: "Ian J. Maywar"
+  - name: "Jonathan King"
+  - name: "Alireza Shahsafi"
+  - name: "Mikhail A. Kats"
+description: "This publication focuses on planck radiation, thermal emission spectroscopy, measurement technique."
 categories:
-- Planck radiation
-- Thermal emission spectroscopy
-- Measurement technique
-pub-info:
-  reference: Xiao et al., Laser Photonics Rev. 15(9), 2100121 (2021).
-  links:
-  - name: Wiley
-    url: https://doi.org/10.1002/lpor.202100121
-    icon: fa-solid fa-file-pdf
+  - Planck radiation
+  - Thermal emission spectroscopy
+  - Measurement technique
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Planck spectroscopy">
-
-    <meta name="citation_author" content="Yujie Xiao">
-
-    <meta name="citation_author" content="Mikhail A. Kats">
-
-    <meta name="citation_date" content="2021-09-01">
-
-    <meta name="citation_doi" content="10.1002/lpor.202100121">'
+  - text: |
+      <meta name="citation_title" content="Planck Spectroscopy">
+      <meta name="citation_author" content="Yuzhe Xiao">
+      <meta name="citation_author" content="Chenghao Wan">
+      <meta name="citation_author" content="Jad Salman">
+      <meta name="citation_author" content="Ian J. Maywar">
+      <meta name="citation_author" content="Jonathan King">
+      <meta name="citation_author" content="Alireza Shahsafi">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2021-09-01">
 ---
 
 ```{=html}
@@ -34,13 +34,13 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Planck spectroscopy
+# Planck Spectroscopy
 
-**Yujie Xiao, Mikhail A. Kats**
+**Yuzhe Xiao, Chenghao Wan, Jad Salman, Ian J. Maywar, Jonathan King, Alireza Shahsafi, Mikhail A. Kats**
 
-Xiao et al., Laser Photonics Rev. 15(9), 2100121 (2021).
+Yuzhe Xiao et al., Laser & Photonics Reviews 15, 2100121 (2021).
 
-[**Wiley →**](https://doi.org/10.1002/lpor.202100121)
+[**DOI →**](https://doi.org/10.1002/lpor.202100121)
 
 ## Abstract
 
@@ -51,5 +51,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Xiao et al., Laser Photonics Rev. 15(9), 2100121 (2021). Available at https://doi.org/10.1002/lpor.202100121
+> Yuzhe Xiao et al., Laser & Photonics Reviews 15, 2100121 (2021). Available at https://doi.org/10.1002/lpor.202100121
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

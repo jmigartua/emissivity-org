@@ -1,37 +1,32 @@
 ---
-title: Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation
+title: "Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation"
 date: 2023-04-01
 author:
-- name: Iñigo González de Arrieta
-  orcid: 0000-0001-6984-5149
-- name: Clément Blanchard
-- name: Olivier Rozenbaum
-  orcid: 0000-0002-1474-4970
-description: This publication focuses on radiative properties, combustion, effective medium theory.
+  - name: "I. González de Arrieta"
+  - name: "C. Blanchard"
+  - name: "P. Laboureur"
+  - name: "C. Chauveau"
+  - name: "C. Genevois"
+  - name: "O. Rozenbaum"
+  - name: "F. Halter"
+description: "This publication focuses on radiative properties, combustion, effective medium theory."
 categories:
-- Radiative properties
-- Combustion
-- Effective medium theory
-pub-info:
-  reference: González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023).
-  links:
-  - name: ScienceDirect
-    url: https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815
-    icon: fa-solid fa-file-pdf
+  - Radiative properties
+  - Combustion
+  - Effective medium theory
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation">
-
-    <meta name="citation_author" content="Iñigo González de Arrieta">
-
-    <meta name="citation_author" content="Clément Blanchard">
-
-    <meta name="citation_author" content="Olivier Rozenbaum">
-
-    <meta name="citation_date" content="2023-04-01">
-
-    <meta name="citation_doi" content="10.1016/j.ijheatmasstransfer.2022.123815">'
+  - text: |
+      <meta name="citation_title" content="Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation">
+      <meta name="citation_author" content="I. González de Arrieta">
+      <meta name="citation_author" content="C. Blanchard">
+      <meta name="citation_author" content="P. Laboureur">
+      <meta name="citation_author" content="C. Chauveau">
+      <meta name="citation_author" content="C. Genevois">
+      <meta name="citation_author" content="O. Rozenbaum">
+      <meta name="citation_author" content="F. Halter">
+      <meta name="citation_date" content="2023-04-01">
 ---
 
 ```{=html}
@@ -41,11 +36,11 @@ include-in-header:
 ::: {.page-article}
 # Radiative properties of micron-sized Al/air premixed flames described by an effective medium core-shell formulation
 
-**Iñigo González de Arrieta [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0001-6984-5149), Clément Blanchard, Olivier Rozenbaum [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-1474-4970)**
+**I. González de Arrieta, C. Blanchard, P. Laboureur, C. Chauveau, C. Genevois, O. Rozenbaum, F. Halter**
 
-González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023).
+I. González de Arrieta et al., International Journal of Heat and Mass Transfer 203, 123815 (2023).
 
-[**ScienceDirect →**](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815)
+[**DOI →**](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815)
 
 ## Abstract
 
@@ -56,5 +51,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> González de Arrieta et al., Int. J. Heat Mass Transfer 203, 123815 (2023). Available at https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815
+> I. González de Arrieta et al., International Journal of Heat and Mass Transfer 203, 123815 (2023). Available at https://doi.org/10.1016/j.ijheatmasstransfer.2022.123815
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

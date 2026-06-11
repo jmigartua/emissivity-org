@@ -1,0 +1,59 @@
+---
+title: "Spectral longwave atmospheric irradiance determination for site- and date-specific passive radiative cooling modeling"
+date: 2026-07-01
+author:
+  - name: "Claudio Belotti"
+  - name: "Jochen Manara"
+  - name: "Stephan Vidi"
+  - name: "Lorenzo Pattelli"
+  - name: "Jacques Hameury"
+description: "Determines spectral longwave atmospheric irradiance for site- and date-specific modelling of passive radiative cooling performance."
+categories:
+  - Radiative cooling
+  - Atmospheric irradiance
+  - Modelling
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Spectral longwave atmospheric irradiance determination for site- and date-specific passive radiative cooling modeling">
+      <meta name="citation_author" content="Claudio Belotti">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_author" content="Stephan Vidi">
+      <meta name="citation_author" content="Lorenzo Pattelli">
+      <meta name="citation_author" content="Jacques Hameury">
+      <meta name="citation_date" content="2026-07-01">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# Spectral longwave atmospheric irradiance determination for site- and date-specific passive radiative cooling modeling
+
+**Claudio Belotti, Jochen Manara, Stephan Vidi, Lorenzo Pattelli, Jacques Hameury**
+
+Claudio Belotti et al., Sustainable Energy Technologies and Assessments 91, 105046 (2026).
+
+[**DOI →**](https://doi.org/10.1016/j.seta.2026.105046)
+
+## Abstract
+
+Determines spectral longwave atmospheric irradiance for site- and date-specific modelling of passive radiative cooling performance.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Claudio Belotti et al., Sustainable Energy Technologies and Assessments 91, 105046 (2026). Available at https://doi.org/10.1016/j.seta.2026.105046
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

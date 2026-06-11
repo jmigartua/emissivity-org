@@ -1,32 +1,40 @@
 ---
-title: Precision measurements of temperature-dependent and nonequilibrium thermal emitters
+title: "Precision Measurements of Temperature-Dependent and Nonequilibrium Thermal Emitters"
 date: 2020-04-01
 author:
-- name: Yujie Xiao
-- name: Mikhail A. Kats
-description: This publication focuses on thermal emission measurement, nonequilibrium emitters, ftir.
+  - name: "Yuzhe Xiao"
+  - name: "Chenghao Wan"
+  - name: "Alireza Shahsafi"
+  - name: "Jad Salman"
+  - name: "Zhaoning Yu"
+  - name: "Raymond Wambold"
+  - name: "Hongyan Mei"
+  - name: "Bryan E. Rubio Perez"
+  - name: "William Derdeyn"
+  - name: "Chunhui Yao"
+  - name: "Mikhail A. Kats"
+description: "This publication focuses on thermal emission measurement, nonequilibrium emitters, ftir."
 categories:
-- Thermal emission measurement
-- Nonequilibrium emitters
-- FTIR
-pub-info:
-  reference: Xiao et al., Laser Photonics Rev. 14(4), 1900443 (2020).
-  links:
-  - name: Wiley
-    url: https://doi.org/10.1002/lpor.201900443
-    icon: fa-solid fa-file-pdf
+  - Thermal emission measurement
+  - Nonequilibrium emitters
+  - FTIR
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Precision measurements of temperature-dependent and nonequilibrium thermal emitters">
-
-    <meta name="citation_author" content="Yujie Xiao">
-
-    <meta name="citation_author" content="Mikhail A. Kats">
-
-    <meta name="citation_date" content="2020-04-01">
-
-    <meta name="citation_doi" content="10.1002/lpor.201900443">'
+  - text: |
+      <meta name="citation_title" content="Precision Measurements of Temperature-Dependent and Nonequilibrium Thermal Emitters">
+      <meta name="citation_author" content="Yuzhe Xiao">
+      <meta name="citation_author" content="Chenghao Wan">
+      <meta name="citation_author" content="Alireza Shahsafi">
+      <meta name="citation_author" content="Jad Salman">
+      <meta name="citation_author" content="Zhaoning Yu">
+      <meta name="citation_author" content="Raymond Wambold">
+      <meta name="citation_author" content="Hongyan Mei">
+      <meta name="citation_author" content="Bryan E. Rubio Perez">
+      <meta name="citation_author" content="William Derdeyn">
+      <meta name="citation_author" content="Chunhui Yao">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2020-04-01">
 ---
 
 ```{=html}
@@ -34,13 +42,13 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Precision measurements of temperature-dependent and nonequilibrium thermal emitters
+# Precision Measurements of Temperature-Dependent and Nonequilibrium Thermal Emitters
 
-**Yujie Xiao, Mikhail A. Kats**
+**Yuzhe Xiao, Chenghao Wan, Alireza Shahsafi, Jad Salman, Zhaoning Yu, Raymond Wambold, Hongyan Mei, Bryan E. Rubio Perez, William Derdeyn, Chunhui Yao, Mikhail A. Kats**
 
-Xiao et al., Laser Photonics Rev. 14(4), 1900443 (2020).
+Yuzhe Xiao et al., Laser & Photonics Reviews 14, 1900443 (2020).
 
-[**Wiley →**](https://doi.org/10.1002/lpor.201900443)
+[**DOI →**](https://doi.org/10.1002/lpor.201900443)
 
 ## Abstract
 
@@ -51,5 +59,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Xiao et al., Laser Photonics Rev. 14(4), 1900443 (2020). Available at https://doi.org/10.1002/lpor.201900443
+> Yuzhe Xiao et al., Laser & Photonics Reviews 14, 1900443 (2020). Available at https://doi.org/10.1002/lpor.201900443
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

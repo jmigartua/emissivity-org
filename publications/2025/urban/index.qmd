@@ -1,22 +1,20 @@
 ---
-title: Messung des spektralen Emissionsgrads im Hochtemperaturbereich bis 2500 K
+title: "Messung des spektralen Emissionsgrads und der spezifischen Wärmekapazität im Hochtemperaturbereich bis 2500 K"
 date: 2025-06-18
 author:
-- name: David Urban
-  orcid: 0000-0002-0089-0563
-description: This publication focuses on high temperature, spectral emissivity, metrology.
+  - name: "David Urban"
+description: "This publication focuses on high temperature, spectral emissivity, metrology."
 categories:
-- High temperature
-- Spectral emissivity
-- Metrology
-pub-info:
-  reference: Urban, PTB-OAR (2025).
-  links:
-  - name: PTB-OAR
-    url: https://oar.ptb.de/resources/show/10.7795/110.20250618
-    icon: fa-solid fa-file
+  - High temperature
+  - Spectral emissivity
+  - Metrology
 page-layout: full
 toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="Messung des spektralen Emissionsgrads und der spezifischen Wärmekapazität im Hochtemperaturbereich bis 2500 K">
+      <meta name="citation_author" content="David Urban">
+      <meta name="citation_date" content="2025-06-18">
 ---
 
 ```{=html}
@@ -24,13 +22,13 @@ toc: false
 ```
 
 ::: {.page-article}
-# Messung des spektralen Emissionsgrads im Hochtemperaturbereich bis 2500 K
+# Messung des spektralen Emissionsgrads und der spezifischen Wärmekapazität im Hochtemperaturbereich bis 2500 K
 
-**David Urban [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0089-0563)**
+**David Urban**
 
-Urban, PTB-OAR (2025).
+David Urban, Dissertation, Physikalisch-Technische Bundesanstalt (PTB) (2025).
 
-[**PTB-OAR →**](https://oar.ptb.de/resources/show/10.7795/110.20250618)
+[**PTB-OAR →**](https://doi.org/10.7795/110.20250618)
 
 ## Abstract
 
@@ -41,5 +39,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Urban, PTB-OAR (2025). Available at https://oar.ptb.de/resources/show/10.7795/110.20250618
+> David Urban, Dissertation, Physikalisch-Technische Bundesanstalt (PTB) (2025). Available at https://doi.org/10.7795/110.20250618
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

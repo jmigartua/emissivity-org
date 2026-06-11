@@ -1,38 +1,36 @@
 ---
-title: Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy
+title: "Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy"
 date: 2021-08-01
 author:
-- name: Julien Colas
-- name: Lisa Charpentier
-- name: Domingos De Sousa Meneses
-- name: Marianne Balat-Pichelin
-description: This publication focuses on radiative properties, intermetallic alloy, high temperature.
+  - name: "J. Colas"
+  - name: "L. Charpentier"
+  - name: "D. Chen"
+  - name: "E. Bêche"
+  - name: "J. Esvan"
+  - name: "D. De Sousa Meneses"
+  - name: "F. Mercier"
+  - name: "M. Pons"
+  - name: "M. Balat-Pichelin"
+description: "This publication focuses on radiative properties, intermetallic alloy, high temperature."
 categories:
-- Radiative properties
-- Intermetallic alloy
-- High temperature
-pub-info:
-  reference: Colas et al., Corrosion Sci. 189, 109601 (2021).
-  links:
-  - name: ScienceDirect
-    url: https://doi.org/10.1016/j.corsci.2021.109601
-    icon: fa-solid fa-file-pdf
+  - Radiative properties
+  - Intermetallic alloy
+  - High temperature
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy">
-
-    <meta name="citation_author" content="Julien Colas">
-
-    <meta name="citation_author" content="Lisa Charpentier">
-
-    <meta name="citation_author" content="Domingos De Sousa Meneses">
-
-    <meta name="citation_author" content="Marianne Balat-Pichelin">
-
-    <meta name="citation_date" content="2021-08-01">
-
-    <meta name="citation_doi" content="10.1016/j.corsci.2021.109601">'
+  - text: |
+      <meta name="citation_title" content="Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy">
+      <meta name="citation_author" content="J. Colas">
+      <meta name="citation_author" content="L. Charpentier">
+      <meta name="citation_author" content="D. Chen">
+      <meta name="citation_author" content="E. Bêche">
+      <meta name="citation_author" content="J. Esvan">
+      <meta name="citation_author" content="D. De Sousa Meneses">
+      <meta name="citation_author" content="F. Mercier">
+      <meta name="citation_author" content="M. Pons">
+      <meta name="citation_author" content="M. Balat-Pichelin">
+      <meta name="citation_date" content="2021-08-01">
 ---
 
 ```{=html}
@@ -42,11 +40,11 @@ include-in-header:
 ::: {.page-article}
 # Oxidation and high-temperature radiative properties of the Kanthal Super ER intermetallic alloy
 
-**Julien Colas, Lisa Charpentier, Domingos De Sousa Meneses, Marianne Balat-Pichelin**
+**J. Colas, L. Charpentier, D. Chen, E. Bêche, J. Esvan, D. De Sousa Meneses, F. Mercier, M. Pons, M. Balat-Pichelin**
 
-Colas et al., Corrosion Sci. 189, 109601 (2021).
+J. Colas et al., Corrosion Science 189, 109601 (2021).
 
-[**ScienceDirect →**](https://doi.org/10.1016/j.corsci.2021.109601)
+[**DOI →**](https://doi.org/10.1016/j.corsci.2021.109601)
 
 ## Abstract
 
@@ -57,5 +55,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Colas et al., Corrosion Sci. 189, 109601 (2021). Available at https://doi.org/10.1016/j.corsci.2021.109601
+> J. Colas et al., Corrosion Science 189, 109601 (2021). Available at https://doi.org/10.1016/j.corsci.2021.109601
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

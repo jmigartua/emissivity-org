@@ -1,32 +1,24 @@
 ---
-title: Spectral directional and total hemispherical emissivity of virgin and oxidized 316L stainless steel
+title: "Spectral directional and total hemispherical emissivity of virgin and oxidized 316L stainless steel from 1000 to 1650 K"
 date: 2022-06-01
 author:
-- name: Marianne Balat-Pichelin
-- name: Jean-Louis Sans
-description: This publication focuses on stainless steel, hemispherical emissivity, oxidation.
+  - name: "M. Balat-Pichelin"
+  - name: "J.L. Sans"
+  - name: "E. Bêche"
+description: "This publication focuses on stainless steel, hemispherical emissivity, oxidation."
 categories:
-- Stainless steel
-- Hemispherical emissivity
-- Oxidation
-pub-info:
-  reference: Balat-Pichelin & Sans, Infrared Phys. Technol. 123, 104156 (2022).
-  links:
-  - name: ScienceDirect
-    url: https://doi.org/10.1016/j.infrared.2022.104156
-    icon: fa-solid fa-file-pdf
+  - Stainless steel
+  - Hemispherical emissivity
+  - Oxidation
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Spectral directional and total hemispherical emissivity of virgin and oxidized 316L stainless steel">
-
-    <meta name="citation_author" content="Marianne Balat-Pichelin">
-
-    <meta name="citation_author" content="Jean-Louis Sans">
-
-    <meta name="citation_date" content="2022-06-01">
-
-    <meta name="citation_doi" content="10.1016/j.infrared.2022.104156">'
+  - text: |
+      <meta name="citation_title" content="Spectral directional and total hemispherical emissivity of virgin and oxidized 316L stainless steel from 1000 to 1650 K">
+      <meta name="citation_author" content="M. Balat-Pichelin">
+      <meta name="citation_author" content="J.L. Sans">
+      <meta name="citation_author" content="E. Bêche">
+      <meta name="citation_date" content="2022-06-01">
 ---
 
 ```{=html}
@@ -34,13 +26,13 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Spectral directional and total hemispherical emissivity of virgin and oxidized 316L stainless steel
+# Spectral directional and total hemispherical emissivity of virgin and oxidized 316L stainless steel from 1000 to 1650 K
 
-**Marianne Balat-Pichelin, Jean-Louis Sans**
+**M. Balat-Pichelin, J.L. Sans, E. Bêche**
 
-Balat-Pichelin & Sans, Infrared Phys. Technol. 123, 104156 (2022).
+M. Balat-Pichelin et al., Infrared Physics & Technology 123, 104156 (2022).
 
-[**ScienceDirect →**](https://doi.org/10.1016/j.infrared.2022.104156)
+[**DOI →**](https://doi.org/10.1016/j.infrared.2022.104156)
 
 ## Abstract
 
@@ -51,5 +43,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Balat-Pichelin & Sans, Infrared Phys. Technol. 123, 104156 (2022). Available at https://doi.org/10.1016/j.infrared.2022.104156
+> M. Balat-Pichelin et al., Infrared Physics & Technology 123, 104156 (2022). Available at https://doi.org/10.1016/j.infrared.2022.104156
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

@@ -1,35 +1,30 @@
 ---
-title: 'Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data'
+title: "Optical spectroscopy of molten fluorides: Methods, electronic and vibrational data, structural interpretation, and relevance to radiative heat transfer"
 date: 2023-08-01
 author:
-- name: William B. Derdeyn
-- name: Mikhail A. Kats
-- name: Raluca O. Scarlat
-description: This publication focuses on molten fluorides, infrared spectroscopy, radiative heat transfer.
+  - name: "William B. Derdeyn"
+  - name: "Sara Mastromarino"
+  - name: "Ruchi Gakhar"
+  - name: "Mark H. Anderson"
+  - name: "Mikhail A. Kats"
+  - name: "Raluca O. Scarlat"
+description: "This publication focuses on molten fluorides, infrared spectroscopy, radiative heat transfer."
 categories:
-- Molten fluorides
-- Infrared spectroscopy
-- Radiative heat transfer
-pub-info:
-  reference: Derdeyn et al., J. Mol. Liq. 383, 121936 (2023).
-  links:
-  - name: ScienceDirect
-    url: https://doi.org/10.1016/j.molliq.2023.121936
-    icon: fa-solid fa-file-pdf
+  - Molten fluorides
+  - Infrared spectroscopy
+  - Radiative heat transfer
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data">
-
-    <meta name="citation_author" content="William B. Derdeyn">
-
-    <meta name="citation_author" content="Mikhail A. Kats">
-
-    <meta name="citation_author" content="Raluca O. Scarlat">
-
-    <meta name="citation_date" content="2023-08-01">
-
-    <meta name="citation_doi" content="10.1016/j.molliq.2023.121936">'
+  - text: |
+      <meta name="citation_title" content="Optical spectroscopy of molten fluorides: Methods, electronic and vibrational data, structural interpretation, and relevance to radiative heat transfer">
+      <meta name="citation_author" content="William B. Derdeyn">
+      <meta name="citation_author" content="Sara Mastromarino">
+      <meta name="citation_author" content="Ruchi Gakhar">
+      <meta name="citation_author" content="Mark H. Anderson">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_author" content="Raluca O. Scarlat">
+      <meta name="citation_date" content="2023-08-01">
 ---
 
 ```{=html}
@@ -37,13 +32,13 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Infrared optical spectroscopy of molten fluorides: methods, electronic and vibrational data
+# Optical spectroscopy of molten fluorides: Methods, electronic and vibrational data, structural interpretation, and relevance to radiative heat transfer
 
-**William B. Derdeyn, Mikhail A. Kats, Raluca O. Scarlat**
+**William B. Derdeyn, Sara Mastromarino, Ruchi Gakhar, Mark H. Anderson, Mikhail A. Kats, Raluca O. Scarlat**
 
-Derdeyn et al., J. Mol. Liq. 383, 121936 (2023).
+William B. Derdeyn et al., Journal of Molecular Liquids 385, 121936 (2023).
 
-[**ScienceDirect →**](https://doi.org/10.1016/j.molliq.2023.121936)
+[**DOI →**](https://doi.org/10.1016/j.molliq.2023.121936)
 
 ## Abstract
 
@@ -54,5 +49,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Derdeyn et al., J. Mol. Liq. 383, 121936 (2023). Available at https://doi.org/10.1016/j.molliq.2023.121936
+> William B. Derdeyn et al., Journal of Molecular Liquids 385, 121936 (2023). Available at https://doi.org/10.1016/j.molliq.2023.121936
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

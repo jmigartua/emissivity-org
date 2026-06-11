@@ -1,0 +1,57 @@
+---
+title: "IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements on highly specular samples in the 2 to 25 μm spectral range"
+date: 2017-10-01
+author:
+  - name: "Telmo Echániz"
+  - name: "Raúl Benjamín Pérez-Sáez"
+  - name: "Manuel José Tello"
+description: "This publication focuses on ir radiometer, spurious radiation, accuracy."
+categories:
+  - IR Radiometer
+  - Spurious radiation
+  - Accuracy
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements on highly specular samples in the 2 to 25 μm spectral range">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_author" content="Raúl Benjamín Pérez-Sáez">
+      <meta name="citation_author" content="Manuel José Tello">
+      <meta name="citation_date" content="2017-10-01">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2017</div>
+```
+
+::: {.page-article}
+# IR radiometer sensitivity and accuracy improvement by eliminating spurious radiation for emissivity measurements on highly specular samples in the 2 to 25 μm spectral range
+
+**Telmo Echániz, Raúl Benjamín Pérez-Sáez, Manuel José Tello**
+
+Telmo Echániz et al., Measurement 110, 22-26 (2017).
+
+[**DOI →**](https://doi.org/10.1016/j.measurement.2017.06.010) · [arXiv (2024 repost) →](https://arxiv.org/abs/2401.13104)
+
+## Abstract
+
+This publication focuses on ir radiometer, spurious radiation, accuracy.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+*Note: re-posted on arXiv in 2024; the canonical record is the journal article linked above.*
+
+## How to cite
+
+> Telmo Echániz et al., Measurement 110, 22-26 (2017). Available at https://doi.org/10.1016/j.measurement.2017.06.010
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
+:::

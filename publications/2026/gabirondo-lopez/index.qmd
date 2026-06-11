@@ -1,0 +1,71 @@
+---
+title: "EKHI: an open database of optical and thermal radiative properties of solid materials"
+date: 2026-03-24
+author:
+  - name: "Jon Gabirondo-López"
+  - name: "Mireia Sainz-Menchón"
+  - name: "Irati Tolosa-Lecea"
+  - name: "Iñigo González de Arrieta"
+  - name: "Telmo Echániz"
+  - name: "Irene Urcelay-Olabarria"
+  - name: "Iñaki López-Ferreño"
+  - name: "Raquel Fuente"
+  - name: "Gabriel A. López"
+  - name: "Iñigo Arredondo"
+  - name: "Josu M. Igartua"
+description: "Presents EKHI, an open database compiling optical and thermal radiative properties of solid materials."
+categories:
+  - Databases
+  - Spectral emissivity
+  - Open data
+page-layout: full
+toc: false
+include-in-header:
+  - text: |
+      <meta name="citation_title" content="EKHI: an open database of optical and thermal radiative properties of solid materials">
+      <meta name="citation_author" content="Jon Gabirondo-López">
+      <meta name="citation_author" content="Mireia Sainz-Menchón">
+      <meta name="citation_author" content="Irati Tolosa-Lecea">
+      <meta name="citation_author" content="Iñigo González de Arrieta">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_author" content="Irene Urcelay-Olabarria">
+      <meta name="citation_author" content="Iñaki López-Ferreño">
+      <meta name="citation_author" content="Raquel Fuente">
+      <meta name="citation_author" content="Gabriel A. López">
+      <meta name="citation_author" content="Iñigo Arredondo">
+      <meta name="citation_author" content="Josu M. Igartua">
+      <meta name="citation_date" content="2026-03-24">
+---
+
+```{=html}
+<div class="crumbs"><a href="/publications.html">Publications</a> / 2026</div>
+```
+
+::: {.page-article}
+# EKHI: an open database of optical and thermal radiative properties of solid materials
+
+**Jon Gabirondo-López, Mireia Sainz-Menchón, Irati Tolosa-Lecea, Iñigo González de Arrieta, Telmo Echániz, Irene Urcelay-Olabarria, Iñaki López-Ferreño, Raquel Fuente, Gabriel A. López, Iñigo Arredondo, Josu M. Igartua**
+
+Jon Gabirondo-López et al., Scientific Data 13, 740 (2026).
+
+[**DOI →**](https://doi.org/10.1038/s41597-026-07083-9)
+
+## Abstract
+
+Presents EKHI, an open database compiling optical and thermal radiative properties of solid materials.
+
+*Editorial note: abstracts are concise summaries prepared for indexing; follow
+the link above for the publication's full abstract and record.*
+
+## How to cite
+
+> Jon Gabirondo-López et al., Scientific Data 13, 740 (2026). Available at https://doi.org/10.1038/s41597-026-07083-9
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's Crossref record on 2026-06-11.
+:::
+
+:::

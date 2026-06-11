@@ -1,36 +1,32 @@
 ---
-title: Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect
+title: "Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect: A Current Summarized Classification of Need, Approaches and Characterization Methods"
 date: 2025-03-01
 author:
-- name: Jochen Manara
-  orcid: 0000-0002-5319-6874
-- name: Juergen Hartmann
-- name: Hans-Peter Ebert
-description: This publication focuses on passive radiative cooling, urban heat island, emissivity characterization.
+  - name: "Jochen Manara"
+  - name: "Jürgen Hartmann"
+  - name: "Fabian Kerwagen"
+  - name: "Christoph Maack"
+  - name: "Alberto Muscio"
+  - name: "Heiko Paeth"
+  - name: "Hans-Peter Ebert"
+description: "This publication focuses on passive radiative cooling, urban heat island, emissivity characterization."
 categories:
-- Passive radiative cooling
-- Urban heat island
-- Emissivity characterization
-pub-info:
-  reference: Manara et al., Int. J. Thermophys. 46, 58 (2025).
-  links:
-  - name: Springer
-    url: https://doi.org/10.1007/s10765-025-03529-1
-    icon: fa-solid fa-file-pdf
+  - Passive radiative cooling
+  - Urban heat island
+  - Emissivity characterization
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect">
-
-    <meta name="citation_author" content="Jochen Manara">
-
-    <meta name="citation_author" content="Juergen Hartmann">
-
-    <meta name="citation_author" content="Hans-Peter Ebert">
-
-    <meta name="citation_date" content="2025-03-01">
-
-    <meta name="citation_doi" content="10.1007/s10765-025-03529-1">'
+  - text: |
+      <meta name="citation_title" content="Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect: A Current Summarized Classification of Need, Approaches and Characterization Methods">
+      <meta name="citation_author" content="Jochen Manara">
+      <meta name="citation_author" content="Jürgen Hartmann">
+      <meta name="citation_author" content="Fabian Kerwagen">
+      <meta name="citation_author" content="Christoph Maack">
+      <meta name="citation_author" content="Alberto Muscio">
+      <meta name="citation_author" content="Heiko Paeth">
+      <meta name="citation_author" content="Hans-Peter Ebert">
+      <meta name="citation_date" content="2025-03-01">
 ---
 
 ```{=html}
@@ -38,13 +34,13 @@ include-in-header:
 ```
 
 ::: {.page-article}
-# Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect
+# Passive Radiative Cooling Materials with Special Focus on the Reduction of Urban Heat Island Effect: A Current Summarized Classification of Need, Approaches and Characterization Methods
 
-**Jochen Manara [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-5319-6874), Juergen Hartmann, Hans-Peter Ebert**
+**Jochen Manara, Jürgen Hartmann, Fabian Kerwagen, Christoph Maack, Alberto Muscio, Heiko Paeth, Hans-Peter Ebert**
 
-Manara et al., Int. J. Thermophys. 46, 58 (2025).
+Jochen Manara et al., International Journal of Thermophysics 46, 58 (2025).
 
-[**Springer →**](https://doi.org/10.1007/s10765-025-03529-1)
+[**DOI →**](https://doi.org/10.1007/s10765-025-03529-1)
 
 ## Abstract
 
@@ -55,5 +51,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Manara et al., Int. J. Thermophys. 46, 58 (2025). Available at https://doi.org/10.1007/s10765-025-03529-1
+> Jochen Manara et al., International Journal of Thermophysics 46, 58 (2025). Available at https://doi.org/10.1007/s10765-025-03529-1
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

@@ -1,34 +1,28 @@
 ---
-title: Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing
+title: "Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing"
 date: 2025-02-27
 author:
-- name: Jon Gabirondo-López
-  orcid: 0000-0003-4333-4636
-- name: Telmo Echániz
-  orcid: 0000-0002-0330-0653
-description: This publication focuses on inconel 718, additive manufacturing, dataset.
+  - name: "Jon Gabirondo-López"
+  - name: "Telmo Echániz"
+  - name: "Iñaki López-Ferreño"
+  - name: "Jon Lambarri"
+  - name: "Gabriel A. Lopez"
+description: "This publication focuses on inconel 718, additive manufacturing, dataset."
 categories:
-- Inconel 718
-- Additive Manufacturing
-- Dataset
-pub-info:
-  reference: Gabirondo-López & Echániz, Zenodo (2025).
-  links:
-  - name: Zenodo
-    url: https://doi.org/10.5281/zenodo.14936536
-    icon: fa-solid fa-file
+  - Inconel 718
+  - Additive Manufacturing
+  - Dataset
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing">
-
-    <meta name="citation_author" content="Jon Gabirondo-López">
-
-    <meta name="citation_author" content="Telmo Echániz">
-
-    <meta name="citation_date" content="2025-02-27">
-
-    <meta name="citation_doi" content="10.5281/zenodo.14936536">'
+  - text: |
+      <meta name="citation_title" content="Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing">
+      <meta name="citation_author" content="Jon Gabirondo-López">
+      <meta name="citation_author" content="Telmo Echániz">
+      <meta name="citation_author" content="Iñaki López-Ferreño">
+      <meta name="citation_author" content="Jon Lambarri">
+      <meta name="citation_author" content="Gabriel A. Lopez">
+      <meta name="citation_date" content="2025-02-27">
 ---
 
 ```{=html}
@@ -38,9 +32,9 @@ include-in-header:
 ::: {.page-article}
 # Infrared emissivity of Inconel 718 surfaces created by Additive Manufacturing
 
-**Jon Gabirondo-López [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0003-4333-4636), Telmo Echániz [<span class="mono" style="font-size:11px;">ORCID</span>](https://orcid.org/0000-0002-0330-0653)**
+**Jon Gabirondo-López, Telmo Echániz, Iñaki López-Ferreño, Jon Lambarri, Gabriel A. Lopez**
 
-Gabirondo-López & Echániz, Zenodo (2025).
+Jon Gabirondo-López et al., Zenodo (dataset) (2025).
 
 [**Zenodo →**](https://doi.org/10.5281/zenodo.14936536)
 
@@ -53,5 +47,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> Gabirondo-López & Echániz, Zenodo (2025). Available at https://doi.org/10.5281/zenodo.14936536
+> Jon Gabirondo-López et al., Zenodo (dataset) (2025). Available at https://doi.org/10.5281/zenodo.14936536
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::

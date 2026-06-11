@@ -1,35 +1,38 @@
 ---
-title: Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition
+title: "Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition"
 date: 2022-08-01
 author:
-- name: Jared King
-- name: Alireza Shahsafi
-- name: Mikhail A. Kats
-description: This publication focuses on temperature-independent radiation, phase-change materials, emissivity engineering.
+  - name: "Jonathan L. King"
+  - name: "Alireza Shahsafi"
+  - name: "Zhen Zhang"
+  - name: "Chenghao Wan"
+  - name: "Yuzhe Xiao"
+  - name: "Chengzi Huang"
+  - name: "Yifei Sun"
+  - name: "Patrick J. Roney"
+  - name: "Shriram Ramanathan"
+  - name: "Mikhail A. Kats"
+description: "This publication focuses on temperature-independent radiation, phase-change materials, emissivity engineering."
 categories:
-- Temperature-independent radiation
-- Phase-change materials
-- Emissivity engineering
-pub-info:
-  reference: King et al., ACS Photonics 9(8), 2742 (2022).
-  links:
-  - name: ACS
-    url: https://doi.org/10.1021/acsphotonics.2c00500
-    icon: fa-solid fa-file-pdf
+  - Temperature-independent radiation
+  - Phase-change materials
+  - Emissivity engineering
 page-layout: full
 toc: false
 include-in-header:
-- text: '<meta name="citation_title" content="Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition">
-
-    <meta name="citation_author" content="Jared King">
-
-    <meta name="citation_author" content="Alireza Shahsafi">
-
-    <meta name="citation_author" content="Mikhail A. Kats">
-
-    <meta name="citation_date" content="2022-08-01">
-
-    <meta name="citation_doi" content="10.1021/acsphotonics.2c00500">'
+  - text: |
+      <meta name="citation_title" content="Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition">
+      <meta name="citation_author" content="Jonathan L. King">
+      <meta name="citation_author" content="Alireza Shahsafi">
+      <meta name="citation_author" content="Zhen Zhang">
+      <meta name="citation_author" content="Chenghao Wan">
+      <meta name="citation_author" content="Yuzhe Xiao">
+      <meta name="citation_author" content="Chengzi Huang">
+      <meta name="citation_author" content="Yifei Sun">
+      <meta name="citation_author" content="Patrick J. Roney">
+      <meta name="citation_author" content="Shriram Ramanathan">
+      <meta name="citation_author" content="Mikhail A. Kats">
+      <meta name="citation_date" content="2022-08-01">
 ---
 
 ```{=html}
@@ -39,11 +42,11 @@ include-in-header:
 ::: {.page-article}
 # Wavelength-by-Wavelength Temperature-Independent Thermal Radiation Utilizing an Insulator-Metal Transition
 
-**Jared King, Alireza Shahsafi, Mikhail A. Kats**
+**Jonathan L. King, Alireza Shahsafi, Zhen Zhang, Chenghao Wan, Yuzhe Xiao, Chengzi Huang, Yifei Sun, Patrick J. Roney, Shriram Ramanathan, Mikhail A. Kats**
 
-King et al., ACS Photonics 9(8), 2742 (2022).
+Jonathan L. King et al., ACS Photonics 9, 2742-2747 (2022).
 
-[**ACS →**](https://doi.org/10.1021/acsphotonics.2c00500)
+[**DOI →**](https://doi.org/10.1021/acsphotonics.2c00500)
 
 ## Abstract
 
@@ -54,5 +57,13 @@ the link above for the publication's full abstract and record.*
 
 ## How to cite
 
-> King et al., ACS Photonics 9(8), 2742 (2022). Available at https://doi.org/10.1021/acsphotonics.2c00500
+> Jonathan L. King et al., ACS Photonics 9, 2742-2747 (2022). Available at https://doi.org/10.1021/acsphotonics.2c00500
+
+::: {.sources-panel}
+### Record verification
+
+Metadata (title, complete author list, venue, identifier) verified against the
+publisher's official record on 2026-06-11.
+:::
+
 :::
