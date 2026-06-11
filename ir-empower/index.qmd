@@ -1,0 +1,39 @@
+---
+title: "IR-EMPOWER"
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / IR-EMPOWER</div>
+```
+
+::: {.page-article}
+# IR-EMPOWER — Workshop on Infrared Emissivity Measurements
+
+IR-EMPOWER is the community workshop dedicated specifically to **infrared
+emissivity measurement**: techniques and protocols, intercomparisons and
+databases, modelling and simulation, and thermophysical metrology and its
+applications. Where the field's larger conferences treat emissivity as one
+topic among many, IR-EMPOWER is the meeting where it is the only topic —
+the laboratories of the [research map](/network/index.html) in one room.
+
+The series was founded in 2024 by the **Thermomat / HAIRL group at the
+University of the Basque Country (UPV/EHU)** in Bilbao, and continues with
+editions hosted by member laboratories of the network.
+
+## Editions
+
+| Edition | Dates | Venue | Host |
+|---|---|---|---|
+| **[IR-EMPOWER 2026](https://cae-zerocarbon.de/IR-Empower-Workshop.html)** — registration open | 28–29 September 2026 | CAE, Würzburg, Germany | Center for Applied Energy Research |
+| **[IR-EMPOWER 2024](/ir-empower/2024/index.html)** — archive | 5–6 September 2024 | Bizkaia Aretoa, Bilbao, Spain | Thermomat / HAIRL, UPV/EHU |
+
+## The series and the community
+
+IR-EMPOWER contributions are among the public evidence used by the research
+map's [methodology](/network/methodology.html) to document which institutions
+are active in emissivity measurement. Announcements for upcoming editions
+appear in [News](/news/index.html) and on the
+[conference calendar](/events-news/conferences.html).
+:::

@@ -6,7 +6,7 @@
       <h2 class="featured-title">IR-EMPOWER 2026
         <span class="featured-sub">Infrared emissivity measurement workshop — 2nd edition</span></h2>
       <p class="featured-body">The community workshop on infrared emissivity measurement returns. Founded in 2024 and first organized by the Thermomat / HAIRL group at UPV/EHU in Bilbao, IR-EMPOWER brings together the laboratories of the research map — metrology institutes, high-temperature facilities, and university groups — around measurement below and above 1000 K. Registration is open; poster abstracts are due 31 July 2026.</p>
-      <p class="featured-links"><a href="https://cae-zerocarbon.de/IR-Empower-Workshop.html">Official workshop page &amp; registration (CAE)</a> <span class="sep">·</span> <a href="/events-news/news/ir-empower-2026.html">Announcement</a> <span class="sep">·</span> <a href="/files/ical/emissivity-conferences.ics">Add to calendar (iCal)</a> <span class="sep">·</span> <a href="https://dulcet-sundae-44ceba.netlify.app/">IR-EMPOWER 2024 — first edition</a> </p>
+      <p class="featured-links"><a href="https://cae-zerocarbon.de/IR-Empower-Workshop.html">Official workshop page &amp; registration (CAE)</a> <span class="sep">·</span> <a href="/events-news/news/ir-empower-2026.html">Announcement</a> <span class="sep">·</span> <a href="/files/ical/emissivity-conferences.ics">Add to calendar (iCal)</a> <span class="sep">·</span> <a href="/ir-empower/2024/index.html">IR-EMPOWER 2024 — first edition archive</a> </p>
     </div>
     <div class="featured-when">
       <div class="d">28–29 September 2026</div>

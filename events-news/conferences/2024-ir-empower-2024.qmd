@@ -28,4 +28,4 @@ categories:
 
 IR-EMPOWER 2024 was a specialized workshop held on 5–6 September 2024 in Bilbao (Spain), devoted to infrared emissivity measurement techniques and experimental protocols. The workshop focused on methodological aspects of emissivity determination, including measurement approaches, instrumentation, and protocol comparison, and was organized as a technical meeting with invited participation.
 
-
+**Archive:** full program, speakers, and committees at [emissivity.org/ir-empower/2024](/ir-empower/2024/index.html).

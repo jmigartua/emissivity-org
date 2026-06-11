@@ -1,0 +1,97 @@
+---
+title: "IR-EMPOWER 2024 — archive"
+description: "Archive of the first IR-EMPOWER workshop on infrared emissivity measurements: 5–6 September 2024, Bizkaia Aretoa, Bilbao. Full program, speakers, committees."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/ir-empower/index.html">IR-EMPOWER</a> / 2024</div>
+```
+
+::: {.page-article}
+# IR-EMPOWER 2024
+
+**Workshop on Infrared Emissivity Measurements — first edition**
+
+| | |
+|---|---|
+| **Dates** | 5–6 September 2024 |
+| **Venue** | Bizkaia Aretoa, Bilbao, Spain |
+| **Organized by** | Thermophysical Properties of Materials Research Group (Thermomat / HAIRL), UPV/EHU |
+| **Participating institutions** | PTB · CAE · CEMHTI-CNRS · PROMES-CNRS · LTeN-CNRS · IMT Mines Albi · JRC Karlsruhe · INO-CNR · Vinča Institute · Czech Academy of Sciences (ISI Brno) · University of West Bohemia · Ruhr University Bochum · University of Wisconsin–Madison · University of Virginia · LASP Boulder · UPV/EHU |
+| **Original website** | [dulcet-sundae-44ceba.netlify.app](https://dulcet-sundae-44ceba.netlify.app/) (frozen legacy copy) |
+
+The first IR-EMPOWER brought together, over two days in Bilbao, the European
+and American laboratories working on infrared emissivity measurement —
+metrology institutes, high-temperature facilities, and university groups —
+for twenty-one talks spanning techniques below and above 1000 K, cryogenic
+and ultra-high-temperature measurement, instruments, and open data. The talk
+*"Towards an Open Community of Radiative Properties"* (J. Gabirondo-López)
+outlined what would become [EKHI](/data/ekhi.html) and this site.
+
+## Organizing committee
+
+Iñigo González de Arrieta · Telmo Echániz · Gabriel A. López · Raquel Fuente
+· Josu M. Igartua · Irene Urcelay-Olabarria — *Thermophysical Properties of
+Materials Research Group, UPV/EHU*
+
+## International advisory board
+
+Jochen Manara (CAE, Würzburg) · Christian Monte (PTB, Berlin) · Olivier
+Rozenbaum (CEMHTI, Orléans) · Konstantinos Boboridis (JRC, Karlsruhe) ·
+Audrey Soum-Glaude (PROMES, Odeillo)
+
+## Program — Thursday 5 September 2024
+
+| Time | Session | Speaker |
+|---|---|---|
+| 08:30–09:00 | Registration | |
+| 09:00–09:15 | Opening remarks | |
+| 09:15–10:15 | **Emissivity measurements below 1000 °C at PTB — an overview** *(plenary)* | Albert Adibekyan (PTB, Berlin) |
+| 10:45–11:45 | **Applied metrological facilities for determining the emissivity in a wide temperature range** *(plenary)* | Jochen Manara (CAE, Würzburg) |
+| 11:45–12:15 | Measuring the spectral emissivity above 1000 K | David Urban (PTB, Berlin) |
+| 13:45–14:15 | Direct measurement of infrared emission using Fourier-transform spectroscopy | Hongyan Mei (University of Wisconsin–Madison) |
+| 14:15–14:45 | High-temperature emissivity of cerium oxide ceramics | Léo Gaillard (LTeN-CNRS, Nantes) |
+| 15:15–15:45 | Developing a modular and high-performance infrared emissometer | Mireia Sainz-Menchón (UPV/EHU, Leioa) |
+| 15:45–16:15 | Towards an open community of radiative properties | Jon Gabirondo-López (UPV/EHU, Leioa) |
+| 16:15–16:45 | Radiative heat transfer measurements in packed beds | Matthias Tyslik (Ruhr University, Bochum) |
+| 16:45–17:15 | Time-resolved emissivity of biomass fuel particles | Lukas Pörtner (Ruhr University, Bochum) |
+| 19:00–22:00 | Conference dinner | |
+
+## Program — Friday 6 September 2024
+
+| Time | Session | Speaker |
+|---|---|---|
+| 09:00–09:30 | Spectral emittance of ceramics for solar receivers | Elisa Sani (INO-CNR, Florence) |
+| 09:30–10:00 | Photo-thermal properties of coatings | Zdeněk Veselý (University of West Bohemia, Pilsen) |
+| 10:00–10:30 | Measuring apparent emissivity of semitransparent samples | Julian Gieseler (LASP, Boulder & PTB, Berlin) |
+| 11:00–11:30 | Thermo-radiative properties of materials | Leire del Campo (CEMHTI-CNRS, Orléans) |
+| 11:30–12:00 | Simultaneous measurement of temperature and emissivity under unconventional conditions | Domingos De Sousa Meneses (CEMHTI-CNRS, Orléans) |
+| 12:00–12:30 | Hemispherical total and spectral emissivity by pulse heating | Nenad Milošević (Vinča Institute, Belgrade) |
+| 14:00–14:30 | Emissivity measurement at cryogenic temperatures | Tomáš Králík (Czech Academy of Sciences, Brno) |
+| 14:30–15:00 | High melting temperature materials | Konstantinos Boboridis (Joint Research Centre, Karlsruhe) |
+| 15:30–16:00 | Measurement of thermo-optical properties | Christophe Escape (PROMES-CNRS, Odeillo) |
+| 16:00–16:30 | Advanced techniques in radiative properties | Yannick Le Maoult (IMT Mines, Albi) |
+| 16:30–17:00 | Closing remarks | |
+
+## Support
+
+Organized by the TPPM Research Group and UPV/EHU, with institutional support
+from the **Basque Government** and sponsorship from **Bruker** and the
+**Coblentz Society**.
+
+## Continuation
+
+The series continues:
+[**IR-EMPOWER 2026**, 28–29 September 2026, CAE Würzburg — registration open →](https://cae-zerocarbon.de/IR-Empower-Workshop.html)
+
+::: {.sources-panel}
+### Provenance
+
+This archive page was compiled from the original IR-EMPOWER 2024 website
+(linked above, preserved as the frozen legacy copy, including speaker
+photographs) on 2026-06-11. Speaker affiliations are as of September 2024.
+:::
+
+:::
