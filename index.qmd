@@ -83,6 +83,8 @@ listing:
 
 ```
 
+{{< include _featured-thesis.qmd >}}
+
 {{< include _featured-band.qmd >}}
 
 ```{=html}

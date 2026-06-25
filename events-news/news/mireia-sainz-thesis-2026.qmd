@@ -1,0 +1,90 @@
+---
+title: "Mireia Sainz earns her PhD — Cum Laude with International Mention"
+date: "2026-06-12"
+categories: [Thesis, People, Infrared spectroscopy, Nanomaterials]
+description: "On 12 June 2026, Mireia Sainz defended her doctoral thesis on the infrared optical and vibrational properties of oxide nanoheterogeneous materials, earning Sobresaliente Cum Laude with International Thesis Mention."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+
+<p class="section__label">News · Doctoral thesis</p>
+
+<h1 class="thesis-h1">A new doctor in the emissivity community</h1>
+
+<p class="thesis-lead">On <strong>12 June 2026</strong>, <strong>Mireia Sainz</strong> defended her doctoral thesis,
+<em>“Advanced experimental study of the optical and vibrational properties of oxide
+nanoheterogeneous materials,”</em> at the University of the Basque Country (UPV/EHU).
+The committee awarded the highest distinction: <strong>Sobresaliente Cum Laude with International
+Thesis Mention</strong>. The work shows how infrared spectroscopy, paired with rigorous physical
+modelling, becomes a quantitative tool for reading the structure of inorganic nanomaterials —
+squarely within the methods this community cares about.</p>
+
+<div class="thesis-hero">
+  <figure class="thesis-portrait">
+    <img src="/assets/images/posts/mireia-sainz.png" alt="Dr Mireia Sainz" />
+    <figcaption>Dr Mireia Sainz</figcaption>
+  </figure>
+
+  <div class="thesis-facts" aria-label="Thesis details">
+    <div class="row"><span class="k">Defended</span><span class="v">12 June 2026 · UPV/EHU, Bilbao</span></div>
+    <div class="row"><span class="k">Grade</span><span class="v">Sobresaliente Cum Laude — International Thesis Mention</span></div>
+    <div class="row"><span class="k">Supervisors</span><span class="v">Dr Gabriel Alejandro López (Dept. of Physics, UPV/EHU)<br/>Dr Telmo Echániz Ariceta (Dept. of Applied Mathematics, UPV/EHU)</span></div>
+    <div class="row"><span class="k">Committee</span><span class="v">Dr Leire del Campo — Chair (CEMHTI, CNRS Orléans)<br/>Dr Jesús Martínez Perdiguero — Secretary (Dept. of Physics, UPV/EHU)<br/>Dr Benoît Rousseau — Member (LTeN, CNRS Nantes)</span></div>
+  </div>
+</div>
+
+<h2 class="thesis-h2">Abstract</h2>
+
+<p>This thesis explores the relationship between the structural characteristics and the infrared
+optical response of oxide nanoheterogeneous materials. To do so, infrared spectroscopy is combined
+with physical modelling of the optical permittivity and effective-medium theories, alongside
+complementary techniques. The work develops methodologies to analyse different oxide nanomaterial
+systems tailored to specific applications and to extract quantitative structural information.</p>
+
+<p>The research is organised into two main blocks: <strong>nanoparticle assemblies</strong> and
+<strong>nanoporous membranes</strong>. The first presents the quantification of the population of
+structural units in silica nanoparticles; the characterisation of conductivity and the
+identification of isostructural magnetite and maghemite in iron-oxide nanoparticles; and the
+development of an attenuated-total-reflection (ATR) methodology to study the dielectric properties
+of nanoparticle systems. The second focuses on nanoporous amorphous alumina membranes, examining
+both the dependence of the radiative properties on the nanostructure of amorphous and
+α-Al₂O₃ membranes, and the phase transition from transition aluminas to α-Al₂O₃ through combined
+high-temperature Raman measurements and theoretical simulations. In conclusion, the work
+demonstrates that vibrational spectroscopy, when integrated with rigorous physical modelling, can
+serve as a quantitative instrument for the characterisation of inorganic nanomaterials.</p>
+
+<h2 class="thesis-h2">Graphical abstract</h2>
+
+<figure class="thesis-figure">
+  <img src="/assets/images/posts/mireia-sainz-graphical-abstract.png"
+       alt="Graphical abstract: characterisation and crystallisation of anodic alumina (AAO) membranes" />
+  <figcaption>Anodic alumina (AAO) membranes — from as-synthesised amorphous structure to crystallised
+  α-Al₂O₃ — characterised by infrared spectroscopy and effective-medium modelling, with the
+  crystallisation pathway followed by high-temperature Raman.</figcaption>
+</figure>
+
+<h2 class="thesis-h2">Main conclusions</h2>
+
+<ul class="thesis-conclusions">
+  <li>A careful combination of IR spectroscopy and homogenisation (effective-medium) techniques is
+  essential to characterise nanoheterogeneous materials.</li>
+  <li>Physically-based models for amorphous and crystalline oxides enabled the acquisition of
+  structural information for SiO₂ and iron-oxide nanoparticles.</li>
+  <li>Multiple IR methodologies were tested across a diverse range of samples, and a new, accurate
+  ATR approach was developed.</li>
+  <li>A successful implementation of Bergman’s theory allows the decoupling of geometric effects
+  from intrinsic optical resonances in nanoporous membranes.</li>
+</ul>
+
+<p class="thesis-coda">Our warmest congratulations to Dr Sainz, her supervisors, and the
+examining committee. Work of this kind — turning infrared and vibrational spectra into quantitative
+structural and radiative-property information — is exactly what advances the measurement and
+modelling of thermal radiative properties across the network.</p>
+
+<p class="thesis-back"><a href="/news/index.html">&larr; Back to News</a></p>
+
+</div>
+```

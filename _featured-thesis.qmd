@@ -1,0 +1,18 @@
+```{=html}
+<section class="featured-band featured-band--thesis" aria-label="Featured announcement">
+  <div class="wrap featured-grid">
+    <div class="featured-main">
+      <div class="featured-kicker">Announcement · Doctoral thesis</div>
+      <h2 class="featured-title">A new doctor in the community
+        <span class="featured-sub">Mireia Sainz — infrared optics of oxide nanoheterogeneous materials</span></h2>
+      <p class="featured-body">Dr Mireia Sainz has defended her doctoral thesis at UPV/EHU, earning <strong>Sobresaliente Cum Laude with International Thesis Mention</strong>. Her work shows how infrared and vibrational spectroscopy, combined with rigorous physical modelling, becomes a quantitative tool for reading the structure and radiative properties of nanoparticles and nanoporous oxide membranes.</p>
+      <p class="featured-links"><a href="/events-news/news/mireia-sainz-thesis-2026.html">Read the full story</a> <span class="sep">·</span> <a href="/news/index.html">More news</a></p>
+    </div>
+    <div class="featured-when">
+      <div class="d">12 June 2026</div>
+      <div class="l">UPV/EHU · Bilbao</div>
+      <div class="c mono">Cum Laude · Int’l Mention</div>
+    </div>
+  </div>
+</section>
+```
