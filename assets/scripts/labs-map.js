@@ -68,10 +68,10 @@
       .catch(function (e) { console.warn("labs-map: vector basemap unavailable", e); rasterFallback(map); });
   }
 
-  var dataUrl = "/assets/data/labs.json";
+  var dataUrl = "/assets/data/labs.json?v=20260925";
   try {
     if (document.currentScript && document.currentScript.src) {
-      dataUrl = new URL("../data/labs.json", document.currentScript.src).href;
+      dataUrl = new URL("../data/labs.json?v=20260925", document.currentScript.src).href;
     }
   } catch (e) { /* keep absolute fallback */ }
   function init() {
