@@ -3,3 +3,9 @@ _site/
 __pycache__/
 .DS_Store
 *.quarto_ipynb
+
+/.quarto/
+
+# Quarto render artefacts that must never be committed
+/site_libs/
+/events-news/news/*.html

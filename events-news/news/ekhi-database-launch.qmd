@@ -19,6 +19,8 @@ toc: false
 
 <p><a href="/data/ekhi.html">Read the full EKHI application note</a> for details on the database structure, data formats, and how to contribute your measurements.</p>
 
+<p>EKHI is described in detail in our paper in <a href="https://www.nature.com/articles/s41597-026-07083-9"><em>Scientific Data</em> (2026)</a>.</p>
+
 <p><a href="https://ekhi.ehu.eus" class="btn btn-primary">Access the EKHI Database</a></p>
 
 <p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>

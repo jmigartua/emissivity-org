@@ -26,7 +26,7 @@ toc: false
 
 <p>The guide is freely available on Zenodo and represents an important step toward standardized practices in our field.</p>
 
-<p><a href="/data/index.html">View the publication</a></p>
+<p><a href="https://doi.org/10.5281/zenodo.17684770">Read the Good Practice Guide on Zenodo (DOI: 10.5281/zenodo.17684770)</a></p>
 
 <p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>
 </div>

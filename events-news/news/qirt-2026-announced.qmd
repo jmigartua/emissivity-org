@@ -2,7 +2,7 @@
 title: "QIRT 2026 Conference — Naples, Italy"
 date: "2026-04-01"
 categories: [Conference, QIRT]
-description: "The 17th International Conference on Quantitative InfraRed Thermography will be held in Naples, Italy, June 29 - July 3, 2026."
+description: "The 18th International Conference on Quantitative InfraRed Thermography will be held in Naples, Italy, June 29 - July 3, 2026."
 page-layout: full
 toc: false
 ---
@@ -13,7 +13,7 @@ toc: false
 
 <h1>QIRT 2026 Conference — Naples, Italy</h1>
 
-<p>The <strong>17th International Conference on Quantitative InfraRed Thermography (QIRT 2026)</strong> has been announced. The conference will take place from June 29 to July 3, 2026, in Naples, Italy.</p>
+<p>The <strong>18th International Conference on Quantitative InfraRed Thermography (QIRT 2026)</strong> has been announced. The conference will take place from June 29 to July 3, 2026, in Naples, Italy.</p>
 
 <p>QIRT is one of the premier conferences for the infrared thermography and thermal measurement community, covering topics including:</p>
 
@@ -25,7 +25,7 @@ toc: false
 <li>Industrial process monitoring</li>
 </ul>
 
-<p><a href="/events-news/index.html">View full conference details</a></p>
+<p><a href="https://qirt2026.unina.it/event/1/">View full conference details &amp; registration (official site)</a></p>
 
 <p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>
 </div>
