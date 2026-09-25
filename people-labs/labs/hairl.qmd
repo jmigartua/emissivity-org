@@ -1,5 +1,5 @@
 ---
-title: "Thermomat / HAIRL — UPV/EHU"
+title: "Thermomat / HAIRL — EHU"
 page-layout: full
 toc: false
 ---
@@ -9,8 +9,8 @@ toc: false
 ```
 
 ::: {.page-article}
-# Thermomat / HAIRL — UPV/EHU
+# Thermomat / HAIRL — EHU
 
 This page has moved: the maintained profile is at
-**[Thermomat / HAIRL — UPV/EHU on the research map](/network/thermomat-ehu.html)**.
+**[Thermomat / HAIRL — EHU on the research map](/network/thermomat-ehu.html)**.
 :::

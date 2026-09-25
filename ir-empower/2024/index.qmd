@@ -18,8 +18,8 @@ toc: false
 |---|---|
 | **Dates** | 5–6 September 2024 |
 | **Venue** | Bizkaia Aretoa, Bilbao, Spain |
-| **Organized by** | Thermophysical Properties of Materials Research Group (Thermomat / HAIRL), UPV/EHU |
-| **Participating institutions** | PTB · CAE · CEMHTI-CNRS · PROMES-CNRS · LTeN-CNRS · IMT Mines Albi · JRC Karlsruhe · INO-CNR · Vinča Institute · Czech Academy of Sciences (ISI Brno) · University of West Bohemia · Ruhr University Bochum · University of Wisconsin–Madison · University of Virginia · LASP Boulder · UPV/EHU |
+| **Organized by** | Thermophysical Properties of Materials Research Group (Thermomat / HAIRL), EHU |
+| **Participating institutions** | PTB · CAE · CEMHTI-CNRS · PROMES-CNRS · LTeN-CNRS · IMT Mines Albi · JRC Karlsruhe · INO-CNR · Vinča Institute · Czech Academy of Sciences (ISI Brno) · University of West Bohemia · Ruhr University Bochum · University of Wisconsin–Madison · University of Virginia · LASP Boulder · EHU |
 | **Original website** | [dulcet-sundae-44ceba.netlify.app](https://dulcet-sundae-44ceba.netlify.app/) (frozen legacy copy) |
 
 The first IR-EMPOWER brought together, over two days in Bilbao, the European
@@ -34,7 +34,7 @@ outlined what would become [EKHI](/data/ekhi.html) and this site.
 
 Iñigo González de Arrieta · Telmo Echániz · Gabriel A. López · Raquel Fuente
 · Josu M. Igartua · Irene Urcelay-Olabarria — *Thermophysical Properties of
-Materials Research Group, UPV/EHU*
+Materials Research Group, EHU*
 
 ## International advisory board
 
@@ -55,8 +55,8 @@ Audrey Soum-Glaude (PROMES, Odeillo)
 <div class="speaker-card"><div class="avatar"><span>DU</span><img src="/assets/images/ir-empower-2024/david-urban.jpg" alt="David Urban" loading="lazy" onerror="this.remove()"/></div><div class="n">David Urban</div><div class="a">PTB, Berlin</div></div>
 <div class="speaker-card"><div class="avatar"><span>HM</span><img src="/assets/images/ir-empower-2024/hongyan-mei.jpg" alt="Hongyan Mei" loading="lazy" onerror="this.remove()"/></div><div class="n">Hongyan Mei</div><div class="a">U. Wisconsin–Madison</div></div>
 <div class="speaker-card"><div class="avatar"><span>LG</span><img src="/assets/images/ir-empower-2024/leo-gaillard.jpg" alt="Léo Gaillard" loading="lazy" onerror="this.remove()"/></div><div class="n">Léo Gaillard</div><div class="a">LTeN-CNRS, Nantes</div></div>
-<div class="speaker-card"><div class="avatar"><span>MM</span><img src="/assets/images/ir-empower-2024/mireia-sainz-menchon.jpg" alt="Mireia Sainz-Menchón" loading="lazy" onerror="this.remove()"/></div><div class="n">Mireia Sainz-Menchón</div><div class="a">UPV/EHU, Leioa</div></div>
-<div class="speaker-card"><div class="avatar"><span>JL</span><img src="/assets/images/ir-empower-2024/jon-gabirondo-lopez.jpg" alt="Jon Gabirondo-López" loading="lazy" onerror="this.remove()"/></div><div class="n">Jon Gabirondo-López</div><div class="a">UPV/EHU, Leioa</div></div>
+<div class="speaker-card"><div class="avatar"><span>MM</span><img src="/assets/images/ir-empower-2024/mireia-sainz-menchon.jpg" alt="Mireia Sainz-Menchón" loading="lazy" onerror="this.remove()"/></div><div class="n">Mireia Sainz-Menchón</div><div class="a">EHU, Leioa</div></div>
+<div class="speaker-card"><div class="avatar"><span>JL</span><img src="/assets/images/ir-empower-2024/jon-gabirondo-lopez.jpg" alt="Jon Gabirondo-López" loading="lazy" onerror="this.remove()"/></div><div class="n">Jon Gabirondo-López</div><div class="a">EHU, Leioa</div></div>
 <div class="speaker-card"><div class="avatar"><span>MT</span><img src="/assets/images/ir-empower-2024/matthias-tyslik.jpg" alt="Matthias Tyslik" loading="lazy" onerror="this.remove()"/></div><div class="n">Matthias Tyslik</div><div class="a">Ruhr U., Bochum</div></div>
 <div class="speaker-card"><div class="avatar"><span>LP</span><img src="/assets/images/ir-empower-2024/lukas-portner.jpg" alt="Lukas Pörtner" loading="lazy" onerror="this.remove()"/></div><div class="n">Lukas Pörtner</div><div class="a">Ruhr U., Bochum</div></div>
 <div class="speaker-card"><div class="avatar"><span>HS</span><img src="/assets/images/ir-empower-2024/hunter-schonfeld.jpg" alt="Hunter B. Schonfeld" loading="lazy" onerror="this.remove()"/></div><div class="n">Hunter B. Schonfeld</div><div class="a">U. Virginia, Charlottesville</div></div>
@@ -76,7 +76,7 @@ Audrey Soum-Glaude (PROMES, Odeillo)
 </div>
 ```
 
-*Speaker photographs from the workshop records (© Thermomat / HAIRL, UPV/EHU) are being restored to this archive; initials are shown until each photograph is in place.*
+*Speaker photographs from the workshop records (© Thermomat / HAIRL, EHU) are being restored to this archive; initials are shown until each photograph is in place.*
 
 ## Program — Thursday 5 September 2024
 
@@ -89,8 +89,8 @@ Audrey Soum-Glaude (PROMES, Odeillo)
 | 11:45–12:15 | Measuring the spectral emissivity above 1000 K | David Urban (PTB, Berlin) |
 | 13:45–14:15 | Direct measurement of infrared emission using Fourier-transform spectroscopy | Hongyan Mei (University of Wisconsin–Madison) |
 | 14:15–14:45 | High-temperature emissivity of cerium oxide ceramics | Léo Gaillard (LTeN-CNRS, Nantes) |
-| 15:15–15:45 | Developing a modular and high-performance infrared emissometer | Mireia Sainz-Menchón (UPV/EHU, Leioa) |
-| 15:45–16:15 | Towards an open community of radiative properties | Jon Gabirondo-López (UPV/EHU, Leioa) |
+| 15:15–15:45 | Developing a modular and high-performance infrared emissometer | Mireia Sainz-Menchón (EHU, Leioa) |
+| 15:45–16:15 | Towards an open community of radiative properties | Jon Gabirondo-López (EHU, Leioa) |
 | 16:15–16:45 | Radiative heat transfer measurements in packed beds | Matthias Tyslik (Ruhr University, Bochum) |
 | 16:45–17:15 | Time-resolved emissivity of biomass fuel particles | Lukas Pörtner (Ruhr University, Bochum) |
 | 19:00–22:00 | Conference dinner | |
@@ -113,7 +113,7 @@ Audrey Soum-Glaude (PROMES, Odeillo)
 
 ## Support
 
-Organized by the TPPM Research Group and UPV/EHU, with institutional support
+Organized by the TPPM Research Group and EHU, with institutional support
 from the **Basque Government** and sponsorship from **Bruker** and the
 **Coblentz Society**.
 

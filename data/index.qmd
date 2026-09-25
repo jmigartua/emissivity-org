@@ -21,7 +21,7 @@ toc: false
     <div class="res">
       <div class="res-row">
         <div class="name"><a href="/data/ekhi.html">EKHI</a>
-          <span class="by">Thermomat / UPV/EHU · Bilbao</span></div>
+          <span class="by">Thermomat / EHU · Bilbao</span></div>
         <div class="desc">
           Open, publication-centred database of optical and thermal radiative
           properties of solid materials: curve-level spectral datasets with

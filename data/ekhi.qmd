@@ -18,7 +18,7 @@ toc: false
       radiative properties of solid materials: curve-level spectral datasets
       with explicit provenance, machine-readable downloads, and citation tools.
       It is developed and maintained by the Thermomat group at the University
-      of the Basque Country (UPV/EHU) and formally described in
+      of the Basque Country (EHU) and formally described in
       <a href="https://www.nature.com/articles/s41597-026-07083-9"><em>Scientific Data</em> (2026)</a>.
     </p>
 

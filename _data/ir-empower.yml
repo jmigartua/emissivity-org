@@ -11,7 +11,7 @@ series:
   name: "IR-EMPOWER"
   full_name: "Workshop on Infrared Emissivity Measurements"
   founded: 2024
-  founder: "Thermomat / HAIRL group, UPV/EHU"
+  founder: "Thermomat / HAIRL group, EHU"
   periodicity: "biennial"   # to be confirmed at the 2026 round table
 
 editions:
@@ -40,7 +40,7 @@ editions:
     committee:               # as listed in the flyer (spelling corrected: Soum-Glaude)
       - {name: "Konstantinos Boboridis", inst: "JRC", city: "Karlsruhe, Germany", net: jrc-karlsruhe}
       - {name: "Tomáš Králík",           inst: "ISI CAS", city: "Brno, Czechia", net: isi-brno}
-      - {name: "Gabriel A. López",       inst: "UPV/EHU", city: "Bilbao, Spain", net: thermomat-ehu}
+      - {name: "Gabriel A. López",       inst: "EHU", city: "Bilbao, Spain", net: thermomat-ehu}
       - {name: "Jochen Manara",          inst: "CAE", city: "Würzburg, Germany", net: cae-wuerzburg}
       - {name: "Christian Monte",        inst: "PTB", city: "Berlin, Germany", net: ptb}
       - {name: "Benoît Rousseau",        inst: "LTeN", city: "Nantes, France", net: lten-cnrs}
@@ -56,7 +56,7 @@ editions:
           - {time: "08:00", kind: break, title: "Registration"}
           - {time: "08:45", kind: break, title: "Opening of the workshop"}
           - {kind: session, title: "Session 1"}
-          - {time: "09:00", kind: plenary, title: "New Upgrades on the Emissivity Measurement Setup at UPV/EHU", speaker: "Iñigo González de Arrieta", inst: "UPV/EHU, Leioa (Spain)", net: thermomat-ehu}
+          - {time: "09:00", kind: plenary, title: "New Upgrades on the Emissivity Measurement Setup at EHU", speaker: "Iñigo González de Arrieta", inst: "EHU, Leioa (Spain)", net: thermomat-ehu}
           - {time: "09:50", kind: oral, title: "The New Hemispherical Enclosure for Emissivity Measurements at PTB", speaker: "Albert Adibekyan", inst: "PTB, Berlin (Germany)", net: ptb}
           - {time: "10:15", kind: oral, title: "Measurement of Directional Spectral Emissivity at LNE", speaker: "Guillaume Failleau", inst: "LNE, Trappes (France)", net: lne-trappes}
           - {time: "10:40", kind: break, title: "Coffee break"}
@@ -94,7 +94,7 @@ editions:
           - {time: "12:50", kind: break, title: "Lunch"}
           - {kind: session, title: "Session 7"}
           - {time: "13:50", kind: oral, title: "Catalogue of Thermo-Optical Properties of Construction Materials", speaker: "Gloria Pérez", inst: "CSIC, Madrid (Spain)", net: csic-ietcc}
-          - {time: "14:15", kind: oral, title: "EKHI: the Open Database of Optical and Radiative Data", speaker: "Jon Gabirondo-López", inst: "UPV/EHU, Leioa (Spain)", net: thermomat-ehu, link: "/data/ekhi.html"}
+          - {time: "14:15", kind: oral, title: "EKHI: the Open Database of Optical and Radiative Data", speaker: "Jon Gabirondo-López", inst: "EHU, Leioa (Spain)", net: thermomat-ehu, link: "/data/ekhi.html"}
           - {time: "14:40", kind: oral, title: "Measuring Emittance in Ceramics from the Visible to the Mid-IR", speaker: "Patrick E. Hopkins", inst: "UVA, Charlottesville (USA)", net: uva}
           - {time: "15:00", kind: break, title: "Poster session"}
           - {time: "15:45", kind: break, title: "Coffee break"}
@@ -104,9 +104,9 @@ editions:
           - {time: "17:15", kind: break, title: "End of the workshop"}
 
     posters:                 # only posters whose presenters have agreed / our own group
-      - {title: "Reproducible Pipelines for Emissivity Data Processing", presenter: "Iñigo González de Arrieta", inst: "UPV/EHU", consent: public}
-      - {title: "Historical Survey of Radiometric Emissometers", presenter: "Jon Gabirondo-López", inst: "UPV/EHU", consent: public}
-      - {title: "Applications of Infrared Emissivity to the Study of Metals in Extreme Conditions", presenter: "Mireia Sainz-Menchón", inst: "UPV/EHU", consent: public}
+      - {title: "Reproducible Pipelines for Emissivity Data Processing", presenter: "Iñigo González de Arrieta", inst: "EHU", consent: public}
+      - {title: "Historical Survey of Radiometric Emissometers", presenter: "Jon Gabirondo-López", inst: "EHU", consent: public}
+      - {title: "Applications of Infrared Emissivity to the Study of Metals in Extreme Conditions", presenter: "Mireia Sainz-Menchón", inst: "EHU", consent: public}
 
     round_table:
       # Fill after 29 Sep. Only rendered when consent is public/granted.
@@ -132,5 +132,5 @@ editions:
     start: 2024-09-05
     end: 2024-09-06
     venue_short: "Bizkaia Aretoa, Bilbao, Spain"
-    host_short: "Thermomat / HAIRL, UPV/EHU"
+    host_short: "Thermomat / HAIRL, EHU"
     page: "/ir-empower/2024/index.html"

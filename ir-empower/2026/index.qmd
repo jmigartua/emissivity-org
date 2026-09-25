@@ -31,7 +31,7 @@ talk to become a discussion. The programme runs from the national metrology
 institutes (PTB, LNE) and high-temperature facilities (CEMHTI, JRC, CAE) to
 additive manufacturing, construction materials, spacecraft coatings, and open
 data. The two plenaries come from the series' founding group at
-[UPV/EHU](/network/thermomat-ehu.html) and from
+[EHU](/network/thermomat-ehu.html) and from
 [LTeN-CNRS](/network/lten-cnrs.html), coordinator of the French research network
 [TAMARYS](/network/networks/tamarys.html).
 
@@ -52,10 +52,10 @@ data. The two plenaries come from the series' founding group at
 
 ## From the Bilbao group
 
-The Thermomat / HAIRL group at UPV/EHU, which founded the series, contributes
+The Thermomat / HAIRL group at EHU, which founded the series, contributes
 two talks and three posters:
 
-- **Plenary** — *New upgrades on the emissivity measurement setup at UPV/EHU*,
+- **Plenary** — *New upgrades on the emissivity measurement setup at EHU*,
   Iñigo González de Arrieta, opening the scientific programme on Monday morning.
 - **Talk** — [*EKHI: the open database of optical and radiative data*](/data/ekhi.html),
   Jon Gabirondo-López: two years after the 2024 talk that proposed it, the

@@ -28,7 +28,7 @@ listing:
         It maintains the research map of the field, indexes its open data resources,
         documents measurement standards and good practice, and keeps the community
         calendar. Editorially maintained by the community; hosted at the
-        University of the Basque Country (UPV/EHU).
+        University of the Basque Country (EHU).
       </p>
       <p class="quicklinks">
         <a href="/network/index.html">Research map</a> <span class="sep">·</span>
@@ -150,7 +150,7 @@ listing:
           <td class="cap">Vacuum FTIR emissivity 0.3 to &gt;100 µm, heated planetary-analog samples; Berlin Emissivity Database.</td>
         </tr>
         <tr>
-          <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat / HAIRL — UPV/EHU</a>
+          <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat / HAIRL — EHU</a>
             <span class="unit">Thermophysical properties group, Bilbao</span></td>
           <td class="cc">ES</td>
           <td><span class="tier-pill core">core</span></td>
@@ -202,7 +202,7 @@ listing:
     <div class="res">
       <div class="res-row">
         <div class="name"><a href="/data/ekhi.html">EKHI</a>
-          <span class="by">Thermomat / UPV/EHU · Bilbao</span></div>
+          <span class="by">Thermomat / EHU · Bilbao</span></div>
         <div class="desc">
           Open, publication-centred database of optical and thermal radiative properties
           of solid materials: curve-level spectral datasets with explicit provenance,

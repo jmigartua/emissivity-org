@@ -1,7 +1,7 @@
 ```{=html}
 <h3>Plenary speakers</h3>
 <div class="speaker-grid">
-<div class="speaker-card"><div class="avatar"><span>IA</span></div><div class="n">Iñigo González de Arrieta</div><div class="a">UPV/EHU, Leioa (Spain)</div></div>
+<div class="speaker-card"><div class="avatar"><span>IA</span></div><div class="n">Iñigo González de Arrieta</div><div class="a">EHU, Leioa (Spain)</div></div>
 <div class="speaker-card"><div class="avatar"><span>BR</span></div><div class="n">Benoît Rousseau</div><div class="a">LTeN-CNRS, Nantes (France)</div></div>
 </div>
 <h3>Invited speakers</h3>
@@ -23,7 +23,7 @@
 <div class="speaker-card"><div class="avatar"><span>EK</span></div><div class="n">Elena Kononogova</div><div class="a">PTB, Berlin (Germany)</div></div>
 <div class="speaker-card"><div class="avatar"><span>HS</span></div><div class="n">Hunter Schonfeld</div><div class="a">UVA, Charlottesville (USA)</div></div>
 <div class="speaker-card"><div class="avatar"><span>GP</span></div><div class="n">Gloria Pérez</div><div class="a">CSIC, Madrid (Spain)</div></div>
-<div class="speaker-card"><div class="avatar"><span>JG</span></div><div class="n">Jon Gabirondo-López</div><div class="a">UPV/EHU, Leioa (Spain)</div></div>
+<div class="speaker-card"><div class="avatar"><span>JG</span></div><div class="n">Jon Gabirondo-López</div><div class="a">EHU, Leioa (Spain)</div></div>
 <div class="speaker-card"><div class="avatar"><span>PH</span></div><div class="n">Patrick E. Hopkins</div><div class="a">UVA, Charlottesville (USA)</div></div>
 </div>
 ```

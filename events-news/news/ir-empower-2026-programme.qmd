@@ -2,7 +2,7 @@
 title: "IR-EMPOWER 2026: the programme — 21 talks in Würzburg, 28–29 September"
 date: "2026-09-25"
 categories: [Workshop, IR-EMPOWER]
-description: "The second IR-EMPOWER workshop opens on Monday at CAE Würzburg: 21 talks, plenaries by UPV/EHU and LTeN-CNRS, a lab tour, two poster sessions, a round table on the community's future and the Young Speaker Award."
+description: "The second IR-EMPOWER workshop opens on Monday at CAE Würzburg: 21 talks, plenaries by EHU and LTeN-CNRS, a lab tour, two poster sessions, a round table on the community's future and the Young Speaker Award."
 ---
 
 ::: {.page-article}
@@ -12,7 +12,7 @@ The second **IR-EMPOWER** workshop on infrared emissivity measurement opens on
 **Monday 28 September** at the Center for Applied Energy Research (CAE) in
 Würzburg. About forty participants will hear **21 talks** over two days.
 
-- **Plenaries.** Iñigo González de Arrieta (UPV/EHU) opens with the upgraded
+- **Plenaries.** Iñigo González de Arrieta (EHU) opens with the upgraded
   emissivity setup of the group that founded the series. Benoît Rousseau
   (LTeN-CNRS) opens day two with multi-scale modelling of the spectral
   emissivity of SiC-based architectured ceramics.
@@ -22,7 +22,7 @@ Würzburg. About forty participants will hear **21 talks** over two days.
   materials (CSIC), spacecraft thermal materials (UNT) and cryogenic
   absorptivity (ISI CAS).
 - **Data and comparison.** A multi-laboratory emittance comparison (INO-CNR)
-  and the [EKHI open database](/data/ekhi.html) (UPV/EHU).
+  and the [EKHI open database](/data/ekhi.html) (EHU).
 
 Monday includes a tour of the CAE laboratories and the first poster session.
 Tuesday closes with a **round table** on how the community should grow, covering

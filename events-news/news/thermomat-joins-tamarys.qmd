@@ -1,15 +1,15 @@
 ---
-title: "UPV/EHU's Thermomat group joins the TAMARYS research network"
+title: "EHU's Thermomat group joins the TAMARYS research network"
 date: "2026-10-01"
 categories: [Community, TAMARYS, Network]
-description: "The Thermomat / HAIRL group at UPV/EHU has joined TAMARYS, the CNRS research federation on thermal radiation and materials for extreme environments."
+description: "The Thermomat / HAIRL group at EHU has joined TAMARYS, the CNRS research federation on thermal radiation and materials for extreme environments."
 draft: true   # DRAFT — Iñigo to confirm wording before publishing (remove this line)
 ---
 
 ::: {.page-article}
 # Thermomat joins TAMARYS
 
-The Thermomat / HAIRL group at the University of the Basque Country (UPV/EHU)
+The Thermomat / HAIRL group at the University of the Basque Country (EHU)
 has joined [**TAMARYS**](/network/networks/tamarys.html), the CNRS research
 federation on thermal radiation–matter interaction, materials for extreme
 environments and high-temperature systems, coordinated by Benoît Rousseau

@@ -89,7 +89,7 @@ and reusable.
   infrared-spectroscopy work.
 - **AIST / NMIJ TPDS** — national thermophysical-property database with
   explicit emissivity and reflectivity records.
-- **Thermomat / UPV-EHU / EKHI** — open database of optical and thermal
+- **Thermomat / EHU / EKHI** — open database of optical and thermal
   radiative properties, FAIR-compliant.
 
 A field only becomes cumulative when measurements can be organized into
@@ -138,7 +138,7 @@ performance.
 |---|---|
 | **Cryogenic (~20–300 K)** | ISI Brno (specialist) |
 | **Near room temperature** | NIST, PTB, AIST/NMIJ |
-| **Mid high-temperature (~300–1500 °C)** | PROMES-CNRS (DISCO), CEMHTI-CNRS, CNR-INO, IMT Mines Albi (BMEIR), CAE Würzburg, University of West Bohemia, Thermomat/UPV-EHU |
+| **Mid high-temperature (~300–1500 °C)** | PROMES-CNRS (DISCO), CEMHTI-CNRS, CNR-INO, IMT Mines Albi (BMEIR), CAE Würzburg, University of West Bohemia, Thermomat/EHU |
 | **High to very high temperature (~1500–2500 °C)** | PTB (to ~2300 °C), CEMHTI-CNRS (to ~2700 K), VINČA (pulse heating of metals/alloys) |
 | **Ultrahigh temperature (>3000 °C)** | University of Virginia (Hopkins Group, to ~4000 °C) |
 
@@ -167,7 +167,7 @@ LEAT**. France concentrates a cluster of CNRS laboratories — **CEMHTI
 **LTeN (Nantes)**. The Czech Republic contributes two specialist nodes —
 **ISI Brno** for cryogenics and **UWB / NTC** for photo-thermal properties of
 coatings. Italy contributes **CNR-INO** for solar-energy and optical-range
-work. Spain contributes **Thermomat / UPV-EHU** with **EKHI** and the
+work. Spain contributes **Thermomat / EHU** with **EKHI** and the
 IR-EMPOWER workshop. Serbia contributes **Institute VINČA** for pulse-heating
 high-temperature metals/alloys work.
 
@@ -216,7 +216,7 @@ conspicuous structural features:
 3. **Data stewardship is now a recognizable third leg.** Databases (JEDI,
    TPDS, ASU TES Library, RELAB, EKHI) have become infrastructure on the
    same footing as instrumentation. Institutions that both measure and curate
-   — notably **AIST / NMIJ** and **Thermomat / UPV-EHU** — occupy an
+   — notably **AIST / NMIJ** and **Thermomat / EHU** — occupy an
    increasingly strategic position.
 
 Engineered emissivity / thermal photonics and applied-energy / cool-surface

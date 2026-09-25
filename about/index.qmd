@@ -43,7 +43,7 @@ toc: false
 
   <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">Origin</h2>
 
-  <p>Emissivity.org was founded by the <strong>HAIRL / Thermomat group</strong> at the University of the Basque Country (UPV/EHU) in Bilbao, Spain. The group&rsquo;s long experience building FTIR-based emissometry systems, curating spectral datasets, and collaborating internationally motivated the creation of a shared platform for the field.</p>
+  <p>Emissivity.org was founded by the <strong>HAIRL / Thermomat group</strong> at the University of the Basque Country (EHU) in Bilbao, Spain. The group&rsquo;s long experience building FTIR-based emissometry systems, curating spectral datasets, and collaborating internationally motivated the creation of a shared platform for the field.</p>
 
   <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">The network</h2>
 

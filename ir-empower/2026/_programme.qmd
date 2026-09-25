@@ -5,7 +5,7 @@
 | 08:00 | *Registration* | |
 | 08:45 | *Opening of the workshop* | |
 | | **Session 1** | |
-| 09:00 | **New Upgrades on the Emissivity Measurement Setup at UPV/EHU** *(plenary)* | Iñigo González de Arrieta · [UPV/EHU, Leioa (Spain)](/network/thermomat-ehu.html) |
+| 09:00 | **New Upgrades on the Emissivity Measurement Setup at EHU** *(plenary)* | Iñigo González de Arrieta · [EHU, Leioa (Spain)](/network/thermomat-ehu.html) |
 | 09:50 | **The New Hemispherical Enclosure for Emissivity Measurements at PTB** | Albert Adibekyan · [PTB, Berlin (Germany)](/network/ptb.html) |
 | 10:15 | **Measurement of Directional Spectral Emissivity at LNE** | Guillaume Failleau · [LNE, Trappes (France)](/network/lne-trappes.html) |
 | 10:40 | *Coffee break* | |
@@ -45,7 +45,7 @@
 | 12:50 | *Lunch* | |
 | | **Session 7** | |
 | 13:50 | **Catalogue of Thermo-Optical Properties of Construction Materials** | Gloria Pérez · [CSIC, Madrid (Spain)](/network/csic-ietcc.html) |
-| 14:15 | **[EKHI: the Open Database of Optical and Radiative Data](/data/ekhi.html)** | Jon Gabirondo-López · [UPV/EHU, Leioa (Spain)](/network/thermomat-ehu.html) |
+| 14:15 | **[EKHI: the Open Database of Optical and Radiative Data](/data/ekhi.html)** | Jon Gabirondo-López · [EHU, Leioa (Spain)](/network/thermomat-ehu.html) |
 | 14:40 | **Measuring Emittance in Ceramics from the Visible to the Mid-IR** | Patrick E. Hopkins · [UVA, Charlottesville (USA)](/network/uva.html) |
 | 15:00 | *Poster session* | |
 | 15:45 | *Coffee break* | |

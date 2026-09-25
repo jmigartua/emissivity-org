@@ -3,7 +3,7 @@
 Source repository for **[emissivity.org](https://emissivity.org)** — the
 common reference point for laboratories and research groups working on the
 measurement, modelling, and engineering of the thermal radiative properties
-of materials. Hosted at the University of the Basque Country (UPV/EHU).
+of materials. Hosted at the University of the Basque Country (EHU).
 
 ## Stack
 

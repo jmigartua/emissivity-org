@@ -11,7 +11,7 @@ networks:
     coordinator: "Benoît Rousseau (CNRS, LTeN Nantes)"
     url: "https://tamarys.cnrs.fr/"
     page: "/network/networks/tamarys.html"
-    relation: "UPV/EHU Thermomat member since June 2026"
+    relation: "EHU Thermomat member since June 2026"
     members_on_map: [lten-cnrs, thermomat-ehu, onera-dota]
 
   - id: parametric
@@ -28,8 +28,8 @@ networks:
     name: "IR-EMPOWER"
     kind: "Workshop series"
     blurb: "The community workshop devoted entirely to infrared emissivity measurement, so far held every two years at a member laboratory."
-    coordinator: "Rotating host (UPV/EHU 2024, CAE 2026)"
+    coordinator: "Rotating host (EHU 2024, CAE 2026)"
     url: "/ir-empower/index.html"
     page: "/ir-empower/index.html"
-    relation: "Founded by UPV/EHU Thermomat in 2024"
+    relation: "Founded by EHU Thermomat in 2024"
     members_on_map: []

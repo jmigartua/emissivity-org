@@ -30,11 +30,11 @@ as one of the community's priorities.
 
 | Exercise | Participants | Materials | Protocol | Status |
 |---|---|---|---|---|
-| High-temperature emissivity of aeronautical superalloys | [LTeN-CNRS](/network/lten-cnrs.html) · [UPV/EHU](/network/thermomat-ehu.html) | Inconel 718 · René 41 · Haynes 25 (discs Ø 20–25 mm, 1–2 mm thick) | Pre-oxidised at 900 °C, then measured in air from 400 to 1000 °C in both laboratories | Samples in preparation |
+| High-temperature emissivity of aeronautical superalloys | [LTeN-CNRS](/network/lten-cnrs.html) · [EHU](/network/thermomat-ehu.html) | Inconel 718 · René 41 · Haynes 25 (discs Ø 20–25 mm, 1–2 mm thick) | Pre-oxidised at 900 °C, then measured in air from 400 to 1000 °C in both laboratories | Samples in preparation |
 
 ## Background
 
-The superalloy comparison builds on earlier UPV/EHU measurements of the same
+The superalloy comparison builds on earlier EHU measurements of the same
 alloys, including spectra of samples with a growing oxide film:
 [Emissivity measurements on aeronautical alloys](/publications/2010/del-campo/index.html) (2010).
 Related work on oxidation and emissivity of these alloy families:

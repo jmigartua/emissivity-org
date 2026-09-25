@@ -11,7 +11,7 @@ toc: false
 ::: {.page-article}
 # Submit data to EKHI
 
-[EKHI](/data/ekhi.html) indexes curve-level optical and thermal radiative property data with explicit provenance. Submissions are curated by the Thermomat group at UPV/EHU; every accepted dataset remains traceable to its source publication and credits its authors.
+[EKHI](/data/ekhi.html) indexes curve-level optical and thermal radiative property data with explicit provenance. Submissions are curated by the Thermomat group at EHU; every accepted dataset remains traceable to its source publication and credits its authors.
 
 ```{=html}
 <div class="form-alt">

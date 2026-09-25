@@ -1,15 +1,15 @@
 ---
-title: "Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU"
+title: "Thermomat — Thermophysical Properties of Materials Research Group, EHU"
 page-layout: full
 toc: false
 ---
 
 ```{=html}
-<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Thermomat / UPV-EHU</div>
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / Thermomat / EHU</div>
 ```
 
 ::: {.page-article}
-# Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU
+# Thermomat — Thermophysical Properties of Materials Research Group, EHU
 
 ## Snapshot
 
@@ -43,7 +43,7 @@ methodological convergence.
 ### Relevant units
 
 - **Thermomat — Thermophysical Properties of Materials Research Group
-  (UPV/EHU)** — infrared emissometry, radiative-property characterization,
+  (EHU)** — infrared emissometry, radiative-property characterization,
   and development of measurement instrumentation.
 - **EKHI — open database of optical and thermal radiative properties for
   solid materials** — supports interactive querying and visualization of
@@ -85,7 +85,7 @@ and radiative quantities.
   EKHI.
 - **IR-EMPOWER 2026** ([programme](/ir-empower/2026/index.html)): plenary by
   Iñigo González de Arrieta, *New upgrades on the emissivity measurement setup
-  at UPV/EHU*; talk by Jon Gabirondo-López, *EKHI: the open database of optical
+  at EHU*; talk by Jon Gabirondo-López, *EKHI: the open database of optical
   and radiative data*; three posters (data-processing pipelines, a historical
   survey of radiometric emissometers, emissivity of metals in extreme
   conditions); Gabriel A. López on the scientific committee.
@@ -101,7 +101,7 @@ backbone. Few groups in the field combine all three.
 
 ## External sources
 
-- [Thermomat — UPV/EHU](https://thermomat.ehu.eus/)
+- [Thermomat — EHU](https://thermomat.ehu.eus/)
 - [IR-EMPOWER workshop](https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower)
 - [IR-EMPOWER 2026 programme — CAE flyer](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
 - [EKHI — Scientific Data paper (Nature)](https://www.nature.com/articles/s41597-026-07083-9)

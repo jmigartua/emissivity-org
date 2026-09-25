@@ -38,7 +38,7 @@ toc: false
         <div class="kind">CNRS research federation</div>
         <h4>TAMARYS</h4>
         <p>French research network on extreme heat: thermal radiation–matter interaction from the UV to the IR, materials for extreme environments, and high-temperature systems.</p>
-        <p class="rel">UPV/EHU Thermomat member since June 2026</p>
+        <p class="rel">EHU Thermomat member since June 2026</p>
       </a>
       <a class="net-card" href="/network/networks/parametric.html">
         <div class="kind">EU metrology project (EPM 21GRD03)</div>
@@ -50,7 +50,7 @@ toc: false
         <div class="kind">Workshop series</div>
         <h4>IR-EMPOWER</h4>
         <p>The community workshop devoted entirely to infrared emissivity measurement, so far held every two years at a member laboratory.</p>
-        <p class="rel">Founded by UPV/EHU Thermomat in 2024</p>
+        <p class="rel">Founded by EHU Thermomat in 2024</p>
       </a>
       </div>
     </div>
@@ -109,7 +109,7 @@ toc: false
           <td class="cap">1–11 µm · ~600–1000 °C</td>
         </tr>
         <tr>
-          <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU</a>
+          <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat — Thermophysical Properties of Materials Research Group, EHU</a>
             <span class="unit">Thermomat — Thermophysical Properties of Materials</span></td>
           <td class="cc">ES</td>
           <td><span class="tier-pill core">core</span></td>

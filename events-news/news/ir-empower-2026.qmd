@@ -15,7 +15,7 @@ description: "The 2nd IR-EMPOWER workshop on infrared emissivity measurement tak
 The second edition of **IR-EMPOWER**, the community workshop on infrared
 emissivity measurement, takes place on **28–29 September 2026** at the Center
 for Applied Energy Research (CAE), Würzburg, Germany. Founded in 2024 and
-first organized by the Thermomat / HAIRL group at UPV/EHU in Bilbao, the
+first organized by the Thermomat / HAIRL group at EHU in Bilbao, the
 workshop covers measurement techniques and protocols, intercomparisons and
 databases, modelling and simulation, and thermophysical metrology and
 applications.

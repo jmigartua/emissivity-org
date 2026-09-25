@@ -16,7 +16,7 @@ toc: false
 
 <p class="thesis-lead">On <strong>12 June 2026</strong>, <strong>Mireia Sainz</strong> defended her doctoral thesis,
 <em>“Advanced experimental study of the optical and vibrational properties of oxide
-nanoheterogeneous materials,”</em> at the University of the Basque Country (UPV/EHU).
+nanoheterogeneous materials,”</em> at the University of the Basque Country (EHU).
 The committee awarded the highest distinction: <strong>Sobresaliente Cum Laude with International
 Thesis Mention</strong>. The work shows how infrared spectroscopy, paired with rigorous physical
 modelling, becomes a quantitative tool for reading the structure of inorganic nanomaterials —
@@ -29,10 +29,10 @@ squarely within the methods this community cares about.</p>
   </figure>
 
   <div class="thesis-facts" aria-label="Thesis details">
-    <div class="row"><span class="k">Defended</span><span class="v">12 June 2026 · UPV/EHU, Bilbao</span></div>
+    <div class="row"><span class="k">Defended</span><span class="v">12 June 2026 · EHU, Bilbao</span></div>
     <div class="row"><span class="k">Grade</span><span class="v">Sobresaliente Cum Laude — International Thesis Mention</span></div>
-    <div class="row"><span class="k">Supervisors</span><span class="v">Dr Gabriel Alejandro López (Dept. of Physics, UPV/EHU)<br/>Dr Telmo Echániz Ariceta (Dept. of Applied Mathematics, UPV/EHU)</span></div>
-    <div class="row"><span class="k">Committee</span><span class="v">Dr Leire del Campo — Chair (CEMHTI, CNRS Orléans)<br/>Dr Jesús Martínez Perdiguero — Secretary (Dept. of Physics, UPV/EHU)<br/>Dr Benoît Rousseau — Member (LTeN, CNRS Nantes)</span></div>
+    <div class="row"><span class="k">Supervisors</span><span class="v">Dr Gabriel Alejandro López (Dept. of Physics, EHU)<br/>Dr Telmo Echániz Ariceta (Dept. of Applied Mathematics, EHU)</span></div>
+    <div class="row"><span class="k">Committee</span><span class="v">Dr Leire del Campo — Chair (CEMHTI, CNRS Orléans)<br/>Dr Jesús Martínez Perdiguero — Secretary (Dept. of Physics, EHU)<br/>Dr Benoît Rousseau — Member (LTeN, CNRS Nantes)</span></div>
   </div>
 </div>
 

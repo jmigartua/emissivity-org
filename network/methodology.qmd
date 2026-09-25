@@ -45,7 +45,7 @@ An entity qualifies for the map if **at least one** of the following is true:
    BMEIR at IMT Mines Albi, System for Infrared Spectral Emittance of
    Materials at NIST).
 3. **Curated public database** on the scope topics (e.g. JEDI at NASA JPL,
-   TPDS at AIST / NMIJ, EKHI at Thermomat / UPV-EHU, USGS Spectral Library).
+   TPDS at AIST / NMIJ, EKHI at Thermomat / EHU, USGS Spectral Library).
 4. **Sustained peer-reviewed output** on the scope topics with evidence of
    ongoing activity (e.g. conference contributions, HAL/arXiv records, group
    publication pages).
@@ -69,7 +69,7 @@ measurement capability **and** sustained output. Examples: PTB (WG 7.35
 "Emissivity"), CEMHTI-CNRS (simultaneous T + spectral emittance), PROMES-CNRS
 (DISCO), IMT Mines Albi (BMEIR), ISI Brno (cryogenic emissivity), Institute
 VINČA (direct pulse-heating), NIST (System for IR Spectral Emittance),
-AIST/NMIJ (TPDS), and the Thermomat/EKHI group at UPV-EHU.
+AIST/NMIJ (TPDS), and the Thermomat/EKHI group at EHU.
 
 ### Tier II — Extended (14 entities)
 

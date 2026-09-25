@@ -1,3 +1,3 @@
-- *Reproducible Pipelines for Emissivity Data Processing* — Iñigo González de Arrieta (UPV/EHU)
-- *Historical Survey of Radiometric Emissometers* — Jon Gabirondo-López (UPV/EHU)
-- *Applications of Infrared Emissivity to the Study of Metals in Extreme Conditions* — Mireia Sainz-Menchón (UPV/EHU)
+- *Reproducible Pipelines for Emissivity Data Processing* — Iñigo González de Arrieta (EHU)
+- *Historical Survey of Radiometric Emissometers* — Jon Gabirondo-López (EHU)
+- *Applications of Infrared Emissivity to the Study of Metals in Extreme Conditions* — Mireia Sainz-Menchón (EHU)

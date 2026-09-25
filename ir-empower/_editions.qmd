@@ -1,4 +1,4 @@
 | Edition | Status | Dates | Venue | Host |
 |---|---|---|---|---|
 | **[IR-EMPOWER 2026](/ir-empower/2026/index.html)** | <span class="dw" data-show-until="2026-09-27">Programme published</span><span class="dw" data-show-from="2026-09-28" data-show-until="2026-09-29" hidden>In progress</span><span class="dw" data-show-from="2026-09-30" hidden>Archive</span> | 28–29 September 2026 | CAE, Würzburg, Germany | Center for Applied Energy Research |
-| **[IR-EMPOWER 2024](/ir-empower/2024/index.html)** | Archive | 5–6 September 2024 | Bizkaia Aretoa, Bilbao, Spain | Thermomat / HAIRL, UPV/EHU |
+| **[IR-EMPOWER 2024](/ir-empower/2024/index.html)** | Archive | 5–6 September 2024 | Bizkaia Aretoa, Bilbao, Spain | Thermomat / HAIRL, EHU |

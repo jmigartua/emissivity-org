@@ -404,8 +404,8 @@ institutions:
   - id: thermomat-ehu
     rank: 7
     tier: core
-    name: "Thermomat — Thermophysical Properties of Materials Research Group, UPV/EHU"
-    short_name: "Thermomat / UPV-EHU"
+    name: "Thermomat — Thermophysical Properties of Materials Research Group, EHU"
+    short_name: "Thermomat / EHU"
     country: "Spain"
     iso_country: "ES"
     city: "Leioa / Bilbao"
@@ -469,7 +469,7 @@ institutions:
       convergence.
 
     external_sources:
-      - label: "Thermomat — UPV/EHU"
+      - label: "Thermomat — EHU"
         url: "https://thermomat.ehu.eus/"
       - label: "IR-EMPOWER workshop"
         url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower"
