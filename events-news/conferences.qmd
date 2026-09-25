@@ -66,7 +66,8 @@ listing:
 
   <p class="inner-page" style="max-width:52rem; line-height:1.7; color:var(--text-secondary,#555);">
     Curated index of conferences relevant to emissivity, emissometry, infrared thermography, and temperature metrology.
-    Subscribe to our calendar to stay up to date with upcoming events.
+    Subscribe to our calendar to stay up to date with upcoming events. Training schools and courses have their own
+    listing: <a href="/events-news/schools.html">Schools &amp; courses</a>.
   </p>
 
   <p style="margin-top:0.5rem;">

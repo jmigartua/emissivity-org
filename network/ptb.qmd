@@ -21,6 +21,7 @@ toc: false
 | **Primary ecosystem** | Metrology |
 | **Relevant units** | Working Group **7.35 — Emissivity**; Working Group **7.32 — Infrared Radiometry** |
 | **Publicly linked people** | Albert Adibekyan · David Urban |
+| **Networks** | [PaRaMetriC](/network/networks/parametric.html) consortium partner |
 
 ## Why it matters internationally
 

@@ -12,6 +12,7 @@ listing:
     contents:
       - events-news/conferences/2026-*.qmd
       - events-news/conferences/2027-*.qmd
+      - events-news/schools/*.qmd
     sort: "date asc"
     type: custom
     template: assets/listings/home-events.ejs

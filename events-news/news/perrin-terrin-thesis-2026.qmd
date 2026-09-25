@@ -1,0 +1,43 @@
+---
+title: "Jean-Baptiste Perrin-Terrin defends his PhD on plasma-assisted combustion"
+date: "2026-09-25"
+categories: [Thesis, People, TAMARYS]
+description: "On 25 June 2026, Jean-Baptiste Perrin-Terrin defended his doctoral thesis at CentraleSupélec on plasma-assisted combustion in low-emission burners, from hydrocarbons to hydrogen, work funded by the ERC GreenBlue project."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+
+<p class="section__label">News · Doctoral thesis · from the TAMARYS network</p>
+
+<h1 class="thesis-h1">Plasma-assisted combustion, from hydrocarbons to hydrogen</h1>
+
+<p class="thesis-lead">On <strong>25 June 2026</strong>, <strong>Jean-Baptiste Perrin-Terrin</strong>
+defended his doctoral thesis, <em>“Plasma-assisted combustion in low emissions burners: from
+hydrocarbons to hydrogen,”</em> at CentraleSupélec. The work was funded by the ERC
+<strong>GreenBlue</strong> project and addresses a question central to cleaner high-temperature
+energy: how plasma discharges can assist low-emission combustion, from hydrocarbon to hydrogen flames.</p>
+
+<div class="thesis-hero" style="grid-template-columns: 1fr;">
+  <div class="thesis-facts" aria-label="Thesis details">
+    <div class="row"><span class="k">Defended</span><span class="v">25 June 2026, 14:30 · CentraleSupélec, Théâtre Rousseau</span></div>
+    <div class="row"><span class="k">Title</span><span class="v">Plasma-assisted combustion in low emissions burners: from hydrocarbons to hydrogen</span></div>
+    <div class="row"><span class="k">Supervision</span><span class="v">Christophe Laux (supervisor) · Sébastien Ducruix (co-supervisor) · Philippe Scouflaire (co-advisor)</span></div>
+    <div class="row"><span class="k">Funding</span><span class="v">ERC GreenBlue project</span></div>
+  </div>
+</div>
+
+<p>The defence was announced to the <a href="/network/networks/tamarys.html">TAMARYS</a> research
+network, which brings together French laboratories working on radiation, extreme-environment
+materials and high-temperature systems. As the announcement put it, the work advances both the
+understanding of fundamental effects and their practical implementation, and it matters for the
+cleaner energy solutions of the future. Reported here with the agreement of the network's
+coordination, following <a href="/events-news/news/mireia-sainz-thesis-2026.html">Mireia Sainz's
+thesis</a> in June.</p>
+
+<p class="thesis-back"><a href="/news/index.html">&larr; All news</a></p>
+
+</div>
+```

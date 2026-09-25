@@ -1,27 +1,60 @@
 ```{=html}
-<section class="featured-band" aria-label="Featured announcement">
+<section class="featured-band" aria-label="Featured announcement" data-show-until="2026-09-27">
   <div class="wrap featured-grid">
     <div class="featured-main">
       <div class="featured-kicker">Announcement · Community workshop</div>
       <h2 class="featured-title">IR-EMPOWER 2026
         <span class="featured-sub">Infrared emissivity measurement workshop — 2nd edition</span></h2>
-      <p class="featured-body">The community workshop on infrared emissivity measurement returns. Founded in 2024 and first organized by the Thermomat / HAIRL group at UPV/EHU in Bilbao, IR-EMPOWER brings together the laboratories of the research map — metrology institutes, high-temperature facilities, and university groups — around measurement below and above 1000 K. Registration is open; poster abstracts are due 31 July 2026.</p>
-      <p class="featured-links"><a href="https://cae-zerocarbon.de/IR-Empower-Workshop.html">Official workshop page &amp; registration (CAE)</a> <span class="sep">·</span> <a href="/events-news/news/ir-empower-2026.html">Announcement</a> <span class="sep">·</span> <a href="/files/ical/emissivity-conferences.ics">Add to calendar (iCal)</a> <span class="sep">·</span> <a href="/ir-empower/2024/index.html">IR-EMPOWER 2024 — first edition archive</a> </p>
+      <p class="featured-body">The programme is out: 21 talks over two days at the Center for Applied Energy Research, from national metrology institutes to university groups, with plenaries by UPV/EHU and LTeN-CNRS, a laboratory tour, two poster sessions, a round table on the future of the community and the Young Speaker Award. Founded in 2024 by the Thermomat / HAIRL group at UPV/EHU, IR-EMPOWER is the one meeting devoted entirely to emissivity measurement.</p>
+      <p class="featured-links"><a href="/ir-empower/2026/index.html">Programme &amp; speakers</a> <span class="sep">·</span> <a href="https://cae-zerocarbon.de/IR-Empower-Workshop.html">Official workshop page (CAE)</a> <span class="sep">·</span> <a href="/ir-empower/2024/index.html">IR-EMPOWER 2024 — first edition archive</a> </p>
     </div>
     <div class="featured-when">
       <div class="d">28–29 September 2026</div>
       <div class="l">Würzburg, Germany · hosted by CAE</div>
-      <div class="c mono" id="featured-countdown" data-until="2026-09-28"></div>
+      <div class="c mono featured-countdown" data-until="2026-09-28"></div>
+    </div>
+  </div>
+</section>
+<section class="featured-band" aria-label="Featured announcement" data-show-from="2026-09-28" data-show-until="2026-09-29" hidden>
+  <div class="wrap featured-grid">
+    <div class="featured-main">
+      <div class="featured-kicker">Happening now · Community workshop</div>
+      <h2 class="featured-title">IR-EMPOWER 2026 is under way
+        <span class="featured-sub">Infrared emissivity measurement workshop — 2nd edition</span></h2>
+      <p class="featured-body">About forty researchers are meeting at the Center for Applied Energy Research in Würzburg for two days of talks, posters and a laboratory tour devoted to infrared emissivity measurement. The round table and the Young Speaker Award close the workshop on Tuesday afternoon.</p>
+      <p class="featured-links"><a href="/ir-empower/2026/index.html">Today&#x27;s programme</a> <span class="sep">·</span> <a href="https://cae-zerocarbon.de/IR-Empower-Workshop.html">Official workshop page (CAE)</a> </p>
+    </div>
+    <div class="featured-when">
+      <div class="d">28–29 September 2026</div>
+      <div class="l">Würzburg, Germany · hosted by CAE</div>
+      <div class="c mono">live this week</div>
+    </div>
+  </div>
+</section>
+<section class="featured-band" aria-label="Featured announcement" data-show-from="2026-09-30" data-show-until="2026-10-13" hidden>
+  <div class="wrap featured-grid">
+    <div class="featured-main">
+      <div class="featured-kicker">In review · Community workshop</div>
+      <h2 class="featured-title">IR-EMPOWER 2026 in review
+        <span class="featured-sub">Second edition, Würzburg, 28–29 September 2026</span></h2>
+      <p class="featured-body">Twenty-one talks, two poster sessions and a round table on how the community should grow: the second IR-EMPOWER is now part of the series archive, alongside the 2024 Bilbao edition.</p>
+      <p class="featured-links"><a href="/ir-empower/2026/index.html">IR-EMPOWER 2026 archive</a> <span class="sep">·</span> <a href="/ir-empower/index.html">The IR-EMPOWER series</a> </p>
+    </div>
+    <div class="featured-when">
+      <div class="d">28–29 September 2026</div>
+      <div class="l">Würzburg, Germany · hosted by CAE</div>
+      <div class="c mono">archive</div>
     </div>
   </div>
 </section>
 <script>
 (function () {
-  var el = document.getElementById("featured-countdown");
-  if (!el) return;
-  var days = Math.ceil((new Date(el.dataset.until) - new Date()) / 864e5);
-  if (days > 1) el.textContent = "in " + days + " days";
-  else if (days >= 0) el.textContent = "this week";
+  document.querySelectorAll(".featured-countdown").forEach(function (el) {
+    var days = Math.ceil((new Date(el.dataset.until) - new Date()) / 864e5);
+    if (days > 1) el.textContent = "in " + days + " days";
+    else if (days === 1) el.textContent = "tomorrow";
+    else if (days === 0) el.textContent = "today";
+  });
 })();
 </script>
 ```

@@ -1,0 +1,61 @@
+---
+title: "TAMARYS — CNRS research federation on extreme heat"
+description: "TAMARYS, the French CNRS research federation on thermal radiation, materials for extreme environments and high-temperature systems; organiser of the RTSTM thematic school."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html#research-networks">Research networks</a> / TAMARYS</div>
+```
+
+::: {.page-article}
+# TAMARYS
+
+## Snapshot
+
+| | |
+|---|---|
+| **Kind** | Research federation of the CNRS (FRA 2018), formerly GDR TAMARYS |
+| **Country** | France, with European and industrial partners |
+| **Coordination** | Benoît Rousseau (CNRS, [LTeN Nantes](/network/lten-cnrs.html)) |
+| **Scope** | Thermal radiation–matter interaction (UV to IR) · materials for extreme environments · high-temperature systems and multiphysics simulation |
+| **Applications** | Decarbonising high-temperature industrial processes · reusable thermal protection for aerospace |
+| **Training** | [RTSTM 2026 thematic school](/events-news/schools/2026-rtstm-hendaye.html), Hendaye, 3–9 October 2026 |
+| **Official site** | [tamarys.cnrs.fr](https://tamarys.cnrs.fr/) |
+
+## Why it matters for emissivity
+
+TAMARYS gathers French expertise in heat transfer, materials for extreme
+environments and reactive flows. Radiation–matter interaction is one of its
+three priorities, and that is where emissivity sits: the property that
+connects a material's structure to the radiation it emits at high temperature.
+It also brings together academic laboratories and an Industrial Partner Club,
+the combination that decides whether radiative-property data reaches
+engineering practice.
+
+## On the research map
+
+- [LTeN-CNRS / Nantes Université](/network/lten-cnrs.html): coordination
+- [ONERA — DOTA](/network/onera-dota.html): partner
+- [Thermomat — UPV/EHU](/network/thermomat-ehu.html): member since June 2026;
+  contact Iñigo González de Arrieta
+
+## Activities
+
+| Date | Activity | Place |
+|---|---|---|
+| 9 Mar 2027 | *Mastering on-board extreme heat-flux sensors for reusable space vehicles and industrial processes* ([details](https://tamarys.cnrs.fr/2026/08/27/mastering-on-board-extreme-heat-flux-sensors-marie-curie-museum-paris-9-march-2027/)) | Musée Curie, Paris |
+| 3–4 Nov 2026 | Research–industry meeting with Constellium C-TEC: materials and radiation for decarbonising aluminium recycling ([details](https://tamarys.cnrs.fr/2026/08/25/rencontre-recherche-industrie-tamarys-constellium-c-tec-voreppe-france-3-5-novembre-2026/)) | C-TEC, Voreppe |
+| 3–9 Oct 2026 | [International CNRS Thematic School on Radiative Transfer in Semi-Transparent Media](/events-news/schools/2026-rtstm-hendaye.html) | Hendaye |
+
+All three are in the [iCal feed](/files/ical/emissivity-conferences.ics).
+
+::: {.sources-panel}
+### Provenance
+
+From the TAMARYS website and its mailing-list announcements (April–September
+2026). Map institutions are listed only when TAMARYS names them publicly or
+when the group has confirmed its membership. Verified 2026-09-25.
+:::
+:::

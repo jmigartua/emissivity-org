@@ -1,0 +1,106 @@
+---
+title: "IR-EMPOWER 2026"
+description: "Second IR-EMPOWER workshop on infrared emissivity measurements: 28–29 September 2026, Center for Applied Energy Research (CAE), Würzburg. Programme, speakers, scientific committee, round table and Young Speaker Award."
+date: 2026-09-28
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/ir-empower/index.html">IR-EMPOWER</a> / 2026</div>
+```
+
+::: {.page-article}
+# IR-EMPOWER 2026
+
+**Workshop on Infrared Emissivity Measurements — second edition**
+
+| | |
+|---|---|
+| **Dates** | 28–29 September 2026 |
+| **Venue** | Center for Applied Energy Research (CAE), Magdalene-Schoch-Str. 3, 97074 Würzburg, Germany |
+| **Hosted by** | [CAE](/network/cae-wuerzburg.html) — Advanced Thermal Management group (Jochen Manara) |
+| **Format** | Two days: 21 invited talks (25-minute slots, 20 min + 5 min discussion; two 50-minute plenaries), laboratory tour, two poster sessions, round table and Young Speaker Award |
+| **Attendance** | About 40 participants from metrology institutes, research centres, universities and industry in Europe and the United States |
+| **Official page** | [cae-zerocarbon.de/IR-Empower-Workshop.html](https://cae-zerocarbon.de/IR-Empower-Workshop.html) · [flyer & programme (PDF)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf) |
+
+The second IR-EMPOWER moves the series from Bilbao to Würzburg, keeping what
+made the first edition work: a single topic — **how infrared emissivity is
+measured, compared, modelled and used** — and a room small enough for every
+talk to become a discussion. The programme runs from the national metrology
+institutes (PTB, LNE) and high-temperature facilities (CEMHTI, JRC, CAE) to
+additive manufacturing, construction materials, spacecraft coatings, and open
+data. The two plenaries come from the series' founding group at
+[UPV/EHU](/network/thermomat-ehu.html) and from
+[LTeN-CNRS](/network/lten-cnrs.html), coordinator of the French research network
+[TAMARYS](/network/networks/tamarys.html).
+
+## Scientific committee
+
+{{< include _committee.qmd >}}
+
+## Programme
+
+{{< include _programme.qmd >}}
+
+*Times are local (CEST). Programme as published by the organisers; check the
+[official page](https://cae-zerocarbon.de/IR-Empower-Workshop.html) for last-minute changes.*
+
+## Speakers
+
+{{< include _speakers.qmd >}}
+
+## From the Bilbao group
+
+The Thermomat / HAIRL group at UPV/EHU, which founded the series, contributes
+two talks and three posters:
+
+- **Plenary** — *New upgrades on the emissivity measurement setup at UPV/EHU*,
+  Iñigo González de Arrieta, opening the scientific programme on Monday morning.
+- **Talk** — [*EKHI: the open database of optical and radiative data*](/data/ekhi.html),
+  Jon Gabirondo-López: two years after the 2024 talk that proposed it, the
+  database this site indexes.
+
+Posters:
+
+{{< include _posters.qmd >}}
+
+## Round table
+
+The workshop closes on Tuesday afternoon with a round table on how the
+community should develop. The agenda set by the organisers covers four themes:
+
+1. **Young Speaker Award** — announced during the session.
+2. **Developing the community** — this website, mailing lists and a newsletter,
+   visibility, intercomparison measurements and round-robin tests, and data
+   collection.
+3. **Collaborations** — networking, joint funding (for example COST Actions and
+   Horizon Europe), thematic working groups, and links with groups worldwide.
+4. **The future of IR-EMPOWER** — periodicity, format and venue of the next
+   editions.
+
+The outcomes will be summarised here after the workshop.
+
+## Young Speaker Award
+
+As in 2024, the Young Speaker Award recognises the best contribution by a
+doctoral researcher. The winner will be announced at the round table on
+29 September and listed here.
+
+## The series
+
+IR-EMPOWER 2026 is the second edition. The first,
+[IR-EMPOWER 2024](/ir-empower/2024/index.html), was held at Bizkaia Aretoa in
+Bilbao on 5–6 September 2024. See [all editions](/ir-empower/index.html).
+
+::: {.sources-panel}
+### Provenance
+
+Programme, scientific committee and venue from the official CAE flyer
+([IR-EMPOWER_2026_Flyer_new.pdf](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)),
+retrieved 2026-09-25; attendance figures from the organisers (September 2026).
+Speaker institutions link to their [research map](/network/index.html) profiles
+where one exists.
+:::
+
+:::

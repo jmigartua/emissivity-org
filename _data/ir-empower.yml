@@ -1,0 +1,133 @@
+# IR-EMPOWER — Workshop on Infrared Emissivity Measurements
+# Single source of truth for the series. Rendered by tools/generate_ir_empower.py
+# into ir-empower/_editions.qmd and ir-empower/<year>/_programme.qmd.
+#
+# consent: public   -> already public at the source (e.g. the CAE flyer)
+#          granted  -> explicitly permitted by the owner
+#          pending / private -> NEVER rendered
+# "net" links a speaker's institution to /network/<net>.html when a profile exists.
+
+series:
+  name: "IR-EMPOWER"
+  full_name: "Workshop on Infrared Emissivity Measurements"
+  founded: 2024
+  founder: "Thermomat / HAIRL group, UPV/EHU"
+  periodicity: "biennial"   # to be confirmed at the 2026 round table
+
+editions:
+  - year: 2026
+    status_by_date:          # label shown in the editions table, by date window
+      - {until: "2026-09-27", label: "Programme published"}
+      - {from: "2026-09-28", until: "2026-09-29", label: "In progress"}
+      - {from: "2026-09-30", label: "Archive"}
+    dates: "28–29 September 2026"
+    start: 2026-09-28
+    end: 2026-09-29
+    venue: "Center for Applied Energy Research (CAE), Magdalene-Schoch-Str. 3, 97074 Würzburg, Germany"
+    venue_short: "CAE, Würzburg, Germany"
+    host: "Center for Applied Energy Research (CAE) — Advanced Thermal Management (J. Manara)"
+    host_short: "Center for Applied Energy Research"
+    page: "/ir-empower/2026/index.html"
+    official_url: "https://cae-zerocarbon.de/IR-Empower-Workshop.html"
+    programme_pdf: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"
+    source_note: "Programme and committee as published in the official CAE flyer (IR-EMPOWER_2026_Flyer_new.pdf), retrieved 2026-09-25."
+    numbers:                 # committee communication, 8 Sep 2026 — rounded wording on the page
+      participants: 40
+      orals: 21
+      posters: 10
+    format: "Two days of invited oral presentations (25-minute slots: 20 min talk + 5 min discussion; 50-minute plenaries), a laboratory tour, two poster sessions, a round table and the Young Speaker Award."
+
+    committee:               # as listed in the flyer (spelling corrected: Soum-Glaude)
+      - {name: "Konstantinos Boboridis", inst: "JRC", city: "Karlsruhe, Germany"}
+      - {name: "Tomáš Králík",           inst: "ISI CAS", city: "Brno, Czechia", net: isi-brno}
+      - {name: "Gabriel A. López",       inst: "UPV/EHU", city: "Bilbao, Spain", net: thermomat-ehu}
+      - {name: "Jochen Manara",          inst: "CAE", city: "Würzburg, Germany", net: cae-wuerzburg}
+      - {name: "Christian Monte",        inst: "PTB", city: "Berlin, Germany", net: ptb}
+      - {name: "Benoît Rousseau",        inst: "LTeN", city: "Nantes, France", net: lten-cnrs}
+      - {name: "Olivier Rozenbaum",      inst: "CEMHTI", city: "Orléans, France", net: cemhti-cnrs}
+      - {name: "Elisa Sani",             inst: "INO", city: "Florence, Italy", net: cnr-ino}
+      - {name: "Audrey Soum-Glaude",     inst: "PROMES", city: "Odeillo, France", net: promes-cnrs}
+      - {name: "Richard Zhang",          inst: "UNT", city: "Denton, USA"}
+
+    days:
+      - date: 2026-09-28
+        label: "Monday 28 September 2026"
+        items:
+          - {time: "08:00", kind: break, title: "Registration"}
+          - {time: "08:45", kind: break, title: "Opening of the workshop"}
+          - {kind: session, title: "Session 1"}
+          - {time: "09:00", kind: plenary, title: "New Upgrades on the Emissivity Measurement Setup at UPV/EHU", speaker: "Iñigo González de Arrieta", inst: "UPV/EHU, Leioa (Spain)", net: thermomat-ehu}
+          - {time: "09:50", kind: oral, title: "The New Hemispherical Enclosure for Emissivity Measurements at PTB", speaker: "Albert Adibekyan", inst: "PTB, Berlin (Germany)", net: ptb}
+          - {time: "10:15", kind: oral, title: "Measurement of Directional Spectral Emissivity at LNE", speaker: "Guillaume Failleau", inst: "LNE, Trappes (France)"}
+          - {time: "10:40", kind: break, title: "Coffee break"}
+          - {kind: session, title: "Session 2"}
+          - {time: "11:10", kind: oral, title: "High Temperature Emissivity Measurements of Oxide-Based Refractory Ceramics: From the Solid State to the Liquid State", speaker: "Leire del Campo, Olivier Rozenbaum", inst: "CEMHTI-CNRS, Orléans (France)", net: cemhti-cnrs}
+          - {time: "11:35", kind: oral, title: "Benefits and Limitations of Multi-Wavelength Pyrometry", speaker: "Konstantinos Boboridis", inst: "European Commission, JRC Karlsruhe (Germany)"}
+          - {time: "12:00", kind: oral, title: "Room Temperature Direct Emissivity Measurements of Spacecraft Thermal Materials", speaker: "Richard Zhang", inst: "UNT, Denton (USA)"}
+          - {time: "12:25", kind: oral, title: "Effect of Contaminants on the Thermal Absorptivity at Low Temperatures", speaker: "Tomáš Králík", inst: "ISI CAS, Brno (Czechia)", net: isi-brno}
+          - {time: "12:50", kind: break, title: "Lunch"}
+          - {kind: session, title: "Session 3"}
+          - {time: "13:50", kind: oral, title: "Determination of Emissivity as Basis for Non-Contact Temperature Measurements in 3D-Metal-Printing", speaker: "Jürgen Hartmann", inst: "THWS, Schweinfurt (Germany)"}
+          - {time: "14:15", kind: oral, title: "Multi- and Hyperspectral Temperature Measurement in the Additive Manufacturing of Metals", speaker: "Tina Walter", inst: "BAM, Berlin (Germany)"}
+          - {time: "14:40", kind: oral, title: "Emissivity Measurement and its Application in Thermodiagnostics of Additive Manufacturing of Plastics and Metals", speaker: "Zdeněk Veselý", inst: "ZČU, Pilsen (Czechia)", net: uwb-ntc}
+          - {time: "15:05", kind: oral, title: "Ready-to-Use Emissivity Measurement Solutions for Energy and Materials Research", speaker: "Karolina Haupa", inst: "Bruker, Ettlingen (Germany)"}
+          - {time: "15:30", kind: break, title: "Coffee break"}
+          - {kind: session, title: "Session 4 — Lab tour and poster session"}
+          - {time: "16:00", kind: break, title: "Laboratory tour (CAE)"}
+          - {time: "16:50", kind: break, title: "Poster session"}
+          - {time: "17:40", kind: break, title: "End of the first day"}
+          - {time: "20:00", kind: break, title: "Workshop dinner"}
+      - date: 2026-09-29
+        label: "Tuesday 29 September 2026"
+        items:
+          - {time: "08:30", kind: break, title: "Registration"}
+          - {kind: session, title: "Session 5"}
+          - {time: "09:00", kind: plenary, title: "Characterisation and Multi-Scale Modelling of the Spectral Emissivity of Silicon Carbide-Based Architectured Ceramics for the Carbon-Free Production of Energy", speaker: "Benoît Rousseau", inst: "LTeN-CNRS, Nantes (France)", net: lten-cnrs}
+          - {time: "09:50", kind: oral, title: "Modelling of Emissivity and Radiative Transfer in Semi-Transparent Materials", speaker: "Jochen Manara", inst: "CAE, Würzburg (Germany)", net: cae-wuerzburg}
+          - {time: "10:15", kind: oral, title: "Comparison of Emittance Results from Different Labs", speaker: "Elisa Sani", inst: "INO-CNR, Florence (Italy)", net: cnr-ino}
+          - {time: "10:40", kind: break, title: "Coffee break"}
+          - {kind: session, title: "Session 6"}
+          - {time: "11:10", kind: oral, title: "Emissivity Measurements of Construction Materials with Portable Equipment", speaker: "Pablo Alonso", inst: "CSIC, Madrid (Spain)"}
+          - {time: "11:35", kind: oral, title: "Pulse Heating Technique for Measuring the Emissivity at Temperatures up to 3000 °C", speaker: "Stephan Vidi", inst: "CAE, Würzburg (Germany)", net: cae-wuerzburg}
+          - {time: "12:00", kind: oral, title: "Directional-Hemispherical Reflectance Measurements up to 200 µm", speaker: "Elena Kononogova", inst: "PTB, Berlin (Germany)", net: ptb}
+          - {time: "12:25", kind: oral, title: "Direct and Indirect Measurement of Spectral Emissivity and Emittance from Room Temperature to 4000 °C", speaker: "Hunter Schonfeld", inst: "UVA, Charlottesville (USA)", net: uva}
+          - {time: "12:50", kind: break, title: "Lunch"}
+          - {kind: session, title: "Session 7"}
+          - {time: "13:50", kind: oral, title: "Catalogue of Thermo-Optical Properties of Construction Materials", speaker: "Gloria Pérez", inst: "CSIC, Madrid (Spain)"}
+          - {time: "14:15", kind: oral, title: "EKHI: the Open Database of Optical and Radiative Data", speaker: "Jon Gabirondo-López", inst: "UPV/EHU, Leioa (Spain)", net: thermomat-ehu, link: "/data/ekhi.html"}
+          - {time: "14:40", kind: oral, title: "Measuring Emittance in Ceramics from the Visible to the Mid-IR", speaker: "Patrick E. Hopkins", inst: "UVA, Charlottesville (USA)", net: uva}
+          - {time: "15:00", kind: break, title: "Poster session"}
+          - {time: "15:45", kind: break, title: "Coffee break"}
+          - {kind: session, title: "Session 8 — Discussion"}
+          - {time: "16:10", kind: break, title: "Round table & Young Speaker Award"}
+          - {time: "17:00", kind: break, title: "Closing"}
+          - {time: "17:15", kind: break, title: "End of the workshop"}
+
+    posters:                 # only posters whose presenters have agreed / our own group
+      - {title: "Reproducible Pipelines for Emissivity Data Processing", presenter: "Iñigo González de Arrieta", inst: "UPV/EHU", consent: public}
+      - {title: "Historical Survey of Radiometric Emissometers", presenter: "Jon Gabirondo-López", inst: "UPV/EHU", consent: public}
+      - {title: "Applications of Infrared Emissivity to the Study of Metals in Extreme Conditions", presenter: "Mireia Sainz-Menchón", inst: "UPV/EHU", consent: public}
+
+    round_table:
+      panel_consent: pending   # proposed panel, not yet confirmed publicly
+      themes:
+        - "Young Speaker Award"
+        - "Developing the community — the emissivity.org website, mailing lists and newsletter, visibility, intercomparisons and round-robin tests, data collection"
+        - "Collaborations — networking, funding (e.g. COST Actions, Horizon Europe), thematic working groups, links with groups worldwide"
+        - "The future of IR-EMPOWER — periodicity, format, venue"
+      outcomes: []             # fill after 29 Sep
+
+    award:
+      name: "Young Speaker Award"
+      winner: null             # fill only after the official announcement
+      consent: pending
+
+  - year: 2024
+    status_by_date:
+      - {label: "Archive"}
+    dates: "5–6 September 2024"
+    start: 2024-09-05
+    end: 2024-09-06
+    venue_short: "Bizkaia Aretoa, Bilbao, Spain"
+    host_short: "Thermomat / HAIRL, UPV/EHU"
+    page: "/ir-empower/2024/index.html"

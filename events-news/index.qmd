@@ -6,6 +6,7 @@ listing:
     contents:
       - conferences/2026-*.qmd
       - conferences/2027-*.qmd
+      - schools/*.qmd
     sort: "date asc"
     type: default
     categories: true
@@ -30,8 +31,8 @@ listing:
   </p>
 
   <p style="font-size:13.5px;color:#74808c;">
-    Conferences and workshops for 2026–27, each entry dated and linked to its
-    official site. Subscribe to the
+    Conferences, workshops and <a href="/events-news/schools.html">schools &amp; courses</a>
+    for 2026–27, each entry dated and linked to its official site. Subscribe to the
     <a href="/files/ical/emissivity-conferences.ics">iCal feed</a> to follow
     the calendar.
   </p>

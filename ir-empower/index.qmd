@@ -20,14 +20,18 @@ the laboratories of the [research map](/network/index.html) in one room.
 
 The series was founded in 2024 by the **Thermomat / HAIRL group at the
 University of the Basque Country (UPV/EHU)** in Bilbao, and continues with
-editions hosted by member laboratories of the network.
+editions hosted by member laboratories of the network — the second at the
+[Center for Applied Energy Research (CAE)](/network/cae-wuerzburg.html) in
+Würzburg in 2026. It is one of the community's
+[research networks](/network/index.html#research-networks).
 
 ## Editions
 
-| Edition | Dates | Venue | Host |
-|---|---|---|---|
-| **[IR-EMPOWER 2026](https://cae-zerocarbon.de/IR-Empower-Workshop.html)** — registration open | 28–29 September 2026 | CAE, Würzburg, Germany | Center for Applied Energy Research |
-| **[IR-EMPOWER 2024](/ir-empower/2024/index.html)** — archive | 5–6 September 2024 | Bizkaia Aretoa, Bilbao, Spain | Thermomat / HAIRL, UPV/EHU |
+{{< include _editions.qmd >}}
+
+The [2026 programme](/ir-empower/2026/index.html) lists all 21 talks; the
+[2024 archive](/ir-empower/2024/index.html) keeps the first edition's programme,
+speakers and committees.
 
 ## The series and the community
 

@@ -1,0 +1,38 @@
+---
+title: "Schools & courses"
+description: "Training schools, summer schools and courses on thermal radiation, radiative properties and emissivity measurement."
+page-layout: full
+toc: false
+listing:
+  - id: schools-all
+    contents: schools/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+    filter-ui: false
+    fields: [title, date, description]
+    page-size: 20
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/events-news/index.html">Events</a> / Schools &amp; courses</div>
+```
+
+::: {.page-article}
+# Schools & courses
+
+Training schools, summer schools and short courses on thermal radiation,
+radiative properties and emissivity measurement. Conferences and workshops
+are in the [conference calendar](/events-news/conferences.html). All entries
+are also in the [iCal feed](/files/ical/emissivity-conferences.ics).
+
+This listing began in 2026 with the TAMARYS school in Hendaye. It will grow into
+a record of training in the field, just as the conference calendar records its
+meetings. To add a school or course, use the
+[contribution form](/contribute/index.html).
+:::
+
+::: {.archive-listing}
+:::{#schools-all}
+:::
+:::

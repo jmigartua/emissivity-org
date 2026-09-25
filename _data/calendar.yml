@@ -1,0 +1,261 @@
+# Community calendar — single source of truth for files/ical/emissivity-conferences.ics
+# (rendered by tools/generate_ical.py). Dates are ISO; `end` is EXCLUSIVE
+# (iCalendar all-day convention: a 28–29 Sep event has end 2026-09-30).
+# kind: conference | workshop | school | meeting
+# Imported from the previous hand-written .ics on 2026-09-25.
+
+events:
+- title: 'Thermosense: Thermal Infrared Applications XLIV (SPIE)'
+  kind: conference
+  start: '2022-04-03'
+  end: '2022-04-08'
+  location: Orlando, Florida, USA
+  description: Thermal infrared applications; emissivity issues arise routinely in applied IR measurement
+    workflows.
+  url: https://spie.org/Publications/Proceedings/Volume/12109
+- title: CIM 2023 (21st International Metrology Congress)
+  kind: conference
+  start: '2023-03-07'
+  end: '2023-03-11'
+  location: Lyon, France
+  description: General metrology congress; thermometry tracks provide a context for radiation measurement
+    topics.
+  url: https://www.cim-metrology.org/en/archives/2023-edition/programme-2023
+- title: ITS-10 (10th International Temperature Symposium)
+  kind: conference
+  start: '2023-04-03'
+  end: '2023-04-08'
+  location: Anaheim, California, USA
+  description: Flagship temperature metrology symposium; radiation thermometry and emissivity appear in
+    several sessions.
+  url: https://its10.msc-conf.com/
+- title: 'Thermosense: Thermal Infrared Applications XLV (SPIE)'
+  kind: conference
+  start: '2023-05-02'
+  end: '2023-05-05'
+  location: Orlando, Florida, USA
+  description: Thermal IR applications and thermography; quantitative workflows commonly intersect emissivity.
+  url: https://spie.org/Publications/Proceedings/Volume/12536
+- title: ECTP 2023 (22nd European Conference on Thermophysical Properties)
+  kind: conference
+  start: '2023-09-03'
+  end: '2023-09-07'
+  location: Venice, Italy
+  description: Thermophysical properties measurement and modelling; radiative properties including emissivity
+    are within scope.
+  url: https://www.ectp2023.eu/
+- title: 'Thermosense: Thermal Infrared Applications XLVI (SPIE)'
+  kind: conference
+  start: '2024-04-21'
+  end: '2024-04-26'
+  location: National Harbor, Maryland, USA
+  description: Thermal infrared applications and thermography; quantitative practice commonly intersects
+    emissivity.
+  url: https://spie.org/Publications/Proceedings/Volume/13047
+- title: IR-EMPOWER 2024
+  kind: conference
+  start: '2024-09-05'
+  end: '2024-09-07'
+  location: Bilbao, Spain
+  description: Workshop on infrared emissivity measurement techniques and protocols.
+  url: https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower
+- title: CIM 2025 (22nd International Metrology Congress)
+  kind: conference
+  start: '2025-03-11'
+  end: '2025-03-15'
+  location: Lyon, France
+  description: General metrology congress with thermometry and radiation measurement tracks.
+  url: https://www.cim-metrology.org/en/program-2025
+- title: 'Thermosense: Thermal Infrared Applications XLVII (SPIE)'
+  kind: conference
+  start: '2025-04-15'
+  end: '2025-04-18'
+  location: Orlando, Florida, USA
+  description: Thermal infrared applications and thermography; emissivity treatment appears regularly
+    in methods and applications.
+  url: https://spie.org/Publications/Proceedings/Volume/13470
+- title: QIRT-Asia 2025 (5th Asian Quantitative Infrared Thermography Conference)
+  kind: conference
+  start: '2025-07-14'
+  end: '2025-07-19'
+  location: Harbin, China
+  description: Quantitative infrared thermography; emissivity handling is central to quantitative IR workflows.
+  url: https://www.chsndt.org/interconference/3706.html
+- title: TEMPMEKO–ISHM 2025
+  kind: conference
+  start: '2025-10-20'
+  end: '2025-10-25'
+  location: Reims, France
+  description: Temperature, humidity, moisture and thermophysical quantities metrology; radiation thermometry
+    and emissivity are recurring topics.
+  url: https://tempmeko-ishm2025.com/
+- title: IR/INFO Conference 2026
+  kind: conference
+  start: '2026-02-01'
+  end: '2026-02-05'
+  location: Orlando, Florida, USA
+  description: Annual infrared thermography conference with sessions and training on thermal imaging and
+    measurement practice.
+  url: https://irinfoconference.com/
+- title: SPIE Photonics Europe 2026
+  kind: conference
+  start: '2026-04-12'
+  end: '2026-04-17'
+  location: Strasbourg, France
+  description: Premier European photonics event covering optical imaging, sensing, metrology, and spectroscopy.
+  url: https://spie.org/conferences-and-exhibitions/photonics-europe
+- title: NMHT 2026 — Nanoscale and Microscale Heat Transfer IX (Eurotherm)
+  kind: conference
+  start: '2026-04-20'
+  end: '2026-04-25'
+  location: Berlin, Germany
+  description: Near-field radiative heat transfer, photon transport, thermal radiation at nanoscale.
+  url: https://premc.org/nmht2026/
+- title: SPIE Defense + Security 2026 — Infrared Technology and Applications LII
+  kind: conference
+  start: '2026-04-26'
+  end: '2026-05-01'
+  location: National Harbor, Maryland, USA
+  description: IR detector arrays, thermal imaging systems, SWIR/MWIR/LWIR technologies.
+  url: https://spie.org/conferences-and-exhibitions/defense-and-security
+- title: AIAA Thermophysics and Heat Transfer Conference 2026
+  kind: conference
+  start: '2026-06-08'
+  end: '2026-06-13'
+  location: San Diego, California, USA
+  description: Aerospace thermophysics — thermal protection systems, ablation, surface radiation.
+  url: https://aviation.aiaa.org/jointthermht/
+- title: ECTP 2026 — 23rd European Conference on Thermophysical Properties
+  kind: conference
+  start: '2026-06-21'
+  end: '2026-06-25'
+  location: Gouvieux (near Paris), France
+  description: Measurement, theory, and modeling of thermophysical properties including radiative and
+    optical properties.
+  url: https://www.ectp2026.com/
+- title: QIRT 2026 (18th Quantitative InfraRed Thermography Conference)
+  kind: conference
+  start: '2026-06-29'
+  end: '2026-07-04'
+  location: Naples, Italy
+  description: International conference on quantitative infrared thermography, including calibration,
+    uncertainty, and emissivity-related measurement topics.
+  url: https://qirt2026.unina.it/
+- title: ASME Summer Heat Transfer Conference 2026
+  kind: conference
+  start: '2026-07-26'
+  end: '2026-07-30'
+  location: Bellevue, Washington, USA
+  description: Annual ASME heat transfer conference with sessions on radiative heat transfer and thermal
+    properties.
+  url: https://event.asme.org/SHTC
+- title: IHTC-18 — 18th International Heat Transfer Conference
+  kind: conference
+  start: '2026-08-02'
+  end: '2026-08-08'
+  location: Rio de Janeiro, Brazil
+  description: Flagship international heat transfer conference with radiative heat transfer sessions.
+  url: https://ihtc18.org/
+- title: SPIE Optics + Photonics 2026 — Infrared Remote Sensing and Instrumentation XXXIII
+  kind: conference
+  start: '2026-08-23'
+  end: '2026-08-28'
+  location: San Diego, California, USA
+  description: Fourier-transform spectrometers, hyperspectral imagers, radiometric calibration.
+  url: https://spie.org/conferences-and-exhibitions/optics-and-photonics
+- title: CPEM 2026 — Conference on Precision Electromagnetic Measurements
+  kind: conference
+  start: '2026-09-06'
+  end: '2026-09-12'
+  location: Madrid, Spain
+  description: 35th edition covering electromagnetic standards, radiometric quantities, precision instrumentation.
+  url: https://cpem2026.com/
+- title: NEWRAD 2026 — 16th International Conference on New Developments and Applications in Optical Radiometry
+  kind: conference
+  start: '2026-09-13'
+  end: '2026-09-18'
+  location: Jeju Island, South Korea
+  description: THE optical radiometry conference — directly covers emissivity measurement, blackbody calibration,
+    detector-based radiometry.
+  url: https://www.newrad2026.org/
+- title: SPIE Sensors + Imaging 2026 (Remote Sensing & Security + Defence)
+  kind: conference
+  start: '2026-09-14'
+  end: '2026-09-18'
+  location: Edinburgh, UK
+  description: Electro-optical and infrared systems, multispectral/hyperspectral imaging, thermal IR remote
+    sensing.
+  url: https://spie.org/conferences-and-exhibitions/sensors-and-imaging
+- title: 11th International Workshop on Radiation of High Temperature Gases for Space Missions
+  kind: conference
+  start: '2026-09-21'
+  end: '2026-09-26'
+  location: Mola di Bari, Italy
+  description: Workshop on radiation of high-temperature gases, including radiative property modeling
+    and measurement topics relevant to high-temperature radiative transfer.
+  url: https://indico.esa.int/event/594/
+- title: IR-EMPOWER 2026 — Workshop on Infrared Emissivity Measurements
+  kind: workshop
+  start: '2026-09-28'
+  end: '2026-09-30'
+  location: Center for Applied Energy Research (CAE), Würzburg, Germany
+  description: 'Second edition of the community workshop on infrared emissivity measurement: techniques
+    and protocols, intercomparisons and databases, modelling, and thermophysical metrology.'
+  url: https://emissivity.org/ir-empower/2026/index.html
+- title: ITCC/ITES 2026 — International Thermal Conductivity Conference & Thermal Expansion Symposium
+  kind: conference
+  start: '2026-09-29'
+  end: '2026-10-02'
+  location: Columbus, Ohio, USA
+  description: Premier meeting on thermophysical properties of materials including thermal radiation characterization.
+  url: https://ceramics.org/event/international-thermal-conductivity-conference-itcc-international-thermal-expansion-symposium-ites-2026/
+- title: RTSTM 2026 — International CNRS Thematic School on Radiative Transfer in Semi-Transparent Media
+  kind: school
+  start: '2026-10-03'
+  end: '2026-10-10'
+  location: Village vacances Azureva, Hendaye, France
+  description: 'Week-long school organised by the CNRS research federation TAMARYS: fundamentals of thermal
+    radiation, RTE solution methods, gas and particle radiation, radiation physics of solids, near-field
+    transfer; hands-on sessions.'
+  url: https://rtstm.sciencesconf.org/
+- title: ESA European Space Thermal Engineering Workshop 2026
+  kind: conference
+  start: '2026-10-06'
+  end: '2026-10-09'
+  location: Noordwijk, The Netherlands
+  description: Spacecraft thermal engineering including surface optical properties (emissivity, absorptance),
+    thermal coatings.
+  url: https://indico.esa.int/event/643/
+- title: Thermophysics 2026
+  kind: conference
+  start: '2026-10-21'
+  end: '2026-10-24'
+  location: Krtiny, Czech Republic
+  description: Conference on thermophysics and heat transfer, including radiative properties within broader
+    thermophysical property discussions.
+  url: https://thermophysics.fch.vut.cz/
+- title: 'TAMARYS research–industry meeting: materials and radiation for decarbonising aluminium recycling'
+  kind: meeting
+  start: '2026-11-03'
+  end: '2026-11-05'
+  location: Constellium C-TEC, Voreppe, France
+  description: TAMARYS / Constellium C-TEC meeting on materials and radiation challenges in the decarbonisation
+    of aluminium recycling processes. Free, registration required.
+  url: https://tamarys.cnrs.fr/2026/08/25/rencontre-recherche-industrie-tamarys-constellium-c-tec-voreppe-france-3-5-novembre-2026/
+- title: Mastering on-board extreme heat-flux sensors for reusable space vehicles and industrial processes
+    (TAMARYS)
+  kind: meeting
+  start: '2027-03-09'
+  end: '2027-03-10'
+  location: Musée Curie, Paris, France
+  description: TAMARYS day on extreme heat-flux sensing, from sensor design and manufacturing to calibration,
+    integration and in-flight data. Programme and registration open in Q4 2026.
+  url: https://tamarys.cnrs.fr/2026/08/27/mastering-on-board-extreme-heat-flux-sensors-marie-curie-museum-paris-9-march-2027/
+- title: IMEKO World Congress 2027 — Metrology for Humanity
+  kind: conference
+  start: '2027-08-30'
+  end: '2027-09-04'
+  location: Rimini, Italy
+  description: Umbrella congress for all IMEKO Technical Committees including TC12 (Temperature and Thermal
+    Measurements).
+  url: https://imeko2027.org/

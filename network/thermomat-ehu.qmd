@@ -22,7 +22,8 @@ toc: false
 | **Relevant units** | **Thermomat** research group · **EKHI** open database |
 | **Publicly linked people** | Josu M. Igartua · community contributors through IR-EMPOWER and EKHI |
 | **Signature infrastructure** | **EKHI** — open database + **modular high-performance infrared emissometer** |
-| **Workshop role** | **Organizer of IR-EMPOWER** |
+| **Workshop role** | **Founder of IR-EMPOWER** (2024, Bilbao) |
+| **Networks** | Member of [TAMARYS](/network/networks/tamarys.html) since June 2026 |
 
 ## Why it matters internationally
 
@@ -82,6 +83,12 @@ and radiative quantities.
 - Presentation of a **modular high-performance infrared emissometer**.
 - Presentation of an **open community of radiative properties** built around
   EKHI.
+- **IR-EMPOWER 2026** ([programme](/ir-empower/2026/index.html)): plenary by
+  Iñigo González de Arrieta, *New upgrades on the emissivity measurement setup
+  at UPV/EHU*; talk by Jon Gabirondo-López, *EKHI: the open database of optical
+  and radiative data*; three posters (data-processing pipelines, a historical
+  survey of radiometric emissometers, emissivity of metals in extreme
+  conditions); Gabriel A. López on the scientific committee.
 
 ## Why Thermomat is a reference pole
 
@@ -96,6 +103,7 @@ backbone. Few groups in the field combine all three.
 
 - [Thermomat — UPV/EHU](https://thermomat.ehu.eus/)
 - [IR-EMPOWER workshop](https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower)
+- [IR-EMPOWER 2026 programme — CAE flyer](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
 - [EKHI — Scientific Data paper (Nature)](https://www.nature.com/articles/s41597-026-07083-9)
 
 ::: {.sources-panel}
@@ -103,7 +111,7 @@ backbone. Few groups in the field combine all three.
 
 Every claim in this profile traces to the external sources listed above.
 Profile follows the [research-map methodology](/network/methodology.html).
-Last verified: 2026-04 (directory revision 2026-06-11).
+Last verified: 2026-09-25 (IR-EMPOWER 2026 and network rows; rest 2026-04, directory revision 2026-06-11).
 :::
 
 :::

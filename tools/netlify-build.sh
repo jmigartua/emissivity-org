@@ -19,6 +19,8 @@ python3 -m pip install --quiet pyyaml
 echo "--- Generating data-driven pages"
 python3 tools/generate_network.py
 python3 tools/generate_featured.py
+python3 tools/generate_ir_empower.py
+python3 tools/generate_ical.py
 
 echo "--- Rendering site"
 quarto render

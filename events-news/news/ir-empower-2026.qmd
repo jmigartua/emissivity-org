@@ -8,6 +8,10 @@ description: "The 2nd IR-EMPOWER workshop on infrared emissivity measurement tak
 ::: {.page-article}
 # IR-EMPOWER 2026: registration open
 
+> **Update, 25 September 2026:** registration has closed and the
+> [programme is out](/events-news/news/ir-empower-2026-programme.html). See the
+> [IR-EMPOWER 2026 page](/ir-empower/2026/index.html) for talks, speakers and committee.
+
 The second edition of **IR-EMPOWER**, the community workshop on infrared
 emissivity measurement, takes place on **28–29 September 2026** at the Center
 for Applied Energy Research (CAE), Würzburg, Germany. Founded in 2024 and

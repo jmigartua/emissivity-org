@@ -27,6 +27,34 @@ toc: false
       <div class="net-stat"><div class="v">9</div><div class="k">thematic ecosystems</div></div>
     </div>
 
+
+    <div class="net-networks" id="research-networks">
+      <h3>Research networks &amp; consortia</h3>
+      <p class="sec-intro">Formal networks, projects and series that connect the
+      laboratories on the map. Each links to a profile with its scope and the
+      map institutions it names publicly.</p>
+      <div class="net-card-grid">
+      <a class="net-card" href="/network/networks/tamarys.html">
+        <div class="kind">CNRS research federation</div>
+        <h4>TAMARYS</h4>
+        <p>French research network on extreme heat: thermal radiation–matter interaction from the UV to the IR, materials for extreme environments, and high-temperature systems.</p>
+        <p class="rel">UPV/EHU Thermomat member since June 2026</p>
+      </a>
+      <a class="net-card" href="/network/networks/parametric.html">
+        <div class="kind">EU metrology project (EPM 21GRD03)</div>
+        <h4>PaRaMetriC</h4>
+        <p>Joint research project of the European Partnership on Metrology building a metrological framework for passive radiative cooling technologies, a performance that rests on emissivity and reflectance.</p>
+        <p class="rel">Consortium includes PTB, CAE and TÜBİTAK UME</p>
+      </a>
+      <a class="net-card" href="/ir-empower/index.html">
+        <div class="kind">Workshop series</div>
+        <h4>IR-EMPOWER</h4>
+        <p>The community workshop devoted entirely to infrared emissivity measurement, so far held every two years at a member laboratory.</p>
+        <p class="rel">Founded by UPV/EHU Thermomat in 2024</p>
+      </a>
+      </div>
+    </div>
+
     <div id="labmap" class="labmap labmap-tall" aria-label="World map of institutions on the research map"></div>
     <div class="map-legend">
       <span class="key"><span class="dot meas"></span> Measurement &amp; metrology laboratories</span>

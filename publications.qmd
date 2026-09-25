@@ -55,6 +55,11 @@ listing:
     sort: "date desc"
     type: default
     fields: [title, author, date]
+  - id: pubs_2010
+    contents: publications/2010/**/index.qmd
+    sort: "date desc"
+    type: default
+    fields: [title, author, date]
 ---
 
 ```{=html}
@@ -121,6 +126,11 @@ publication, see [how to contribute](/contribute/suggest-publication.html).
 ## 2015
 
 :::{#pubs_2015}
+:::
+
+## 2010
+
+:::{#pubs_2010}
 :::
 
 :::

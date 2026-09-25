@@ -1,0 +1,35 @@
+# Research networks & consortia — rendered by tools/generate_network.py as the
+# "Research networks & consortia" block on /network/ (cards). Each network has
+# a hand-written profile under network/networks/<id>.qmd (or its own section).
+# members_on_map: only institutions named on the network's OWN public pages.
+
+networks:
+  - id: tamarys
+    name: "TAMARYS"
+    kind: "CNRS research federation"
+    blurb: "French research network on extreme heat: thermal radiation–matter interaction from the UV to the IR, materials for extreme environments, and high-temperature systems."
+    coordinator: "Benoît Rousseau (CNRS, LTeN Nantes)"
+    url: "https://tamarys.cnrs.fr/"
+    page: "/network/networks/tamarys.html"
+    relation: "UPV/EHU Thermomat member since June 2026"
+    members_on_map: [lten-cnrs, thermomat-ehu, onera-dota]
+
+  - id: parametric
+    name: "PaRaMetriC"
+    kind: "EU metrology project (EPM 21GRD03)"
+    blurb: "Joint research project of the European Partnership on Metrology building a metrological framework for passive radiative cooling technologies, a performance that rests on emissivity and reflectance."
+    coordinator: "INRIM, Turin"
+    url: "https://parametric.inrim.it/"
+    page: "/network/networks/parametric.html"
+    relation: "Consortium includes PTB, CAE and TÜBİTAK UME"
+    members_on_map: [ptb, cae-wuerzburg, tubitak-ume]
+
+  - id: ir-empower
+    name: "IR-EMPOWER"
+    kind: "Workshop series"
+    blurb: "The community workshop devoted entirely to infrared emissivity measurement, so far held every two years at a member laboratory."
+    coordinator: "Rotating host (UPV/EHU 2024, CAE 2026)"
+    url: "/ir-empower/index.html"
+    page: "/ir-empower/index.html"
+    relation: "Founded by UPV/EHU Thermomat in 2024"
+    members_on_map: []

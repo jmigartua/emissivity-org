@@ -1,0 +1,40 @@
+---
+title: "Kyriaki Kontou earns her PhD"
+date: "2026-10-01"
+categories: [Thesis, People, TAMARYS]
+description: "TODO — one sentence: date, institution, thesis topic."
+page-layout: full
+toc: false
+draft: true   # DRAFT — waiting for title, laboratory, defence date and photo from the candidate (via Iñigo)
+---
+
+```{=html}
+<div class="inner-page">
+
+<p class="section__label">News · Doctoral thesis · from the TAMARYS network</p>
+
+<h1 class="thesis-h1">TODO — headline on the thesis topic</h1>
+
+<p class="thesis-lead">On <strong>TODO date</strong>, <strong>Kyriaki Kontou</strong> defended her
+doctoral thesis, <em>“TODO title,”</em> at TODO institution.</p>
+
+<div class="thesis-hero">
+  <figure class="thesis-portrait">
+    <img src="/assets/images/posts/kyriaki-kontou.jpg" alt="Dr Kyriaki Kontou" />
+    <figcaption>Dr Kyriaki Kontou</figcaption>
+  </figure>
+  <div class="thesis-facts" aria-label="Thesis details">
+    <div class="row"><span class="k">Defended</span><span class="v">TODO</span></div>
+    <div class="row"><span class="k">Laboratory</span><span class="v">TODO (confirm: CETHIL, INSA Lyon?)</span></div>
+    <div class="row"><span class="k">Supervisors</span><span class="v">TODO</span></div>
+  </div>
+</div>
+
+<p>TODO — two short paragraphs on the work and why it matters for thermal radiation.
+Announced through the <a href="/network/networks/tamarys.html">TAMARYS</a> network; reported
+with the agreement of its coordination.</p>
+
+<p class="thesis-back"><a href="/news/index.html">&larr; All news</a></p>
+
+</div>
+```

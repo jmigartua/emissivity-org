@@ -1,0 +1,19 @@
+<script>
+/* Date windows — elements carrying data-show-from / data-show-until
+   (YYYY-MM-DD, inclusive, viewer's local date) are shown only inside that
+   window. The generators render the variant valid at build time visible, so
+   the page is correct without JS; this script keeps it correct between
+   deploys (e.g. the IR-EMPOWER band switching on the workshop days). */
+(function () {
+  function ymd(d) {
+    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" +
+      String(d.getDate()).padStart(2, "0");
+  }
+  var today = ymd(new Date());
+  document.querySelectorAll("[data-show-from],[data-show-until]").forEach(function (el) {
+    var f = el.getAttribute("data-show-from"), u = el.getAttribute("data-show-until");
+    var on = (!f || today >= f) && (!u || today <= u);
+    if (on) el.removeAttribute("hidden"); else el.setAttribute("hidden", "");
+  });
+})();
+</script>

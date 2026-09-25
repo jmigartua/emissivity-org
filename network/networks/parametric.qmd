@@ -1,0 +1,63 @@
+---
+title: "PaRaMetriC — metrology for passive radiative cooling"
+description: "PaRaMetriC (EPM 21GRD03), the European metrology project building a framework for comparable performance assessment of passive radiative cooling technologies."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html#research-networks">Research networks</a> / PaRaMetriC</div>
+```
+
+::: {.page-article}
+# PaRaMetriC
+
+## Snapshot
+
+| | |
+|---|---|
+| **Kind** | Joint research project of the European Partnership on Metrology (EPM), project 21GRD03, co-financed by Horizon Europe and the participating states |
+| **Coordination** | INRIM, Istituto Nazionale di Ricerca Metrologica (Turin, Italy) |
+| **Goal** | A metrological framework for comparable performance assessment of passive radiative cooling (PRC) technologies |
+| **Consortium** | 17 partners: national metrology and designated institutes, research centres and universities, and companies |
+| **Official site** | [parametric.inrim.it](https://parametric.inrim.it/) |
+
+## Why it matters for emissivity
+
+A passive radiative cooler only works as well as its spectral properties
+allow: high reflectance in the solar range and high emissivity in the
+atmospheric window around 8–13 µm. That makes emissivity and reflectance
+metrology the foundation of any fair comparison between cooling materials.
+PaRaMetriC's objectives include performance-assessment standards, validated
+models linking cooling performance to material properties, accurate methods
+for thermophysical properties, and on-site test protocols with a target
+uncertainty below 10 %.
+
+Unlike [TAMARYS](/network/networks/tamarys.html), PaRaMetriC is a
+fixed-term project consortium rather than an open network. It is listed here
+because its partners and results sit at the heart of emissivity metrology.
+
+## On the research map
+
+Consortium partners with a research-map profile:
+
+- [PTB — Physikalisch-Technische Bundesanstalt](/network/ptb.html)
+- [Center for Applied Energy Research (CAE)](/network/cae-wuerzburg.html)
+- [TÜBİTAK UME](/network/tubitak-ume.html)
+
+Other partners: INRIM, Aalto University, CMI, CSIC, DFM, LNE, RISE, CNR, FIW
+München, NKUA Athens and Politecnico di Torino, plus the companies Almeco,
+Cooling Photonics and CTI. See the project's
+[consortium page](https://parametric.inrim.it/consortium).
+
+The engineered-emissivity laboratories on the map (see
+[ecosystems](/network/ecosystems.html)) are the natural users of the
+framework PaRaMetriC is building.
+
+::: {.sources-panel}
+### Provenance
+
+From the PaRaMetriC project website (home and consortium pages), verified
+2026-09-25.
+:::
+:::

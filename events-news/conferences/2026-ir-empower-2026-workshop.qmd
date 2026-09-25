@@ -18,8 +18,10 @@ A place to discuss infrared emissivity measurement in depth: measurement
 techniques and protocols, intercomparisons and databases, modelling and
 simulations, and thermophysical metrology and applications.
 
-**Key dates:** poster abstract submission and early registration close
-**31 July 2026**; cancellation without fee until 31 August 2026.
+**Programme:** 21 talks over two days (plenaries by UPV/EHU and LTeN-CNRS),
+a laboratory tour, two poster sessions, a round table and the Young Speaker
+Award; about 40 participants.
+[**Full programme, committee and speakers →**](/ir-empower/2026/index.html)
 
 Second edition of the series founded in 2024, first organized by the
 Thermomat / HAIRL group at UPV/EHU in Bilbao.

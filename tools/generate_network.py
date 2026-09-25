@@ -196,6 +196,34 @@ institution's public pages or peer-reviewed publications).
 """
 
 
+def networks_block():
+    """Cards for _data/networks.yml (research networks & consortia)."""
+    f = ROOT / "_data" / "networks.yml"
+    if not f.exists():
+        return ""
+    nets = (yaml.safe_load(f.read_text()) or {}).get("networks", []) or []
+    if not nets:
+        return ""
+    cards = "\n".join(
+        f"""      <a class="net-card" href="{n['page']}">
+        <div class="kind">{html.escape(n['kind'])}</div>
+        <h4>{html.escape(n['name'])}</h4>
+        <p>{html.escape(n['blurb'])}</p>
+        <p class="rel">{html.escape(n.get('relation', ''))}</p>
+      </a>""" for n in nets)
+    return f"""
+    <div class="net-networks" id="research-networks">
+      <h3>Research networks &amp; consortia</h3>
+      <p class="sec-intro">Formal networks, projects and series that connect the
+      laboratories on the map. Each links to a profile with its scope and the
+      map institutions it names publicly.</p>
+      <div class="net-card-grid">
+{cards}
+      </div>
+    </div>
+"""
+
+
 def main():
     doc = yaml.safe_load(DATA.read_text())
     insts = doc["institutions"]
@@ -288,6 +316,7 @@ toc: false
       <div class="net-stat"><div class="v">{stats['ecosystems']}</div><div class="k">thematic ecosystems</div></div>
     </div>
 
+{networks_block()}
     <div id="labmap" class="labmap labmap-tall" aria-label="World map of institutions on the research map"></div>
     <div class="map-legend">
       <span class="key"><span class="dot meas"></span> Measurement &amp; metrology laboratories</span>

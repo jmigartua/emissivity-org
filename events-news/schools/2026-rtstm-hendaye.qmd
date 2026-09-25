@@ -1,0 +1,82 @@
+---
+title: "RTSTM 2026 — International CNRS Thematic School on Radiative Transfer in Semi-Transparent Media"
+subtitle: "TAMARYS school | Hendaye, France"
+date: 2026-10-03
+description: "Week-long international CNRS school organised by the TAMARYS research federation: fundamentals of thermal radiation, RTE solution methods, gas, particle and solid radiation, near-field transfer, and hands-on Monte Carlo, IR thermography/spectroscopy and gas-modelling sessions."
+url: "https://rtstm.sciencesconf.org/"
+kind: school
+categories: [school, training, radiative-transfer, TAMARYS]
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/events-news/index.html">Events</a> / <a href="/events-news/schools.html">Schools &amp; courses</a> / RTSTM 2026</div>
+```
+
+::: {.page-article}
+# RTSTM 2026 — Radiative Transfer in Semi-Transparent Media
+
+**International CNRS Thematic School, organised by the French research
+network [TAMARYS](/network/networks/tamarys.html)**
+
+| | |
+|---|---|
+| **Dates** | 3–9 October 2026 |
+| **Venue** | Village vacances Azureva, Hendaye (Pyrénées-Atlantiques), France |
+| **Organising committee** | Benoît Rousseau (CNRS, LTeN Nantes) · Laurence Maillé and Paule Lapeyre-Dubosc (Université de Bordeaux) · Léa Penazzi (Aix-Marseille Université) |
+| **Sponsors** | SFO, SFT; internationally Eurotherm Committee and ICHMT |
+| **Audience** | Doctoral students, researchers and engineers from academia and industry; capacity 65 participants |
+| **Languages** | English and French |
+| **Official site** | [rtstm.sciencesconf.org](https://rtstm.sciencesconf.org/) |
+
+The school offers general and advanced lectures on radiative transfer in
+semi-transparent media (gases, plasmas, particles such as soot and droplets,
+and dense and porous materials) and on numerical methods for solving the
+radiative transfer equation. It is aimed at problems where radiation cannot be
+ignored: decarbonising high-temperature industrial processes and making
+spacecraft reusable after hypersonic flight, with relevance also for
+atmospheric, fire, urban-thermal and medical science.
+
+## Lectures
+
+| Course | Lecturer | Length |
+|---|---|---|
+| Basics of thermal radiation | F. Enguehard (Université de Poitiers) | 6 h |
+| Methods for solving the RTE | P. Coelho (Instituto Superior Técnico) | 3 h |
+| Physics of gas radiation | A. Soufiani (CNRS) | 3 h |
+| Approximate gas radiation models | F. Liu (NRC Canada) | 3 h |
+| Radiation scattering in particulate media | R. Carminati (ESPCI Paris – PSL) | 1.5 h |
+| Radiation physics of solids | B. Rousseau (CNRS) | 1.5 h |
+| Near-field radiative transfer | M. Francoeur (University of Utah) | 1.5 h |
+| Identification of the radiative properties of semi-transparent media | K. Daun (University of Waterloo) | 1.5 h |
+| A history of radiative transfer | P. Mengüç (Özyeğin University) | 2 h |
+
+## Practical sessions
+
+Three sessions of three hours each:
+
+- **Advanced Monte Carlo methods**: R. Fournier (Université de Toulouse) and M. El Hafi (IMT Mines Albi)
+- **Infrared thermography and spectroscopy**: G. Parent (Université de Lorraine)
+- **Modelling the radiative properties of gases**: F. André (CNRS)
+
+Three evening seminars cover atmospheric re-entry (ArianeGroup), modelling of
+high-temperature industrial furnaces (Saint-Gobain) and atmospheric thermal
+modelling.
+
+## Why it is listed here
+
+Emissivity is where radiative transfer meets the material. The school's
+lectures on the radiation physics of solids and on identifying radiative
+properties cover exactly what the laboratories on the
+[research map](/network/index.html) measure. Hendaye is also about 1.5 hours
+from Bilbao, on the other side of the Bidasoa.
+
+::: {.sources-panel}
+### Provenance
+
+Details from the official school site and from the TAMARYS mailing-list
+announcements of 29 April and 26 June 2026 (pre-registration closed on
+30 June 2026). Verified 2026-09-25.
+:::
+:::

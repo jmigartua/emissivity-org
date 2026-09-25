@@ -22,6 +22,7 @@ toc: false
 | **Tier** | Extended |
 | **Primary ecosystem** | Spectral Libraries |
 | **Unit** | [MELOPEE laboratory — optical properties of materials](https://www.onera.fr/en/dota-research-units) |
+| **Networks** | [TAMARYS](/network/networks/tamarys.html) partner |
 
 | **Databases hosted** | MEMOIRES thermo-optical properties database |
 

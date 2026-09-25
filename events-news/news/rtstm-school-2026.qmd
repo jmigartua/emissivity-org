@@ -1,0 +1,37 @@
+---
+title: "RTSTM 2026: TAMARYS thematic school on radiative transfer, Hendaye, 3–9 October"
+date: "2026-09-25"
+categories: [School, Training, TAMARYS]
+description: "The International CNRS Thematic School on Radiative Transfer in Semi-Transparent Media, organised by the TAMARYS research federation, runs in Hendaye on 3–9 October 2026. It is the first entry in the new Schools & courses listing."
+---
+
+::: {.page-article}
+# RTSTM 2026: radiative transfer school in Hendaye
+
+The **International CNRS Thematic School on Radiative Transfer in
+Semi-Transparent Media** takes place on **3–9 October 2026** in Hendaye,
+just across the Bidasoa from the Basque Country. It is organised by the French
+research federation [TAMARYS](/network/networks/tamarys.html).
+
+Over a week, about 65 doctoral students, researchers and engineers will cover:
+
+- **Lectures** on the basics of thermal radiation, solving the RTE, gas
+  radiation and its approximate models, scattering in particulate media,
+  radiation physics of solids, near-field transfer, and identifying the
+  radiative properties of semi-transparent media.
+- **Practical sessions** on advanced Monte Carlo methods, IR thermography and
+  spectroscopy, and modelling of gas radiative properties.
+- **Evening seminars** with ArianeGroup (atmospheric re-entry) and Saint-Gobain
+  (high-temperature furnaces).
+
+Registration closed on 30 June.
+
+The school opens a new listing on this site:
+[**Schools & courses**](/events-news/schools.html), a record of training in
+thermal radiation and emissivity, kept next to the conference calendar.
+
+[**Programme, lecturers and venue →**](/events-news/schools/2026-rtstm-hendaye.html)
+
+*Emissivity.org Editorial Board · from the official school site and TAMARYS
+announcements, verified 2026-09-25.*
+:::

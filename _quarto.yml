@@ -38,6 +38,7 @@ format:
       - assets/includes/site-header.html
     include-after-body:
       - assets/includes/site-footer.html
+      - assets/includes/date-windows.html
     toc: false
     smooth-scroll: true
     code-copy: true

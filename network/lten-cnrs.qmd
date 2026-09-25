@@ -20,7 +20,8 @@ toc: false
 | **Tier** | Extended (Tier II) |
 | **Primary ecosystem** | High-temperature radiative properties — architectured ceramics |
 | **Relevant activity** | LTeN — high-temperature radiative properties of architectured ceramics |
-| **Publicly linked people** | Léo Gaillard |
+| **Publicly linked people** | Benoît Rousseau · Léo Gaillard |
+| **Networks** | Coordinates [TAMARYS](/network/networks/tamarys.html) (CNRS research federation) · organiser of the [RTSTM 2026 school](/events-news/schools/2026-rtstm-hendaye.html) |
 | **Thematic focus** | Emissivity as a **designable** property of structured materials |
 
 ## Why it matters internationally
@@ -66,8 +67,12 @@ attention to the geometric and microstructural factors that control it.
 
 ## IR-EMPOWER contributions
 
-- **Léo Gaillard** — high-temperature emissivity characterization of
+- **Léo Gaillard** (2024) — high-temperature emissivity characterization of
   architectured ceramics.
+- **Benoît Rousseau** (2026, plenary) — *Characterisation and multi-scale
+  modelling of the spectral emissivity of silicon carbide-based architectured
+  ceramics for the carbon-free production of energy*; member of the
+  [IR-EMPOWER 2026](/ir-empower/2026/index.html) scientific committee.
 
 ## Why LTeN-CNRS is a reference pole
 
@@ -81,6 +86,8 @@ community represented in Tier III.
 
 ## External sources
 
+- [IR-EMPOWER 2026 programme — CAE flyer](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+- [TAMARYS](https://tamarys.cnrs.fr/) · [RTSTM 2026](https://rtstm.sciencesconf.org/)
 - [IR-EMPOWER preliminary program — EHU](https://www.ehu.eus/en/web/thermophysical-properties-research-group/preliminary-program)
 
 ::: {.sources-panel}
@@ -88,7 +95,7 @@ community represented in Tier III.
 
 Every claim in this profile traces to the external sources listed above.
 Profile follows the [research-map methodology](/network/methodology.html).
-Last verified: 2026-04 (directory revision 2026-06-11).
+Last verified: 2026-09-25 (IR-EMPOWER 2026 and network rows; rest 2026-04, directory revision 2026-06-11).
 :::
 
 :::
