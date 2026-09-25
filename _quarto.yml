@@ -8,6 +8,7 @@ resources:
   - assets/scripts/labs-map.js
   - files/ical/emissivity-conferences.ics
   - files/bib/*.bib
+  - assets/images/site-map.svg
 
 website:
   title: "emissivity.org"

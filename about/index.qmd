@@ -21,6 +21,14 @@ toc: false
 
   <p>Our network brings together leading facilities in thermal radiation metrology, including national metrology institutes and university research groups across Europe and beyond.</p>
 
+  <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">The site at a glance</h2>
+
+  <p>What the site holds and how its parts feed each other. Every panel opens its section.</p>
+```
+
+{{< include _site-map.qmd >}}
+
+```{=html}
   <h2 style="color:#1d2630;font-size:1.3rem;margin-top:2.5rem;">Five activities</h2>
 
   <p>Everything on the site maps to five core activities:</p>

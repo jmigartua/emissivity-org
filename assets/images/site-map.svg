@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="sm-title sm-desc" class="site-map-graphic" style="width:100%;height:auto;display:block">
+<title id="sm-title">emissivity.org at a glance</title>
+<desc id="sm-desc">Map of the emissivity.org website: the research map of 46 institutions in 14 countries and 3 research networks; the EKHI open database with 1,251 curves; publications, insights and reference guides; the community calendar, schools and news; the IR-EMPOWER workshop archive; and the contribution forms that feed them.</desc>
+<defs><marker id="sm-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#74808c"/></marker></defs>
+<rect x="0" y="0" width="1200" height="800" fill="#ffffff"/>
+<rect x="0" y="0" width="1200" height="4" fill="#1b3a6b"/>
+<text x="40" y="58" font-family="'Source Serif 4', Georgia, serif" font-size="30" font-weight="600" fill="#1d2630" text-anchor="start">emissivity.org</text>
+<text x="250" y="58" font-family="'Source Serif 4', Georgia, serif" font-size="30" font-weight="400" fill="#74808c" text-anchor="start">at a glance</text>
+<text x="40" y="84" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="15" font-weight="400" fill="#4a5662" text-anchor="start">The common reference point for the thermal radiative properties of materials</text>
+<text x="1160" y="58" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.08em">FIGURES AS OF 25 SEP 2026</text>
+<text x="1160" y="80" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="12.5" font-weight="400" fill="#74808c" text-anchor="end" font-style="italic">Every panel opens its section</text>
+<line x1="40" y1="104" x2="1160" y2="104" stroke="#1d2630" stroke-width="1"/>
+<text x="40" y="134" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#9a6f0b" text-anchor="start" letter-spacing="0.1em">WHO WORKS ON IT</text>
+<text x="420" y="134" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#9a6f0b" text-anchor="start" letter-spacing="0.1em">WHAT IS KNOWN</text>
+<text x="800" y="134" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="12" font-weight="500" fill="#9a6f0b" text-anchor="start" letter-spacing="0.1em">WHAT IS HAPPENING</text>
+<a href="/network/index.html" class="sm-card"><g>
+<rect x="40" y="150" width="360" height="280" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="40" y="150" width="360" height="3" fill="#1b3a6b"/>
+<text x="60" y="182" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">Research map</text>
+<text x="380" y="181" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">NETWORK</text>
+<text x="60" y="226" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#1b3a6b" text-anchor="start">46</text>
+<text x="60" y="248" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">institutions in 14 countries</text>
+<text x="60" y="269" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">4 tiers · 9 thematic ecosystems</text>
+<text x="60" y="290" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">a source-verified profile for each lab</text>
+<text x="60" y="311" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">published inclusion methodology</text>
+<text x="60" y="332" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">3 research networks:</text>
+<text x="60" y="353" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">TAMARYS · PaRaMetriC · IR-EMPOWER</text>
+<text x="380" y="414" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<a href="/ir-empower/index.html" class="sm-card"><g>
+<rect x="40" y="470" width="360" height="150" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="40" y="470" width="360" height="3" fill="#9a6f0b"/>
+<text x="60" y="502" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">IR-EMPOWER workshop</text>
+<text x="380" y="501" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">SERIES</text>
+<text x="60" y="546" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#9a6f0b" text-anchor="start">2</text>
+<text x="60" y="568" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">editions archived: Bilbao 2024 · Würzburg 2026</text>
+<text x="60" y="589" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">21 talks in 2026, citable as BibTeX</text>
+<text x="380" y="604" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#9a6f0b" text-anchor="end">→</text>
+</g></a>
+<line x1="100" y1="470" x2="100" y2="432" stroke="#74808c" stroke-width="1.3" stroke-dasharray="4 3" marker-end="url(#sm-arrow)"/>
+<text x="112" y="455" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#74808c" text-anchor="start" font-style="italic">talks count as evidence for the map</text>
+<a href="/data/index.html" class="sm-card"><g>
+<rect x="420" y="150" width="360" height="170" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="420" y="150" width="360" height="3" fill="#1b3a6b"/>
+<text x="440" y="182" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">EKHI open database</text>
+<text x="760" y="181" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">DATA</text>
+<text x="440" y="226" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#1b3a6b" text-anchor="start">1,251</text>
+<text x="440" y="248" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">curves from 167 publications</text>
+<text x="440" y="269" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">+ 4 external spectral libraries indexed</text>
+<text x="760" y="304" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<a href="/publications.html" class="sm-card"><g>
+<rect x="420" y="360" width="360" height="120" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="420" y="360" width="360" height="3" fill="#1b3a6b"/>
+<text x="440" y="392" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">Publications</text>
+<text x="760" y="391" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">PUBLICATIONS</text>
+<text x="440" y="436" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#1b3a6b" text-anchor="start">51</text>
+<text x="440" y="458" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">papers indexed · 6 insight articles</text>
+<text x="760" y="464" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<line x1="480" y1="322" x2="480" y2="358" stroke="#74808c" stroke-width="1.3" stroke-dasharray="4 3" marker-end="url(#sm-arrow)"/>
+<text x="492" y="344" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#74808c" text-anchor="start" font-style="italic">every curve traced to its paper</text>
+<a href="/methods/index.html" class="sm-card"><g>
+<rect x="420" y="500" width="360" height="120" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="420" y="500" width="360" height="3" fill="#1b3a6b"/>
+<text x="440" y="532" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">Reference guides</text>
+<text x="760" y="531" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">REFERENCE</text>
+<text x="440" y="553" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">what emissivity is · methods &amp; instruments</text>
+<text x="440" y="574" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">standards &amp; protocols · applications</text>
+<text x="760" y="604" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<a href="/events-news/conferences.html" class="sm-card"><g>
+<rect x="800" y="150" width="360" height="170" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="800" y="150" width="360" height="3" fill="#1b3a6b"/>
+<text x="820" y="182" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">Community calendar</text>
+<text x="1140" y="181" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">EVENTS</text>
+<text x="820" y="226" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#1b3a6b" text-anchor="start">33</text>
+<text x="820" y="248" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">conferences, workshops and schools</text>
+<text x="820" y="269" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">one iCal feed to subscribe to</text>
+<text x="1140" y="304" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<a href="/events-news/schools.html" class="sm-card"><g>
+<rect x="800" y="360" width="360" height="120" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="800" y="360" width="360" height="3" fill="#1b3a6b"/>
+<text x="820" y="392" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">Schools &amp; courses</text>
+<text x="1140" y="391" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">EVENTS</text>
+<text x="820" y="436" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#1b3a6b" text-anchor="start">1</text>
+<text x="820" y="458" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">training school listed, from Hendaye 2026</text>
+<text x="1140" y="464" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<a href="/news/index.html" class="sm-card"><g>
+<rect x="800" y="500" width="360" height="120" fill="#ffffff" stroke="#d9dee6"/>
+<rect x="800" y="500" width="360" height="3" fill="#1b3a6b"/>
+<text x="820" y="532" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">News</text>
+<text x="1140" y="531" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="end" letter-spacing="0.06em">NEWS</text>
+<text x="820" y="576" font-family="'Source Serif 4', Georgia, serif" font-size="36" font-weight="600" fill="#1b3a6b" text-anchor="start">10</text>
+<text x="820" y="598" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">announcements, theses and publications</text>
+<text x="1140" y="604" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#1b3a6b" text-anchor="end">→</text>
+</g></a>
+<a href="/contribute/index.html" class="sm-card"><g><rect x="40" y="690" width="1120" height="70" fill="#f5f7f9" stroke="#d9dee6"/><rect x="40" y="690" width="4" height="70" fill="#9a6f0b"/><text x="64" y="720" font-family="'Source Serif 4', Georgia, serif" font-size="19" font-weight="600" fill="#1d2630" text-anchor="start">Contribute</text><text x="64" y="742" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="13.5" font-weight="400" fill="#4a5662" text-anchor="start">join the map · submit data · suggest an event · suggest a publication — every submission is reviewed and credited</text><text x="1140" y="732" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="16" font-weight="600" fill="#9a6f0b" text-anchor="end">→</text></g></a>
+<line x1="340" y1="688" x2="340" y2="624" stroke="#74808c" stroke-width="1.3" stroke-dasharray="4 3" marker-end="url(#sm-arrow)"/>
+<text x="328" y="660" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#74808c" text-anchor="end" font-style="italic">join the map</text>
+<line x1="720" y1="688" x2="720" y2="624" stroke="#74808c" stroke-width="1.3" stroke-dasharray="4 3" marker-end="url(#sm-arrow)"/>
+<text x="708" y="660" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#74808c" text-anchor="end" font-style="italic">submit data</text>
+<line x1="1100" y1="688" x2="1100" y2="624" stroke="#74808c" stroke-width="1.3" stroke-dasharray="4 3" marker-end="url(#sm-arrow)"/>
+<text x="1088" y="660" font-family="'Source Sans 3', -apple-system, 'Segoe UI', sans-serif" font-size="12" font-weight="400" fill="#74808c" text-anchor="end" font-style="italic">announce events</text>
+<text x="600.0" y="788" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="11" font-weight="400" fill="#74808c" text-anchor="middle" letter-spacing="0.04em">CC BY 4.0 · emissivity.org · hosted at EHU, the University of the Basque Country</text>
+</svg>

@@ -21,6 +21,7 @@ python3 tools/generate_network.py
 python3 tools/generate_featured.py
 python3 tools/generate_ir_empower.py
 python3 tools/generate_ical.py
+python3 tools/generate_sitemap_graphic.py
 
 echo "--- Rendering site"
 quarto render

@@ -681,3 +681,10 @@ footer.site a { color: var(--ink-soft); }
 /* Research map — muted raster fallback (only when the vector basemap cannot load) */
 .labmap--raster .leaflet-tile-pane { filter: grayscale(1) contrast(0.9) brightness(1.08); }
 .labmap .leaflet-control-attribution { font-size: 10.5px; }
+
+/* Site map infographic (tools/generate_sitemap_graphic.py) */
+.site-map-figure { margin: 18px 0 8px; max-width: 1200px; }
+.site-map-figure svg { border: 1px solid var(--line); }
+.site-map-figure figcaption { font-size: 13px; color: var(--ink-faint); margin-top: 8px; }
+.site-map-graphic a.sm-card:hover rect:first-of-type { stroke: var(--blue-soft); stroke-width: 1.5; }
+.site-map-graphic a.sm-card { cursor: pointer; }
