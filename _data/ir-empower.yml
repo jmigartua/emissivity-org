@@ -109,18 +109,21 @@ editions:
       - {title: "Applications of Infrared Emissivity to the Study of Metals in Extreme Conditions", presenter: "Mireia Sainz-Menchón", inst: "UPV/EHU", consent: public}
 
     round_table:
-      panel_consent: pending   # proposed panel, not yet confirmed publicly
+      # Fill after 29 Sep. Only rendered when consent is public/granted.
+      panel_consent: pending
+      panel: []                # e.g. - {name: "Jochen Manara", inst: "CAE"}
       themes:
         - "Young Speaker Award"
         - "Developing the community — the emissivity.org website, mailing lists and newsletter, visibility, intercomparisons and round-robin tests, data collection"
         - "Collaborations — networking, funding (e.g. COST Actions, Horizon Europe), thematic working groups, links with groups worldwide"
         - "The future of IR-EMPOWER — periodicity, format, venue"
-      outcomes: []             # fill after 29 Sep
+      outcomes_consent: pending
+      outcomes: []             # one line per agreed outcome, e.g. "Next edition: 2028, venue to be confirmed"
 
     award:
       name: "Young Speaker Award"
-      winner: null             # fill only after the official announcement
-      consent: pending
+      consent: pending         # set to public once announced at the round table
+      winner: null             # e.g. {name: "…", inst: "…", title: "…talk title…"}
 
   - year: 2024
     status_by_date:

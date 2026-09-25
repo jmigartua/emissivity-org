@@ -1,0 +1,36 @@
+---
+title: "IR-EMPOWER 2026 in review"
+date: "2026-10-01"
+categories: [Workshop, IR-EMPOWER, Award]
+description: "TODO — one sentence: the second IR-EMPOWER in Würzburg, the Young Speaker Award winner, and what the round table agreed."
+draft: true   # DRAFT — fill after 29 Sep: award winner (after the official announcement), round-table outcomes, one CAE-approved photo
+---
+
+::: {.page-article}
+# IR-EMPOWER 2026 in review
+
+The second **IR-EMPOWER** workshop on infrared emissivity measurement took place
+on 28–29 September 2026 at the Center for Applied Energy Research (CAE) in
+Würzburg: 21 talks, a laboratory tour, two poster sessions and a round table,
+with about 40 participants.
+
+## Young Speaker Award
+
+TODO — winner, institution, talk title (mirror `award.winner` in
+`_data/ir-empower.yml`, which also updates the 2026 page).
+
+## What the round table agreed
+
+- TODO — next edition (year, host)
+- TODO — community tools (newsletter / mailing list, webinars)
+- TODO — intercomparisons / round robins, working groups
+
+## Thanks
+
+TODO — thanks to Jochen Manara and the CAE team, the scientific committee,
+speakers and sponsors.
+
+[**Programme, speakers and committee →**](/ir-empower/2026/index.html)
+
+*Emissivity.org Editorial Board · October 2026.*
+:::

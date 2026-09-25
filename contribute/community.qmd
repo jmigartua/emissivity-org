@@ -1,0 +1,40 @@
+---
+title: "Community"
+description: "How the emissivity community keeps in touch between IR-EMPOWER workshops: mailing list and newsletter, webinars, and thematic working groups."
+page-layout: full
+toc: false
+draft: true   # DRAFT — publish only the items the IR-EMPOWER 2026 round table (29 Sep) endorses; delete the rest
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/contribute/index.html">Contribute</a> / Community</div>
+```
+
+::: {.page-article}
+# Community
+
+IR-EMPOWER brings the emissivity community together every two years. These
+are the ways it keeps working together in between, as agreed at the
+[IR-EMPOWER 2026](/ir-empower/2026/index.html) round table.
+
+## Mailing list and newsletter
+
+TODO — name of the list, how to join, how often it is sent (tool to decide:
+Buttondown, listmonk or a university list).
+
+## Webinars
+
+Twice a year, remote contributions from groups working on emissivity. This
+was proposed by Audrey Soum-Glaude (PROMES-CNRS) and also makes room for talks
+that cannot be given in person at the workshop. TODO — first date, format,
+how to propose a talk.
+
+## Thematic working groups
+
+TODO — the groups agreed (candidates: aerospace, buildings, solar,
+thermography, nuclear, fusion), a coordinator for each, and how to join.
+
+## Intercomparisons
+
+See [Intercomparisons & round robins](/data/intercomparisons.html).
+:::

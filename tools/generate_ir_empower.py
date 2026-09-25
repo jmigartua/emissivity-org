@@ -7,6 +7,9 @@ for the IR-EMPOWER series) into Quarto includes:
   ir-empower/<year>/_programme.qmd  day-by-day programme tables
   ir-empower/<year>/_speakers.qmd   speaker grid (initials; photos when consented)
   ir-empower/<year>/_posters.qmd    posters (consent: public | granted only)
+  ir-empower/<year>/_roundtable.qmd round-table themes, panel and outcomes
+  ir-empower/<year>/_award.qmd      Young Speaker Award (winner only once announced)
+  files/bib/ir-empower-<year>.bib   BibTeX for every talk of the edition
 
 Status labels that depend on the date are emitted as <span data-show-from /
 data-show-until> variants; assets/includes/date-windows.html switches them in
@@ -125,6 +128,85 @@ def posters(e):
     return "".join(f"- *{p['title']}* — {p['presenter']} ({p['inst']})\n" for p in ps)
 
 
+def roundtable(e):
+    rt = e.get("round_table") or {}
+    out = []
+    if rt.get("panel") and rt.get("panel_consent") in OK:
+        out.append("**Panel:** " + " · ".join(f"{p['name']} ({p['inst']})" for p in rt["panel"]) + "\n")
+    if rt.get("outcomes") and rt.get("outcomes_consent") in OK:
+        out.append("**What the round table agreed:**\n")
+        out += [f"- {o}" for o in rt["outcomes"]]
+        out.append("")
+        out.append("The agenda covered:\n")
+    else:
+        out.append("The workshop closes on Tuesday afternoon with a round table on how the "
+                   "community should develop. The agenda set by the organisers covers four themes:\n")
+    out += [f"{i}. {t}" for i, t in enumerate(rt.get("themes", []), 1)]
+    if not (rt.get("outcomes") and rt.get("outcomes_consent") in OK):
+        out.append("\nThe outcomes will be summarised here after the workshop.")
+    return "\n".join(out) + "\n"
+
+
+def award(e):
+    a = e.get("award") or {}
+    w = a.get("winner")
+    if w and a.get("consent") in OK:
+        card = (f'```{{=html}}\n<div class="speaker-grid"><div class="speaker-card"><div class="avatar">'
+                f'<span>{esc(initials(w["name"]))}</span></div><div class="n">{esc(w["name"])}</div>'
+                f'<div class="a">{esc(w.get("inst", ""))}</div></div></div>\n```\n')
+        talk = f" for *{w['title']}*" if w.get("title") else ""
+        return (f"The {a.get('name', 'Young Speaker Award')} of IR-EMPOWER {e['year']} went to "
+                f"**{w['name']}** ({w.get('inst', '')}){talk}, chosen by the scientific committee "
+                f"among the doctoral researchers who gave talks.\n\n" + card)
+    return (f"As in 2024, the {a.get('name', 'Young Speaker Award')} recognises the best talk by a "
+            f"doctoral researcher. The winner will be announced at the round table on "
+            f"{e['end'].day} September and listed here.\n")
+
+
+def split_name(name):
+    """'Iñigo González de Arrieta' -> ('González de Arrieta', 'Iñigo');
+    'Patrick E. Hopkins' -> ('Hopkins', 'Patrick E.'). Lower-case particles
+    (de, del, van, von, …) mark a compound family name."""
+    t = name.split()
+    if len(t) >= 3 and any(w in {"de", "del", "van", "von", "da", "di", "le", "la"} for w in t[1:]):
+        return " ".join(t[1:]), t[0]
+    return t[-1], " ".join(t[:-1])
+
+
+def bibkey(it, year, used):
+    import re, unicodedata
+    fam = split_name(it["speaker"].split(",")[0].strip())[0].replace(" ", "")
+    fam = unicodedata.normalize("NFKD", fam).encode("ascii", "ignore").decode().lower()
+    words = [w for w in re.findall(r"[A-Za-z]+", it["title"]) if len(w) > 3 and w.lower() not in
+             {"the", "from", "with", "measurement", "measurements", "emissivity"}]
+    k = f"{fam}{year}{(words[0].lower() if words else 'talk')}"
+    while k in used:
+        k += "x"
+    used.add(k)
+    return k
+
+
+def bibtex(e):
+    used, out = set(), []
+    for d in e["days"]:
+        for it in d["items"]:
+            if it["kind"] not in ("oral", "plenary"):
+                continue
+            authors = " and ".join("{}, {}".format(*split_name(a.strip())) for a in it["speaker"].split(","))
+            note = "Plenary talk" if it["kind"] == "plenary" else "Invited talk"
+            out.append(
+                f"@inproceedings{{{bibkey(it, e['year'], used)},\n"
+                f"  author    = {{{authors}}},\n"
+                f"  title     = {{{{{it['title']}}}}},\n"
+                f"  booktitle = {{IR-EMPOWER {e['year']} --- Workshop on Infrared Emissivity Measurements}},\n"
+                f"  address   = {{{e['venue_short']}}},\n"
+                f"  year      = {{{e['year']}}},\n"
+                f"  month     = sep,\n"
+                f"  note      = {{{note}, {d['label']}, {it['time']}}},\n"
+                f"  url       = {{https://emissivity.org{e['page']}}}\n}}\n")
+    return "\n".join(out)
+
+
 def main():
     cfg = yaml.safe_load(DATA.read_text())
     (ROOT / "ir-empower" / "_editions.qmd").write_text(editions_table(cfg))
@@ -137,6 +219,11 @@ def main():
         (d / "_programme.qmd").write_text(programme(e))
         (d / "_speakers.qmd").write_text(speakers(e))
         (d / "_posters.qmd").write_text(posters(e))
+        (d / "_roundtable.qmd").write_text(roundtable(e))
+        (d / "_award.qmd").write_text(award(e))
+        bib = ROOT / "files" / "bib"
+        bib.mkdir(parents=True, exist_ok=True)
+        (bib / f"ir-empower-{e['year']}.bib").write_text(bibtex(e))
         # Editorial aid: speaker institutions not yet on the research map.
         missing = sorted({it["inst"] for dd in e["days"] for it in dd["items"]
                           if it["kind"] in ("oral", "plenary") and not it.get("net")

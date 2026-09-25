@@ -1,0 +1,57 @@
+---
+title: "Intercomparisons & round robins"
+description: "Emissivity intercomparisons and round-robin tests between laboratories: participants, materials, protocols and status."
+page-layout: full
+toc: false
+draft: true   # DRAFT — publish only after Gabriel and LTeN (Léo Gaillard / Benoît Rousseau) agree to list the exercise
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/data/index.html">Data</a> / Intercomparisons</div>
+```
+
+::: {.page-article}
+# Intercomparisons & round robins
+
+The same sample measured in two laboratories rarely gives the same emissivity
+at first. The differences come from the method (direct or indirect,
+directional or hemispherical), from the heating and temperature measurement,
+and from the sample itself, which oxidises while it is being measured.
+Intercomparisons turn those differences into shared uncertainty budgets. They
+are also the most convincing data an open database like
+[EKHI](/data/ekhi.html) can hold: one material, several laboratories, with the
+protocol documented.
+
+This page lists the exercises our community runs, from bilateral comparisons
+to multi-laboratory round robins. The IR-EMPOWER 2026 round table named them
+as one of the community's priorities.
+
+## Current exercises
+
+| Exercise | Participants | Materials | Protocol | Status |
+|---|---|---|---|---|
+| High-temperature emissivity of aeronautical superalloys | [LTeN-CNRS](/network/lten-cnrs.html) · [UPV/EHU](/network/thermomat-ehu.html) | Inconel 718 · René 41 · Haynes 25 (discs Ø 20–25 mm, 1–2 mm thick) | Pre-oxidised at 900 °C, then measured in air from 400 to 1000 °C in both laboratories | Samples in preparation |
+
+## Background
+
+The superalloy comparison builds on earlier UPV/EHU measurements of the same
+alloys, including spectra of samples with a growing oxide film:
+[Emissivity measurements on aeronautical alloys](/publications/2010/del-campo/index.html) (2010).
+Related work on oxidation and emissivity of these alloy families:
+
+- [Oxidation induced emissivity variations of the Haynes 25 alloy at high temperatures](/publications/2023/balat-pichelin/index.html) (2023)
+- [Oxidation in air at 1400 K and optical properties of Inconel 625, FeCrAlloy and Kanthal Super ER](/publications/2020/colas/index.html) (2020)
+
+## Join an exercise
+
+Laboratories that want to take part in an exercise, or propose a new one,
+can write through the [contribution form](/contribute/index.html). Results are
+published in EKHI with every participant credited.
+
+::: {.sources-panel}
+### Provenance
+
+Exercise details agreed between the participating laboratories (July 2026).
+Listed with their permission.
+:::
+:::

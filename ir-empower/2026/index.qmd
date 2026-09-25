@@ -67,25 +67,17 @@ Posters:
 
 ## Round table
 
-The workshop closes on Tuesday afternoon with a round table on how the
-community should develop. The agenda set by the organisers covers four themes:
-
-1. **Young Speaker Award** — announced during the session.
-2. **Developing the community** — this website, mailing lists and a newsletter,
-   visibility, intercomparison measurements and round-robin tests, and data
-   collection.
-3. **Collaborations** — networking, joint funding (for example COST Actions and
-   Horizon Europe), thematic working groups, and links with groups worldwide.
-4. **The future of IR-EMPOWER** — periodicity, format and venue of the next
-   editions.
-
-The outcomes will be summarised here after the workshop.
+{{< include _roundtable.qmd >}}
 
 ## Young Speaker Award
 
-As in 2024, the Young Speaker Award recognises the best contribution by a
-doctoral researcher. The winner will be announced at the round table on
-29 September and listed here.
+{{< include _award.qmd >}}
+
+## Citing a talk
+
+BibTeX entries for all 21 talks:
+[ir-empower-2026.bib](/files/bib/ir-empower-2026.bib). Where a speaker deposits
+slides or an abstract with a DOI, the entry will point to it.
 
 ## The series
 

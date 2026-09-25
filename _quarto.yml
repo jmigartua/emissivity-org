@@ -7,6 +7,7 @@ resources:
   - assets/data/labs.json
   - assets/scripts/labs-map.js
   - files/ical/emissivity-conferences.ics
+  - files/bib/*.bib
 
 website:
   title: "emissivity.org"
