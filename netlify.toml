@@ -8,7 +8,10 @@
   publish = "_site"
 
 [build.environment]
-  PYTHON_VERSION = "3.8"
+  # Netlify's Noble build image installs Python via mise, which since
+  # Sept 2026 refuses 3.8 (no GitHub artifact attestations). The build only
+  # needs python3 + pyyaml, so any current release works.
+  PYTHON_VERSION = "3.12"
 
 [[headers]]
   for = "/*"

@@ -9,3 +9,6 @@ __pycache__/
 # Quarto render artefacts that must never be committed
 /site_libs/
 /events-news/news/*.html
+
+# Local Netlify folder
+.netlify
