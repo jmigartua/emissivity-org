@@ -17,13 +17,13 @@ toc: false
       tier logic, and limitations are documented in the
       <a href="/network/methodology.html">methodology</a>; corrections and
       additions go through the <a href="/contribute/index.html">editorial board</a>.
-      Directory revision: 2026-06-11.
+      Directory revision: 2026-09-25.
     </p>
 
     <div class="net-stats">
-      <div class="net-stat"><div class="v">40</div><div class="k">institutions</div></div>
+      <div class="net-stat"><div class="v">46</div><div class="k">institutions</div></div>
       <div class="net-stat"><div class="v">14</div><div class="k">countries</div></div>
-      <div class="net-stat"><div class="v">14</div><div class="k">core-tier laboratories</div></div>
+      <div class="net-stat"><div class="v">15</div><div class="k">core-tier laboratories</div></div>
       <div class="net-stat"><div class="v">9</div><div class="k">thematic ecosystems</div></div>
     </div>
 
@@ -44,7 +44,7 @@ toc: false
         <div class="kind">EU metrology project (EPM 21GRD03)</div>
         <h4>PaRaMetriC</h4>
         <p>Joint research project of the European Partnership on Metrology building a metrological framework for passive radiative cooling technologies, a performance that rests on emissivity and reflectance.</p>
-        <p class="rel">Consortium includes PTB, CAE and TÜBİTAK UME</p>
+        <p class="rel">Consortium includes PTB, CAE, LNE, CSIC and TÜBİTAK UME</p>
       </a>
       <a class="net-card" href="/ir-empower/index.html">
         <div class="kind">Workshop series</div>
@@ -164,6 +164,13 @@ toc: false
           <td><span class="tier-pill core">core</span></td>
           <td class="cap">2 µm to 14 µm (CCT-S1 comparison scope) · 23 °C to 800 °C (CCT-S1 comparison scope)</td>
         </tr>
+        <tr>
+          <td class="inst"><a href="/network/lne-trappes.html">Laboratoire national de métrologie et d&#x27;essais</a>
+            <span class="unit">MATIS platform — Thermal characterisation of materials</span></td>
+          <td class="cc">FR</td>
+          <td><span class="tier-pill core">core</span></td>
+          <td class="cap">250 nm to 20 µm (directional spectral emissivity, at 12°, 24°, 36°, 48° and 60°) · Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2013)</td>
+        </tr>
       </tbody>
     </table>
     <h3 class="dir-tier">Tier II — Extended: radiative properties among core activities</h3>
@@ -246,6 +253,27 @@ toc: false
           <td class="cc">US</td>
           <td><span class="tier-pill ">extended</span></td>
           <td class="cap">solar and thermal infrared bands</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/jrc-karlsruhe.html">European Commission Joint Research Centre, Karlsruhe</a>
+            <span class="unit">Fuels and Materials Research (FMR) laboratory</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">515–980 nm (256-channel spectro-pyrometer); fast pyrometer at 655 nm · Spectral emissivity above 1500 K; laser-heating experiments beyond 3000 K</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/bam-berlin.html">Bundesanstalt für Materialforschung und -prüfung</a>
+            <span class="unit">Division 8.3 Thermographic Methods</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">0.9–1.7 µm (SWIR hyperspectral line imaging) · Melt-pool temperatures of about 1300–2700 K observed in situ (Breese &amp; Altenburg 2025)</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/csic-ietcc.html">Instituto de Ciencias de la Construcción Eduardo Torroja (IETcc-CSIC)</a>
+            <span class="unit">Physico-Chemical Testing Unit</span></td>
+          <td class="cc">ES</td>
+          <td><span class="tier-pill ">extended</span></td>
+          <td class="cap">Reflectance 380–1700 nm; thermal emittance from directional-hemispherical reflectance in six bands over 1.5–21 µm</td>
         </tr>
       </tbody>
     </table>
@@ -330,6 +358,13 @@ toc: false
           <td><span class="tier-pill eng">engineered</span></td>
           <td class="cap">solar + 8–13 µm sky window · field demonstrations (roof scale)</td>
         </tr>
+        <tr>
+          <td class="inst"><a href="/network/unt-denton.html">University of North Texas — Nanoscale Energy Transport Lab</a>
+            <span class="unit">Nanoscale Energy Transport (NET) Lab, Department of Mechanical Engineering</span></td>
+          <td class="cc">US</td>
+          <td><span class="tier-pill eng">engineered</span></td>
+          <td class="cap">400 nm – 20 µm (lunar dust simulant study) · Room temperature</td>
+        </tr>
       </tbody>
     </table>
     <h3 class="dir-tier">Emerging and conference-affiliated</h3>
@@ -363,6 +398,13 @@ toc: false
           <td class="cc">US</td>
           <td><span class="tier-pill ">emerging</span></td>
           <td class="cap">Conference-affiliated contributor; talk was on apparent emissivity of semitransparent samples at PTB.</td>
+        </tr>
+        <tr>
+          <td class="inst"><a href="/network/thws-schweinfurt.html">Technische Hochschule Würzburg-Schweinfurt</a>
+            <span class="unit">Sensorik laboratory (Prof. Jürgen Hartmann)</span></td>
+          <td class="cc">DE</td>
+          <td><span class="tier-pill ">emerging</span></td>
+          <td class="cap">MWIR InSb camera with a narrowband filter at 2040 nm (Höfflin et al. 2024) · In-situ thermography calibrated for 500–1500 K (Höfflin et al. 2024)</td>
         </tr>
       </tbody>
     </table>

@@ -24,7 +24,6 @@ toc: false
 | **Unit** | [Raman Lab, Materials Science and Engineering](http://www.aaswathraman.com/) |
 | **Publicly linked people** | Aaswath Raman |
 
-
 ## Why it matters internationally
 
 The Raman Lab descends directly from the experiments that made daytime

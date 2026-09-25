@@ -24,7 +24,6 @@ toc: false
 | **Unit** | [Ruan Group, School of Mechanical Engineering](https://engineering.purdue.edu/NANOENERGY/) |
 | **Publicly linked people** | Xiulin Ruan |
 
-
 ## Why it matters internationally
 
 The Ruan group's barium-sulfate radiative-cooling paints — 98.1% solar

@@ -22,9 +22,8 @@ toc: false
 | **Tier** | Extended |
 | **Primary ecosystem** | Spectral Libraries |
 | **Unit** | [MELOPEE laboratory — optical properties of materials](https://www.onera.fr/en/dota-research-units) |
-| **Networks** | [TAMARYS](/network/networks/tamarys.html) partner |
-
 | **Databases hosted** | MEMOIRES thermo-optical properties database |
+| **Networks** | [TAMARYS](/network/networks/tamarys.html) |
 
 ## Why it matters internationally
 
@@ -41,6 +40,7 @@ data-infrastructure face of radiative-property work.
 - **Quantities:** spectral reflectance · polarized optical signatures of coatings and paints · infrared signatures
 - **Spectral range:** infrared detector characterization 1–20 µm; optical properties from visible to IR
 - **Methodology:** Measurement of optical properties of materials at the MELOPEE laboratory (spectral and polarized signatures of coatings and paints); results capitalized in the MEMOIRES thermo-optical properties database; radiative-transfer code MATISSE for IR signature studies.
+- **Named facilities:** MELOPEE optical-properties laboratory
 
 **Application domains:** infrared signature modelling (defense and aerospace) · coating and paint characterization.
 

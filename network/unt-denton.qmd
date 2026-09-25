@@ -1,0 +1,69 @@
+---
+title: "UNT"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / UNT</div>
+```
+
+::: {.page-article}
+# University of North Texas — Nanoscale Energy Transport Lab
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | United States |
+| **City** | Denton |
+| **Tier** | Engineered |
+| **Primary ecosystem** | Engineered Emissivity |
+| **Unit** | [Nanoscale Energy Transport (NET) Lab, Department of Mechanical Engineering](https://engineering.unt.edu/me/research/labs/net/) |
+| **Publicly linked people** | Zihao (Richard) Zhang |
+
+## Why it matters internationally
+
+The Nanoscale Energy Transport Lab in UNT's Department of Mechanical Engineering
+develops micro- and nanoscale coatings that control thermal radiation, with
+spacecraft thermal regulation as an explicit application. It leads the NASA
+M-STAR project ProTECC on electrochromic coatings that combine radiative heat
+switching with dust mitigation, and has published broadband reflectance and
+room-temperature emittance of lunar dust simulants from 400 nm to 20 µm. Its
+strength lies in engineered emitters for space rather than in dedicated emissivity
+metrology.
+
+## Scope of activity
+
+- **Quantities:** spectral reflectance (visible to far infrared) · room-temperature thermal emittance · solar absorptivity
+- **Spectral range:** 400 nm – 20 µm (lunar dust simulant study)
+- **Temperature:** Room temperature
+- **Methodology:** Reflectance-based absorptivity and emittance from integrating-sphere and specular spectrometry and FTIR with diffuse and specular accessories, supported by effective-medium modelling; design of micro/nanoscale thermal-radiation coatings for spacecraft thermal control.
+
+**Application domains:** spacecraft thermal-control coatings · lunar exploration: thermal management and dust mitigation (NASA M-STAR ProTECC) · metasurface and thin-film thermal emitters.
+
+## IR-EMPOWER contributions
+
+- IR-EMPOWER 2026: Richard Zhang, “Room Temperature Direct Emissivity Measurements of Spacecraft Thermal Materials”; scientific committee
+
+## External sources
+
+- [UNT College of Engineering — Richard Z. Zhang](https://engineering.unt.edu/people/richard-z-zhang.html)
+- [NET Lab](https://engineering.unt.edu/me/research/labs/net/)
+- [NET Lab research — thermal radiation coatings](https://engineering.unt.edu/me/research/labs/net/research.html)
+- [NASA M-STAR FY2023 award abstract (ProTECC)](https://msiexchange.nasa.gov/attachments/227216/award_abstract_MSTAR%20FY2023%20-%20U%20of%20North%20Texas.pdf)
+- [Ravichandran et al. (2026), lunar dust simulants, JQSRT](https://www.sciencedirect.com/science/article/abs/pii/S0022407326000154)
+- [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-09-25 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

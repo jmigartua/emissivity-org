@@ -1,0 +1,70 @@
+---
+title: "THWS"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / THWS</div>
+```
+
+::: {.page-article}
+# Technische Hochschule Würzburg-Schweinfurt
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Schweinfurt / Würzburg |
+| **Tier** | Emerging |
+| **Primary ecosystem** | Metrology |
+| **Unit** | [Sensorik laboratory (Prof. Jürgen Hartmann)](https://www.thws.de/forschung/forschungsprofil/forschenden-datenbank/juergen-hartmannthws-de/) |
+| **Unit** | [Institute of Digital Engineering (IDEE)](https://www.thws.de/en/research/institutes/idee/) |
+| **Publicly linked people** | Jürgen Hartmann |
+
+## Why it matters internationally
+
+Prof. Jürgen Hartmann's Sensorik laboratory at THWS works on radiometry,
+thermometry and opto-thermal characterisation of materials at high temperature.
+With the Institute of Digital Engineering, the group has published a calibrated
+MWIR thermography system for absolute temperature measurement in laser powder bed
+fusion over 500–1500 K, which depends on separately measured emissivity of the
+processed material. THWS was a partner in the European metrology project Hi-TRACE
+on reference equipment for emissivity above 1500 °C. Much of the high-temperature
+emissivity measurement behind this work is done with CAE Würzburg, where Hartmann
+is also affiliated.
+
+## Scope of activity
+
+- **Quantities:** absolute surface temperatures in laser powder bed fusion (calibrated in-situ thermography) · radiation thermometry at high temperatures
+- **Spectral range:** MWIR InSb camera with a narrowband filter at 2040 nm (Höfflin et al. 2024)
+- **Temperature:** In-situ thermography calibrated for 500–1500 K (Höfflin et al. 2024)
+- **Methodology:** Pixel-wise radiometric calibration of an MWIR thermography system against a blackbody cavity and reference pyrometer, used through the scan-head optical path of a laser powder bed fusion research platform; emissivity of the resolidified material, measured separately at high temperature, converts radiance to true temperature.
+- **Named facilities:** SPIT — synchronized path infrared thermography on a PBF-LB/M research platform
+
+**Application domains:** in-situ temperature measurement in laser powder bed fusion of metals · radiation thermometry for gas turbines · thermophysical characterisation at very high temperatures (Hi-TRACE partner).
+
+## IR-EMPOWER contributions
+
+- IR-EMPOWER 2026: Jürgen Hartmann, “Determination of Emissivity as Basis for Non-Contact Temperature Measurements in 3D-Metal-Printing”
+
+## External sources
+
+- [THWS researcher database — Prof. Dr. habil. Jürgen Hartmann](https://www.thws.de/forschung/forschungsprofil/forschenden-datenbank/juergen-hartmannthws-de/)
+- [THWS IDEE — Hi-TRACE project](https://www.thws.de/en/research/institutes/idee/completed-idee-projects/hi-trace/)
+- [Höfflin et al. (2024), pixel-wise high-temperature calibration for PBF-LB/M, Heliyon 10, e28989](https://www.sciencedirect.com/science/article/pii/S2405844024050205)
+- [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-09-25 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

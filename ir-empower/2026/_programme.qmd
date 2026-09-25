@@ -7,17 +7,17 @@
 | | **Session 1** | |
 | 09:00 | **New Upgrades on the Emissivity Measurement Setup at UPV/EHU** *(plenary)* | Iñigo González de Arrieta · [UPV/EHU, Leioa (Spain)](/network/thermomat-ehu.html) |
 | 09:50 | **The New Hemispherical Enclosure for Emissivity Measurements at PTB** | Albert Adibekyan · [PTB, Berlin (Germany)](/network/ptb.html) |
-| 10:15 | **Measurement of Directional Spectral Emissivity at LNE** | Guillaume Failleau · LNE, Trappes (France) |
+| 10:15 | **Measurement of Directional Spectral Emissivity at LNE** | Guillaume Failleau · [LNE, Trappes (France)](/network/lne-trappes.html) |
 | 10:40 | *Coffee break* | |
 | | **Session 2** | |
 | 11:10 | **High Temperature Emissivity Measurements of Oxide-Based Refractory Ceramics: From the Solid State to the Liquid State** | Leire del Campo, Olivier Rozenbaum · [CEMHTI-CNRS, Orléans (France)](/network/cemhti-cnrs.html) |
-| 11:35 | **Benefits and Limitations of Multi-Wavelength Pyrometry** | Konstantinos Boboridis · European Commission, JRC Karlsruhe (Germany) |
-| 12:00 | **Room Temperature Direct Emissivity Measurements of Spacecraft Thermal Materials** | Richard Zhang · UNT, Denton (USA) |
+| 11:35 | **Benefits and Limitations of Multi-Wavelength Pyrometry** | Konstantinos Boboridis · [European Commission, JRC Karlsruhe (Germany)](/network/jrc-karlsruhe.html) |
+| 12:00 | **Room Temperature Direct Emissivity Measurements of Spacecraft Thermal Materials** | Richard Zhang · [UNT, Denton (USA)](/network/unt-denton.html) |
 | 12:25 | **Effect of Contaminants on the Thermal Absorptivity at Low Temperatures** | Tomáš Králík · [ISI CAS, Brno (Czechia)](/network/isi-brno.html) |
 | 12:50 | *Lunch* | |
 | | **Session 3** | |
-| 13:50 | **Determination of Emissivity as Basis for Non-Contact Temperature Measurements in 3D-Metal-Printing** | Jürgen Hartmann · THWS, Schweinfurt (Germany) |
-| 14:15 | **Multi- and Hyperspectral Temperature Measurement in the Additive Manufacturing of Metals** | Tina Walter · BAM, Berlin (Germany) |
+| 13:50 | **Determination of Emissivity as Basis for Non-Contact Temperature Measurements in 3D-Metal-Printing** | Jürgen Hartmann · [THWS, Schweinfurt (Germany)](/network/thws-schweinfurt.html) |
+| 14:15 | **Multi- and Hyperspectral Temperature Measurement in the Additive Manufacturing of Metals** | Tina Walter · [BAM, Berlin (Germany)](/network/bam-berlin.html) |
 | 14:40 | **Emissivity Measurement and its Application in Thermodiagnostics of Additive Manufacturing of Plastics and Metals** | Zdeněk Veselý · [ZČU, Pilsen (Czechia)](/network/uwb-ntc.html) |
 | 15:05 | **Ready-to-Use Emissivity Measurement Solutions for Energy and Materials Research** | Karolina Haupa · Bruker, Ettlingen (Germany) |
 | 15:30 | *Coffee break* | |
@@ -38,13 +38,13 @@
 | 10:15 | **Comparison of Emittance Results from Different Labs** | Elisa Sani · [INO-CNR, Florence (Italy)](/network/cnr-ino.html) |
 | 10:40 | *Coffee break* | |
 | | **Session 6** | |
-| 11:10 | **Emissivity Measurements of Construction Materials with Portable Equipment** | Pablo Alonso · CSIC, Madrid (Spain) |
+| 11:10 | **Emissivity Measurements of Construction Materials with Portable Equipment** | Pablo Alonso · [CSIC, Madrid (Spain)](/network/csic-ietcc.html) |
 | 11:35 | **Pulse Heating Technique for Measuring the Emissivity at Temperatures up to 3000 °C** | Stephan Vidi · [CAE, Würzburg (Germany)](/network/cae-wuerzburg.html) |
 | 12:00 | **Directional-Hemispherical Reflectance Measurements up to 200 µm** | Elena Kononogova · [PTB, Berlin (Germany)](/network/ptb.html) |
 | 12:25 | **Direct and Indirect Measurement of Spectral Emissivity and Emittance from Room Temperature to 4000 °C** | Hunter Schonfeld · [UVA, Charlottesville (USA)](/network/uva.html) |
 | 12:50 | *Lunch* | |
 | | **Session 7** | |
-| 13:50 | **Catalogue of Thermo-Optical Properties of Construction Materials** | Gloria Pérez · CSIC, Madrid (Spain) |
+| 13:50 | **Catalogue of Thermo-Optical Properties of Construction Materials** | Gloria Pérez · [CSIC, Madrid (Spain)](/network/csic-ietcc.html) |
 | 14:15 | **[EKHI: the Open Database of Optical and Radiative Data](/data/ekhi.html)** | Jon Gabirondo-López · [UPV/EHU, Leioa (Spain)](/network/thermomat-ehu.html) |
 | 14:40 | **Measuring Emittance in Ceramics from the Visible to the Mid-IR** | Patrick E. Hopkins · [UVA, Charlottesville (USA)](/network/uva.html) |
 | 15:00 | *Poster session* | |

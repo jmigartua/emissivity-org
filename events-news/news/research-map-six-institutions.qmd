@@ -1,0 +1,35 @@
+---
+title: "Six institutions join the research map"
+date: "2026-09-25"
+categories: [Network, Research map, IR-EMPOWER]
+description: "LNE, JRC Karlsruhe, BAM, IETcc-CSIC, UNT and THWS join the emissivity.org research map, which now lists 46 institutions in 14 countries."
+---
+
+::: {.page-article}
+# Six institutions join the research map
+
+The [research map](/network/index.html) now lists **46 institutions in 14
+countries**. The six new profiles come from the
+[IR-EMPOWER 2026 programme](/ir-empower/2026/index.html). The workshop's talks
+are among the public evidence the map's [methodology](/network/methodology.html)
+uses, and each profile was checked against the institution's own pages and
+peer-reviewed publications.
+
+| Institution | Tier | What it brings |
+|---|---|---|
+| [LNE](/network/lne-trappes.html), Trappes | Core | France's national metrology institute: SI-traceable directional spectral emissivity (250 nm–20 µm) and calorimetric total hemispherical emissivity |
+| [JRC Karlsruhe](/network/jrc-karlsruhe.html) | Extended | Spectral emissivity of laser-heated nuclear and ultra-refractory materials above 1500 K |
+| [BAM](/network/bam-berlin.html), Berlin | Extended | Hyperspectral thermography and emissivity-aware temperature measurement in metal additive manufacturing |
+| [IETcc-CSIC](/network/csic-ietcc.html), Madrid | Extended | An open dataset of solar reflectance and thermal emittance for 236 construction materials |
+| [UNT](/network/unt-denton.html), Denton | Engineered emissivity | Thermal-radiation coatings for spacecraft and lunar exploration |
+| [THWS](/network/thws-schweinfurt.html), Schweinfurt / Würzburg | Emerging | Calibrated in-situ thermography for laser powder bed fusion |
+
+Every speaker institution at IR-EMPOWER 2026 now has a profile on the map,
+except the one company on the programme (the map lists non-commercial
+institutions only).
+
+Is your laboratory missing, or is its profile out of date? Tell us through the
+[contribution form](/contribute/index.html).
+
+*Emissivity.org Editorial Board · 25 September 2026.*
+:::

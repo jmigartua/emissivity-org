@@ -21,8 +21,8 @@ networks:
     coordinator: "INRIM, Turin"
     url: "https://parametric.inrim.it/"
     page: "/network/networks/parametric.html"
-    relation: "Consortium includes PTB, CAE and TÜBİTAK UME"
-    members_on_map: [ptb, cae-wuerzburg, tubitak-ume]
+    relation: "Consortium includes PTB, CAE, LNE, CSIC and TÜBİTAK UME"
+    members_on_map: [ptb, cae-wuerzburg, lne-trappes, csic-ietcc, tubitak-ume]
 
   - id: ir-empower
     name: "IR-EMPOWER"

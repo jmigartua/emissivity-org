@@ -1,8 +1,8 @@
 {
  "stats": {
-  "institutions": 40,
+  "institutions": 46,
   "countries": 14,
-  "core": 14,
+  "core": 15,
   "ecosystems": 9,
   "countries_list": [
    "Australia",
@@ -20,7 +20,7 @@
    "United Kingdom",
    "United States"
   ],
-  "data_revision": "2026-06-11"
+  "data_revision": "2026-09-25"
  },
  "labs": [
   {
@@ -502,6 +502,78 @@
    "lat": -33.883,
    "lon": 151.2,
    "url": "/network/uts-sydney.html"
+  },
+  {
+   "id": "lne-trappes",
+   "name": "Laboratoire national de m\u00e9trologie et d'essais",
+   "short": "LNE",
+   "city": "Trappes",
+   "country": "France",
+   "iso": "FR",
+   "tier": "core",
+   "lat": 48.78,
+   "lon": 1.99,
+   "url": "/network/lne-trappes.html"
+  },
+  {
+   "id": "jrc-karlsruhe",
+   "name": "European Commission Joint Research Centre, Karlsruhe",
+   "short": "JRC Karlsruhe",
+   "city": "Karlsruhe",
+   "country": "Germany",
+   "iso": "DE",
+   "tier": "extended",
+   "lat": 49.1,
+   "lon": 8.43,
+   "url": "/network/jrc-karlsruhe.html"
+  },
+  {
+   "id": "bam-berlin",
+   "name": "Bundesanstalt f\u00fcr Materialforschung und -pr\u00fcfung",
+   "short": "BAM",
+   "city": "Berlin",
+   "country": "Germany",
+   "iso": "DE",
+   "tier": "extended",
+   "lat": 52.443,
+   "lon": 13.299,
+   "url": "/network/bam-berlin.html"
+  },
+  {
+   "id": "csic-ietcc",
+   "name": "Instituto de Ciencias de la Construcci\u00f3n Eduardo Torroja (IETcc-CSIC)",
+   "short": "IETcc-CSIC",
+   "city": "Madrid",
+   "country": "Spain",
+   "iso": "ES",
+   "tier": "extended",
+   "lat": 40.464,
+   "lon": -3.659,
+   "url": "/network/csic-ietcc.html"
+  },
+  {
+   "id": "unt-denton",
+   "name": "University of North Texas \u2014 Nanoscale Energy Transport Lab",
+   "short": "UNT",
+   "city": "Denton",
+   "country": "United States",
+   "iso": "US",
+   "tier": "engineered",
+   "lat": 33.254,
+   "lon": -97.152,
+   "url": "/network/unt-denton.html"
+  },
+  {
+   "id": "thws-schweinfurt",
+   "name": "Technische Hochschule W\u00fcrzburg-Schweinfurt",
+   "short": "THWS",
+   "city": "Schweinfurt / W\u00fcrzburg",
+   "country": "Germany",
+   "iso": "DE",
+   "tier": "emerging",
+   "lat": 50.047,
+   "lon": 10.228,
+   "url": "/network/thws-schweinfurt.html"
   }
  ]
 }

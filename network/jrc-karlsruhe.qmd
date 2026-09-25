@@ -1,0 +1,71 @@
+---
+title: "JRC Karlsruhe"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / JRC Karlsruhe</div>
+```
+
+::: {.page-article}
+# European Commission Joint Research Centre, Karlsruhe
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Karlsruhe |
+| **Tier** | Extended |
+| **Primary ecosystem** | High Temperature |
+| **Unit** | [Fuels and Materials Research (FMR) laboratory](https://joint-research-centre.ec.europa.eu/laboratories-and-facilities/fuels-and-materials-research_en) |
+| **Publicly linked people** | Konstantinos Boboridis |
+
+## Why it matters internationally
+
+JRC Karlsruhe is the European Commission's main site for nuclear safety and
+security research. Its Fuels and Materials Research laboratory offers radiance
+spectroscopy of laser-heated samples to determine normal spectral emissivity in the
+visible and near infrared above 1500 K, combining a 4.5 kW laser, a 256-channel
+spectro-pyrometer and pressurised controlled atmospheres. The group has published
+melting points and emissivities of nuclear and ultra-refractory materials such as
+uranium and plutonium carbides, uranium nitrides and TaC–HfC, and took part in the
+European metrology project Hi-TRACE on high-temperature thermophysical properties.
+
+## Scope of activity
+
+- **Quantities:** normal spectral emissivity of laser-heated solids and liquids (visible–near infrared) · radiance temperature and melting / solidification temperatures · thermal diffusivity at high temperature
+- **Spectral range:** 515–980 nm (256-channel spectro-pyrometer); fast pyrometer at 655 nm
+- **Temperature:** Spectral emissivity above 1500 K; laser-heating experiments beyond 3000 K
+- **Methodology:** Samples heated by a 4.5 kW Nd:YAG laser in a pressurised controlled-atmosphere autoclave; temperature and normal spectral emissivity obtained together from a non-linear fit of the measured thermal-emission spectrum, with PTB-traceable lamp calibration.
+- **Named facilities:** Laser heating with radiance spectroscopy (FMR laboratory) · CLASH thermal-diffusivity equipment (1200–3000 K)
+
+**Application domains:** nuclear fuel safety and severe-accident research · melting behaviour of actinide oxides, carbides and nitrides · ultra-refractory ceramics and high-melting-temperature materials.
+
+## IR-EMPOWER contributions
+
+- IR-EMPOWER 2026: Konstantinos Boboridis, “Benefits and Limitations of Multi-Wavelength Pyrometry”; scientific committee
+- IR-EMPOWER 2024: Konstantinos Boboridis, “High melting temperature materials”; international advisory board
+
+## External sources
+
+- [JRC — Fuels and Materials Research laboratory](https://joint-research-centre.ec.europa.eu/laboratories-and-facilities/fuels-and-materials-research_en)
+- [JRC — The JRC in Karlsruhe](https://joint-research-centre.ec.europa.eu/about-us/jrc-sites-across-europe/jrc-karlsruhe-germany_en)
+- [Manara et al. (2017), Laser-heating and radiance spectrometry, J. Vis. Exp.](https://pmc.ncbi.nlm.nih.gov/articles/PMC5755562/)
+- [JRC68645 — radiance spectroscopy of U and Pu carbides (2012)](https://publications.jrc.ec.europa.eu/repository/handle/JRC68645)
+- [Cedillos-Barraza et al. (2016), Sci. Rep. 6, 37962 — TaC–HfC laser melting](https://www.nature.com/articles/srep37962)
+- [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-09-25 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

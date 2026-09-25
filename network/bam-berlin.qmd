@@ -1,0 +1,70 @@
+---
+title: "BAM"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / BAM</div>
+```
+
+::: {.page-article}
+# Bundesanstalt für Materialforschung und -prüfung
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Germany |
+| **City** | Berlin |
+| **Tier** | Extended |
+| **Primary ecosystem** | High Temperature |
+| **Unit** | [Division 8.3 Thermographic Methods](https://bam.de/ueber-die-bam/organisation/zerstoerungsfreie-pruefung/thermografische-verfahren) |
+| **Unit** | [In-situ monitoring in additive manufacturing](https://bam.de/en/topics/materials/additive-manufacturing/in-situ-monitoring) |
+| **Publicly linked people** | Tina Walter · Simon J. Altenburg |
+
+## Why it matters internationally
+
+BAM's Division 8.3 Thermographic Methods develops contactless thermographic testing,
+with in-situ monitoring of additive manufacturing as a named work area. It runs
+SAMMIE, an open-architecture laser powder bed fusion testbed instrumented with
+thermographic and optical sensors, on which it has demonstrated hyperspectral SWIR
+measurement of absolute melt-pool temperatures. Its published work treats the
+unknown, changing emissivity of metal surfaces as the key obstacle to quantitative
+in-situ thermography, and addresses it with spectral directional emissivity
+measurements (carried out with CAE Würzburg) and multispectral methods.
+
+## Scope of activity
+
+- **Quantities:** absolute melt-pool temperature fields in laser powder bed fusion (hyperspectral SWIR thermography) · spectral directional emissivity of PBF-LB/M surfaces and powders (316L, AlSi10Mg), measured with CAE Würzburg · multispectral optical tomography signals
+- **Spectral range:** 0.9–1.7 µm (SWIR hyperspectral line imaging)
+- **Temperature:** Melt-pool temperatures of about 1300–2700 K observed in situ (Breese & Altenburg 2025)
+- **Methodology:** Hyperspectral SWIR measurement of spectral exitance along a line, converted to absolute temperature with Planck's law and a spectral emissivity function, on an open-architecture laser powder bed fusion testbed under argon; complemented by multispectral optical tomography and active laser thermography.
+- **Named facilities:** SAMMIE — Sensor-based Additive Manufacturing Machine (PBF-LB/M testbed)
+
+**Application domains:** in-situ monitoring and quality assurance in laser powder bed fusion of metals · in-situ defect detection by active laser thermography · thermographic non-destructive testing.
+
+## IR-EMPOWER contributions
+
+- IR-EMPOWER 2026: Tina Walter, “Multi- and Hyperspectral Temperature Measurement in the Additive Manufacturing of Metals”
+
+## External sources
+
+- [BAM Division 8.3 Thermographic Methods](https://bam.de/ueber-die-bam/organisation/zerstoerungsfreie-pruefung/thermografische-verfahren)
+- [BAM — In-situ monitoring in additive manufacturing](https://bam.de/en/topics/materials/additive-manufacturing/in-situ-monitoring)
+- [Breese & Altenburg (2025), hyperspectral thermography in PBF-LB/M, Prog. Addit. Manuf.](https://link.springer.com/article/10.1007/s40964-025-01148-8)
+- [Becker (Walter) et al. (2024), spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces, Prog. Addit. Manuf.](https://link.springer.com/article/10.1007/s40964-024-00665-2)
+- [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-09-25 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

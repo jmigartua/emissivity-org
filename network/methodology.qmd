@@ -61,7 +61,7 @@ available evidence** — unit name, facility, database, or sustained output —
 and by the **centrality of emissivity / radiative properties to the entity's
 public identity**.
 
-### Tier I — Core (12 entities)
+### Tier I — Core (15 entities)
 
 Directly centered on emissivity / thermo-optical metrology. Typical profile:
 a unit or facility on the scope topics **and** a named instrument or
@@ -71,7 +71,7 @@ measurement capability **and** sustained output. Examples: PTB (WG 7.35
 VINČA (direct pulse-heating), NIST (System for IR Spectral Emittance),
 AIST/NMIJ (TPDS), and the Thermomat/EKHI group at UPV-EHU.
 
-### Tier II — Extended (5 entities)
+### Tier II — Extended (14 entities)
 
 Essential once the scope broadens to reflectance, spectral libraries, and
 radiative-property data infrastructures. These entities may have emissivity
@@ -79,14 +79,14 @@ as one of several roles rather than as their primary identity. Examples:
 NASA JPL (JEDI), ASU TES Laboratory, Brown RELAB, USGS Spectroscopy, LTeN-CNRS
 (architectured ceramics).
 
-### Tier III — Engineered emissivity / thermal photonics (5 entities)
+### Tier III — Engineered emissivity / thermal photonics (12 entities)
 
 Academic groups that **design** emissivity through nanophotonics, metasurfaces,
 and radiative-cooling schemes, plus closely aligned applied-energy groups.
 Examples: Stanford Fan Group, Columbia / Nanfang Yu Group, Utah / TIFT Lab,
 Vanderbilt / Caldwell Lab, LBNL Heat Island Group.
 
-### Tier IV — Emerging / flagged (4 entities)
+### Tier IV — Emerging / flagged (5 entities)
 
 Ultrahigh-temperature frontier, application-specific, or conference-affiliated
 where the emissivity infrastructure evidenced in the public record is hosted

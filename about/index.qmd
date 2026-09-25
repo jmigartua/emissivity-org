@@ -41,7 +41,7 @@ toc: false
 
   <p>The site documents the worldwide community through its
   <a href="/network/index.html">research map</a>: a curated, source-verified
-  directory of <strong>40 institutions in 14 countries</strong> — national
+  directory of <strong>46 institutions in 14 countries</strong> — national
   metrology institutes, high-temperature and solar facilities, remote-sensing
   and spectral-library groups, spacecraft thermal-control laboratories, and
   the engineered-emissivity (thermal photonics) community. Inclusion follows a

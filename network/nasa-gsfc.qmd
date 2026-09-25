@@ -23,8 +23,6 @@ toc: false
 | **Primary ecosystem** | Space Thermal |
 | **Unit** | [Contamination and Coatings Engineering Branch (Code 546)](https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/contamination-coatings-engineering/) |
 
-
-
 ## Why it matters internationally
 
 GSFC's coatings work produced the α/ε handbooks that generations of

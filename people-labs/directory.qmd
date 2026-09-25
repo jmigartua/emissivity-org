@@ -12,7 +12,7 @@ toc: false
 # Laboratory directory
 
 This section has been superseded by the **[research map](/network/index.html)** —
-the curated directory of 40 institutions where emissivity and thermal
+the curated directory of 46 institutions where emissivity and thermal
 radiative properties are actively researched, with verified profiles,
 capability envelopes, and traceable sources.
 

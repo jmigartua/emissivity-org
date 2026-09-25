@@ -22,9 +22,7 @@ toc: false
 | **Tier** | Extended |
 | **Primary ecosystem** | Metrology |
 | **Unit** | [Radiation Temperature Laboratory, Physics Group](https://www.ume.tubitak.gov.tr/en/physics-group-laboratories/radiation-temperature-laboratory/) |
-| **Networks** | [PaRaMetriC](/network/networks/parametric.html) consortium partner |
-
-
+| **Networks** | [PaRaMetriC](/network/networks/parametric.html) |
 
 ## Why it matters internationally
 

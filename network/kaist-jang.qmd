@@ -24,7 +24,6 @@ toc: false
 | **Unit** | [Jang Lab, School of Electrical Engineering](https://janglab.org/) |
 | **Publicly linked people** | Min Seok Jang |
 
-
 ## Why it matters internationally
 
 The Jang lab represents the strong Korean school of nanophotonic

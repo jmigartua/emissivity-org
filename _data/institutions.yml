@@ -9,7 +9,7 @@
 
 meta:
   version: "1.0"
-  last_updated: "2026-04"
+  last_updated: "2026-09"
   scope: |
     Non-commercial, research-active entities whose public material explicitly
     mentions emissivity / emittance, reflectance, transmittance, thermal
@@ -2142,3 +2142,367 @@ institutions:
         url: "https://doi.org/10.1002/advs.201500119"
       - label: "Sub-ambient daytime radiative cooling roof (Advanced Science / PMC)"
         url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5115392/"
+
+  # ─────────── Added 2026-09-25 — institutions surfaced by the IR-EMPOWER 2026 programme ───────────
+
+  - id: lne-trappes
+    rank: 41
+    tier: core
+    added: "2026-09-25"
+    name: "Laboratoire national de métrologie et d'essais"
+    short_name: "LNE"
+    country: "France"
+    iso_country: "FR"
+    city: "Trappes"
+    ecosystems: [metrology, high_temperature, applied_energy]
+    ecosystem_primary: metrology
+    units:
+      - name: "MATIS platform — Thermal characterisation of materials"
+        url: "https://www.lne.fr/fr/moyens/plateforme/caracterisation-thermique-materiaux"
+    people:
+      - name: "Guillaume Failleau"
+        source: "IR-EMPOWER 2026 programme"
+    properties_measured:
+      - "directional spectral emissivity (from spectral directional hemispherical reflectance)"
+      - "total hemispherical emissivity (calorimetric)"
+      - "normal spectral emissivity at high temperature"
+      - "solar absorption factor"
+    capabilities:
+      temperature_range_text: "Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2013)"
+      wavelength_range_text: "250 nm to 20 µm (directional spectral emissivity, at 12°, 24°, 36°, 48° and 60°)"
+      atmospheres: [vacuum]
+      methodology_notes: "SI-traceable directional spectral emissivity of opaque solids derived from spectral directional hemispherical reflectance (expanded uncertainty 0.025–0.04); calorimetric total hemispherical emissivity in vacuum; a high-temperature directional spectral emissivity facility with lamp-image-furnace or inductive heating."
+    instruments_named:
+      - "Spectral directional hemispherical reflectance / directional spectral emissivity bench"
+      - "Calorimetric total hemispherical emissivity bench"
+    databases_hosted: []
+    applications:
+      - "aerospace, defence, nuclear and transport materials"
+      - "reflective and low-emissivity thermal insulation for buildings"
+      - "high-temperature materials for aeronautics and energy"
+    ir_empower_contributions:
+      - "IR-EMPOWER 2026: Guillaume Failleau, “Measurement of Directional Spectral Emissivity at LNE”"
+    why_it_matters: |
+      LNE is France's national metrology institute. Its MATIS thermal-characterisation
+      platform offers SI-traceable measurements of directional spectral emissivity from
+      250 nm to 20 µm and calorimetric total hemispherical emissivity. LNE's
+      reflectometer-based emissivity work goes back to at least 2005, validated against
+      PTB and NIST references, and a directional spectral emissivity facility working up
+      to 1500 °C was reported in 2013. LNE coordinated the European metrology project
+      EMIRIM (16NRM06, 2017–2020) on emissivity of reflective insulation, and Hi-TRACE
+      (17IND11) on traceable high-temperature thermophysical properties.
+    external_sources:
+      - label: "LNE — Caractérisation thermique des matériaux (MATIS platform)"
+        url: "https://www.lne.fr/fr/moyens/plateforme/caracterisation-thermique-materiaux"
+      - label: "LNE — Thermal characterization of materials (service page)"
+        url: "https://www.lne.fr/en/service/testing-measurement/thermal-characterization-materials"
+      - label: "Hameury, Hay, Filtz (2005), Int. J. Thermophys. 26, 1973–1983"
+        url: "https://link.springer.com/article/10.1007/s10765-005-8609-0"
+      - label: "Hay et al., New facilities for high-temperature thermophysical properties at LNE, Int. J. Thermophys."
+        url: "https://link.springer.com/article/10.1007/s10765-013-1400-8"
+      - label: "EURAMET — EMPIR 16NRM06 EMIRIM"
+        url: "https://www.euramet.org/project-16nrm06"
+      - label: "Hameury, Failleau et al. (2021), J. Sens. Sens. Syst. 10, 135–152"
+        url: "https://jsss.copernicus.org/articles/10/135/2021/"
+      - label: "IR-EMPOWER 2026 programme (CAE)"
+        url: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"
+
+  - id: jrc-karlsruhe
+    rank: 42
+    tier: extended
+    added: "2026-09-25"
+    name: "European Commission Joint Research Centre, Karlsruhe"
+    short_name: "JRC Karlsruhe"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Karlsruhe"
+    ecosystems: [high_temperature, metrology]
+    ecosystem_primary: high_temperature
+    units:
+      - name: "Fuels and Materials Research (FMR) laboratory"
+        url: "https://joint-research-centre.ec.europa.eu/laboratories-and-facilities/fuels-and-materials-research_en"
+    people:
+      - name: "Konstantinos Boboridis"
+        source: "IR-EMPOWER 2026 programme"
+    properties_measured:
+      - "normal spectral emissivity of laser-heated solids and liquids (visible–near infrared)"
+      - "radiance temperature and melting / solidification temperatures"
+      - "thermal diffusivity at high temperature"
+    capabilities:
+      temperature_range_text: "Spectral emissivity above 1500 K; laser-heating experiments beyond 3000 K"
+      wavelength_range_text: "515–980 nm (256-channel spectro-pyrometer); fast pyrometer at 655 nm"
+      atmospheres: [inert, air]
+      methodology_notes: "Samples heated by a 4.5 kW Nd:YAG laser in a pressurised controlled-atmosphere autoclave; temperature and normal spectral emissivity obtained together from a non-linear fit of the measured thermal-emission spectrum, with PTB-traceable lamp calibration."
+    instruments_named:
+      - "Laser heating with radiance spectroscopy (FMR laboratory)"
+      - "CLASH thermal-diffusivity equipment (1200–3000 K)"
+    databases_hosted: []
+    applications:
+      - "nuclear fuel safety and severe-accident research"
+      - "melting behaviour of actinide oxides, carbides and nitrides"
+      - "ultra-refractory ceramics and high-melting-temperature materials"
+    ir_empower_contributions:
+      - "IR-EMPOWER 2026: Konstantinos Boboridis, “Benefits and Limitations of Multi-Wavelength Pyrometry”; scientific committee"
+      - "IR-EMPOWER 2024: Konstantinos Boboridis, “High melting temperature materials”; international advisory board"
+    why_it_matters: |
+      JRC Karlsruhe is the European Commission's main site for nuclear safety and
+      security research. Its Fuels and Materials Research laboratory offers radiance
+      spectroscopy of laser-heated samples to determine normal spectral emissivity in the
+      visible and near infrared above 1500 K, combining a 4.5 kW laser, a 256-channel
+      spectro-pyrometer and pressurised controlled atmospheres. The group has published
+      melting points and emissivities of nuclear and ultra-refractory materials such as
+      uranium and plutonium carbides, uranium nitrides and TaC–HfC, and took part in the
+      European metrology project Hi-TRACE on high-temperature thermophysical properties.
+    external_sources:
+      - label: "JRC — Fuels and Materials Research laboratory"
+        url: "https://joint-research-centre.ec.europa.eu/laboratories-and-facilities/fuels-and-materials-research_en"
+      - label: "JRC — The JRC in Karlsruhe"
+        url: "https://joint-research-centre.ec.europa.eu/about-us/jrc-sites-across-europe/jrc-karlsruhe-germany_en"
+      - label: "Manara et al. (2017), Laser-heating and radiance spectrometry, J. Vis. Exp."
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5755562/"
+      - label: "JRC68645 — radiance spectroscopy of U and Pu carbides (2012)"
+        url: "https://publications.jrc.ec.europa.eu/repository/handle/JRC68645"
+      - label: "Cedillos-Barraza et al. (2016), Sci. Rep. 6, 37962 — TaC–HfC laser melting"
+        url: "https://www.nature.com/articles/srep37962"
+      - label: "IR-EMPOWER 2026 programme (CAE)"
+        url: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"
+
+  - id: bam-berlin
+    rank: 43
+    tier: extended
+    added: "2026-09-25"
+    name: "Bundesanstalt für Materialforschung und -prüfung"
+    short_name: "BAM"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Berlin"
+    ecosystems: [high_temperature, metrology]
+    ecosystem_primary: high_temperature
+    units:
+      - name: "Division 8.3 Thermographic Methods"
+        url: "https://bam.de/ueber-die-bam/organisation/zerstoerungsfreie-pruefung/thermografische-verfahren"
+      - name: "In-situ monitoring in additive manufacturing"
+        url: "https://bam.de/en/topics/materials/additive-manufacturing/in-situ-monitoring"
+    people:
+      - name: "Tina Walter"
+        source: "IR-EMPOWER 2026 programme"
+      - name: "Simon J. Altenburg"
+        source: "BAM in-situ monitoring topic page"
+    properties_measured:
+      - "absolute melt-pool temperature fields in laser powder bed fusion (hyperspectral SWIR thermography)"
+      - "spectral directional emissivity of PBF-LB/M surfaces and powders (316L, AlSi10Mg), measured with CAE Würzburg"
+      - "multispectral optical tomography signals"
+    capabilities:
+      temperature_range_text: "Melt-pool temperatures of about 1300–2700 K observed in situ (Breese & Altenburg 2025)"
+      wavelength_range_text: "0.9–1.7 µm (SWIR hyperspectral line imaging)"
+      atmospheres: [inert]
+      methodology_notes: "Hyperspectral SWIR measurement of spectral exitance along a line, converted to absolute temperature with Planck's law and a spectral emissivity function, on an open-architecture laser powder bed fusion testbed under argon; complemented by multispectral optical tomography and active laser thermography."
+    instruments_named:
+      - "SAMMIE — Sensor-based Additive Manufacturing Machine (PBF-LB/M testbed)"
+    databases_hosted: []
+    applications:
+      - "in-situ monitoring and quality assurance in laser powder bed fusion of metals"
+      - "in-situ defect detection by active laser thermography"
+      - "thermographic non-destructive testing"
+    ir_empower_contributions:
+      - "IR-EMPOWER 2026: Tina Walter, “Multi- and Hyperspectral Temperature Measurement in the Additive Manufacturing of Metals”"
+    why_it_matters: |
+      BAM's Division 8.3 Thermographic Methods develops contactless thermographic testing,
+      with in-situ monitoring of additive manufacturing as a named work area. It runs
+      SAMMIE, an open-architecture laser powder bed fusion testbed instrumented with
+      thermographic and optical sensors, on which it has demonstrated hyperspectral SWIR
+      measurement of absolute melt-pool temperatures. Its published work treats the
+      unknown, changing emissivity of metal surfaces as the key obstacle to quantitative
+      in-situ thermography, and addresses it with spectral directional emissivity
+      measurements (carried out with CAE Würzburg) and multispectral methods.
+    external_sources:
+      - label: "BAM Division 8.3 Thermographic Methods"
+        url: "https://bam.de/ueber-die-bam/organisation/zerstoerungsfreie-pruefung/thermografische-verfahren"
+      - label: "BAM — In-situ monitoring in additive manufacturing"
+        url: "https://bam.de/en/topics/materials/additive-manufacturing/in-situ-monitoring"
+      - label: "Breese & Altenburg (2025), hyperspectral thermography in PBF-LB/M, Prog. Addit. Manuf."
+        url: "https://link.springer.com/article/10.1007/s40964-025-01148-8"
+      - label: "Becker (Walter) et al. (2024), spectral directional emissivity of 316L and AlSi10Mg PBF-LB/M surfaces, Prog. Addit. Manuf."
+        url: "https://link.springer.com/article/10.1007/s40964-024-00665-2"
+      - label: "IR-EMPOWER 2026 programme (CAE)"
+        url: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"
+
+  - id: csic-ietcc
+    rank: 44
+    tier: extended
+    added: "2026-09-25"
+    name: "Instituto de Ciencias de la Construcción Eduardo Torroja (IETcc-CSIC)"
+    short_name: "IETcc-CSIC"
+    country: "Spain"
+    iso_country: "ES"
+    city: "Madrid"
+    ecosystems: [applied_energy, thermophysical_databases, metrology]
+    ecosystem_primary: applied_energy
+    units:
+      - name: "Physico-Chemical Testing Unit"
+        url: "https://www.ietcc.csic.es/group/ensayos-fisicos-quimicos/?post_type=team_member"
+      - name: "Building Systems and Habitability group"
+        url: "https://www.ietcc.csic.es/en/construction-department/building-systems-and-habitability/"
+    people:
+      - name: "Gloria Pérez"
+        source: "IR-EMPOWER 2026 programme"
+      - name: "Pablo Alonso"
+        source: "IR-EMPOWER 2026 programme"
+    properties_measured:
+      - "solar and visible reflectance / absorptance"
+      - "directional (20°, 60°) and hemispherical total thermal emittance"
+      - "CIELAB colour coordinates"
+    capabilities:
+      temperature_range_text: ""
+      wavelength_range_text: "Reflectance 380–1700 nm; thermal emittance from directional-hemispherical reflectance in six bands over 1.5–21 µm"
+      atmospheres: [air]
+      methodology_notes: "Laboratory and in-situ characterisation of opaque urban and construction materials with portable fibre-optic spectrometers (solar and visible reflectance per UNE-EN 410) and a portable emissometer; includes studies of the reliability of portable in-situ measurements."
+    instruments_named:
+      - "Portable emissometer (directional-hemispherical reflectance, 1.5–21 µm)"
+      - "Fibre-optic spectrometers with integrating sphere"
+    databases_hosted:
+      - "Database of visible reflectance, solar reflectance and emissivity of urban materials (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640)"
+    applications:
+      - "urban heat island mitigation and outdoor thermal comfort"
+      - "building energy performance"
+      - "façade, roof and pavement materials"
+      - "passive radiative cooling (PaRaMetriC)"
+    ir_empower_contributions:
+      - "IR-EMPOWER 2026: Pablo Alonso, “Emissivity Measurements of Construction Materials with Portable Equipment”"
+      - "IR-EMPOWER 2026: Gloria Pérez, “Catalogue of Thermo-Optical Properties of Construction Materials”"
+    why_it_matters: |
+      IETcc-CSIC has published an open dataset of visible reflectance, solar reflectance
+      and thermal emittance for 236 commercial façade, roof and pavement materials,
+      measured between 2023 and 2026 in the mateMad, PAULIA and ZEBAI projects. Its
+      thermo-optical work, begun in the mateMad project, includes peer-reviewed studies of
+      urban envelope materials in Madrid and of the reliability of portable in-situ
+      reflectance and emissivity measurements. IETcc researchers co-authored the
+      PaRaMetriC deliverable on reference techniques for emittance and reflectance of
+      passive radiative cooling materials, which includes intercomparisons of portable
+      instruments.
+    external_sources:
+      - label: "IETcc — Catálogo de propiedades termo-ópticas de materiales urbanos comerciales (2026)"
+        url: "https://www.ietcc.csic.es/noticias/catalogo-de-propiedades-termo-opticas-de-materiales-urbanos-comerciales/"
+      - label: "Dataset on DIGITAL.CSIC (DOI)"
+        url: "https://doi.org/10.20350/DIGITALCSIC/22640"
+      - label: "mateMad project"
+        url: "https://proyectomatemad.ietcc.csic.es/"
+      - label: "Pérez et al. (2022), Infrastructures 7, 116"
+        url: "https://www.mdpi.com/2412-3811/7/9/116"
+      - label: "PaRaMetriC deliverable on emittance and reflectance reference techniques (Zenodo)"
+        url: "https://zenodo.org/records/17684600"
+      - label: "IR-EMPOWER 2026 programme (CAE)"
+        url: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"
+
+  - id: unt-denton
+    rank: 45
+    tier: engineered
+    added: "2026-09-25"
+    name: "University of North Texas — Nanoscale Energy Transport Lab"
+    short_name: "UNT"
+    country: "United States"
+    iso_country: "US"
+    city: "Denton"
+    ecosystems: [engineered_emissivity, space_thermal]
+    ecosystem_primary: engineered_emissivity
+    units:
+      - name: "Nanoscale Energy Transport (NET) Lab, Department of Mechanical Engineering"
+        url: "https://engineering.unt.edu/me/research/labs/net/"
+    people:
+      - name: "Zihao (Richard) Zhang"
+        source: "IR-EMPOWER 2026 programme"
+    properties_measured:
+      - "spectral reflectance (visible to far infrared)"
+      - "room-temperature thermal emittance"
+      - "solar absorptivity"
+    capabilities:
+      temperature_range_text: "Room temperature"
+      wavelength_range_text: "400 nm – 20 µm (lunar dust simulant study)"
+      atmospheres: []
+      methodology_notes: "Reflectance-based absorptivity and emittance from integrating-sphere and specular spectrometry and FTIR with diffuse and specular accessories, supported by effective-medium modelling; design of micro/nanoscale thermal-radiation coatings for spacecraft thermal control."
+    instruments_named: []
+    databases_hosted: []
+    applications:
+      - "spacecraft thermal-control coatings"
+      - "lunar exploration: thermal management and dust mitigation (NASA M-STAR ProTECC)"
+      - "metasurface and thin-film thermal emitters"
+    ir_empower_contributions:
+      - "IR-EMPOWER 2026: Richard Zhang, “Room Temperature Direct Emissivity Measurements of Spacecraft Thermal Materials”; scientific committee"
+    why_it_matters: |
+      The Nanoscale Energy Transport Lab in UNT's Department of Mechanical Engineering
+      develops micro- and nanoscale coatings that control thermal radiation, with
+      spacecraft thermal regulation as an explicit application. It leads the NASA
+      M-STAR project ProTECC on electrochromic coatings that combine radiative heat
+      switching with dust mitigation, and has published broadband reflectance and
+      room-temperature emittance of lunar dust simulants from 400 nm to 20 µm. Its
+      strength lies in engineered emitters for space rather than in dedicated emissivity
+      metrology.
+    external_sources:
+      - label: "UNT College of Engineering — Richard Z. Zhang"
+        url: "https://engineering.unt.edu/people/richard-z-zhang.html"
+      - label: "NET Lab"
+        url: "https://engineering.unt.edu/me/research/labs/net/"
+      - label: "NET Lab research — thermal radiation coatings"
+        url: "https://engineering.unt.edu/me/research/labs/net/research.html"
+      - label: "NASA M-STAR FY2023 award abstract (ProTECC)"
+        url: "https://msiexchange.nasa.gov/attachments/227216/award_abstract_MSTAR%20FY2023%20-%20U%20of%20North%20Texas.pdf"
+      - label: "Ravichandran et al. (2026), lunar dust simulants, JQSRT"
+        url: "https://www.sciencedirect.com/science/article/abs/pii/S0022407326000154"
+      - label: "IR-EMPOWER 2026 programme (CAE)"
+        url: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"
+
+  - id: thws-schweinfurt
+    rank: 46
+    tier: emerging
+    added: "2026-09-25"
+    name: "Technische Hochschule Würzburg-Schweinfurt"
+    short_name: "THWS"
+    country: "Germany"
+    iso_country: "DE"
+    city: "Schweinfurt / Würzburg"
+    ecosystems: [metrology, high_temperature]
+    ecosystem_primary: metrology
+    units:
+      - name: "Sensorik laboratory (Prof. Jürgen Hartmann)"
+        url: "https://www.thws.de/forschung/forschungsprofil/forschenden-datenbank/juergen-hartmannthws-de/"
+      - name: "Institute of Digital Engineering (IDEE)"
+        url: "https://www.thws.de/en/research/institutes/idee/"
+    people:
+      - name: "Jürgen Hartmann"
+        source: "IR-EMPOWER 2026 programme"
+    properties_measured:
+      - "absolute surface temperatures in laser powder bed fusion (calibrated in-situ thermography)"
+      - "radiation thermometry at high temperatures"
+    capabilities:
+      temperature_range_text: "In-situ thermography calibrated for 500–1500 K (Höfflin et al. 2024)"
+      wavelength_range_text: "MWIR InSb camera with a narrowband filter at 2040 nm (Höfflin et al. 2024)"
+      atmospheres: []
+      methodology_notes: "Pixel-wise radiometric calibration of an MWIR thermography system against a blackbody cavity and reference pyrometer, used through the scan-head optical path of a laser powder bed fusion research platform; emissivity of the resolidified material, measured separately at high temperature, converts radiance to true temperature."
+    instruments_named:
+      - "SPIT — synchronized path infrared thermography on a PBF-LB/M research platform"
+    databases_hosted: []
+    applications:
+      - "in-situ temperature measurement in laser powder bed fusion of metals"
+      - "radiation thermometry for gas turbines"
+      - "thermophysical characterisation at very high temperatures (Hi-TRACE partner)"
+    ir_empower_contributions:
+      - "IR-EMPOWER 2026: Jürgen Hartmann, “Determination of Emissivity as Basis for Non-Contact Temperature Measurements in 3D-Metal-Printing”"
+    why_it_matters: |
+      Prof. Jürgen Hartmann's Sensorik laboratory at THWS works on radiometry,
+      thermometry and opto-thermal characterisation of materials at high temperature.
+      With the Institute of Digital Engineering, the group has published a calibrated
+      MWIR thermography system for absolute temperature measurement in laser powder bed
+      fusion over 500–1500 K, which depends on separately measured emissivity of the
+      processed material. THWS was a partner in the European metrology project Hi-TRACE
+      on reference equipment for emissivity above 1500 °C. Much of the high-temperature
+      emissivity measurement behind this work is done with CAE Würzburg, where Hartmann
+      is also affiliated.
+    external_sources:
+      - label: "THWS researcher database — Prof. Dr. habil. Jürgen Hartmann"
+        url: "https://www.thws.de/forschung/forschungsprofil/forschenden-datenbank/juergen-hartmannthws-de/"
+      - label: "THWS IDEE — Hi-TRACE project"
+        url: "https://www.thws.de/en/research/institutes/idee/completed-idee-projects/hi-trace/"
+      - label: "Höfflin et al. (2024), pixel-wise high-temperature calibration for PBF-LB/M, Heliyon 10, e28989"
+        url: "https://www.sciencedirect.com/science/article/pii/S2405844024050205"
+      - label: "IR-EMPOWER 2026 programme (CAE)"
+        url: "https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf"

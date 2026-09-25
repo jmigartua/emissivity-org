@@ -24,7 +24,6 @@ toc: false
 | **Unit** | [College of Engineering and Applied Sciences; National Laboratory of Solid State Microstructures](https://ceas.nju.edu.cn/zhu/main.htm) |
 | **Publicly linked people** | Jia Zhu |
 
-
 ## Why it matters internationally
 
 The Zhu group is among the most-cited engineered-emissivity groups in

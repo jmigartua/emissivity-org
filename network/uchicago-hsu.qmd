@@ -24,7 +24,6 @@ toc: false
 | **Unit** | [Hsu Group, Pritzker School of Molecular Engineering](https://pochunhsu.group/) |
 | **Publicly linked people** | Po-Chun Hsu |
 
-
 ## Why it matters internationally
 
 The Hsu group carries engineered emissivity to wearables and dynamic

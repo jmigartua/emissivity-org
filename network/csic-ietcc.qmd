@@ -1,0 +1,74 @@
+---
+title: "IETcc-CSIC"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / IETcc-CSIC</div>
+```
+
+::: {.page-article}
+# Instituto de Ciencias de la Construcción Eduardo Torroja (IETcc-CSIC)
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | Spain |
+| **City** | Madrid |
+| **Tier** | Extended |
+| **Primary ecosystem** | Applied Energy |
+| **Unit** | [Physico-Chemical Testing Unit](https://www.ietcc.csic.es/group/ensayos-fisicos-quimicos/?post_type=team_member) |
+| **Unit** | [Building Systems and Habitability group](https://www.ietcc.csic.es/en/construction-department/building-systems-and-habitability/) |
+| **Publicly linked people** | Gloria Pérez · Pablo Alonso |
+| **Databases hosted** | Database of visible reflectance, solar reflectance and emissivity of urban materials (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640) |
+| **Networks** | [PaRaMetriC](/network/networks/parametric.html) |
+
+## Why it matters internationally
+
+IETcc-CSIC has published an open dataset of visible reflectance, solar reflectance
+and thermal emittance for 236 commercial façade, roof and pavement materials,
+measured between 2023 and 2026 in the mateMad, PAULIA and ZEBAI projects. Its
+thermo-optical work, begun in the mateMad project, includes peer-reviewed studies of
+urban envelope materials in Madrid and of the reliability of portable in-situ
+reflectance and emissivity measurements. IETcc researchers co-authored the
+PaRaMetriC deliverable on reference techniques for emittance and reflectance of
+passive radiative cooling materials, which includes intercomparisons of portable
+instruments.
+
+## Scope of activity
+
+- **Quantities:** solar and visible reflectance / absorptance · directional (20°, 60°) and hemispherical total thermal emittance · CIELAB colour coordinates
+- **Spectral range:** Reflectance 380–1700 nm; thermal emittance from directional-hemispherical reflectance in six bands over 1.5–21 µm
+- **Methodology:** Laboratory and in-situ characterisation of opaque urban and construction materials with portable fibre-optic spectrometers (solar and visible reflectance per UNE-EN 410) and a portable emissometer; includes studies of the reliability of portable in-situ measurements.
+- **Named facilities:** Portable emissometer (directional-hemispherical reflectance, 1.5–21 µm) · Fibre-optic spectrometers with integrating sphere
+
+**Application domains:** urban heat island mitigation and outdoor thermal comfort · building energy performance · façade, roof and pavement materials · passive radiative cooling (PaRaMetriC).
+
+## IR-EMPOWER contributions
+
+- IR-EMPOWER 2026: Pablo Alonso, “Emissivity Measurements of Construction Materials with Portable Equipment”
+- IR-EMPOWER 2026: Gloria Pérez, “Catalogue of Thermo-Optical Properties of Construction Materials”
+
+## External sources
+
+- [IETcc — Catálogo de propiedades termo-ópticas de materiales urbanos comerciales (2026)](https://www.ietcc.csic.es/noticias/catalogo-de-propiedades-termo-opticas-de-materiales-urbanos-comerciales/)
+- [Dataset on DIGITAL.CSIC (DOI)](https://doi.org/10.20350/DIGITALCSIC/22640)
+- [mateMad project](https://proyectomatemad.ietcc.csic.es/)
+- [Pérez et al. (2022), Infrastructures 7, 116](https://www.mdpi.com/2412-3811/7/9/116)
+- [PaRaMetriC deliverable on emittance and reflectance reference techniques (Zenodo)](https://zenodo.org/records/17684600)
+- [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-09-25 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

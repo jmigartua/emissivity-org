@@ -24,8 +24,6 @@ toc: false
 | **Unit** | [Lab Characterization of Functional Surfaces](https://www.ise.fraunhofer.de/en/rd-infrastructure/center/center-for-functional-surfaces/lab-characterization-of-functional-surfaces.html) |
 | **Unit** | [TestLab Solar Façades (ISO/IEC 17025 accredited)](https://www.ise.fraunhofer.de/en/rd-infrastructure/accredited-labs/testlab-solar-facades.html) |
 
-
-
 ## Why it matters internationally
 
 Europe's largest solar research institute operates an accredited

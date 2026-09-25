@@ -24,7 +24,6 @@ toc: false
 | **Unit** | [School of Mathematical and Physical Sciences](https://profiles.uts.edu.au/geoff.smith) |
 | **Publicly linked people** | Angus Gentle · Geoff Smith |
 
-
 ## Why it matters internationally
 
 Gentle and Smith demonstrated sub-ambient daytime radiative cooling on

@@ -23,8 +23,6 @@ toc: false
 | **Primary ecosystem** | Space Thermal |
 | **Unit** | [Materials & Electrical Components Laboratory (TEC Directorate)](https://technology.esa.int/lab/materials-electrical-components-laboratory) |
 
-
-
 ## Why it matters internationally
 
 Every European spacecraft's thermal design depends on trusted α/ε values

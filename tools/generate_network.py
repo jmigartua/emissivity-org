@@ -42,6 +42,10 @@ COORDS = {
     "ucla-raman": (34.069, -118.445), "purdue-ruan": (40.428, -86.914),
     "uchicago-hsu": (41.790, -87.601), "kaist-jang": (36.372, 127.360),
     "nanjing-zhu": (32.057, 118.778), "uts-sydney": (-33.883, 151.200),
+    # added 2026-09-25 (IR-EMPOWER 2026 programme)
+    "lne-trappes": (48.780, 1.990), "jrc-karlsruhe": (49.100, 8.430),
+    "bam-berlin": (52.443, 13.299), "csic-ietcc": (40.464, -3.659),
+    "unt-denton": (33.254, -97.152), "thws-schweinfurt": (50.047, 10.228),
 }
 
 TIER_LABEL = {
@@ -114,6 +118,15 @@ def write_fetch_script():
     print(f"tools/fetch_images.sh written ({len(IMAGES)} images)")
 
 
+def network_memberships(iid):
+    """Networks from _data/networks.yml that publicly name this institution."""
+    f = ROOT / "_data" / "networks.yml"
+    if not f.exists():
+        return []
+    nets = (yaml.safe_load(f.read_text()) or {}).get("networks", []) or []
+    return [n for n in nets if iid in (n.get("members_on_map") or [])]
+
+
 def profile_from_yaml(i, stats):
     """Build a profile page directly from the institutions.yml entry.
     Used for entries added after the legacy era — the YAML is the single
@@ -127,8 +140,16 @@ def profile_from_yaml(i, stats):
     )
     people = " · ".join(p["name"] for p in (i.get("people") or []))
     people_row = f"| **Publicly linked people** | {people} |" if people else ""
+    nets = network_memberships(i["id"])
+    net_row = ("| **Networks** | " + " · ".join(f"[{n['name']}]({n['page']})" for n in nets) + " |") if nets else ""
+    facilities = i.get("instruments_named") or []
+    fac_line = ("- **Named facilities:** " + " · ".join(facilities)) if facilities else ""
+    contribs = i.get("ir_empower_contributions") or []
+    contrib_block = ("## IR-EMPOWER contributions\n\n" + "\n".join(f"- {c}" for c in contribs) + "\n") if contribs else ""
+    added = i.get("added", "2026-06-11")
     db = " · ".join(i.get("databases_hosted") or [])
     db_row = f"| **Databases hosted** | {db} |" if db else ""
+    snapshot_rows = "\n".join(r for r in (units_rows, people_row, db_row, net_row) if r)
     c = i.get("capabilities") or {}
     cap_rows = []
     if i.get("properties_measured"):
@@ -165,9 +186,7 @@ toc: false
 | **City** | {i['city']} |
 | **Tier** | {i['tier'].capitalize()} |
 | **Primary ecosystem** | {eco} |
-{units_rows}
-{people_row}
-{db_row}
+{snapshot_rows}
 
 ## Why it matters internationally
 
@@ -175,10 +194,10 @@ toc: false
 
 ## Scope of activity
 
-{chr(10).join(cap_rows)}
+{chr(10).join(cap_rows + ([fac_line] if fac_line else []))}
 
 **Application domains:** {apps}.
-
+{chr(10) + contrib_block if contrib_block else ""}
 ## External sources
 
 {sources}
@@ -188,7 +207,7 @@ toc: false
 
 Every claim in this profile traces to the external sources listed above.
 Profile follows the [research-map methodology](/network/methodology.html).
-Added to the directory: {stats['data_revision']} (verified against the
+Added to the directory: {added} (verified against the
 institution's public pages or peer-reviewed publications).
 :::
 
@@ -239,7 +258,7 @@ def main():
         "core": sum(1 for i in insts if i["tier"] == "core"),
         "ecosystems": len(meta.get("ecosystems", {})),
         "countries_list": countries,
-        "data_revision": "2026-06-11",
+        "data_revision": "2026-09-25",
     }
 
     # ---------- labs.json ----------

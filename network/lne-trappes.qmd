@@ -1,0 +1,72 @@
+---
+title: "LNE"
+page-layout: full
+toc: false
+---
+
+<!-- generated-from: institutions.yml — do not edit by hand; edit the YAML and re-run tools/generate_network.py -->
+
+```{=html}
+<div class="crumbs"><a href="/network/index.html">Network</a> / <a href="/network/index.html">Research map</a> / LNE</div>
+```
+
+::: {.page-article}
+# Laboratoire national de métrologie et d'essais
+
+## Snapshot
+
+| | |
+|---|---|
+| **Country** | France |
+| **City** | Trappes |
+| **Tier** | Core |
+| **Primary ecosystem** | Metrology |
+| **Unit** | [MATIS platform — Thermal characterisation of materials](https://www.lne.fr/fr/moyens/plateforme/caracterisation-thermique-materiaux) |
+| **Publicly linked people** | Guillaume Failleau |
+| **Networks** | [PaRaMetriC](/network/networks/parametric.html) |
+
+## Why it matters internationally
+
+LNE is France's national metrology institute. Its MATIS thermal-characterisation
+platform offers SI-traceable measurements of directional spectral emissivity from
+250 nm to 20 µm and calorimetric total hemispherical emissivity. LNE's
+reflectometer-based emissivity work goes back to at least 2005, validated against
+PTB and NIST references, and a directional spectral emissivity facility working up
+to 1500 °C was reported in 2013. LNE coordinated the European metrology project
+EMIRIM (16NRM06, 2017–2020) on emissivity of reflective insulation, and Hi-TRACE
+(17IND11) on traceable high-temperature thermophysical properties.
+
+## Scope of activity
+
+- **Quantities:** directional spectral emissivity (from spectral directional hemispherical reflectance) · total hemispherical emissivity (calorimetric) · normal spectral emissivity at high temperature · solar absorption factor
+- **Spectral range:** 250 nm to 20 µm (directional spectral emissivity, at 12°, 24°, 36°, 48° and 60°)
+- **Temperature:** Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2013)
+- **Methodology:** SI-traceable directional spectral emissivity of opaque solids derived from spectral directional hemispherical reflectance (expanded uncertainty 0.025–0.04); calorimetric total hemispherical emissivity in vacuum; a high-temperature directional spectral emissivity facility with lamp-image-furnace or inductive heating.
+- **Named facilities:** Spectral directional hemispherical reflectance / directional spectral emissivity bench · Calorimetric total hemispherical emissivity bench
+
+**Application domains:** aerospace, defence, nuclear and transport materials · reflective and low-emissivity thermal insulation for buildings · high-temperature materials for aeronautics and energy.
+
+## IR-EMPOWER contributions
+
+- IR-EMPOWER 2026: Guillaume Failleau, “Measurement of Directional Spectral Emissivity at LNE”
+
+## External sources
+
+- [LNE — Caractérisation thermique des matériaux (MATIS platform)](https://www.lne.fr/fr/moyens/plateforme/caracterisation-thermique-materiaux)
+- [LNE — Thermal characterization of materials (service page)](https://www.lne.fr/en/service/testing-measurement/thermal-characterization-materials)
+- [Hameury, Hay, Filtz (2005), Int. J. Thermophys. 26, 1973–1983](https://link.springer.com/article/10.1007/s10765-005-8609-0)
+- [Hay et al., New facilities for high-temperature thermophysical properties at LNE, Int. J. Thermophys.](https://link.springer.com/article/10.1007/s10765-013-1400-8)
+- [EURAMET — EMPIR 16NRM06 EMIRIM](https://www.euramet.org/project-16nrm06)
+- [Hameury, Failleau et al. (2021), J. Sens. Sens. Syst. 10, 135–152](https://jsss.copernicus.org/articles/10/135/2021/)
+- [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
+
+::: {.sources-panel}
+### Traceability
+
+Every claim in this profile traces to the external sources listed above.
+Profile follows the [research-map methodology](/network/methodology.html).
+Added to the directory: 2026-09-25 (verified against the
+institution's public pages or peer-reviewed publications).
+:::
+
+:::

@@ -43,9 +43,11 @@ Consortium partners with a research-map profile:
 
 - [PTB — Physikalisch-Technische Bundesanstalt](/network/ptb.html)
 - [Center for Applied Energy Research (CAE)](/network/cae-wuerzburg.html)
+- [LNE — Laboratoire national de métrologie et d'essais](/network/lne-trappes.html)
+- [CSIC — its Eduardo Torroja Institute (IETcc) co-authored the project's emittance and reflectance reference techniques](/network/csic-ietcc.html)
 - [TÜBİTAK UME](/network/tubitak-ume.html)
 
-Other partners: INRIM, Aalto University, CMI, CSIC, DFM, LNE, RISE, CNR, FIW
+Other partners: INRIM, Aalto University, CMI, DFM, RISE, CNR, FIW
 München, NKUA Athens and Politecnico di Torino, plus the companies Almeco,
 Cooling Photonics and CTI. See the project's
 [consortium page](https://parametric.inrim.it/consortium).
