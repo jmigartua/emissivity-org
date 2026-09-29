@@ -1,0 +1,20 @@
+<!-- MathJax 3, loaded on every page. Site content is written in raw HTML
+     blocks, which Quarto/pandoc pass through untouched, so Quarto never sees
+     "math" and never injects MathJax by itself. Loading it here lets any page
+     typeset \( inline \) and \[ display \] LaTeX, including inside raw HTML.
+     Dollar delimiters are deliberately off: prose mentions prices. -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['\\(', '\\)']],
+      displayMath: [['\\[', '\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+      ignoreHtmlClass: 'nomath'
+    },
+    chtml: { matchFontHeight: true }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>

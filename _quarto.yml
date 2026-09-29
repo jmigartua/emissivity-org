@@ -36,6 +36,7 @@ format:
       - assets/styles/theme.css
     include-in-header:
       - assets/includes/fonts.html
+      - assets/includes/mathjax.html
     include-before-body:
       - assets/includes/site-header.html
     include-after-body:
