@@ -78,7 +78,7 @@ post_type: "paper-brief"
   number  = {7},
   pages   = {075211},
   year    = {2024},
-  doi     = {10.1063/5.0212345}
+  doi     = {10.1063/5.0206928}
 }</code></pre>
 
   <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>

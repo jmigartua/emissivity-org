@@ -1,8 +1,8 @@
 ---
-title: "SPIE ThermoSense 2026 (Thermal Infrared Applications)"
-subtitle: "SPIE ThermoSense"
-date: 2026-01-01
-description: "SPIE conference on thermal infrared applications and thermography (edition details announced by SPIE)."
+title: "SPIE ThermoSense 2026 (Thermosense XLVIII, Thermal Infrared Applications)"
+subtitle: "SPIE ThermoSense | National Harbor, Maryland, USA"
+date: 2026-04-27
+description: "SPIE conference on thermal infrared applications and thermography, held within SPIE Defense + Commercial Sensing 2026."
 url: "https://spie.org/DS26/conferencedetails/thermosense"
 categories:
   - infrared-thermography
@@ -15,7 +15,9 @@ categories:
 ::: {.column-margin}
 ### Quick Info
 
-**Year:** 2026
+**Date:** 2026-04-27
+
+**Location:** National Harbor, Maryland, USA
 
 [Conference Website](https://spie.org/DS26/conferencedetails/thermosense){.btn .btn-primary .btn-sm}
 
@@ -23,6 +25,6 @@ categories:
 
 ## Overview
 
-ThermoSense is an annual SPIE conference series focused on thermal infrared applications and thermography. The SPIE conference page serves as the primary reference point for edition-level details (dates, venue, call for papers, and proceedings links) as they are posted for 2026.
+ThermoSense is an annual SPIE conference series focused on thermal infrared applications and thermography. The 2026 edition, Thermosense XLVIII, takes place on 27 April 2026 at National Harbor, Maryland, within SPIE Defense + Commercial Sensing (26–30 April 2026). The SPIE conference page serves as the primary reference point for the programme, call for papers, and proceedings links.
 
 

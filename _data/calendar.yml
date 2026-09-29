@@ -38,8 +38,8 @@ events:
   url: https://spie.org/Publications/Proceedings/Volume/12536
 - title: ECTP 2023 (22nd European Conference on Thermophysical Properties)
   kind: conference
-  start: '2023-09-03'
-  end: '2023-09-07'
+  start: '2023-09-10'
+  end: '2023-09-14'
   location: Venice, Italy
   description: Thermophysical properties measurement and modelling; radiative properties including emissivity
     are within scope.
@@ -118,13 +118,21 @@ events:
   location: National Harbor, Maryland, USA
   description: IR detector arrays, thermal imaging systems, SWIR/MWIR/LWIR technologies.
   url: https://spie.org/conferences-and-exhibitions/defense-and-security
-- title: AIAA Thermophysics and Heat Transfer Conference 2026
+- title: 'Thermosense: Thermal Infrared Applications XLVIII (SPIE)'
+  kind: conference
+  start: '2026-04-27'
+  end: '2026-04-28'
+  location: National Harbor, Maryland, USA
+  description: Thermal infrared applications and thermography, held within SPIE Defense + Commercial
+    Sensing 2026 (26–30 April); quantitative practice commonly intersects emissivity.
+  url: https://spie.org/DS26/conferencedetails/thermosense
+- title: AIAA/ASME Joint Thermophysics and Heat Transfer Conference 2026 (AIAA AVIATION Forum)
   kind: conference
   start: '2026-06-08'
   end: '2026-06-13'
   location: San Diego, California, USA
   description: Aerospace thermophysics — thermal protection systems, ablation, surface radiation.
-  url: https://aviation.aiaa.org/jointthermht/
+  url: https://aviation.aiaa.org/
 - title: ECTP 2026 — 23rd European Conference on Thermophysical Properties
   kind: conference
   start: '2026-06-21'

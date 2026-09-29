@@ -1,9 +1,9 @@
 ---
-title: "AIAA Thermophysics and Heat Transfer Conference 2026"
-subtitle: "AIAA Thermophysics | San Diego, California, USA"
+title: "AIAA/ASME Joint Thermophysics and Heat Transfer Conference 2026"
+subtitle: "AIAA AVIATION Forum | San Diego, California, USA"
 date: 2026-06-08
 description: "Aerospace thermophysics — thermal protection systems, ablation, surface radiation."
-url: "https://aviation.aiaa.org/jointthermht/"
+url: "https://aviation.aiaa.org/"
 categories:
   - Aerospace thermal
   - aerospace
@@ -19,12 +19,12 @@ categories:
 
 **Location:** San Diego, California, USA
 
-[Conference Website](https://aviation.aiaa.org/jointthermht/){.btn .btn-primary .btn-sm}
+[Conference Website](https://aviation.aiaa.org/){.btn .btn-primary .btn-sm}
 
 :::
 
 ## Overview
 
-The 14th AIAA Thermophysics and Heat Transfer Conference continues a 56-year tradition covering thermophysics and heat transfer in aerospace: thermal protection systems, ablation, aerothermal environments, surface radiation. Emissivity of high-temperature aerospace materials is directly relevant.
+The AIAA/ASME Joint Thermophysics and Heat Transfer Conference, held within the AIAA AVIATION Forum, covers thermophysics and heat transfer in aerospace: thermal protection systems, ablation, aerothermal environments, surface radiation. Emissivity of high-temperature aerospace materials is directly relevant.
 
 

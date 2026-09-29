@@ -88,9 +88,9 @@ post_type: "paper-brief"
   title   = {Tuning infrared radiative properties using Direct Laser Interference Patterning},
   journal = {Materials Letters},
   volume  = {391},
-  pages   = {136045},
+  pages   = {138485},
   year    = {2025},
-  doi     = {10.1016/j.matlet.2024.136045}
+  doi     = {10.1016/j.matlet.2025.138485}
 }</code></pre>
 
   <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>

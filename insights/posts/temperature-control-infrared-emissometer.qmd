@@ -90,8 +90,11 @@ post_type: "method-note"
   author  = {Gabirondo-L&oacute;pez, J. and Arredondo, I. and Igartua, J. M.},
   title   = {Temperature Control of Nonlinear Uncertain Systems via Model-Free Cascaded Controller: Application to an Infrared Emissometer},
   journal = {IEEE Transactions on Control Systems Technology},
-  year    = {2024},
-  doi     = {10.1109/TCST.2024.3371234}
+  volume  = {33},
+  number  = {1},
+  pages   = {219--228},
+  year    = {2025},
+  doi     = {10.1109/TCST.2024.3464111}
 }</code></pre>
 
   <p style="margin-top:2.5rem;"><a href="/insights/index.html">&larr; Back to Insights</a></p>

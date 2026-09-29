@@ -25,10 +25,14 @@ toc: false
 The first IR-EMPOWER brought together, over two days in Bilbao, the European
 and American laboratories working on infrared emissivity measurement —
 metrology institutes, high-temperature facilities, and university groups —
-for twenty-one talks spanning techniques below and above 1000 K, cryogenic
+for twenty talks[^schonfeld] spanning techniques below and above 1000 K, cryogenic
 and ultra-high-temperature measurement, instruments, and open data. The talk
 *"Towards an Open Community of Radiative Properties"* (J. Gabirondo-López)
 outlined what would become [EKHI](/data/ekhi.html) and this site.
+
+[^schonfeld]: The organisers count twenty talks. The archived programme table
+    below lists nineteen; Hunter B. Schonfeld (University of Virginia) appears
+    among the young speakers, but his talk has no slot in the archived table.
 
 ## Organizing committee
 

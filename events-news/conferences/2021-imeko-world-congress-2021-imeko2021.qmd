@@ -1,9 +1,9 @@
 ---
-title: "IMEKO World Congress 2021 (IMEKO2021)"
-subtitle: "IMEKO World Congress"
-date: 2021-01-01
+title: "XXIII IMEKO World Congress 2021 (IMEKO2021)"
+subtitle: "IMEKO World Congress | Yokohama, Japan (hybrid)"
+date: 2021-08-30
 description: "General measurement science congress; relevant for cross-cutting metrology developments."
-url: "https://imeko2021.org/"
+url: "https://imeko.org/"
 categories:
   - General metrology
   - metrology
@@ -14,9 +14,11 @@ categories:
 ::: {.column-margin}
 ### Quick Info
 
-**Year:** 2021
+**Date:** 2021-08-30 to 2021-09-03
 
-[Conference Website](https://imeko2021.org/){.btn .btn-primary .btn-sm}
+**Location:** Yokohama, Japan (hybrid)
+
+[Conference Website](https://imeko.org/){.btn .btn-primary .btn-sm}
 
 :::
 

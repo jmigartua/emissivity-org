@@ -13,9 +13,9 @@ toc: false
 
 <h1>EKHI Database Launched</h1>
 
-<p>We are pleased to announce the launch of <strong>EKHI</strong>, the first open-access database dedicated to optical and radiative property data.</p>
+<p>We are pleased to announce the launch of <strong>EKHI</strong>, a curated open database of 1&nbsp;251 curves digitised from the TPRC Data Series (1970&ndash;72), traceable to 167 source publications.</p>
 
-<p>EKHI provides publication-centered data organization with curve-level spectral datasets, inspection and download mechanisms, and full provenance tracking. Researchers can browse, visualize, and download emissivity and reflectance spectra contributed by laboratories across our network.</p>
+<p>EKHI provides publication-centered data organization with curve-level spectral datasets, inspection and download mechanisms, and full provenance tracking. Researchers can browse, visualize, and download emissivity, reflectance, transmittance, and absorptance spectra.</p>
 
 <p><a href="/data/ekhi.html">Read the full EKHI application note</a> for details on the database structure, data formats, and how to contribute your measurements.</p>
 

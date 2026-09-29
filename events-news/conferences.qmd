@@ -156,12 +156,12 @@ listing:
         <tr style="border-bottom:1px solid #eee;">
           <td style="padding:0.5rem;"><strong>NEWRAD</strong></td>
           <td style="padding:0.5rem;">New developments and applications in optical radiometry</td>
-          <td style="padding:0.5rem;">Quadrennial</td>
+          <td style="padding:0.5rem;">Every ~3 years</td>
         </tr>
         <tr style="border-bottom:1px solid #eee;">
           <td style="padding:0.5rem;"><strong>ITS</strong></td>
           <td style="padding:0.5rem;">International Temperature Symposium</td>
-          <td style="padding:0.5rem;">~Every 4 years</td>
+          <td style="padding:0.5rem;">~Every 10 years</td>
         </tr>
         <tr style="border-bottom:1px solid #eee;">
           <td style="padding:0.5rem;"><strong>IMEKO World Congress</strong></td>
@@ -181,12 +181,12 @@ listing:
         <tr style="border-bottom:1px solid #eee;">
           <td style="padding:0.5rem;"><strong>IR-EMPOWER</strong></td>
           <td style="padding:0.5rem;">Workshop and network coordination for emissivity measurement in Europe</td>
-          <td style="padding:0.5rem;">Annual</td>
+          <td style="padding:0.5rem;">Biennial</td>
         </tr>
         <tr>
           <td style="padding:0.5rem;"><strong>ITCC/ITES</strong></td>
           <td style="padding:0.5rem;">International Thermal Conductivity Conference / Thermal Expansion Symposium</td>
-          <td style="padding:0.5rem;">Annual</td>
+          <td style="padding:0.5rem;">Biennial</td>
         </tr>
       </tbody>
     </table>
