@@ -71,7 +71,7 @@ capability has no close equivalent in the directory.
 ## External sources
 
 - [DLR — Planetary Spectroscopy Laboratory](https://www.dlr.de/en/wr/research-transfer/research-infrastructure/planetary-spectroscopy-laboratory)
-- [Berlin Emissivity Database (DLR)](https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-178/327_read-37531/)
+- [Berlin Emissivity Database — Maturilli, Helbert & Moroz, *Planet. Space Sci.* 56, 420 (2008)](https://doi.org/10.1016/j.pss.2007.09.018)
 - [Facility to simulate Venus surface conditions (phys.org coverage)](https://phys.org/news/2018-08-facility-simulate-conditions-venus.html)
 
 ::: {.sources-panel}

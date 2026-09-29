@@ -32,15 +32,17 @@ platform offers SI-traceable measurements of directional spectral emissivity fro
 250 nm to 20 µm and calorimetric total hemispherical emissivity. LNE's
 reflectometer-based emissivity work goes back to at least 2005, validated against
 PTB and NIST references, and a directional spectral emissivity facility working up
-to 1500 °C was reported in 2013. LNE coordinated the European metrology project
+to 1500 °C was reported by Hay et al. (2014). LNE coordinated the European metrology project
 EMIRIM (16NRM06, 2017–2020) on emissivity of reflective insulation, and Hi-TRACE
-(17IND11) on traceable high-temperature thermophysical properties.
+(17IND11) on traceable high-temperature thermophysical properties. LNE was
+also one of the six participants in the CCT-S1 supplementary comparison of
+infrared spectral normal emissivity (2–14 µm, 23–800 °C), piloted by NPL.
 
 ## Scope of activity
 
 - **Quantities:** directional spectral emissivity (from spectral directional hemispherical reflectance) · total hemispherical emissivity (calorimetric) · normal spectral emissivity at high temperature · solar absorption factor
 - **Spectral range:** 250 nm to 20 µm (directional spectral emissivity, at 12°, 24°, 36°, 48° and 60°)
-- **Temperature:** Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2013)
+- **Temperature:** Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2014)
 - **Methodology:** SI-traceable directional spectral emissivity of opaque solids derived from spectral directional hemispherical reflectance (expanded uncertainty 0.025–0.04); calorimetric total hemispherical emissivity in vacuum; a high-temperature directional spectral emissivity facility with lamp-image-furnace or inductive heating.
 - **Named facilities:** Spectral directional hemispherical reflectance / directional spectral emissivity bench · Calorimetric total hemispherical emissivity bench
 
@@ -55,7 +57,7 @@ EMIRIM (16NRM06, 2017–2020) on emissivity of reflective insulation, and Hi-TRA
 - [LNE — Caractérisation thermique des matériaux (MATIS platform)](https://www.lne.fr/fr/moyens/plateforme/caracterisation-thermique-materiaux)
 - [LNE — Thermal characterization of materials (service page)](https://www.lne.fr/en/service/testing-measurement/thermal-characterization-materials)
 - [Hameury, Hay, Filtz (2005), Int. J. Thermophys. 26, 1973–1983](https://link.springer.com/article/10.1007/s10765-005-8609-0)
-- [Hay et al., New facilities for high-temperature thermophysical properties at LNE, Int. J. Thermophys.](https://link.springer.com/article/10.1007/s10765-013-1400-8)
+- [Hay et al. (2014), New facilities for high-temperature thermophysical properties at LNE, Int. J. Thermophys. 35, 1712–1724](https://link.springer.com/article/10.1007/s10765-013-1400-8)
 - [EURAMET — EMPIR 16NRM06 EMIRIM](https://www.euramet.org/project-16nrm06)
 - [Hameury, Failleau et al. (2021), J. Sens. Sens. Syst. 10, 135–152](https://jsss.copernicus.org/articles/10/135/2021/)
 - [IR-EMPOWER 2026 programme (CAE)](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)

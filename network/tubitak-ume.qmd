@@ -27,14 +27,15 @@ toc: false
 ## Why it matters internationally
 
 UME extends the radiation-thermometry comparison infrastructure to
-Türkiye: blackbody calibration and EMPIR-project participation tie its
+Türkiye: blackbody calibration and participation in European Partnership
+on Metrology projects (MultiFixRad, PaRaMetriC) tie its
 radiometric scales to the European metrology network, the foundation on
 which traceable emissivity measurement rests.
 
 ## Scope of activity
 
 - **Quantities:** radiation thermometry · blackbody and IR calibrator calibration
-- **Methodology:** Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European metrology (EMPIR) projects such as MultiFixRad. A dedicated material-emissivity bench is not confirmed from public pages; listed as extended pending verification.
+- **Methodology:** Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European Partnership on Metrology projects (22RPT03 MultiFixRad; 21GRD03 PaRaMetriC). A dedicated material-emissivity bench is not confirmed from public pages; listed as extended pending verification.
 
 **Application domains:** non-contact thermometry · radiometric calibration.
 

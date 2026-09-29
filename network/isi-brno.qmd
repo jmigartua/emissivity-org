@@ -52,7 +52,7 @@ Hemispherical total emissivity at cryogenic T · cryogenic absorptivity.
 
 ### Capability envelope
 
-- **Temperature:** **~20 K to 300 K**.
+- **Temperature:** **20 K to 320 K** (Frolec et al., *Cryogenics* 97 (2019) 85–99; data on Mendeley Data).
 - **Methodology:** low-temperature radiative-property measurement on samples
   with different finishes and coatings; dedicated experimental approach for
   cryogenic hemispherical quantities.

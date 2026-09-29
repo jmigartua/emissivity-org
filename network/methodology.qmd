@@ -130,13 +130,13 @@ absolute prestige rankings.
 - **Latin America, Africa, Oceania, and India** are similarly under-represented
   in this version. Contributions naming specific research units on the scope
   topics are explicitly welcome.
-- **Smaller CNRS laboratories** beyond the five listed may have emissivity
+- **Smaller CNRS laboratories** beyond the four listed may have emissivity
   work embedded inside broader thermal-science programs — future updates will
   systematically scan CNRS and HAL for additional nodes.
 - **Commercial-academic hybrid centers** (e.g. certain applied-research
-  institutes in the Fraunhofer, AIDIMME, or Tecnalia network) sit at the
-  boundary of the scope criterion and are currently excluded pending explicit
-  evidence of non-commercial research activity on the scope topics.
+  institutes in the AIDIMME or Tecnalia network) sit at the boundary of the
+  scope criterion and are currently excluded pending explicit evidence of
+  non-commercial research activity on the scope topics.
 
 ## Evidence sources used
 
@@ -147,6 +147,9 @@ The primary public-facing evidence sources used in compiling this map were:
 - The **IR-EMPOWER program** (EHU-hosted workshop on infrared emissivity
   measurement) as a concentrated source of European speakers, institutional
   affiliations, and specific measurement-technique attributions.
+- The **IR-EMPOWER 2026 programme** (CAE-hosted edition, Würzburg) for the
+  entries added in September 2026 (LNE, JRC Karlsruhe, BAM, IETcc-CSIC, UNT,
+  THWS) and their talk attributions.
 - **Database landing pages** (JEDI, TPDS, EKHI, USGS Spectral Library, ASU
   TES Library, RELAB).
 - Peer-reviewed articles, HAL records, and ORCID profiles where relevant.

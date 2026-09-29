@@ -29,17 +29,18 @@ toc: false
 The Plataforma Solar de Almería is Europe's flagship concentrating
 solar facility, and its OPAC laboratory anchors the radiative-property
 side of that mission: absorptance and emittance of receiver coatings and
-reflectors, plus aging. By leading the SFERA-III intercomparison of
-solar absorptance and thermal emittance measurements, PSA plays for the
-applied-solar community the harmonizing role that CCT comparisons play
-in metrology.
+reflectors, plus aging. As one of the participating laboratories in the
+DLR-led SFERA-III intercomparison of solar absorptance and thermal
+emittance measurements (Caron et al., 2022), PSA contributes to the
+applied-solar community's effort to harmonize these measurements, an
+effort analogous to the role CCT comparisons play in metrology.
 
 ## Scope of activity
 
 - **Quantities:** solar absorptance · thermal emittance · specular and hemispherical reflectance
 - **Spectral range:** 0.28–2.5 µm (solar absorptance); 2–14 µm (thermal emittance, FTIR + integrating sphere)
 - **Temperature:** room temperature (spectrophotometric); aging under concentrated solar conditions
-- **Methodology:** Solar absorptance (Lambda 1050 with 150 mm integrating spheres) and thermal emittance (FTIR with integrating sphere) of receiver coatings and solar reflectors; led the SFERA-III laboratory intercomparison of solar absorptance and thermal emittance measurements.
+- **Methodology:** Solar absorptance (Lambda 1050 with 150 mm integrating spheres) and thermal emittance (FTIR with integrating sphere) of receiver coatings and solar reflectors; participated in the DLR-led SFERA-III laboratory intercomparison of solar absorptance and thermal emittance measurements (Caron et al., Sol. Energy Mater. Sol. Cells, 2022).
 - **Named facilities:** OPAC optical characterization laboratory
 
 **Application domains:** concentrating solar thermal receivers and reflectors · coating durability and aging.

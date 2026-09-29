@@ -21,7 +21,7 @@ toc: false
 | **Primary ecosystem** | Ultra-high-temperature — laser-heating radiometry |
 | **Relevant unit** | **Patrick Hopkins Group (ExSiTE Lab)** — ultra-high-temperature materials / laser-heating radiometry |
 | **Publicly linked people** | Hunter B. Schonfeld · Patrick Hopkins |
-| **Signature temperature range** | **Room temperature to ~4000 °C** |
+| **Signature temperature range** | **Room temperature to ~4000 °C** (as stated by the group; up to the melting points of refractory carbides) |
 
 ## Why it matters internationally
 
@@ -51,7 +51,7 @@ absorptivity/emissivity of ceramics and carbides.
 
 ### Capability envelope
 
-- **Temperature:** room temperature to ~4000 °C.
+- **Temperature:** room temperature to ~4000 °C, as stated by the group (i.e. up to the melting points of refractory carbides).
 - **Methodology:** combination of ellipsometry and laser-heating-based
   radiometry for measurement of ceramics and carbides up to their
   melting points.

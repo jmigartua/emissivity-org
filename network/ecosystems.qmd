@@ -64,8 +64,8 @@ phase state.
   spectral emittance under unconventional conditions.
 - **CNR-INO** — solar-energy materials, ultra-high-temperature ceramics.
 - **Institute VINČA** — direct pulse-heating of metals and alloys.
-- **University of Virginia** (Hopkins Group) — emissivity up to ~4000 °C via
-  coupled ellipsometry + laser-heating radiometry.
+- **University of Virginia** (Hopkins Group) — emissivity up to ~4000 °C (as
+  stated by the group) via coupled ellipsometry + laser-heating radiometry.
 - **LTeN-CNRS** — high-temperature emissivity of architectured ceramics.
 - **University of West Bohemia / NTC** — semitransparent coatings.
 - **Ruhr University Bochum / LEAT** — powders, fuels, reacting particulates.
@@ -136,17 +136,23 @@ performance.
 
 | Regime | Key laboratories |
 |---|---|
-| **Cryogenic (~20–300 K)** | ISI Brno (specialist) |
-| **Near room temperature** | NIST, PTB, AIST/NMIJ |
-| **Mid high-temperature (~300–1500 °C)** | PROMES-CNRS (DISCO), CEMHTI-CNRS, CNR-INO, IMT Mines Albi (BMEIR), CAE Würzburg, University of West Bohemia, Thermomat/EHU |
-| **High to very high temperature (~1500–2500 °C)** | PTB (to ~2300 °C), CEMHTI-CNRS (to ~2700 K), VINČA (pulse heating of metals/alloys) |
-| **Ultrahigh temperature (>3000 °C)** | University of Virginia (Hopkins Group, to ~4000 °C) |
+| **Cryogenic (~20–320 K)** | ISI Brno (specialist; database 20–320 K), DLR PSL (cooled planetary-analog samples from −200 °C) |
+| **Sub-ambient to moderate (≈ −40 °C to 200 °C)** | PTB (from −40 °C), LNE (calorimetric total hemispherical emissivity, −20 °C to 200 °C), NPL (from 23 °C), CIEMAT-PSA, Fraunhofer ISE and UNT (room-temperature spectrophotometry) |
+| **Blackbody-referenced, 250–1400 K** | NIST (System for Infrared Spectral Emittance of Materials, blackbody references from 250 K to 1400 K) |
+| **Mid high-temperature (~300–1500 °C)** | PROMES-CNRS (DISCO, to ~1500 °C), LNE (directional spectral emissivity facility to 1500 °C), LTeN-CNRS (to 1500 °C), IMT Mines Albi (BMEIR, ~600–1000 °C), CNR-INO (to 1000 °C), DLR PSL (heated samples to 1000 °C), NPL (to 800 °C), THWS (in-situ thermography, 500–1500 K) |
+| **High to very high temperature (~1500–3000 K)** | PTB (to ~2300 °C), CEMHTI-CNRS (emittance from 500 K to 2700 K under CO₂-laser heating), BAM (melt pools at 1300–2700 K in situ), JRC Karlsruhe (spectral emissivity above 1500 K), VINČA (pulse heating of metals/alloys) |
+| **Ultrahigh temperature (>3000 K)** | JRC Karlsruhe (laser heating beyond 3000 K), University of Virginia (Hopkins Group, to ~4000 °C as stated by the group, i.e. up to the melting points of refractory carbides) |
+
+Laboratories whose public pages do not state a temperature envelope — CAE
+Würzburg, Thermomat/EHU, AIST/NMIJ, University of West Bohemia / NTC among
+them — are not placed in this table, even where their activity clearly spans
+several regimes.
 
 ### By measurement difficulty
 
 | Difficulty class | Key laboratories |
 |---|---|
-| **Traceable, SI-linked emissivity** | PTB, NIST |
+| **Traceable, SI-linked emissivity** | PTB, NIST, NPL, LNE |
 | **Simultaneous T + emittance (severe conditions)** | CEMHTI-CNRS, PROMES-CNRS |
 | **Directional spectral emissivity** | IMT Mines Albi / ICA (BMEIR) |
 | **Semitransparent and layered coatings** | UWB / NTC, PTB (apparent emissivity of semitransparent samples) |
@@ -161,15 +167,23 @@ performance.
 
 ### Europe (a dense, partly hidden network)
 
-Germany hosts **PTB** and **CAE Würzburg** plus **Ruhr University Bochum /
-LEAT**. France concentrates a cluster of CNRS laboratories — **CEMHTI
-(Orléans)**, **PROMES (Odeillo/Font-Romeu)**, **IMT Mines Albi / ICA**, and
-**LTeN (Nantes)**. The Czech Republic contributes two specialist nodes —
-**ISI Brno** for cryogenics and **UWB / NTC** for photo-thermal properties of
-coatings. Italy contributes **CNR-INO** for solar-energy and optical-range
-work. Spain contributes **Thermomat / EHU** with **EKHI** and the
-IR-EMPOWER workshop. Serbia contributes **Institute VINČA** for pulse-heating
-high-temperature metals/alloys work.
+Germany hosts the densest cluster on the map: **PTB** and **CAE Würzburg**,
+**Ruhr University Bochum / LEAT**, the **DLR Planetary Spectroscopy
+Laboratory** (Berlin), **Fraunhofer ISE** (Freiburg), **JRC Karlsruhe**,
+**BAM** (Berlin), and **THWS** (Schweinfurt). France concentrates a cluster
+of CNRS laboratories — **CEMHTI (Orléans)**, **PROMES (Odeillo/Font-Romeu)**,
+**IMT Mines Albi / ICA**, and **LTeN (Nantes)** — together with the national
+metrology institute **LNE (Trappes)** and **ONERA DOTA**. The Czech Republic
+contributes two specialist nodes — **ISI Brno** for cryogenics and **UWB /
+NTC** for photo-thermal properties of coatings. Italy contributes **CNR-INO**
+for solar-energy and optical-range work. Spain contributes **Thermomat / EHU**
+with **EKHI** and the IR-EMPOWER workshop, **CIEMAT-PSA** for concentrating-
+solar coatings and reflectors, and **IETcc-CSIC** for construction materials.
+Serbia contributes **Institute VINČA** for pulse-heating high-temperature
+metals/alloys work. The United Kingdom contributes **NPL**, pilot laboratory
+of the CCT-S1 emissivity comparison; the Netherlands **ESA ESTEC** for
+spacecraft thermo-optical qualification; and Türkiye **TÜBİTAK UME** for
+radiation thermometry and blackbody calibration.
 
 The IR-EMPOWER program confirms that Europe has a **dense, partly hidden
 network** of emissivity researchers distributed across materials, metrology,
@@ -181,18 +195,24 @@ centers."
 ### North America
 
 The United States contributes the national-metrology anchor **NIST**, the
-planetary and Earth-observation hub **NASA JPL (JEDI + LST&E)**, the spectral-
-library infrastructures at **ASU TES Lab**, **Brown RELAB**, and **USGS
+planetary and Earth-observation hub **NASA JPL (JEDI + LST&E)** and the
+spacecraft thermal-coatings work at **NASA GSFC**, the spectral-library
+infrastructures at **ASU TES Lab**, **Brown RELAB**, and **USGS
 Spectroscopy**, the built-environment **LBNL Heat Island Group**, the
 thermal-photonics groups **Stanford Fan**, **Columbia / Nanfang Yu**,
-**Utah / TIFT Lab**, and **Vanderbilt / Caldwell**, and the ultrahigh-T
+**Utah / TIFT Lab**, **Vanderbilt / Caldwell**, **UCLA Raman Lab**, **Purdue
+Ruan Group**, **UChicago Hsu Group**, and **UNT**, and the ultrahigh-T
 frontier at the **University of Virginia / Hopkins Group**, plus further
-contributions from **University of Wisconsin–Madison** and **LASP Boulder**.
+contributions from the **University of Wisconsin–Madison** (Kats Group) and
+**LASP Boulder**.
 
-### Asia
+### Asia and Oceania
 
 Japan contributes **AIST / NMIJ** with the TPDS database, a key component of
-the field's data infrastructure.
+the field's data infrastructure. The engineered-emissivity branch adds
+**KAIST (Jang Lab)** in South Korea and the **Nanjing Zhu Group** in China.
+Australia contributes **UTS Sydney**, whose radiative-cooling work is
+evidenced at roof scale in field demonstrations.
 
 ---
 

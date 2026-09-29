@@ -52,7 +52,7 @@ true-temperature determination coupled to emittance.
 ### Capability envelope
 
 - **Temperature:** room temperature to high temperature; **laser-heated
-  emission up to ~500–2700 K**.
+  emittance 500–2700 K under CO₂-laser heating**.
 - **Wavelength:** FTIR-based IR / visible spectroscopy, approximately from
   **1 mm to 0.5 µm**.
 - **Methodology:** robust non-contact methodology for in-situ determination

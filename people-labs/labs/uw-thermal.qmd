@@ -1,5 +1,5 @@
 ---
-title: "UW–Madison Thermal Design Lab"
+title: "University of Wisconsin–Madison"
 page-layout: full
 toc: false
 ---
@@ -9,8 +9,8 @@ toc: false
 ```
 
 ::: {.page-article}
-# UW–Madison Thermal Design Lab
+# University of Wisconsin–Madison
 
 This page has moved: the maintained profile is at
-**[UW–Madison Thermal Design Lab on the research map](/network/wisconsin-madison.html)**.
+**[University of Wisconsin–Madison on the research map](/network/wisconsin-madison.html)**.
 :::

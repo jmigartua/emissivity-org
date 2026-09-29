@@ -48,7 +48,6 @@ European metrology project Hi-TRACE on high-temperature thermophysical propertie
 ## IR-EMPOWER contributions
 
 - IR-EMPOWER 2026: Konstantinos Boboridis, “Benefits and Limitations of Multi-Wavelength Pyrometry”; scientific committee
-- IR-EMPOWER 2024: Konstantinos Boboridis, “High melting temperature materials”; international advisory board
 
 ## External sources
 

@@ -68,7 +68,7 @@ institutions:
 
     capabilities:
       temperature_range_text: "−40 °C to ~2300 °C"
-      wavelength_range_text: "1 µm to 1 mm (radiometry); near- to far-infrared (emissivity)"
+      wavelength_range_text: "1 µm to 1 mm (radiometry); 1.3 µm to 100 µm (emissivity)"
       atmospheres: [air, vacuum]
       methodology_notes: "Accurate and traceable, SI-linked emissivity measurement under air and vacuum; spectral radiance from 1 µm to 1 mm."
 
@@ -130,7 +130,7 @@ institutions:
       - "true temperature (simultaneous with emittance)"
 
     capabilities:
-      temperature_range_text: "room temperature to high temperature; laser-heated emission up to ~500–2700 K"
+      temperature_range_text: "reflectance and transmittance from room temperature; emittance from 500 K to 2700 K under CO₂-laser heating"
       wavelength_range_text: "FTIR-based IR/visible spectroscopy, from ~1 mm to ~0.5 µm"
       atmospheres: []
       methodology_notes: "Infrared/visible spectroscopy by reflection, transmission, and emission; robust non-contact methodology for in-situ determination of temperature and spectral emissivity under unconventional conditions."
@@ -192,7 +192,7 @@ institutions:
     capabilities:
       temperature_range_text: "up to ~1500 °C"
       wavelength_range_text: ""
-      atmospheres: []
+      atmospheres: [vacuum, controlled atmosphere]
       methodology_notes: "Pyroreflectometric methods; pyrometry adapted to in-situ solar conditions; measurement under concentrated flux."
 
     instruments_named:
@@ -311,16 +311,16 @@ institutions:
       - "absorptivity (cryogenic)"
 
     capabilities:
-      temperature_range_text: "~20 K to 300 K"
+      temperature_range_text: "~20 K to 320 K"
       wavelength_range_text: ""
       atmospheres: []
-      methodology_notes: "Low-temperature radiative-property measurement on samples with different finishes and coatings; database-oriented work on low-temperature hemispherical emissivities and absorptivities."
+      methodology_notes: "Low-temperature radiative-property measurement on samples with different finishes and coatings; open database of metallic-material emissivities and absorptivities for cryogenics (20–320 K)."
 
     instruments_named: []
 
     databases_hosted:
-      - name: "Low-temperature hemispherical emissivity / absorptivity database"
-        description: "Internal database-oriented work on cryogenic radiative properties"
+      - name: "Database of metallic materials emissivities and absorptivities for cryogenics"
+        description: "Frolec et al., 'A database of metallic materials emissivities and absorptivities for cryogenics', Cryogenics 97 (2019) 85–99; data on Mendeley Data (doi:10.17632/z8t423rwwd.4); 20–320 K"
 
     applications:
       - "cryogenic engineering"
@@ -336,8 +336,9 @@ institutions:
       room or high temperature, but in cryogenics the radiative term can become
       decisive and reliable data are scarce. The Brno group has built a
       coherent research program around thermal radiative properties for
-      cryogenics, including a database of low-temperature hemispherical
-      emissivities and absorptivities. It is a clear example of how the
+      cryogenics, including an open database of metallic-material
+      emissivities and absorptivities between 20 K and 320 K (Frolec et al.,
+      Cryogenics 97, 2019; data on Mendeley Data). It is a clear example of how the
       emissivity community is structured: not by one dominant center, but by
       highly specialized laboratories that solve hard measurement problems in
       complementary temperature regimes.
@@ -345,6 +346,8 @@ institutions:
     external_sources:
       - label: "Emissivity — ISI Brno Cryogenics"
         url: "https://cryogenics.isibrno.cz/?page_id=171"
+      - label: "Frolec et al. (2019), database of metallic materials emissivities and absorptivities for cryogenics — data on Mendeley Data"
+        url: "https://doi.org/10.17632/z8t423rwwd.4"
 
   - id: imt-mines-albi
     rank: 6
@@ -679,8 +682,8 @@ institutions:
       - "infrared spectral directional emittance"
 
     capabilities:
-      temperature_range_text: ""
-      wavelength_range_text: "infrared"
+      temperature_range_text: "250 K to 1400 K (blackbody references)"
+      wavelength_range_text: "visible through far infrared"
       atmospheres: []
       methodology_notes: "Direct radiance comparison with a blackbody reference; FTIS-based infrared optical-property measurements; measurement assurance and uncertainty control."
 
@@ -1038,7 +1041,7 @@ institutions:
       - "high-temperature emissivity of architectured ceramics"
 
     capabilities:
-      temperature_range_text: "high temperature"
+      temperature_range_text: "up to 1500 °C"
       wavelength_range_text: ""
       atmospheres: []
       methodology_notes: "High-temperature emissivity characterization of architectured ceramics; modeling of emissivity of CeO₂ ceramics (traceable in CNRS/HAL records)."
@@ -1353,7 +1356,7 @@ institutions:
       - "spectral absorptivity/emissivity"
 
     capabilities:
-      temperature_range_text: "room temperature to ~4000 °C"
+      temperature_range_text: "room temperature to ~4000 °C (as stated by the group; i.e. up to the melting points of refractory carbides)"
       wavelength_range_text: ""
       atmospheres: []
       methodology_notes: "Combination of ellipsometry and laser-heating-based radiometry for measurement of ceramics and carbides up to their melting points."
@@ -1452,7 +1455,8 @@ institutions:
     ecosystems: [metrology, engineered_emissivity]
     ecosystem_primary: metrology
 
-    units: []
+    units:
+      - name: "Kats Group, Department of Electrical and Computer Engineering"
 
     people:
       - name: "Hongyan Mei"
@@ -1590,8 +1594,8 @@ institutions:
     external_sources:
       - label: "DLR — Planetary Laboratories (PSL)"
         url: "https://www.dlr.de/en/wr/research-transfer/research-infrastructure/planetary-spectroscopy-laboratory"
-      - label: "Berlin Emissivity Database (DLR)"
-        url: "https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-178/327_read-37531/"
+      - label: "Berlin Emissivity Database — Maturilli, Helbert & Moroz, Planet. Space Sci. 56, 420 (2008)"
+        url: "https://doi.org/10.1016/j.pss.2007.09.018"
 
   - id: npl
     rank: 28
@@ -1619,7 +1623,7 @@ institutions:
       temperature_range_text: "23 °C to 800 °C (CCT-S1 comparison scope)"
       wavelength_range_text: "2 µm to 14 µm (CCT-S1 comparison scope)"
       atmospheres: [air, vacuum]
-      methodology_notes: "Emissivity measurement for non-contact thermometry and heat transfer; participant in the CCT Supplementary Comparison S1 of infrared spectral normal emissivity alongside PTB, NIST and NMIJ; laboratory calibration and field measurement of land-surface emissivity."
+      methodology_notes: "Emissivity measurement for non-contact thermometry and heat transfer; pilot laboratory of the CCT-S1 comparison of infrared spectral normal emissivity (participants NPL, NMIJ, LNE, NIST, INRIM, PTB); laboratory calibration and field measurement of land-surface emissivity."
 
     instruments_named: []
     databases_hosted: []
@@ -1633,9 +1637,10 @@ institutions:
 
     why_it_matters: |
       As the UK national metrology institute, NPL anchors emissivity in the
-      international comparison infrastructure: it is a documented participant
-      in the CCT-S1 supplementary comparison of infrared spectral normal
-      emissivity (2–14 µm, 23–800 °C), and its land-surface temperature and
+      international comparison infrastructure: it was the pilot laboratory of
+      the CCT-S1 supplementary comparison of infrared spectral normal
+      emissivity (2–14 µm, 23–800 °C; participants NPL, NMIJ, LNE, NIST,
+      INRIM and PTB), and its land-surface temperature and
       emissivity work links laboratory radiometry to satellite Earth
       observation.
 
@@ -1764,7 +1769,7 @@ institutions:
       temperature_range_text: "room temperature (spectrophotometric); aging under concentrated solar conditions"
       wavelength_range_text: "0.28–2.5 µm (solar absorptance); 2–14 µm (thermal emittance, FTIR + integrating sphere)"
       atmospheres: [air]
-      methodology_notes: "Solar absorptance (Lambda 1050 with 150 mm integrating spheres) and thermal emittance (FTIR with integrating sphere) of receiver coatings and solar reflectors; led the SFERA-III laboratory intercomparison of solar absorptance and thermal emittance measurements."
+      methodology_notes: "Solar absorptance (Lambda 1050 with 150 mm integrating spheres) and thermal emittance (FTIR with integrating sphere) of receiver coatings and solar reflectors; participated in the DLR-led SFERA-III laboratory intercomparison of solar absorptance and thermal emittance measurements (Caron et al., Sol. Energy Mater. Sol. Cells, 2022)."
     instruments_named:
       - "OPAC optical characterization laboratory"
     databases_hosted: []
@@ -1776,10 +1781,11 @@ institutions:
       The Plataforma Solar de Almería is Europe's flagship concentrating
       solar facility, and its OPAC laboratory anchors the radiative-property
       side of that mission: absorptance and emittance of receiver coatings and
-      reflectors, plus aging. By leading the SFERA-III intercomparison of
-      solar absorptance and thermal emittance measurements, PSA plays for the
-      applied-solar community the harmonizing role that CCT comparisons play
-      in metrology.
+      reflectors, plus aging. As one of the participating laboratories in the
+      DLR-led SFERA-III intercomparison of solar absorptance and thermal
+      emittance measurements (Caron et al., 2022), PSA contributes to the
+      applied-solar community's effort to harmonize these measurements, an
+      effort analogous to the role CCT comparisons play in metrology.
     external_sources:
       - label: "OPAC laboratory (PSA)"
         url: "https://www.psa.es/en/instalaciones/opac.php"
@@ -1844,7 +1850,7 @@ institutions:
       temperature_range_text: ""
       wavelength_range_text: ""
       atmospheres: [air]
-      methodology_notes: "Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European metrology (EMPIR) projects such as MultiFixRad. A dedicated material-emissivity bench is not confirmed from public pages; listed as extended pending verification."
+      methodology_notes: "Radiation thermometry and calibration of blackbodies and infrared calibrators; participant in European Partnership on Metrology projects (22RPT03 MultiFixRad; 21GRD03 PaRaMetriC). A dedicated material-emissivity bench is not confirmed from public pages; listed as extended pending verification."
     instruments_named: []
     databases_hosted: []
     applications:
@@ -1853,7 +1859,8 @@ institutions:
     ir_empower_contributions: []
     why_it_matters: |
       UME extends the radiation-thermometry comparison infrastructure to
-      Türkiye: blackbody calibration and EMPIR-project participation tie its
+      Türkiye: blackbody calibration and participation in European Partnership
+      on Metrology projects (MultiFixRad, PaRaMetriC) tie its
       radiometric scales to the European metrology network, the foundation on
       which traceable emissivity measurement rests.
     external_sources:
@@ -2168,7 +2175,7 @@ institutions:
       - "normal spectral emissivity at high temperature"
       - "solar absorption factor"
     capabilities:
-      temperature_range_text: "Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2013)"
+      temperature_range_text: "Total hemispherical emissivity −20 °C to 200 °C (calorimetric); directional spectral emissivity facility up to 1500 °C (Hay et al., 2014)"
       wavelength_range_text: "250 nm to 20 µm (directional spectral emissivity, at 12°, 24°, 36°, 48° and 60°)"
       atmospheres: [vacuum]
       methodology_notes: "SI-traceable directional spectral emissivity of opaque solids derived from spectral directional hemispherical reflectance (expanded uncertainty 0.025–0.04); calorimetric total hemispherical emissivity in vacuum; a high-temperature directional spectral emissivity facility with lamp-image-furnace or inductive heating."
@@ -2188,9 +2195,11 @@ institutions:
       250 nm to 20 µm and calorimetric total hemispherical emissivity. LNE's
       reflectometer-based emissivity work goes back to at least 2005, validated against
       PTB and NIST references, and a directional spectral emissivity facility working up
-      to 1500 °C was reported in 2013. LNE coordinated the European metrology project
+      to 1500 °C was reported by Hay et al. (2014). LNE coordinated the European metrology project
       EMIRIM (16NRM06, 2017–2020) on emissivity of reflective insulation, and Hi-TRACE
-      (17IND11) on traceable high-temperature thermophysical properties.
+      (17IND11) on traceable high-temperature thermophysical properties. LNE was
+      also one of the six participants in the CCT-S1 supplementary comparison of
+      infrared spectral normal emissivity (2–14 µm, 23–800 °C), piloted by NPL.
     external_sources:
       - label: "LNE — Caractérisation thermique des matériaux (MATIS platform)"
         url: "https://www.lne.fr/fr/moyens/plateforme/caracterisation-thermique-materiaux"
@@ -2198,7 +2207,7 @@ institutions:
         url: "https://www.lne.fr/en/service/testing-measurement/thermal-characterization-materials"
       - label: "Hameury, Hay, Filtz (2005), Int. J. Thermophys. 26, 1973–1983"
         url: "https://link.springer.com/article/10.1007/s10765-005-8609-0"
-      - label: "Hay et al., New facilities for high-temperature thermophysical properties at LNE, Int. J. Thermophys."
+      - label: "Hay et al. (2014), New facilities for high-temperature thermophysical properties at LNE, Int. J. Thermophys. 35, 1712–1724"
         url: "https://link.springer.com/article/10.1007/s10765-013-1400-8"
       - label: "EURAMET — EMPIR 16NRM06 EMIRIM"
         url: "https://www.euramet.org/project-16nrm06"
@@ -2243,7 +2252,6 @@ institutions:
       - "ultra-refractory ceramics and high-melting-temperature materials"
     ir_empower_contributions:
       - "IR-EMPOWER 2026: Konstantinos Boboridis, “Benefits and Limitations of Multi-Wavelength Pyrometry”; scientific committee"
-      - "IR-EMPOWER 2024: Konstantinos Boboridis, “High melting temperature materials”; international advisory board"
     why_it_matters: |
       JRC Karlsruhe is the European Commission's main site for nuclear safety and
       security research. Its Fuels and Materials Research laboratory offers radiance
