@@ -41,6 +41,6 @@ toc: false
   <p>Emissivity.org uses zero stock photography. All images are either real laboratory photographs supplied by member labs, data visualizations (spectra, thermal images, measurement schematics), or clearly labeled placeholders that communicate what content is forthcoming. If there is no real image to put in a spot, we leave it as text — text is always better than a generic image.</p>
 
   <h2>Data licensing</h2>
-  <p>All EKHI datasets are published under CC-BY 4.0. Contributors remain the author of record. The source publication is the canonical citation. Contributors have a 14-day withdrawal window after initial publication.</p>
+  <p>All EKHI datasets are published under CC-BY 4.0, which is irrevocable once data are released. Contributors remain the author of record. The source publication is the canonical citation. Corrections to released records are handled by the EKHI maintainers (Thermomat, EHU), not by this editorial board.</p>
 </div>
 ```

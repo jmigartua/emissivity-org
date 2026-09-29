@@ -86,10 +86,11 @@ toc: false
         <div class="desc">
           Thermo-optical properties database capitalizing ONERA's measurements
           of the optical properties of materials, coatings, and paints for
-          infrared signature studies.
+          infrared signature studies. Not openly downloadable: access is granted
+          on request, subject to ONERA/DGA approval.
         </div>
         <div class="facts">
-          coatings · IR signatures<br/>
+          coatings · IR signatures · access on request<br/>
           <a href="https://onera.fr/en/dota/memoires">onera.fr/en/dota/memoires →</a>
         </div>
       </div>

@@ -13,10 +13,13 @@ toc: false
   <p>Emissivity.org is a static website. We do not use cookies or tracking pixels, and no user accounts are required to browse the site or access EKHI data.</p>
 
   <h2>Analytics</h2>
-  <p>We use <a href="https://www.goatcounter.com/">GoatCounter</a>, an open-source, privacy-respecting analytics service, to count page visits. GoatCounter sets no cookies and stores no personal data: the visited URL, referrer, browser type, screen size, and country are recorded; IP addresses are hashed with a daily-rotating salt and discarded, used only to distinguish unique visits within a single day. The Do-Not-Track browser setting is honoured. Under the GDPR and ePrivacy rules this requires no consent banner — which is why you do not see one.</p>
+  <p>We use <a href="https://www.goatcounter.com/">GoatCounter</a>, an open-source, privacy-respecting analytics service, to count page visits. GoatCounter sets no cookies. For each page view it records the visited URL, the referrer, browser and operating system type, screen size, and the country derived from the IP address. The IP address and User-Agent string are held in memory for at most 8 hours to distinguish unique visits and are never written to storage; only a random session token and the derived country are kept. We consider this processing to fall under legitimate interest and to require no consent banner, which is why you do not see one. See <a href="https://www.goatcounter.com/help/privacy" style="color: var(--c-cool);">GoatCounter's privacy documentation</a> for the full description.</p>
+
+  <h2>Third-party resources</h2>
+  <p>Pages on this site load resources from third-party content delivery networks: web fonts from Google Fonts (fonts.googleapis.com, fonts.gstatic.com), the MathJax library from jsDelivr (cdn.jsdelivr.net), and the Leaflet and MapLibre map libraries from cdnjs (cdnjs.cloudflare.com). When a page loads, these services receive your IP address and the standard request headers sent by your browser. Their handling of that data is governed by their own privacy policies.</p>
 
   <h2>EKHI contributions</h2>
-  <p>When you contribute spectral data to EKHI, we collect the metadata you provide (material description, measurement conditions, author names, publication reference). This information is published openly under CC-BY 4.0 as part of the EKHI database. Contributors retain authorship and can request withdrawal within 14 days of publication.</p>
+  <p>When you contribute spectral data to EKHI, we collect the metadata you provide (material description, measurement conditions, author names, publication reference). Accepted data are released openly under CC-BY 4.0 as part of the EKHI database; that licence is irrevocable once data are published. Contributors retain authorship. Corrections to released records are handled by the EKHI maintainers (Thermomat, EHU).</p>
 
   <h2>Contact forms</h2>
   <p>If you contact us through the website, we process your message and email address solely to respond to your inquiry. We do not share this information with third parties.</p>

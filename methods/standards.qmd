@@ -22,7 +22,7 @@ toc: false
 
     <div class="standard-entry">
       <h3>ASTM E408 — Total normal emittance of surfaces</h3>
-      <p>Standard test methods for total normal emittance of surfaces using inspection-meter techniques. Covers both the comparison method (using calibrated reference surfaces) and the absolute method (using a heated cavity). Applicable to opaque surfaces at near-ambient temperatures. Widely used in industrial quality control for coatings and surface treatments.</p>
+      <p>Standard test methods for total normal emittance of surfaces using inspection-meter techniques. Test Method A uses a reflectance-type meter with heated cavities as the radiation source; Test Method B uses an emission-type meter calibrated against reference standards. Both are comparative techniques; neither is an absolute method. Applicable to opaque surfaces at near-ambient temperatures. Widely used in industrial quality control for coatings and surface treatments.</p>
       <div class="tag-list"><span>ASTM</span><span>Total normal</span><span>Inspection meter</span></div>
     </div>
 
@@ -34,7 +34,7 @@ toc: false
 
     <div class="standard-entry">
       <h3>ASTM C835 — Total hemispherical emittance of surfaces up to 1400 °C</h3>
-      <p>Standard test method for total hemispherical emittance of surfaces from 20 °C to 1400 °C. Uses a calorimetric technique in which the sample is heated in a vacuum enclosure with cooled walls. The method yields the total hemispherical emittance, which is the quantity needed for radiative heat-transfer calculations. Particularly important for high-temperature materials such as ceramics, refractories, and thermal protection coatings.</p>
+      <p>Standard test method for total hemispherical emittance of surfaces from 20 °C to 1400 °C. Uses a calorimetric technique in which a resistively heated metal strip specimen, bare or coated, radiates in a vacuum enclosure with cooled walls; the emittance follows from the electrical power balance. The method yields the total hemispherical emittance, which is the quantity needed for radiative heat-transfer calculations. Its scope is electrically conductive strip specimens and coatings applied to them, not bulk ceramics or refractories.</p>
       <div class="tag-list"><span>ASTM</span><span>Total hemispherical</span><span>High temperature</span><span>Calorimetric</span></div>
     </div>
   </section>
@@ -44,16 +44,10 @@ toc: false
     <h2>Good-practice guides</h2>
 
     <div class="standard-entry">
-      <h3>Rousseau, Rozenbaum &amp; Soum-Glaude — A good-practice guide for emissivity measurement</h3>
-      <p>Community-authored guide published on Zenodo covering the practical aspects of spectral emissivity measurement: sample preparation, blackbody reference usage, atmospheric correction, and uncertainty estimation. Written by experienced practitioners from PROMES and CEMHTI, the guide bridges the gap between formal standards and day-to-day laboratory practice. It addresses common pitfalls such as surface contamination, temperature gradients across samples, and the correct handling of background radiation contributions.</p>
-      <div class="tag-list"><span>Zenodo</span><span>Guide</span><span>PROMES</span><span>CEMHTI</span><span>Practical</span></div>
+      <h3>PaRaMetriC consortium (2025) &mdash; Good practice guide on the conversion of near-normal directional emissivity into hemispherical emissivity with a target uncertainty below 5 % (2.5–50 µm)</h3>
+      <p>Practical guidance on converting directional measurements at near-normal incidence into hemispherical values, including the angular integration methods and their limitations. Authors: Adibekyan, Andersson, Arduini-Schuster, Cucchi, Hameury, Kamml, Manara, Razouk, Sprengard, Pattelli, Monte. A deliverable of the PaRaMetriC project (EPM 21GRD03), written by the participating institutes PTB, CAE, RISE, FIW München, LNE and INRIM. Published on Zenodo, 30 September 2025.</p>
+      <div class="tag-list"><span>Zenodo</span><span>Conversion</span><span>PaRaMetriC</span><span>PTB</span><span>CAE</span><span>RISE</span><span>FIW München</span><span>LNE</span><span>INRIM</span></div>
       <div style="margin-top: 12px;"><a href="https://doi.org/10.5281/zenodo.17684770" target="_blank" style="font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">DOI: 10.5281/zenodo.17684770 &rarr;</a></div>
-    </div>
-
-    <div class="standard-entry">
-      <h3>Manara &amp; Monte (2025) &mdash; Good practice guide on conversion of near-normal directional emissivity into hemispherical emissivity</h3>
-      <p>Practical guidance on converting directional measurements at near-normal incidence into hemispherical values, including the angular integration methods and their limitations. Co-authored by CAE and PTB researchers.</p>
-      <div class="tag-list"><span>Zenodo</span><span>Conversion</span><span>CAE</span><span>PTB</span></div>
     </div>
   </section>
 
@@ -61,8 +55,8 @@ toc: false
   <section>
     <h2>Additional ISO standards</h2>
     <div class="standard-entry">
-      <h3>ISO 19618:2017 &mdash; Normal spectral emissivity of fine ceramics</h3>
-      <p>Measurement method of semiconductors &mdash; normal spectral emissivity measurement of fine ceramics at elevated temperatures. Specifically designed for ceramic materials which present unique challenges due to semi-transparency in certain wavelength ranges.</p>
+      <h3>ISO 19618:2025 &mdash; Fine ceramics: normal spectral emissivity</h3>
+      <p>Fine ceramics (advanced ceramics, advanced technical ceramics) &mdash; measurement method for normal spectral emissivity using blackbody reference with an FTIR spectrometer. Applies to opaque ceramic specimens over 1.67–25 µm, comparing the sample's emitted spectrum with that of a blackbody reference. The 2025 edition supersedes ISO 19618:2017.</p>
       <div class="tag-list"><span>ISO</span><span>Ceramics</span><span>Normal spectral</span></div>
     </div>
     <div class="standard-entry">
@@ -77,41 +71,47 @@ toc: false
     </div>
   </section>
 
-  <!-- Network protocols -->
+  <!-- International comparisons -->
   <section>
-    <h2>Network protocols</h2>
-    <p>The emissivity research network maintains a set of shared protocols that go beyond published standards. These protocols encode the collective practical knowledge of the contributing laboratories.</p>
+    <h2>International comparisons</h2>
+    <div class="standard-entry">
+      <h3>CCT-S1 &mdash; Supplementary comparison of infrared spectral normal emittance/emissivity</h3>
+      <p>Supplementary comparison of infrared spectral normal emittance/emissivity organised under the Consultative Committee for Thermometry (CCT). Pilot laboratory: NPL; participants: NMIJ, LNE, NIST, INRIM and PTB. The comparison covered 2–14 µm and 23–800 °C. Final report: <em>Metrologia</em> 53 (2016), Technical Supplement 03001.</p>
+      <div class="tag-list"><span>CCT</span><span>Supplementary comparison</span><span>Spectral normal</span><span>NPL pilot</span></div>
+    </div>
+  </section>
+
+  <!-- Proposed community reporting protocol -->
+  <section>
+    <h2>Proposed community reporting protocol (not an EKHI requirement)</h2>
+    <p>What follows is a <strong>proposal</strong> for how laboratories in the network could report new spectral emissivity measurements so that they are comparable across institutions. It is a discussion document, not an adopted standard, and it is <strong>not</strong> a submission requirement of EKHI. EKHI itself stores curve-level data digitised from the published literature, held as JSON records whose provenance chain runs from the source-publication DOI to the TPRC table and curve identifier.</p>
 
     <div class="standard-entry">
       <h3>Blackbody traceability</h3>
-      <p>All spectral emissivity measurements contributed to EKHI must be traceable to a characterised blackbody reference. The protocol specifies minimum requirements for blackbody cavity geometry (effective emissivity &ge; 0.999), temperature uniformity (&le; 0.5 K across the aperture), and calibration interval. Laboratories using commercial blackbody sources must provide the manufacturer calibration certificate and any in-house verification data.</p>
+      <p>Spectral emissivity measurements would be traceable to a characterised blackbody reference. The proposal specifies minimum requirements for blackbody cavity geometry (effective emissivity &ge; 0.999), temperature uniformity (&le; 0.5 K across the aperture), and calibration interval. Laboratories using commercial blackbody sources would provide the manufacturer calibration certificate and any in-house verification data.</p>
     </div>
 
     <div class="standard-entry">
       <h3>Sample preparation</h3>
-      <p>Surface condition dominates emissivity at short wavelengths and moderate temperatures. The network protocol requires documentation of surface preparation method (polishing grade, cleaning solvent, annealing history), surface roughness (Ra or Sa), and any coatings or oxide layers. For comparative studies, reference samples of known roughness are circulated between laboratories.</p>
+      <p>Surface condition dominates emissivity at short wavelengths and moderate temperatures. The proposal calls for documentation of surface preparation method (polishing grade, cleaning solvent, annealing history), surface roughness (Ra or Sa), and any coatings or oxide layers. For comparative studies, reference samples of known roughness could be circulated between laboratories.</p>
     </div>
 
     <div class="standard-entry">
       <h3>Uncertainty budgeting</h3>
-      <p>Every dataset submitted to EKHI must include a GUM-compliant uncertainty budget. The protocol identifies the dominant uncertainty components for spectral emissivity measurements: blackbody temperature, detector non-linearity, atmospheric absorption correction, sample temperature measurement, and angular alignment. Template spreadsheets are provided for common measurement configurations.</p>
+      <p>Each reported dataset would include a GUM-compliant uncertainty budget. The proposal identifies the dominant uncertainty components for spectral emissivity measurements: blackbody temperature, detector non-linearity, atmospheric absorption correction, sample temperature measurement, and angular alignment.</p>
     </div>
-  </section>
 
-  <!-- EKHI data format -->
-  <section>
-    <h2>EKHI data format specification</h2>
-    <p>EKHI uses a structured data format designed for spectral radiative-property data with full provenance. Each record contains:</p>
-
-    <ul>
-      <li><strong>Metadata header</strong> — material identification, sample preparation details, laboratory, operator, and measurement date.</li>
-      <li><strong>Measurement conditions</strong> — temperature (K), emission angle (degrees), atmosphere (air, vacuum, or specified gas), and spectral range (µm).</li>
-      <li><strong>Spectral data columns</strong> — wavelength (µm), emissivity (dimensionless), and expanded uncertainty (k = 2).</li>
-      <li><strong>Provenance block</strong> — DOI or publication reference, dataset version, contributor ORCID, and licence (CC BY 4.0 by default).</li>
-      <li><strong>Auxiliary fields</strong> — surface roughness, coating thickness, substrate material, and any post-processing applied to raw data.</li>
-    </ul>
-
-    <p>The format is available as both CSV (for simplicity) and JSON (for programmatic access). Validation scripts check each submission against the schema before ingestion into the database.</p>
+    <div class="standard-entry">
+      <h3>Suggested record structure</h3>
+      <p>A reported record would carry:</p>
+      <ul>
+        <li><strong>Metadata header</strong> — material identification, sample preparation details, laboratory, operator, and measurement date.</li>
+        <li><strong>Measurement conditions</strong> — temperature (K), emission angle (degrees), atmosphere (air, vacuum, or specified gas), and spectral range (µm).</li>
+        <li><strong>Spectral data columns</strong> — wavelength (µm), emissivity (dimensionless), and expanded uncertainty (k = 2).</li>
+        <li><strong>Provenance block</strong> — DOI or publication reference, dataset version, contributor ORCID, and licence (CC BY 4.0 by default).</li>
+        <li><strong>Auxiliary fields</strong> — surface roughness, coating thickness, substrate material, and any post-processing applied to raw data.</li>
+      </ul>
+    </div>
   </section>
 
 </div>

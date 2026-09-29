@@ -60,7 +60,7 @@ toc: false
              {\displaystyle\int_{0}^{\infty} L_{\lambda,\mathrm{b}}(\lambda, T)\,\mathrm{d}\lambda}
         \;=\; \frac{\pi}{\sigma T^{4}} \int_{0}^{\infty} \varepsilon(\lambda, \theta, T)\,L_{\lambda,\mathrm{b}}(\lambda, T)\,\mathrm{d}\lambda .
       \]
-      <p>This quantity describes how much total power the surface radiates in a particular direction. It is useful in radiometric and thermographic applications where the detector integrates over a broad spectral band.</p>
+      <p>This quantity describes how much total power the surface radiates in a particular direction. It is useful in broadband radiometry, where the detector integrates over the whole thermal spectrum. Note that thermography does not use it directly: a thermal camera sees a limited band (typically 8–14 µm) and needs the band-integrated emissivity, obtained by restricting the integrals above to the camera's spectral window.</p>
     </div>
 
     <div class="standard-entry">
@@ -93,7 +93,7 @@ toc: false
       \varepsilon(\lambda, \theta, T) \;=\; \alpha(\lambda, \theta, T)
       \;=\; 1 - \rho(\lambda, \theta, T) - \tau(\lambda, \theta, T) ,
     \]
-    <p>where \(\rho\) is the directional-hemispherical reflectance and \(\tau\) the directional-hemispherical transmittance; for an opaque surface \(\tau = 0\) and \(\varepsilon = 1 - \rho\). The reflectance is measured using an external source (such as a globar or a laser) and an integrating sphere or directional detector: by reciprocity, illuminating the sample at angle \(\theta\) and collecting over the hemisphere gives exactly the \(\rho\) needed. This method avoids the need to heat the sample, but the emissivity obtained refers to the temperature at which the reflectance was measured, usually room temperature. Its own challenges are that the integrating sphere must capture all reflected radiation and the source must be well-characterised.</p>
+    <p>where \(\rho\) is the directional-hemispherical reflectance and \(\tau\) the directional-hemispherical transmittance; for an opaque surface \(\tau = 0\) and \(\varepsilon = 1 - \rho\). The reflectance is measured using an external source (such as a globar or a laser) and an integrating sphere or directional detector. Illuminating the sample at angle \(\theta\) and collecting over the hemisphere gives the directional-hemispherical reflectance \(\rho\) directly, by definition; by Helmholtz reciprocity, the reverse sphere geometry, hemispherical illumination with collection at \(\theta\), gives the same value, which is why both arrangements are in use. This method avoids the need to heat the sample, but the emissivity obtained refers to the temperature at which the reflectance was measured, usually room temperature. Its own challenges are that the integrating sphere must capture all reflected radiation and the source must be well-characterised.</p>
 
     <h3>Instrumentation</h3>
     <p>Fourier-transform infrared (FTIR) spectrometers are the most common instruments for spectral emissivity measurement in the mid-infrared (2–25 µm). They offer broad spectral coverage, good spectral resolution, and established calibration procedures. For total emissivity measurements, calorimetric techniques (measuring the total radiated power) or broadband radiometers are used. At very high temperatures (above 1500 K), specialised furnaces, vacuum chambers, and optical pyrometers are required.</p>
@@ -102,7 +102,7 @@ toc: false
   <!-- Why geometry matters -->
   <section>
     <h2>Why geometry matters</h2>
-    <p>The emissivity of a surface generally depends on the direction of emission, as the Fresnel equations require. For polished metals, emissivity is low near the surface normal, rises with angle to a maximum around \(\theta \approx 75\text{–}85^\circ\), and then falls to zero at grazing emission. For dielectrics and oxides, emissivity is highest near the normal, stays nearly constant out to roughly \(60^\circ\), and then decreases towards zero at grazing angles. Every surface has \(\varepsilon \to 0\) as \(\theta \to 90^\circ\).</p>
+    <p>The emissivity of a surface generally depends on the direction of emission, as the Fresnel equations require. For polished metals, emissivity is low near the surface normal, rises with angle to a maximum around \(\theta \approx 75\text{–}85^\circ\), and then falls to zero at grazing emission. For dielectrics and oxides, emissivity is highest near the normal, stays nearly constant out to roughly \(60^\circ\), and then decreases towards zero at grazing angles. For optically smooth surfaces, which the Fresnel equations describe, \(\varepsilon \to 0\) as \(\theta \to 90^\circ\); rough surfaces fall off far less steeply, because facets and multiple scattering keep the emission finite out to grazing angles.</p>
     <p>This angular dependence has practical consequences. A measurement made at normal incidence (\(\theta = 0^\circ\)) does not represent the hemispherical emissivity: the conversion requires knowledge of the full angular profile,</p>
     \[
       \varepsilon_{\mathrm{h}} \;=\; 2\int_{0}^{\pi/2} \varepsilon(\theta)\,\cos\theta\,\sin\theta\,\mathrm{d}\theta ,
@@ -120,7 +120,7 @@ toc: false
     <p>The optical properties of materials (refractive index and extinction coefficient) depend on temperature through lattice vibrations, free-carrier concentration, and phase transitions. In the far infrared, metals show increasing emissivity with temperature because electrical resistivity \(\rho_{\mathrm{e}}\) increases, reducing reflectivity; the Hagen–Rubens relation makes this explicit for the normal spectral emissivity,</p>
     \[
       \varepsilon_{\lambda,\mathrm{n}} \;\approx\; 2\sqrt{\frac{4\pi\,\varepsilon_{0}\,c\,\rho_{\mathrm{e}}}{\lambda}}
-      \qquad (\lambda \gtrsim 5\ \text{µm}).
+      \qquad (\lambda \gtrsim 10\ \text{µm}).
     \]
     <p>At short wavelengths the trend reverses, so the spectral curves of a metal at different temperatures cross at a characteristic wavelength, the so-called X-point (near 1.27 µm for tungsten). Oxides and ceramics can show more complex behaviour, including changes due to thermal expansion, sintering, or chemical reactions at high temperature.</p>
 

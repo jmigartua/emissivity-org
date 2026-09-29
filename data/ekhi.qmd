@@ -30,7 +30,8 @@ toc: false
     </div>
     <p style="font-size:13px; color:#74808c; margin-top:-14px;">
       Counts as published in the <em>Scientific Data</em> descriptor
-      (doi:10.1038/s41597-026-07083-9), January 2026. This page is updated at
+      (doi:10.1038/s41597-026-07083-9, published March 2026; data freeze
+      January 2026). This page is updated at
       each EKHI data release, not live.
     </p>
   </div>

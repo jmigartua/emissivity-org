@@ -54,22 +54,39 @@ toc: false
     </div>
 
     <div style="margin-top:1.5rem;">
-      <p style="color:#4a5662; margin-bottom:1.2rem;">When referring to EKHI as a whole (e.g., in a methods or data-availability section), use:</p>
+      <p style="color:#4a5662; margin-bottom:1.2rem;">When referring to EKHI as a whole (e.g., in a methods or data-availability section), cite the data descriptor in <em>Scientific Data</em>. The frozen dataset behind it is also archived on figshare under its own DOI; cite that when you used the archived snapshot rather than the live database.</p>
 
       <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
-        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Plain text</div>
-        Emissivity Research Network. EKHI: Open Spectral Emissivity Database.<br/>
-        https://emissivity.org/data/ekhi (accessed [date]).
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Plain text — data descriptor</div>
+        Gabirondo-López, J. et al. EKHI: an open database of optical and<br/>
+        thermal radiative properties of solids. Scientific Data 13, 740 (2026).<br/>
+        https://doi.org/10.1038/s41597-026-07083-9
+      </div>
+
+      <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
+        <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Plain text — archived dataset</div>
+        Gabirondo-López, J. et al. EKHI: an open database of optical and thermal radiative properties of solids — initial dataset. figshare (2026).<br/>
+        https://doi.org/10.6084/m9.figshare.30581240 (CC BY 4.0)
       </div>
 
       <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
         <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">BibTeX</div>
-        @misc{ekhi,<br/>
-        &nbsp;&nbsp;author = {{Emissivity Research Network}},<br/>
-        &nbsp;&nbsp;title  = {{EKHI}: Open Spectral Emissivity Database},<br/>
-        &nbsp;&nbsp;url    = {https://emissivity.org/data/ekhi},<br/>
-        &nbsp;&nbsp;year   = {2026},<br/>
-        &nbsp;&nbsp;note   = {Accessed: [date]}<br/>
+        @article{ekhi2026,<br/>
+        &nbsp;&nbsp;author  = {Gabirondo-L{\'o}pez, J. and others},<br/>
+        &nbsp;&nbsp;title   = {{EKHI}: an open database of optical and thermal radiative properties of solids},<br/>
+        &nbsp;&nbsp;journal = {Scientific Data},<br/>
+        &nbsp;&nbsp;volume  = {13},<br/>
+        &nbsp;&nbsp;pages   = {740},<br/>
+        &nbsp;&nbsp;year    = {2026},<br/>
+        &nbsp;&nbsp;doi     = {10.1038/s41597-026-07083-9}<br/>
+        }<br/>
+        <br/>
+        @misc{ekhi2026data,<br/>
+        &nbsp;&nbsp;author    = {Gabirondo-L{\'o}pez, J. and others},<br/>
+        &nbsp;&nbsp;title     = {{EKHI} dataset},<br/>
+        &nbsp;&nbsp;publisher = {figshare},<br/>
+        &nbsp;&nbsp;year      = {2026},<br/>
+        &nbsp;&nbsp;doi       = {10.6084/m9.figshare.30581240}<br/>
         }
       </div>
     </div>
@@ -87,7 +104,7 @@ toc: false
     </div>
 
     <div style="margin-top:1.5rem;">
-      <p style="color:#4a5662; margin-bottom:1.2rem;">When using specific spectral data from EKHI, cite both the original publication and the EKHI record:</p>
+      <p style="color:#4a5662; margin-bottom:1.2rem;">When using specific spectral data from EKHI, cite both the original publication and the EKHI record. Each EKHI record is identified by the DOI of its source publication followed by the curve number within that publication, written <code>&lt;source DOI&gt;:&lt;curve n&gt;</code>, and lives under the publication's page at thermomat.ehu.eus/ekhi.</p>
 
       <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
         <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Step 1 — cite the source publication</div>
@@ -97,16 +114,18 @@ toc: false
 
       <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; margin-bottom:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
         <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Step 2 — cite the EKHI record</div>
-        Data obtained via EKHI record #[ID],<br/>
-        Emissivity Research Network,<br/>
-        https://emissivity.org/data/ekhi#[ID]
+        EKHI record [source DOI]:[curve n],<br/>
+        https://thermomat.ehu.eus/ekhi/publication/[id]/<br/>
+        (accessed [date])
       </div>
 
       <div style="background:#0d1e26; border:1px solid #d9dee6; border-radius:8px; padding:1.5rem; font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#1d2630; line-height:1.7; overflow-x:auto;">
         <div style="color:#1b3a6b; margin-bottom:0.5rem; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em;">Example — in a data-availability statement</div>
-        "Spectral emissivity data for SiC were obtained from<br/>
-        &nbsp;EKHI record #03921 (Rozenbaum et al., 2024), available<br/>
-        &nbsp;at https://emissivity.org/data/ekhi under CC-BY 4.0."
+        "Spectral emissivity data for tungsten were taken from<br/>
+        &nbsp;de Vos (1954), doi:10.1016/s0031-8914(54)80182-0, as<br/>
+        &nbsp;EKHI record 10.1016/s0031-8914(54)80182-0:1,<br/>
+        &nbsp;https://thermomat.ehu.eus/ekhi/publication/22/<br/>
+        &nbsp;(accessed [date]), reused under CC BY 4.0."
       </div>
     </div>
   </div>
@@ -130,13 +149,13 @@ toc: false
       </div>
       <div class="contrib">
         <div class="contrib__num">02</div>
-        <div class="contrib__verb"><em>Include</em> the EKHI record ID</div>
-        <div class="contrib__desc">Record IDs (e.g., #03921) make your data provenance unambiguous and allow readers to retrieve the exact curve you used, including measurement conditions and metadata.</div>
+        <div class="contrib__verb"><em>Include</em> the EKHI record identifier</div>
+        <div class="contrib__desc">Record identifiers of the form <code>&lt;source DOI&gt;:&lt;curve n&gt;</code> (e.g., 10.1016/s0031-8914(54)80182-0:1) make your data provenance unambiguous and allow readers to retrieve the exact curve you used, including measurement conditions and metadata.</div>
       </div>
       <div class="contrib">
         <div class="contrib__num">03</div>
         <div class="contrib__verb"><em>State</em> the access date</div>
-        <div class="contrib__desc">EKHI is updated weekly. Including the access date documents which version of the data you used and aids reproducibility if records are corrected or supplemented.</div>
+        <div class="contrib__desc">EKHI is updated at each data release. Including the access date documents which version of the data you used and aids reproducibility if records are corrected or supplemented.</div>
       </div>
       <div class="contrib">
         <div class="contrib__num">04</div>

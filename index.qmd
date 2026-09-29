@@ -110,7 +110,7 @@ listing:
             <span class="unit">Planetary Spectroscopy Laboratory, Berlin</span></td>
           <td class="cc">DE</td>
           <td><span class="tier-pill core">core</span></td>
-          <td class="cap">Vacuum FTIR emissivity 0.3 to &gt;100 µm, heated planetary-analog samples; Berlin Emissivity Database.</td>
+          <td class="cap">Vacuum FTIR emissivity ~1–100 µm and reflectance 0.4–200 µm, heated planetary-analog samples; Berlin Emissivity Database.</td>
         </tr>
         <tr>
           <td class="inst"><a href="/network/thermomat-ehu.html">Thermomat / HAIRL — EHU</a>

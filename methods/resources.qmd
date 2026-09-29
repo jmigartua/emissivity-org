@@ -14,7 +14,7 @@ toc: false
   <div class="card-grid">
     <a href="/data/ekhi.html" class="info-card" style="text-decoration:none; color:inherit; border-left: 3px solid var(--c-warm);">
       <h3>EKHI Database</h3>
-      <p>The first open-access database for optical and radiative property data. Publication-centred organisation with curve-level spectral datasets, full provenance, and DOI-based citations.</p>
+      <p>An open database of optical and thermal radiative property data. Publication-centred organisation with curve-level spectral datasets, full provenance, and DOI-based citations.</p>
       <div style="margin-top: 10px; font-family: var(--f-mono); font-size: 11px; color: var(--c-cool);">Browse EKHI &rarr;</div>
     </a>
     <div class="info-card">
@@ -38,12 +38,12 @@ toc: false
       <div class="pub-entry__journal" style="margin-top: 4px;">Comprehensive treatment of radiative transfer in participating media and at surfaces.</div>
     </div>
     <div class="pub-entry">
-      <div class="pub-entry__title">Measurement of the Thermophysical Properties of Solids</div>
-      <div class="pub-entry__meta">C.Y. Ho (ed.)</div>
+      <div class="pub-entry__title">Compendium of Thermophysical Property Measurement Methods</div>
+      <div class="pub-entry__meta">K.D. Magli&#263;, A. Cezairliyan, V.E. Peletsky (eds.) &mdash; vols. 1&ndash;2, Plenum, 1984 / 1992</div>
       <div class="pub-entry__journal" style="margin-top: 4px;">Reference for measurement techniques of all thermophysical properties.</div>
     </div>
     <div class="pub-entry">
-      <div class="pub-entry__title">Heat Transfer: A Basic Approach</div>
+      <div class="pub-entry__title">Heat Transfer: A Practical Approach</div>
       <div class="pub-entry__meta">Y.A. &Ccedil;engel</div>
       <div class="pub-entry__journal" style="margin-top: 4px;">Introductory treatment with good coverage of radiation fundamentals.</div>
     </div>
