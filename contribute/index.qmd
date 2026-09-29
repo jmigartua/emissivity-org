@@ -21,7 +21,7 @@ toc: false
     <a href="/contribute/submit-data.html" class="contrib" style="text-decoration:none;">
       <div class="contrib__num">01</div>
       <div class="contrib__verb"><em>Submit</em> spectral data</div>
-      <div class="contrib__desc">Validated spectra move naturally into EKHI with visible attribution and reuse guidance. Publication-traced provenance, curve-level downloads, CC-BY 4.0 licensing.</div>
+      <div class="contrib__desc">Validated spectra are forwarded to the EKHI maintainers for consideration, with visible attribution and reuse guidance. Publication-traced provenance, curve-level downloads, CC-BY 4.0 licensing.</div>
       <span class="contrib__link">Submit to EKHI &rarr;</span>
     </a>
     <a href="/contribute/join-network.html" class="contrib" style="text-decoration:none;">

@@ -18,6 +18,7 @@ Deployed continuously by Netlify from this repository (`netlify.toml` →
 | `_data/institutions.yml` | Research-map directory, world-map markers (`labs.json`), institution profiles, homepage stats — via `tools/generate_network.py` |
 | `_data/images.yml` | Profile photographs + credits (files fetched by `tools/fetch_images.sh`) |
 | `_data/featured.yml` | Homepage featured-announcement band — via `tools/generate_featured.py` |
+| `_data/calendar.yml` | Conference iCal feed — feeds `tools/generate_ical.py` → `files/ical/emissivity-conferences.ics` |
 | `events-news/news/*.qmd`, `events-news/conferences/*.qmd` | News/Events pages and the homepage listings (EJS templates in `assets/listings/`) |
 
 Editorial principles: every number exact, dated, and sourced; every

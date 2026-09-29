@@ -11,7 +11,7 @@ toc: false
 ::: {.page-article}
 # Announce an event
 
-Conferences, workshops, summer schools, and training activities relevant to thermal radiative properties. Accepted events appear on the [calendar](/events-news/conferences.html), in the iCal feed, and — close to their dates — on the homepage.
+Conferences, workshops, summer schools, and training activities relevant to thermal radiative properties. Accepted events appear on the [calendar](/events-news/conferences.html) and — close to their dates — on the homepage; the iCal feed is regenerated from the calendar data file at the next site release.
 
 ```{=html}
 <div class="form-alt">

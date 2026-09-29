@@ -77,7 +77,7 @@ publication, see [how to contribute](/contribute/suggest-publication.html).
 <div class="inner-page" style="max-width: 1000px;">
   <div class="section__label">Research</div>
   <h1>Publications</h1>
-  <p class="page-subtitle">Selected publications (2020&ndash;2025) from the emissivity.org network and collaborators. 41 publications across emissivity measurement, radiative properties, surface modification, and thermal characterization.</p>
+  <p class="page-subtitle">Peer-reviewed work from the emissivity.org network and collaborators, grouped by year, across emissivity measurement, radiative properties, surface modification, and thermal characterization.</p>
 </div>
 ```
 

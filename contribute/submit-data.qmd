@@ -11,7 +11,7 @@ toc: false
 ::: {.page-article}
 # Submit data to EKHI
 
-[EKHI](/data/ekhi.html) indexes curve-level optical and thermal radiative property data with explicit provenance. Submissions are curated by the Thermomat group at EHU; every accepted dataset remains traceable to its source publication and credits its authors.
+[EKHI](/data/ekhi.html) indexes curve-level optical and thermal radiative property data with explicit provenance. Submissions are received by the editorial board and forwarded to the EKHI maintainers (Thermomat group, EHU), who decide on inclusion; every accepted dataset remains traceable to its source publication and credits its authors.
 
 ```{=html}
 <div class="form-alt">
@@ -34,9 +34,27 @@ toc: false
   <label class="req" for="f-property">Property / quantity</label>
   <input id="f-property" name="property" type="text" required />
   <div class="hint">e.g. normal spectral emissivity; hemispherical reflectance</div>
-  <label for="f-conditions">Conditions</label>
+  <label class="req" for="f-temperature">Temperature</label>
+  <input id="f-temperature" name="temperature" type="text" required />
+  <div class="hint">In kelvin — a single value or a range, e.g. 1200 K; 300–1800 K</div>
+  <label class="req" for="f-spectral_range">Spectral variable and range</label>
+  <input id="f-spectral_range" name="spectral_range" type="text" required />
+  <div class="hint">Wavelength or wavenumber, with unit — e.g. 2–25 µm; 400–5000 cm⁻¹</div>
+  <label class="req" for="f-geometry">Measurement geometry</label>
+  <input id="f-geometry" name="geometry" type="text" required />
+  <div class="hint">Incidence / emission angle and collection — directional or hemispherical, e.g. normal (0°), directional; 8° incidence, hemispherical collection</div>
+  <label for="f-uncertainty">Standard uncertainty</label>
+  <input id="f-uncertainty" name="uncertainty" type="text" />
+  <div class="hint">As stated in the source, with coverage factor if given (e.g. 0.02, k = 1) — or "none reported"</div>
+  <label for="f-file_format">Preferred file format</label>
+  <select id="f-file_format" name="file_format">
+    <option value="">— choose —</option>
+    <option value="csv">Tabular CSV</option>
+    <option value="json">JSON</option>
+  </select>
+  <label for="f-conditions">Other conditions</label>
   <textarea id="f-conditions" name="conditions"></textarea>
-  <div class="hint">Temperature, wavelength range, geometry, specimen notes</div>
+  <div class="hint">Atmosphere or vacuum, surface finish, specimen notes</div>
   <label class="req" for="f-data_location">Where the data lives</label>
   <textarea id="f-data_location" name="data_location" required></textarea>
   <div class="hint">Link to files (Zenodo, institutional repository, supplementary material) or note that you will email them</div>
