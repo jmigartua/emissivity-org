@@ -633,6 +633,11 @@ footer.site a { color: var(--ink-soft); }
   padding-bottom: 8px; border-bottom: 1px solid var(--line);
 }
 .inner-page p { font-size: 16px; line-height: 1.7; color: var(--ink-soft); max-width: 74ch; }
+/* Display equations (MathJax) share the paragraph measure so they centre on the
+   text column, not on the full page; long ones scroll instead of overflowing. */
+.inner-page mjx-container[display="true"] {
+  font-size: 16px; max-width: 74ch; margin: 1.1em 0; overflow-x: auto; overflow-y: hidden;
+}
 .thesis-figure {
   margin: 6px 0 0; border: 1px solid var(--line);
   background: var(--paper); padding: 16px;
