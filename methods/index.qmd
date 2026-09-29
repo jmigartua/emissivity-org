@@ -33,16 +33,6 @@ toc: false
       </div>
       <div class="method-card__foot"><span>Guides available soon →</span></div>
     </article>
-
-    <article class="method-card">
-      <div class="method-card__label">Measurement Principles</div>
-      <h4>Start here for newcomers</h4>
-      <p>What emissivity is, which quantity matters, and how laboratory practice differs by temperature, angle, and material class. Written for advanced undergraduates and new researchers.</p>
-      <div class="tag-list">
-        <span>Intro path</span><span>Education</span><span>Interpretation</span><span>Newcomers</span>
-      </div>
-      <div class="method-card__foot"><a href="/methods/principles.html">Open measurement principles →</a></div>
-    </article>
   </div>
 
   <!-- Resources link -->

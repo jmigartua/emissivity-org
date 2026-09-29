@@ -33,7 +33,6 @@ listing:
       <p class="quicklinks">
         <a href="/network/index.html">Research map</a> <span class="sep">·</span>
         <a href="/data/index.html">Data resources</a> <span class="sep">·</span>
-        <a href="/methods/principles.html">What is emissivity?</a> <span class="sep">·</span>
         <a href="/events-news/conferences.html">Conference calendar</a>
       </p>
     </div>
@@ -265,10 +264,6 @@ listing:
       <a class="more" href="/methods/index.html">Reference section →</a>
     </div>
     <div class="shelf">
-      <div class="shelf-item">
-        <h3><a href="/methods/principles.html">What is emissivity?</a></h3>
-        <p>Definitions, directional and spectral quantities, and why a single "ε value" is rarely enough.</p>
-      </div>
       <div class="shelf-item">
         <h3><a href="/methods/index.html">Methods &amp; instruments</a></h3>
         <p>Direct radiometric emissometry, indirect reflectance methods, calorimetry — with their uncertainty budgets.</p>
