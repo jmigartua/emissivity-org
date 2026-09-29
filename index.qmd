@@ -38,47 +38,11 @@ listing:
       </p>
     </div>
 
-    <figure class="spectrum">
-      <svg viewBox="0 0 460 300" xmlns="http://www.w3.org/2000/svg" aria-label="Directional spectral emissivity of polycrystalline silicon carbide at 873 kelvin">
-        <g stroke="#e8ecf1" stroke-width="1">
-          <line x1="48" y1="22"  x2="446" y2="22"/>
-          <line x1="48" y1="74"  x2="446" y2="74"/>
-          <line x1="48" y1="126" x2="446" y2="126"/>
-          <line x1="48" y1="178" x2="446" y2="178"/>
-          <line x1="48" y1="230" x2="446" y2="230"/>
-          <line x1="128" y1="22" x2="128" y2="230"/>
-          <line x1="208" y1="22" x2="208" y2="230"/>
-          <line x1="288" y1="22" x2="288" y2="230"/>
-          <line x1="368" y1="22" x2="368" y2="230"/>
-        </g>
-        <line x1="48" y1="230" x2="446" y2="230" stroke="#74808c" stroke-width="1"/>
-        <line x1="48" y1="22"  x2="48"  y2="230" stroke="#74808c" stroke-width="1"/>
-        <rect x="200" y="22" width="84" height="208" fill="#1b3a6b" fill-opacity="0.05"/>
-        <path d="M 48,57 C 84,59 130,64 166,70 C 184,75 197,88 202,106 C 207,142 220,206 246,219 C 264,224 273,210 282,162 C 291,118 309,75 344,66 C 380,60 414,58 446,57"
-              fill="none" stroke="#1b3a6b" stroke-width="1.8"/>
-        <g font-family="IBM Plex Mono, monospace" font-size="9.5" fill="#74808c">
-          <text x="41" y="25"  text-anchor="end">1.0</text>
-          <text x="41" y="77"  text-anchor="end">0.8</text>
-          <text x="41" y="129" text-anchor="end">0.6</text>
-          <text x="41" y="181" text-anchor="end">0.4</text>
-          <text x="41" y="233" text-anchor="end">0.2</text>
-          <text x="48"  y="247" text-anchor="middle">2</text>
-          <text x="128" y="247" text-anchor="middle">5</text>
-          <text x="208" y="247" text-anchor="middle">10</text>
-          <text x="288" y="247" text-anchor="middle">15</text>
-          <text x="368" y="247" text-anchor="middle">20</text>
-          <text x="446" y="247" text-anchor="middle">25</text>
-        </g>
-        <text x="247" y="270" font-family="IBM Plex Mono, monospace" font-size="10" fill="#4a5662" text-anchor="middle">wavelength λ / µm</text>
-        <text x="14" y="126" font-family="IBM Plex Mono, monospace" font-size="10" fill="#4a5662" text-anchor="middle" transform="rotate(-90 14 126)">emissivity ε</text>
-        <text x="242" y="38" font-family="IBM Plex Mono, monospace" font-size="9" fill="#1b3a6b" text-anchor="middle">Reststrahlen band</text>
-      </svg>
-      <figcaption>
-        Directional spectral emissivity of polycrystalline SiC at 873&nbsp;K (θ&nbsp;=&nbsp;0°),
-        showing the characteristic Reststrahlen band near 10–12&nbsp;µm.
-        Illustrative curve — to be replaced by a data export from EKHI with full citation.
-      </figcaption>
-    </figure>
+```
+
+{{< include _hero-spectrum.qmd >}}
+
+```{=html}
   </div>
 </div>
 

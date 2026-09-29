@@ -1,0 +1,35 @@
+# Source of truth for the landing-page hero figure.
+# Rendered into _hero-spectrum.qmd by tools/generate_hero_figure.py (run in the
+# Netlify build). Data are the measured values as served by EKHI, unmodified.
+
+material: tungsten ribbon
+property: normal spectral emissivity
+temperature_k: 1600
+geometry: "θ ≈ 0°"
+reported_error_pct: 0.1
+
+source:
+  author: "J. C. de Vos"
+  title: "A new determination of the emissivity of tungsten ribbon"
+  journal: Physica
+  volume: 20
+  year: 1954
+  pages: "690–712"
+  doi: "10.1016/S0031-8914(54)80182-0"
+  digitized_in: "Touloukian & DeWitt, Thermal Radiative Properties: Metallic Elements and Alloys, TPRC Data Series vol. 7 (1970), table 234, curve 18"
+  ekhi_record_id: "10.1016/s0031-8914(54)80182-0:1"
+  ekhi_url: "https://thermomat.ehu.eus/ekhi/publication/22/"
+  ekhi_dataset_doi: "10.6084/m9.figshare.30581240"
+
+# Shaded reference band drawn behind the curve (µm) with its label.
+band:
+  from_um: 0.38
+  to_um: 0.75
+  label: visible
+
+# Plot window (µm). Emissivity axis is always the full 0–1 range.
+x_range_um: [0.2, 2.7]
+x_ticks_um: [0.5, 1.0, 1.5, 2.0, 2.5]
+
+wavelength_um: [0.25, 0.27, 0.30, 0.32, 0.35, 0.37, 0.40, 0.42, 0.45, 0.50, 0.55, 0.60, 0.65, 0.70, 0.75, 0.80, 0.90, 1.00, 1.20, 1.27, 1.35, 1.50, 1.60, 1.80, 2.00, 2.20, 2.40, 2.60]
+emissivity:    [0.448, 0.476, 0.482, 0.478, 0.479, 0.482, 0.481, 0.478, 0.474, 0.469, 0.464, 0.456, 0.450, 0.444, 0.438, 0.432, 0.412, 0.390, 0.344, 0.328, 0.310, 0.280, 0.263, 0.234, 0.210, 0.190, 0.176, 0.164]
