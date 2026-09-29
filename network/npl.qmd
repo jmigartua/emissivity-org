@@ -24,10 +24,10 @@ toc: false
 ## Why it matters internationally
 
 NPL is the United Kingdom's national metrology institute, and it anchors
-emissivity in the **international comparison infrastructure**: NPL is a
-documented participant in the **CCT Supplementary Comparison S1** of infrared
-spectral normal emissivity (2–14 µm, 23–800 °C) alongside PTB, NIST, and
-NMIJ. Comparisons of this kind are what make emissivity values measured in
+emissivity in the **international comparison infrastructure**: NPL was the
+pilot laboratory of the **CCT Supplementary Comparison S1** of infrared
+spectral normal emissivity (2–14 µm, 23–800 °C), with NMIJ, LNE, NIST, INRIM
+and PTB as participants. Comparisons of this kind are what make emissivity values measured in
 different countries mutually trustworthy.
 
 ## Scope of activity
