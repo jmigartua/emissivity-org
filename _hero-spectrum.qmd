@@ -67,7 +67,7 @@
 <text x="440" y="38" font-family="IBM Plex Mono, monospace" font-size="9.5" fill="#1b3a6b" text-anchor="end">tungsten ribbon, 1600 K</text>
 </svg>
 <figcaption>
-Normal spectral emissivity of tungsten ribbon at 1600&nbsp;K (θ ≈ 0°), 28 measured points, 0.25–2.6&nbsp;µm.<br/>J. C. de Vos, <em>Physica</em> 20 (1954) 690–712, <a href="https://doi.org/10.1016/S0031-8914(54)80182-0">doi:10.1016/S0031-8914(54)80182-0</a>. Data served by <a href="https://thermomat.ehu.eus/ekhi/publication/22/">EKHI</a>, record 10.1016/s0031-8914(54)80182-0:1.
+Normal spectral emissivity of tungsten ribbon at 1600&nbsp;K (θ ≈ 0°), 28 measured points, 0.25–2.6&nbsp;µm.<br/>J. C. de Vos, <em>Physica</em> 20 (1954) 690–714, <a href="https://doi.org/10.1016/S0031-8914(54)80182-0">doi:10.1016/S0031-8914(54)80182-0</a>. Data served by <a href="https://thermomat.ehu.eus/ekhi/publication/22/">EKHI</a>, record 10.1016/s0031-8914(54)80182-0:1.
 </figcaption>
 </figure>
 ```
