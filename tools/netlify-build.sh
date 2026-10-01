@@ -23,6 +23,7 @@ python3 tools/generate_ir_empower.py
 python3 tools/generate_ical.py
 python3 tools/generate_sitemap_graphic.py
 python3 tools/generate_hero_figure.py
+python3 tools/generate_changelog.py
 
 echo "--- Rendering site"
 quarto render

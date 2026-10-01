@@ -1,0 +1,125 @@
+# Site changelog — what was added or changed on emissivity.org, for the community.
+# Source of truth for /changelog.html ("What's new") and for the "Last updated"
+# stamp in the footer. Rendered by tools/generate_changelog.py (run in the build).
+#
+# One entry per addition. Newest first. Fields:
+#   date:    YYYY-MM-DD
+#   kind:    content | data | feature | fix | editorial
+#   title:   one line, what a visitor would notice
+#   summary: one or two sentences (optional)
+#   links:   [{label, url}]  (optional, site-relative or external)
+#   commit:  short git hash (optional; for maintainers)
+#
+# Add an entry whenever you add a page, a news item, a dataset, a map entry
+# or a feature. Release-level notes for maintainers live in _data/releases.yml.
+
+entries:
+- date: 2026-10-01
+  kind: feature
+  title: "What's new page, release notes and a 'last updated' stamp in the footer"
+  summary: "The site now keeps a public log of additions and a maintainers' release history, both generated from data files at build time."
+  links:
+    - {label: "What's new", url: "/changelog.html"}
+    - {label: "Release notes", url: "/about/release-notes.html"}
+
+- date: 2026-10-01
+  kind: content
+  title: "RISEnergy 5th transnational access call: free access to CNR-INO's optical laboratory"
+  summary: "Call deadline 18 November 2026. The CNR-IMA1 facility page lists spectrometers from 0.18 to 55 µm and an emissivity furnace up to 1200 K."
+  links:
+    - {label: "News item", url: "/events-news/news/risenergy-access-call-2026.html"}
+    - {label: "CNR-INO profile", url: "/network/cnr-ino.html"}
+  commit: b9f6111
+
+- date: 2026-10-01
+  kind: data
+  title: "IETcc-CSIC database of reflectance and emissivity of 236 urban materials listed under data resources"
+  summary: "Version 2 (2026) on DIGITAL.CSIC, CC BY-NC-SA 4.0."
+  links:
+    - {label: "Data resources", url: "/data/index.html"}
+  commit: b9f6111
+
+- date: 2026-09-29
+  kind: editorial
+  title: "Site-wide content audit: 45 corrections to citations, standards, institution facts, events and policy pages"
+  summary: "Three wrong DOIs, a misattributed good-practice guide, EKHI descriptions brought in line with the real database, ISO 19618 and ASTM E408/C835 scopes, CCT-S1 added, ECTP 2023 dates, series periodicities, privacy page rewritten."
+  links:
+    - {label: "Standards & protocols", url: "/methods/standards.html"}
+    - {label: "Cite EKHI", url: "/data/cite-ekhi.html"}
+  commit: 709c8f9
+
+- date: 2026-09-29
+  kind: feature
+  title: "Mathematics typeset with MathJax across the site"
+  summary: "Measurement-principles page rewritten with Planck's law, the four emissivity definitions and their integrals, Kirchhoff's law, Hagen–Rubens and Wien's law."
+  commit: 06b7f14
+
+- date: 2026-09-29
+  kind: content
+  title: "Home-page figure: measured tungsten spectrum from EKHI replaces the illustrative curve"
+  summary: "Normal spectral emissivity of tungsten ribbon at 1600 K, de Vos (1954), 28 measured points served by EKHI, with full citation."
+  commit: f1f275d
+
+- date: 2026-09-25
+  kind: editorial
+  title: "University name written as EHU throughout"
+  commit: 75df979
+
+- date: 2026-09-25
+  kind: content
+  title: "About page: site-at-a-glance infographic generated from site data"
+  links:
+    - {label: "About", url: "/about/index.html"}
+  commit: ae66aa3
+
+- date: 2026-09-25
+  kind: data
+  title: "Research map: LNE, JRC Karlsruhe, BAM, IETcc-CSIC, UNT and THWS added (46 institutions)"
+  links:
+    - {label: "Research map", url: "/network/index.html"}
+  commit: 2c733ca
+
+- date: 2026-09-25
+  kind: content
+  title: "IR-EMPOWER 2026 programme, speakers, committee, round table and award pages; talk BibTeX"
+  links:
+    - {label: "IR-EMPOWER 2026", url: "/ir-empower/2026/index.html"}
+  commit: 78ae938
+
+- date: 2026-09-25
+  kind: content
+  title: "Research networks (TAMARYS, PaRaMetriC) and schools & courses pages"
+  links:
+    - {label: "Schools & courses", url: "/events-news/schools.html"}
+    - {label: "TAMARYS", url: "/network/networks/tamarys.html"}
+  commit: 358ea98
+
+- date: 2026-09-25
+  kind: feature
+  title: "Research map drawn on an OpenFreeMap basemap; iCal feed generated from the calendar data file"
+  commit: 358ea98
+
+- date: 2026-06-25
+  kind: content
+  title: "News: Mireia Sainz-Menchón defends her doctoral thesis (Cum Laude, International Mention)"
+  links:
+    - {label: "News item", url: "/events-news/news/mireia-sainz-thesis-2026.html"}
+  commit: 3213c07
+
+- date: 2026-06-11
+  kind: feature
+  title: "Privacy-friendly analytics (GoatCounter) and privacy page"
+  commit: e5e573d
+
+- date: 2026-06-11
+  kind: content
+  title: "Verified bibliography with 2026 entries, one page per publication, IR-EMPOWER section with the 2024 archive"
+  links:
+    - {label: "Publications", url: "/publications.html"}
+    - {label: "IR-EMPOWER 2024", url: "/ir-empower/2024/index.html"}
+  commit: 9012dbc
+
+- date: 2026-06-11
+  kind: feature
+  title: "emissivity.org version 3 published as a standalone Quarto site on Netlify"
+  commit: 8c4d638

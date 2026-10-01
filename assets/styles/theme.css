@@ -101,6 +101,33 @@ main.content, #quarto-content, .content, .page-columns,
   display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;
   font-size: 13px; color: var(--ink-faint);
 }
+/* "Last updated" stamp, written by tools/generate_changelog.py */
+.site-updated { font-family: var(--mono); font-size: 12px; letter-spacing: 0.01em; }
+.site-updated a { color: var(--ink-soft); }
+
+/* ---------- What's new / release notes (generated pages) ---------- */
+.log-date { font-family: var(--mono); font-size: 13px; font-weight: 500; color: var(--ink-faint);
+  letter-spacing: 0.04em; margin: 36px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--line-soft); }
+.log-entry { display: grid; grid-template-columns: 84px 1fr; column-gap: 16px; row-gap: 2px;
+  padding: 12px 0; border-bottom: 1px solid var(--line-soft); }
+.log-kind { grid-row: 1 / span 3; font-family: var(--mono); font-size: 11px; text-transform: uppercase;
+  letter-spacing: 0.06em; color: var(--ink-faint); padding-top: 4px; }
+.log-title { font-size: 16px; color: var(--ink); max-width: 74ch; }
+.log-summary { margin: 0; font-size: 14.5px; color: var(--ink-soft); max-width: 74ch; }
+.log-meta { margin: 2px 0 0; font-size: 13px; color: var(--ink-faint); }
+.log-meta .sep { color: var(--line); }
+.log-commit { font-family: var(--mono); font-size: 12px; }
+.release { margin: 36px 0 0; padding-top: 18px; border-top: 1px solid var(--line); }
+.release h2 { font-size: 20px; margin: 0 0 8px; }
+.release-version { font-family: var(--mono); font-size: 14px; font-weight: 500; color: var(--accent, #1b3a6b);
+  border: 1px solid var(--line); border-radius: 3px; padding: 1px 7px; margin-right: 6px; vertical-align: middle; }
+.log-date-inline { font-family: var(--mono); font-size: 12.5px; font-weight: 400; color: var(--ink-faint); margin-left: 8px; }
+.release h3 { font-size: 12.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-faint);
+  margin: 18px 0 6px; font-weight: 600; }
+.release ul { margin: 0; padding-left: 18px; max-width: 80ch; }
+.release li { font-size: 15px; color: var(--ink-soft); line-height: 1.6; margin-bottom: 4px; }
+.release-files li { font-size: 13.5px; }
+@media (max-width: 600px) { .log-entry { grid-template-columns: 1fr; } .log-kind { grid-row: auto; } }
 
 /* ============================================================
    HOMEPAGE COMPONENTS
