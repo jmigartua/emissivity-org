@@ -1,0 +1,45 @@
+---
+title: "RISEnergy opens its 5th transnational access call — free access to CNR-INO's optical laboratory in Florence"
+date: "2026-10-01"
+categories: [Call, Access, CNR-INO]
+description: "The Horizon Europe project RISEnergy funds free-of-charge access to research infrastructures for energy. The CNR-INO Smart and Solar Energy Materials Lab (CNR-IMA1) is among them, with spectrometers from 0.18 to 55 µm and emissivity measurements up to 1200 K. Deadline 18 November 2026."
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="inner-page">
+<p class="section-label">News · Access call</p>
+
+<h1>RISEnergy opens its 5th transnational access call</h1>
+
+<p>The Horizon Europe project <strong>RISEnergy</strong> has opened its <strong>fifth transnational access call</strong>. Researchers from academia and industry can apply for <strong>free-of-charge access</strong> to the research infrastructures of the consortium, in the areas of concentrated solar power, materials for energy, photovoltaics, energy storage, hydrogen and related topics. The call closes on <strong>18 November 2026, 23:59 CET</strong>; applications are submitted through the project's ConfTool platform.</p>
+
+<h2>Why it matters for emissivity</h2>
+
+<p>Among the infrastructures on offer is the <a href="/network/cnr-ino.html"><strong>Smart and Solar Energy Materials Laboratory of CNR-INO</strong></a> in Florence, listed in the call as <strong>CNR-IMA1</strong>. According to its RISEnergy facility page, the laboratory offers:</p>
+
+<ul>
+<li>spectrometers covering <strong>0.18 to 55 µm</strong> (UV–VIS–NIR spectrophotometer 0.18–3 µm; FT-IR spectrometer 1.2–55 µm);</li>
+<li>a high-temperature furnace for <strong>emissivity measurements at roughly 570 to 1200 K</strong>;</li>
+<li>reflectance, transmittance and absorbance characterisation of <strong>solar absorbers, thermal emitters</strong>, luminescent materials and colloidal systems;</li>
+<li>support from the laboratory's researchers during the access period.</li>
+</ul>
+
+<p>The laboratory indicates that access can be <strong>in person or remote</strong>. For groups without their own high-temperature emittance set-up, this is a direct route to measurements on a core-tier facility of the research map, at no cost.</p>
+
+<h2>How to apply</h2>
+
+<p>Read the call text, choose the infrastructure (CNR-IMA1 for the Florence laboratory), and submit the official application form before the deadline. Only applications sent through the official form are considered. The project encourages applications from women and from researchers in groups under-represented in energy research.</p>
+
+<p>
+  <a href="https://risenergy-project.eu/open-calls/" class="btn btn--primary">Call page and application</a>
+  &nbsp;
+  <a href="https://risenergy-project.eu/ri/cnr-ima1/" class="btn btn--ghost">CNR-IMA1 facility page</a>
+</p>
+
+<p style="font-size: 13px; color: var(--ink-faint);">RISEnergy is funded by the European Union's Horizon Europe programme under grant agreement no. 101131793. Information forwarded to the editorial board by Elisa Sani (CNR-INO), 1 October 2026.</p>
+
+<p><a href="/events-news/index.html">&larr; Back to Events &amp; News</a></p>
+</div>
+```

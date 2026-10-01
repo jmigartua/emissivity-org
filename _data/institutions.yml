@@ -622,9 +622,12 @@ institutions:
       temperature_range_text: "up to 1000 °C (spectral emittance vs. temperature)"
       wavelength_range_text: "0.2 to 50 µm"
       atmospheres: []
-      methodology_notes: "Broad optical characterization integrated with high-temperature emittance measurement; spectral reflectance and high-temperature thermal emittance characterization of ceramics and ultra-high-temperature materials."
+      methodology_notes: "Broad optical characterization integrated with high-temperature emittance measurement; spectral reflectance and high-temperature thermal emittance characterization of ceramics and ultra-high-temperature materials. Open to external users through the RISEnergy transnational-access programme (Horizon Europe, GA 101131793), as facility CNR-IMA1: spectrometers 0.18–55 µm, emissivity furnace ~570–1200 K, in-person or remote access."
 
-    instruments_named: []
+    instruments_named:
+      - "UV-VIS-NIR spectrophotometer, 0.18–3 µm (RISEnergy facility page)"
+      - "FT-IR spectrometer, 1.2–55 µm (RISEnergy facility page)"
+      - "High-temperature furnace for emissivity measurements, ~570–1200 K (RISEnergy facility page)"
     databases_hosted: []
 
     applications:
@@ -652,6 +655,10 @@ institutions:
     external_sources:
       - label: "Smart and Solar Energy Materials Lab (CNR-INO)"
         url: "https://www.ino.cnr.it/?p=a6&page_id=16599"
+      - label: "RISEnergy facility page CNR-IMA1 (instruments, ranges, access)"
+        url: "https://risenergy-project.eu/ri/cnr-ima1/"
+      - label: "RISEnergy transnational access calls"
+        url: "https://risenergy-project.eu/open-calls/"
 
   - id: nist
     rank: 11
@@ -2369,7 +2376,7 @@ institutions:
       - "Portable emissometer (directional-hemispherical reflectance, 1.5–21 µm)"
       - "Fibre-optic spectrometers with integrating sphere"
     databases_hosted:
-      - "Database of visible reflectance, solar reflectance and emissivity of urban materials (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640)"
+      - "Database of visible reflectance, solar reflectance and emissivity of urban materials, version 2 (2026): 236 commercial materials, spreadsheet, CC BY-NC-SA 4.0 (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640, handle 10261/438758)"
     applications:
       - "urban heat island mitigation and outdoor thermal comfort"
       - "building energy performance"

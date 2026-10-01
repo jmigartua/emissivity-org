@@ -81,6 +81,24 @@ toc: false
       </div>
 
       <div class="res-row">
+        <div class="name"><a href="/network/csic-ietcc.html">Urban materials thermo-optical database</a>
+          <span class="by">IETcc-CSIC · Madrid</span></div>
+        <div class="desc">
+          Visible and solar reflectance and absorptance, thermal emissivity and
+          CIE L*a*b* colour of 236 commercial façade, roof and pavement
+          materials, measured between January 2023 and July 2026 in the
+          mateMad, PAULIA and ZEBAI projects. Each product is classified by
+          composition, application and format. Version 2 (2026), spreadsheet
+          download, CC BY-NC-SA 4.0.
+        </div>
+        <div class="facts">
+          236 materials · reflectance, emissivity, colour<br/>
+          version 2 · 2026 · CC BY-NC-SA 4.0<br/>
+          <a href="https://doi.org/10.20350/DIGITALCSIC/22640">doi:10.20350/DIGITALCSIC/22640 →</a>
+        </div>
+      </div>
+
+      <div class="res-row">
         <div class="name"><a href="/network/onera-dota.html">MEMOIRES</a>
           <span class="by">ONERA — DOTA</span></div>
         <div class="desc">

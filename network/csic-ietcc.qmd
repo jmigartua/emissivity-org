@@ -24,7 +24,7 @@ toc: false
 | **Unit** | [Physico-Chemical Testing Unit](https://www.ietcc.csic.es/group/ensayos-fisicos-quimicos/?post_type=team_member) |
 | **Unit** | [Building Systems and Habitability group](https://www.ietcc.csic.es/en/construction-department/building-systems-and-habitability/) |
 | **Publicly linked people** | Gloria Pérez · Pablo Alonso |
-| **Databases hosted** | Database of visible reflectance, solar reflectance and emissivity of urban materials (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640) |
+| **Databases hosted** | Database of visible reflectance, solar reflectance and emissivity of urban materials, version 2 (2026): 236 commercial materials, spreadsheet, CC BY-NC-SA 4.0 (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640, handle 10261/438758) |
 | **Networks** | [PaRaMetriC](/network/networks/parametric.html) |
 
 ## Why it matters internationally
