@@ -24,6 +24,8 @@ RELEASES = ROOT / "_data" / "releases.yml"
 OUT_CHANGELOG = ROOT / "changelog.qmd"
 OUT_RELEASES = ROOT / "about" / "release-notes.qmd"
 FOOTER = ROOT / "assets" / "includes" / "site-footer.html"
+HEADER = ROOT / "assets" / "includes" / "site-header.html"
+NEWS_DIR = ROOT / "events-news" / "news"
 
 KIND_LABEL = {
     "content": "Content",
@@ -143,6 +145,38 @@ def stamp_footer(newest):
     FOOTER.write_text(text[:i] + stamp + text[j + len(end):], encoding="utf-8")
 
 
+def latest_news_date():
+    """Newest `date:` among published (non-draft) news posts, as YYYY-MM-DD."""
+    newest = ""
+    for p in NEWS_DIR.glob("*.qmd"):
+        text = p.read_text(encoding="utf-8")
+        if not text.startswith("---"):
+            continue
+        fm = text.split("---", 2)[1]
+        try:
+            meta = yaml.safe_load(fm) or {}
+        except yaml.YAMLError:
+            continue
+        if meta.get("draft"):
+            continue
+        d = str(meta.get("date", ""))[:10]
+        if d > newest:
+            newest = d
+    return newest
+
+
+def stamp_header(date):
+    text = HEADER.read_text(encoding="utf-8")
+    start, end = "<!-- latest-news:start -->", "<!-- latest-news:end -->"
+    i, j = text.find(start), text.find(end)
+    if i < 0 or j < 0:
+        raise SystemExit("site-header.html: latest-news:start/end markers not found")
+    HEADER.write_text(
+        text[:i] + f'{start}<span id="latest-news" data-date="{e(date)}" hidden></span>{end}' + text[j + len(end):],
+        encoding="utf-8",
+    )
+
+
 def main():
     entries = load(CHANGELOG, "entries")
     releases = load(RELEASES, "releases")
@@ -151,7 +185,9 @@ def main():
     render_changelog(entries, newest)
     render_releases(releases, newest)
     stamp_footer(newest)
-    print(f"changelog: {len(entries)} entries, {len(releases)} releases, last updated {newest}")
+    news_date = latest_news_date()
+    stamp_header(news_date)
+    print(f"changelog: {len(entries)} entries, {len(releases)} releases, last updated {newest}; latest news {news_date}")
 
 
 if __name__ == "__main__":

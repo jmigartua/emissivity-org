@@ -13,6 +13,17 @@ toc: false
   <h2 class="log-date">2026-10-01</h2>
   <div class="log-entry">
     <span class="log-kind">Feature</span>
+    <div class="log-title">Training section: courses, schools, tutorials and workshops offered by the network</div>
+    <p class="log-summary">New navbar entry. Lists training items and the existing schools; members can announce courses through the event form.</p>
+    <p class="log-meta"><a href="/training/index.html">Training</a></p>
+  </div>
+  <div class="log-entry">
+    <span class="log-kind">Feature</span>
+    <div class="log-title">Upcoming events highlighted; a &#x27;new&#x27; mark on News for two weeks after each post</div>
+    <p class="log-summary">Listing items dated today or later get a burgundy box like the home-page announcement band. The News link in the navbar shows a pulsing dot for 14 days after the latest post.</p>
+  </div>
+  <div class="log-entry">
+    <span class="log-kind">Feature</span>
     <div class="log-title">What&#x27;s new page, release notes and a &#x27;last updated&#x27; stamp in the footer</div>
     <p class="log-summary">The site now keeps a public log of additions and a maintainers&#x27; release history, both generated from data files at build time.</p>
     <p class="log-meta"><a href="/changelog.html">What&#x27;s new</a> <span class="sep">·</span> <a href="/about/release-notes.html">Release notes</a></p>

@@ -12,7 +12,7 @@ listing:
     categories: true
     filter-ui: false
     fields: [title, date, description, categories]
-    page-size: 12
+    page-size: 60
 ---
 
 ```{=html}
@@ -49,7 +49,7 @@ listing:
 </section>
 ```
 
-::: {.archive-listing}
+::: {.archive-listing .upcoming-only}
 :::{#events_upcoming}
 :::
 :::
@@ -67,6 +67,16 @@ listing:
   <div style="max-width:760px;padding:2rem;border:1px solid rgba(78,158,184,0.15);border-radius:8px;color:#4a5662;">
     <p style="margin:0 0 0.75rem 0;">The archive page groups events by year and also documents the recurring conference series that regularly intersect emissivity, radiative properties, infrared thermography, and temperature metrology.</p>
     <a href="/events-news/conferences.html" style="color:#1b3a6b;">Go to conference archive &rarr;</a>
+  </div>
+</section>
+
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Training</div>
+      <div class="section__title">Courses, schools and tutorials have their own <em>section</em>.</div>
+    </div>
+    <a href="/training/index.html" class="section__link">Open training &rarr;</a>
   </div>
 </section>
 

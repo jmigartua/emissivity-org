@@ -16,6 +16,18 @@
 entries:
 - date: 2026-10-01
   kind: feature
+  title: "Training section: courses, schools, tutorials and workshops offered by the network"
+  summary: "New navbar entry. Lists training items and the existing schools; members can announce courses through the event form."
+  links:
+    - {label: "Training", url: "/training/index.html"}
+
+- date: 2026-10-01
+  kind: feature
+  title: "Upcoming events highlighted; a 'new' mark on News for two weeks after each post"
+  summary: "Listing items dated today or later get a burgundy box like the home-page announcement band. The News link in the navbar shows a pulsing dot for 14 days after the latest post."
+
+- date: 2026-10-01
+  kind: feature
   title: "What's new page, release notes and a 'last updated' stamp in the footer"
   summary: "The site now keeps a public log of additions and a maintainers' release history, both generated from data files at build time."
   links:

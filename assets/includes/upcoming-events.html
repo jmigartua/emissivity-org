@@ -1,0 +1,20 @@
+<script>
+/* Upcoming events — every Quarto listing item carries its date as
+   data-listing-date-sort (epoch ms). Items dated today or later get the
+   class "upcoming", which the stylesheet draws as a highlighted box
+   (see .quarto-post.upcoming). Evaluated in the browser, so the page stays
+   correct between deploys. */
+(function () {
+  var items = document.querySelectorAll('.quarto-post[data-listing-date-sort]');
+  if (!items.length) return;
+  var start = new Date(); start.setHours(0, 0, 0, 0);
+  var cutoff = start.getTime() - 864e5; /* keep yesterday's start date: multi-day events still running */
+  items.forEach(function (el) {
+    var t = Number(el.getAttribute('data-listing-date-sort'));
+    var up = !isNaN(t) && t >= cutoff;
+    if (up) el.classList.add('upcoming');
+    /* inside a container with class "upcoming-only", past items are hidden */
+    else if (el.closest('.upcoming-only')) el.setAttribute('hidden', '');
+  });
+})();
+</script>

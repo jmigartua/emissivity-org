@@ -42,6 +42,7 @@ format:
     include-after-body:
       - assets/includes/site-footer.html
       - assets/includes/date-windows.html
+      - assets/includes/upcoming-events.html
     toc: false
     smooth-scroll: true
     code-copy: true

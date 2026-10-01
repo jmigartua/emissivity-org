@@ -1,0 +1,49 @@
+---
+# TEMPLATE for a training item. Copy to training/items/YYYY-<slug>.qmd (files
+# starting with "_" are not rendered). Or run: python3 tools/new_entry.py training
+title: "Course title — organiser"
+subtitle: "Kind | City, Country or Online"
+date: 2027-01-01            # first day; drives the listing order and the "upcoming" highlight
+end: 2027-01-03             # last day (optional)
+kind: course                # course | tutorial | school | workshop | webinar
+format: in-person           # in-person | online | hybrid
+organiser: "Institution or network"
+location: "City, Country"
+url: "https://example.org/course"
+level: "Graduate students and early-career researchers"
+language: English
+fee: "Free"                 # or "250 EUR" etc.
+registration_deadline: 2026-12-15
+description: "One or two sentences: what is taught, to whom, and what is hands-on."
+categories: [training, course]
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/training/index.html">Training</a> / Course title</div>
+```
+
+::: {.page-article}
+# Course title
+
+**Organised by [Institution](/network/index.html)**
+
+| | |
+|---|---|
+| **Dates** | 1–3 January 2027 |
+| **Where** | City, Country (in person) |
+| **Level** | Graduate students and early-career researchers |
+| **Language** | English |
+| **Fee** | Free |
+| **Registration** | until 15 December 2026 |
+| **Official page** | [example.org/course](https://example.org/course) |
+
+## Programme
+
+Describe the sessions, the instruments used, and the practical part.
+
+## Who should attend
+
+One paragraph.
+:::

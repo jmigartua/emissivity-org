@@ -21,6 +21,7 @@ Deployed continuously by Netlify from this repository (`netlify.toml` →
 | `_data/calendar.yml` | Conference iCal feed — feeds `tools/generate_ical.py` → `files/ical/emissivity-conferences.ics` |
 | `_data/changelog.yml` | What's new page — feeds `tools/generate_changelog.py` → `changelog.qmd` and the "Last updated" stamp in `assets/includes/site-footer.html` |
 | `_data/releases.yml` | Release notes for maintainers — feeds `tools/generate_changelog.py` → `about/release-notes.qmd` |
+| `training/items/*.qmd` | Training section (courses, tutorials, workshops) — listed by `training/index.qmd` together with `events-news/schools/*.qmd`; template in `training/items/_template.qmd` |
 | `events-news/news/*.qmd`, `events-news/conferences/*.qmd` | News/Events pages and the homepage listings (EJS templates in `assets/listings/`) |
 
 Editorial principles: every number exact, dated, and sourced; every

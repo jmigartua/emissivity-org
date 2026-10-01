@@ -1,0 +1,88 @@
+---
+title: "Training"
+description: "Courses, tutorials, schools and workshops on emissivity and thermal radiative properties, offered by the institutions of the research map."
+page-layout: full
+toc: false
+listing:
+  - id: training-all
+    contents:
+      - items/*.qmd
+      - ../events-news/schools/*.qmd
+    type: default
+    sort: "date desc"
+    categories: false
+    filter-ui: false
+    fields: [title, date, description]
+    page-size: 20
+---
+
+```{=html}
+<!-- ═══════════════ TRAINING ═══════════════ -->
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Training</div>
+      <div class="section__title">Learn emissivity measurement from the people who <em>do it</em>.</div>
+    </div>
+    <a href="/contribute/suggest-event.html" class="section__link">Announce a course &rarr;</a>
+  </div>
+
+  <p class="inner-page" style="max-width:52rem; line-height:1.7; color:var(--ink-soft);">
+    Courses, tutorials, thematic schools and hands-on workshops on thermal radiation,
+    radiative properties and emissivity measurement, offered by the institutions on
+    the <a href="/network/index.html">research map</a> and by the networks they belong
+    to. Entries are dated and linked to the organiser's page; upcoming ones are
+    highlighted. Announcements reach the editorial board through the
+    <a href="/contribute/suggest-event.html">event form</a> or by email.
+  </p>
+
+  <div class="training-kinds">
+    <div class="training-kind">
+      <h3>Schools</h3>
+      <p>Week-long thematic schools with lectures and practical sessions, such as the TAMARYS school on radiative transfer.</p>
+    </div>
+    <div class="training-kind">
+      <h3>Courses</h3>
+      <p>Short courses and modules on emissometry, radiometry and infrared spectroscopy, in person or online.</p>
+    </div>
+    <div class="training-kind">
+      <h3>Tutorials</h3>
+      <p>Tutorial sessions attached to conferences and workshops, including the <a href="/ir-empower/index.html">IR-EMPOWER</a> laboratory tours.</p>
+    </div>
+    <div class="training-kind">
+      <h3>Workshops</h3>
+      <p>Hands-on workshops on instruments, uncertainty budgets, data formats and the <a href="/data/ekhi.html">EKHI</a> database.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Calendar</div>
+      <div class="section__title">Schools, courses and tutorials, newest <em>first</em>.</div>
+    </div>
+    <a href="/files/ical/emissivity-conferences.ics" class="section__link">iCal feed &rarr;</a>
+  </div>
+</section>
+```
+
+::: {.archive-listing}
+:::{#training-all}
+:::
+:::
+
+```{=html}
+<section>
+  <div class="section__head">
+    <div>
+      <div class="section__label">Offer training</div>
+      <div class="section__title">Does your group teach emissivity <em>measurement</em>?</div>
+    </div>
+  </div>
+  <div style="max-width:760px;padding:2rem;border:1px solid var(--line);border-radius:8px;color:var(--ink-soft);">
+    <p style="margin:0 0 0.75rem 0;">Members of the research map can announce courses, schools, tutorials and workshops here, free of charge, provided they are non-commercial and on the scope topics of the map. Send the title, dates, venue or platform, organiser, level, language, fee if any, registration deadline and the official page.</p>
+    <a href="/contribute/suggest-event.html" style="color:var(--blue);">Announce a course &rarr;</a>
+  </div>
+</section>
+```

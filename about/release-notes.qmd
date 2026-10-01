@@ -12,6 +12,30 @@ toc: false
   <p class="inner-page__subtitle">How emissivity.org is built and what changed in each release, written for whoever maintains the site next. Additions visible to visitors are listed on <a href="/changelog.html">What's new</a>. Last updated 2026-10-01.</p>
   <p>The site is a Quarto website deployed by Netlify from the <code>main</code> branch. Data-driven pages are generated at build time from the YAML files in <code>_data/</code> by the scripts in <code>tools/</code>; the build order is in <code>tools/netlify-build.sh</code>. The repository README lists every data source and the routine maintenance commands.</p>
   <div class="release">
+    <h2><span class="release-version">v3.5</span> Training section, upcoming-event highlight, &#x27;new&#x27; mark on News <span class="log-date-inline">2026-10-01</span></h2>
+    <h3>What changed</h3>
+    <ul>
+      <li>Training section at /training/ with its own navbar entry: hub page, listing of training items plus the existing schools, item template and new_entry.py support.</li>
+      <li>Events dated today or later are drawn as a highlighted box in every listing (events index, conference archive, schools, training), burgundy accent.</li>
+      <li>The News link in the navbar carries a small pulsing dot for 14 days after the newest news post.</li>
+    </ul>
+    <h3>How it was done</h3>
+    <ul>
+      <li>Upcoming highlight: assets/includes/upcoming-events.html (include-after-body) reads the data-listing-date-sort epoch that Quarto puts on every listing item and adds the class &#x27;upcoming&#x27;; the box is styled in theme.css under .quarto-post.upcoming. Evaluated in the browser so it stays right between deploys.</li>
+      <li>News mark: tools/generate_changelog.py scans events-news/news/*.qmd (skipping drafts) and stamps the newest date into data-latest-news on the News link, between the latest-news markers in assets/includes/site-header.html. A script at the end of the header shows the dot when that date is within 14 days; CSS pulses it 8 times (about 11 s) then holds; on news pages it is steady; reduced-motion users get no animation.</li>
+      <li>Training: training/index.qmd lists training/items/*.qmd and events-news/schools/*.qmd in one listing. Items use the frontmatter in training/items/_template.qmd (kind, format, organiser, level, fee, registration_deadline). Nav link in site-header.html, footer link, card on events-news/index.qmd.</li>
+      <li>New colour token --burgundy (#7a1f2b) for attention accents, alongside --brass for the featured band.</li>
+    </ul>
+    <h3>Files to know</h3>
+    <ul class="release-files">
+      <li><code>assets/includes/site-header.html (nav, latest-news markers, mark script)</code></li>
+      <li><code>assets/includes/upcoming-events.html</code></li>
+      <li><code>training/index.qmd, training/items/_template.qmd</code></li>
+      <li><code>tools/generate_changelog.py (stamp_header, latest_news_date)</code></li>
+      <li><code>tools/new_entry.py (training)</code></li>
+    </ul>
+  </div>
+  <div class="release">
     <h2><span class="release-version">v3.4</span> Changelog, release notes, last-updated stamp <span class="log-date-inline">2026-10-01</span></h2>
     <h3>What changed</h3>
     <ul>

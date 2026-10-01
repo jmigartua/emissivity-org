@@ -121,8 +121,69 @@ categories: [publication]
     return p
 
 
+def training():
+    name = ask("Title")
+    kind = ask("Kind (course|tutorial|school|workshop|webinar)", "course")
+    fmt = ask("Format (in-person|online|hybrid)", "in-person")
+    org = ask("Organiser (institution or network)")
+    start = ask("Start date (YYYY-MM-DD)")
+    end = ask("End date (YYYY-MM-DD)", start)
+    loc = ask("City, Country (or Online)")
+    url = ask("Official URL")
+    level = ask("Level / audience", "Graduate students and early-career researchers")
+    lang = ask("Language", "English")
+    fee = ask("Fee", "Free")
+    deadline = ask("Registration deadline (YYYY-MM-DD, blank if none)", "")
+    desc = ask("One- or two-sentence description")
+    year = start[:4]
+    p = ROOT / "training" / "items" / f"{year}-{slugify(name)[:70]}.qmd"
+    p.write_text(f"""---
+title: "{name}"
+subtitle: "{kind.capitalize()} | {loc}"
+date: {start}
+end: {end}
+kind: {kind}
+format: {fmt}
+organiser: "{org}"
+location: "{loc}"
+url: "{url}"
+level: "{level}"
+language: {lang}
+fee: "{fee}"
+registration_deadline: {deadline or '""'}
+description: "{desc}"
+categories: [training, {kind}]
+page-layout: full
+toc: false
+---
+
+```{{=html}}
+<div class="crumbs"><a href="/index.html">Home</a> / <a href="/training/index.html">Training</a> / {name}</div>
+```
+
+::: {{.page-article}}
+# {name}
+
+**Organised by {org}**
+
+| | |
+|---|---|
+| **Dates** | {start} to {end} |
+| **Where** | {loc} ({fmt}) |
+| **Level** | {level} |
+| **Language** | {lang} |
+| **Fee** | {fee} |
+| **Registration** | {('until ' + deadline) if deadline else 'see official page'} |
+| **Official page** | <{url}> |
+
+{desc}
+:::
+""")
+    return p
+
+
 if __name__ == "__main__":
-    kinds = {"news": news, "event": event, "publication": publication}
+    kinds = {"news": news, "event": event, "publication": publication, "training": training}
     if len(sys.argv) != 2 or sys.argv[1] not in kinds:
         sys.exit(f"usage: new_entry.py [{'|'.join(kinds)}]")
     path = kinds[sys.argv[1]]()
