@@ -15,6 +15,13 @@
 
 entries:
 - date: 2026-10-01
+  kind: editorial
+  title: "IETcc-CSIC profile: quantities, angles and spectral ranges typeset as mathematics"
+  summary: "First institution profile with typeset symbols; the database now accepts LaTeX in its text fields."
+  links:
+    - {label: "IETcc-CSIC", url: "/network/csic-ietcc.html"}
+
+- date: 2026-10-01
   kind: feature
   title: "Training section: courses, schools, tutorials and workshops offered by the network"
   summary: "New navbar entry. Lists training items and the existing schools; members can announce courses through the event form."

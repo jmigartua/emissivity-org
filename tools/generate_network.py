@@ -58,6 +58,20 @@ TIER_ORDER = ["core", "extended", "engineered", "emerging"]
 PILL = {"core": "core", "extended": "", "engineered": "eng", "emerging": ""}
 
 
+
+def md_math_to_html(s):
+    """YAML text writes mathematics as $…$. Inside raw-HTML output (the index
+    table) convert to the \\( … \\) delimiters that the site's MathJax
+    (assets/includes/mathjax.html) typesets."""
+    return re.sub(r"\$([^$\n]+)\$", r"\\(\1\\)", s)
+
+
+def md_math_to_raw(s):
+    """Same for Markdown output (profiles): wrap as a pandoc raw inline span,
+    `\\( … \\)`{=html}, so pandoc passes the TeX through untouched and the
+    site's single MathJax typesets it (Quarto would otherwise inject its own)."""
+    return re.sub(r"\$([^$\n]+)\$", r"`\\(\1\\)`{=html}", s)
+
 def cap_line(inst):
     c = inst.get("capabilities") or {}
     t, w = c.get("temperature_range_text", ""), c.get("wavelength_range_text", "")
@@ -290,7 +304,7 @@ def main():
             <span class="unit">{html.escape(unit)}</span></td>
           <td class="cc">{i['iso_country']}</td>
           <td>{pill}</td>
-          <td class="cap">{html.escape(cap_line(i))}</td>
+          <td class="cap">{md_math_to_html(html.escape(cap_line(i)))}</td>
         </tr>""")
 
     tier_blocks = []
@@ -375,7 +389,7 @@ toc: false
             target = nd / f"{iid}.qmd"
             if target.exists() and "generated-from: institutions.yml" not in target.read_text():
                 continue  # authoritative committed profile — keep it
-            target.write_text(profile_from_yaml(i, stats))
+            target.write_text(md_math_to_raw(profile_from_yaml(i, stats)))
             migrated += 1
             continue
         text = src.read_text()
@@ -412,7 +426,7 @@ Last verified: 2026-04 (directory revision {stats['data_revision']}).
 
 :::
 """
-        (nd / f"{iid}.qmd").write_text(profile)
+        (nd / f"{iid}.qmd").write_text(md_math_to_raw(profile))
         migrated += 1
     print(f"profiles migrated: {migrated}")
 
@@ -447,7 +461,7 @@ toc: false
 {body}
 :::
 """
-        (nd / f"{name}.qmd").write_text(page)
+        (nd / f"{name}.qmd").write_text(md_math_to_raw(page))
         print(f"network/{name}.qmd written")
 
 

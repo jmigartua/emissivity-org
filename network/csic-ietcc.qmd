@@ -41,10 +41,10 @@ instruments.
 
 ## Scope of activity
 
-- **Quantities:** solar and visible reflectance / absorptance · directional (20°, 60°) and hemispherical total thermal emittance · CIELAB colour coordinates
-- **Spectral range:** Reflectance 380–1700 nm; thermal emittance from directional-hemispherical reflectance in six bands over 1.5–21 µm
+- **Quantities:** solar and visible reflectance `\(\rho_\mathrm{sol}\)`{=html}, `\(\rho_\mathrm{vis}\)`{=html} and absorptance `\(\alpha_\mathrm{sol}\)`{=html}, `\(\alpha_\mathrm{vis}\)`{=html} · directional (`\(\theta = 20^\circ\)`{=html}, `\(60^\circ\)`{=html}) and hemispherical total thermal emittance `\(\varepsilon\)`{=html} · CIE `\(L^{*}a^{*}b^{*}\)`{=html} colour coordinates
+- **Spectral range:** Reflectance `\(380\text{–}1700\ \mathrm{nm}\)`{=html}; thermal emittance from directional-hemispherical reflectance in six bands over `\(1.5\text{–}21\ \text{µm}\)`{=html}
 - **Methodology:** Laboratory and in-situ characterisation of opaque urban and construction materials with portable fibre-optic spectrometers (solar and visible reflectance per UNE-EN 410) and a portable emissometer; includes studies of the reliability of portable in-situ measurements.
-- **Named facilities:** Portable emissometer (directional-hemispherical reflectance, 1.5–21 µm) · Fibre-optic spectrometers with integrating sphere
+- **Named facilities:** Portable emissometer (directional-hemispherical reflectance, `\(1.5\text{–}21\ \text{µm}\)`{=html}) · Fibre-optic spectrometers with integrating sphere
 
 **Application domains:** urban heat island mitigation and outdoor thermal comfort · building energy performance · façade, roof and pavement materials · passive radiative cooling (PaRaMetriC).
 

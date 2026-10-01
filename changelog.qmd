@@ -12,6 +12,12 @@ toc: false
   <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-10-01. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
   <h2 class="log-date">2026-10-01</h2>
   <div class="log-entry">
+    <span class="log-kind">Editorial</span>
+    <div class="log-title">IETcc-CSIC profile: quantities, angles and spectral ranges typeset as mathematics</div>
+    <p class="log-summary">First institution profile with typeset symbols; the database now accepts LaTeX in its text fields.</p>
+    <p class="log-meta"><a href="/network/csic-ietcc.html">IETcc-CSIC</a></p>
+  </div>
+  <div class="log-entry">
     <span class="log-kind">Feature</span>
     <div class="log-title">Training section: courses, schools, tutorials and workshops offered by the network</div>
     <p class="log-summary">New navbar entry. Lists training items and the existing schools; members can announce courses through the event form.</p>

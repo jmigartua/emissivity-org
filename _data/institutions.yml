@@ -2364,16 +2364,16 @@ institutions:
       - name: "Pablo Alonso"
         source: "IR-EMPOWER 2026 programme"
     properties_measured:
-      - "solar and visible reflectance / absorptance"
-      - "directional (20°, 60°) and hemispherical total thermal emittance"
-      - "CIELAB colour coordinates"
+      - 'solar and visible reflectance $\rho_\mathrm{sol}$, $\rho_\mathrm{vis}$ and absorptance $\alpha_\mathrm{sol}$, $\alpha_\mathrm{vis}$'
+      - 'directional ($\theta = 20^\circ$, $60^\circ$) and hemispherical total thermal emittance $\varepsilon$'
+      - 'CIE $L^{*}a^{*}b^{*}$ colour coordinates'
     capabilities:
       temperature_range_text: ""
-      wavelength_range_text: "Reflectance 380–1700 nm; thermal emittance from directional-hemispherical reflectance in six bands over 1.5–21 µm"
+      wavelength_range_text: 'Reflectance $380\text{–}1700\ \mathrm{nm}$; thermal emittance from directional-hemispherical reflectance in six bands over $1.5\text{–}21\ \text{µm}$'
       atmospheres: [air]
       methodology_notes: "Laboratory and in-situ characterisation of opaque urban and construction materials with portable fibre-optic spectrometers (solar and visible reflectance per UNE-EN 410) and a portable emissometer; includes studies of the reliability of portable in-situ measurements."
     instruments_named:
-      - "Portable emissometer (directional-hemispherical reflectance, 1.5–21 µm)"
+      - 'Portable emissometer (directional-hemispherical reflectance, $1.5\text{–}21\ \text{µm}$)'
       - "Fibre-optic spectrometers with integrating sphere"
     databases_hosted:
       - "Database of visible reflectance, solar reflectance and emissivity of urban materials, version 2 (2026): 236 commercial materials, spreadsheet, CC BY-NC-SA 4.0 (DIGITAL.CSIC, doi:10.20350/DIGITALCSIC/22640, handle 10261/438758)"

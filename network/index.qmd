@@ -273,7 +273,7 @@ toc: false
             <span class="unit">Physico-Chemical Testing Unit</span></td>
           <td class="cc">ES</td>
           <td><span class="tier-pill ">extended</span></td>
-          <td class="cap">Reflectance 380–1700 nm; thermal emittance from directional-hemispherical reflectance in six bands over 1.5–21 µm</td>
+          <td class="cap">Reflectance \(380\text{–}1700\ \mathrm{nm}\); thermal emittance from directional-hemispherical reflectance in six bands over \(1.5\text{–}21\ \text{µm}\)</td>
         </tr>
       </tbody>
     </table>

@@ -32,6 +32,12 @@ website:
 format:
   html:
     theme: none
+    # Mathematics: every page loads MathJax from assets/includes/mathjax.html
+    # with \( \) delimiters. Raw-HTML blocks write them directly; generated
+    # Markdown profiles get them from tools/generate_network.py, which turns
+    # the $…$ written in _data/institutions.yml into raw inline HTML. Do not
+    # write $…$ in hand-written .qmd prose: Quarto would inject a second
+    # MathJax for it.
     css:
       - assets/styles/theme.css
     include-in-header:
