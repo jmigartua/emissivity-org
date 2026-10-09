@@ -118,6 +118,14 @@ toc: false
       <div class="pub-entry__meta">Quantitative Infrared Thermography community</div>
     </div>
     <div class="pub-entry">
+      <div class="pub-entry__title"><a href="https://www.ichmt.org/" target="_blank" style="color: var(--c-cool);">ICHMT &mdash; International Centre for Heat and Mass Transfer</a></div>
+      <div class="pub-entry__meta">Organiser of the RAD International Symposia on Radiative Transfer (<a href="/events-news/conferences.html">see the conference series</a>)</div>
+    </div>
+    <div class="pub-entry">
+      <div class="pub-entry__title"><a href="https://thermalradiation.net/" target="_blank" style="color: var(--c-cool);">thermalradiation.net</a></div>
+      <div class="pub-entry__meta">Companion site of <em>Thermal Radiation Heat Transfer</em> (Howell, Mengüç, Daun, Siegel; CRC Press, 7th ed. 2021), maintained by M. Pinar Mengüç: configuration factors, blackbody calculator, errata, and announcements of conferences and events for the radiative-transfer community</div>
+    </div>
+    <div class="pub-entry">
       <div class="pub-entry__title"><a href="https://www.astm.org/get-involved/technical-committees/committee-e20" target="_blank" style="color: var(--c-cool);">ASTM Committee E20 &mdash; Temperature Measurement</a></div>
       <div class="pub-entry__meta">Develops standards for radiation thermometry including emissivity measurement. Subcommittee E20.02 focuses on Radiation Thermometry. Meetings semi-annually (May and November), open to observers.</div>
     </div>

@@ -267,3 +267,27 @@ events:
   description: Umbrella congress for all IMEKO Technical Committees including TC12 (Temperature and Thermal
     Measurements).
   url: https://imeko2027.org/
+- title: RAD-23 (10th International Symposium on Radiative Transfer)
+  kind: conference
+  start: '2023-06-12'
+  end: '2023-06-17'
+  location: Thessaloniki, Greece
+  description: ICHMT symposium on radiative transfer; radiative properties of surfaces and participating
+    media, spectral modelling, inverse methods.
+  url: https://www.ichmt.org/rad-23
+- title: RAD-25 (11th International Symposium on Radiative Transfer)
+  kind: conference
+  start: '2025-06-15'
+  end: '2025-06-21'
+  location: Kuşadası, Türkiye
+  description: ICHMT symposium on radiative transfer; radiative properties of surfaces and participating
+    media, spectral modelling, inverse methods.
+  url: https://www.ichmt.org/rad-25
+- title: RAD-28 (International Symposium on Radiative Transfer)
+  kind: conference
+  start: '2028-06-19'
+  end: '2028-06-24'
+  location: Le Croisic, France
+  description: Next ICHMT radiative-transfer symposium, announced by Benoît Rousseau (TAMARYS) in October
+    2026; no website yet.
+  url: https://www.ichmt.org/

@@ -2,6 +2,13 @@
 page-layout: full
 toc: false
 listing:
+  - id: confs-2028
+    contents: conferences/2028-*.qmd
+    type: default
+    sort: "date asc"
+    filter-ui: false
+    page-size: 10
+    fields: [title, date, description, categories]
   - id: confs-2027
     contents: conferences/2027-*.qmd
     type: default
@@ -75,6 +82,11 @@ listing:
   </p>
 </section>
 ```
+
+## 2028
+
+:::{#confs-2028}
+:::
 
 ## 2027
 
@@ -152,6 +164,11 @@ listing:
           <td style="padding:0.5rem;"><strong>SPIE ThermoSense</strong></td>
           <td style="padding:0.5rem;">Thermal infrared applications and thermography</td>
           <td style="padding:0.5rem;">Annual</td>
+        </tr>
+        <tr style="border-bottom:1px solid #eee;">
+          <td style="padding:0.5rem;"><strong>RAD</strong> (ICHMT International Symposium on Radiative Transfer)</td>
+          <td style="padding:0.5rem;">Radiative transfer theory, measurement and applications &mdash; radiative properties of surfaces and participating media, inverse methods</td>
+          <td style="padding:0.5rem;">Every ~3 years (2023, 2025, 2028)</td>
         </tr>
         <tr style="border-bottom:1px solid #eee;">
           <td style="padding:0.5rem;"><strong>NEWRAD</strong></td>

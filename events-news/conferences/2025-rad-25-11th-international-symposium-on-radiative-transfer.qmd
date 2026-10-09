@@ -1,0 +1,33 @@
+---
+title: "RAD-25 (11th International Symposium on Radiative Transfer)"
+subtitle: "RAD / ICHMT | Kuşadası, Türkiye"
+date: 2025-06-15
+description: "ICHMT symposium on radiative transfer: theory, experiments and applications, including radiative properties of materials, participating media and inverse methods."
+url: "https://www.ichmt.org/rad-25"
+categories:
+  - rad
+  - radiative-transfer
+  - ichmt
+  - radiative-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2025-06-15 to 2025-06-20
+
+**Location:** KoruMar Hotel, Kuşadası, Türkiye
+
+[Conference Website](https://www.ichmt.org/rad-25){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The eleventh International Symposium on Radiative Transfer, organised by the
+International Centre for Heat and Mass Transfer (ICHMT), was held in Kuşadası
+from 15 to 20 June 2025. The series is the reference meeting of the
+radiative-transfer community: theory, measurement and application of thermal
+radiation, radiative properties of surfaces and participating media, spectral
+modelling and inverse methods. The Elsevier/JQSRT Poynting Award on radiative
+transfer is presented at the symposium.

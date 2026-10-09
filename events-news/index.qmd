@@ -6,6 +6,7 @@ listing:
     contents:
       - conferences/2026-*.qmd
       - conferences/2027-*.qmd
+      - conferences/2028-*.qmd
       - schools/*.qmd
     sort: "date asc"
     type: default

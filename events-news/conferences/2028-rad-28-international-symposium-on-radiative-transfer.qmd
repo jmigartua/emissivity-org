@@ -1,0 +1,38 @@
+---
+title: "RAD-28 (International Symposium on Radiative Transfer)"
+subtitle: "RAD / ICHMT | Le Croisic, France"
+date: 2028-06-19
+description: "Next edition of the ICHMT radiative-transfer symposium, announced for Le Croisic near Nantes, 19 to 23 June 2028. No website yet."
+url: "https://www.ichmt.org/"
+categories:
+  - rad
+  - radiative-transfer
+  - ichmt
+  - radiative-properties
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2028-06-19 to 2028-06-23
+
+**Location:** Le Croisic (near Nantes), France
+
+[ICHMT](https://www.ichmt.org/){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The next International Symposium on Radiative Transfer is announced for
+**Le Croisic**, on the Atlantic coast near Nantes, from **19 to 23 June 2028**.
+The series, organised by the International Centre for Heat and Mass Transfer
+(ICHMT), is the reference meeting of the radiative-transfer community; the
+previous editions were [RAD-25](/events-news/conferences/2025-rad-25-11th-international-symposium-on-radiative-transfer.html)
+in Kuşadası and [RAD-23](/events-news/conferences/2023-rad-23-10th-international-symposium-on-radiative-transfer.html)
+in Thessaloniki.
+
+**Status:** announced; there is no symposium website yet. Dates and venue as
+communicated by Benoît Rousseau (CNRS, LTeN Nantes; coordinator of
+[TAMARYS](/network/networks/tamarys.html)) in October 2026. This entry will be
+updated when the organisers publish the call.

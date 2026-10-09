@@ -9,7 +9,14 @@ toc: false
 <div class="inner-page">
   <p class="section-label">Site</p>
   <h1>What's new on emissivity.org</h1>
-  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-10-01. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-10-09. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <h2 class="log-date">2026-10-09</h2>
+  <div class="log-entry">
+    <span class="log-kind">Content</span>
+    <div class="log-title">RAD symposia on the calendar: RAD-28 announced for Le Croisic, June 2028; RAD-23 and RAD-25 in the archive</div>
+    <p class="log-summary">The ICHMT International Symposium on Radiative Transfer joins the conference series table. RAD-28 dates and venue as announced by Benoît Rousseau; no website yet. thermalradiation.net and ICHMT added to the resources links.</p>
+    <p class="log-meta"><a href="/events-news/conferences/2028-rad-28-international-symposium-on-radiative-transfer.html">RAD-28</a> <span class="sep">·</span> <a href="/events-news/conferences.html">Conference series</a></p>
+  </div>
   <h2 class="log-date">2026-10-01</h2>
   <div class="log-entry">
     <span class="log-kind">Editorial</span>

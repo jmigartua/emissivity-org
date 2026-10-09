@@ -14,6 +14,14 @@
 # or a feature. Release-level notes for maintainers live in _data/releases.yml.
 
 entries:
+- date: 2026-10-09
+  kind: content
+  title: "RAD symposia on the calendar: RAD-28 announced for Le Croisic, June 2028; RAD-23 and RAD-25 in the archive"
+  summary: "The ICHMT International Symposium on Radiative Transfer joins the conference series table. RAD-28 dates and venue as announced by Benoît Rousseau; no website yet. thermalradiation.net and ICHMT added to the resources links."
+  links:
+    - {label: "RAD-28", url: "/events-news/conferences/2028-rad-28-international-symposium-on-radiative-transfer.html"}
+    - {label: "Conference series", url: "/events-news/conferences.html"}
+
 - date: 2026-10-01
   kind: editorial
   title: "IETcc-CSIC profile: quantities, angles and spectral ranges typeset as mathematics"
