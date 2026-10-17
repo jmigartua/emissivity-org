@@ -21,7 +21,7 @@ toc: false
 | **Primary ecosystem** | High-temperature radiative properties — architectured ceramics |
 | **Relevant activity** | LTeN — high-temperature radiative properties of architectured ceramics |
 | **Publicly linked people** | Benoît Rousseau · Léo Gaillard |
-| **Networks** | Coordinates [TAMARYS](/network/networks/tamarys.html) (CNRS research federation) · organiser of the [RTSTM 2026 school](/events-news/schools/2026-rtstm-hendaye.html) |
+| **Networks** | Coordinates [TAMARYS](/network/networks/tamarys.html) (CNRS research group, GDR) · organiser of the [RTSTM 2026 school](/events-news/schools/2026-rtstm-hendaye.html) |
 | **Thematic focus** | Emissivity as a **designable** property of structured materials |
 
 ## Why it matters internationally

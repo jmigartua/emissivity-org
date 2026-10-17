@@ -1,0 +1,35 @@
+---
+title: "EOSAM 2022 (EOS Annual Meeting) — TOM7 Thermal radiation and energy management"
+subtitle: "EOSAM / European Optical Society | Porto, Portugal"
+date: 2022-09-12
+description: "European Optical Society annual meeting with a topical meeting on thermal radiation and energy management: thermal sources, infrared radiation control, radiative cooling, IR and THz spectroscopy."
+url: "https://www.europeanoptics.org/events/eos/eosam2022.html"
+categories:
+  - eosam
+  - thermal-radiation
+  - optics
+  - radiative-cooling
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2022-09-12 to 2022-09-16
+
+**Location:** Porto, Portugal
+
+[Conference Website](https://www.europeanoptics.org/events/eos/eosam2022.html){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The EOS Annual Meeting is the European Optical Society's main conference,
+organised in topical meetings. The 2022 edition in Porto included
+**TOM7, Thermal radiation and energy management**, chaired by Mauro Antezza
+(Université de Montpellier), Marco Centini and Maria Cristina Larciprete
+(Sapienza Università di Roma). It covered fundamental and applied aspects of
+thermal-radiation management: energy harvesting, mid-infrared thermal
+sources, infrared radiation control, radiative cooling, biosensing and
+IR and THz spectroscopy. Proceedings appear in EPJ Web of Conferences
+volume 266; the programme archive remains online.

@@ -35,7 +35,7 @@ toc: false
       map institutions it names publicly.</p>
       <div class="net-card-grid">
       <a class="net-card" href="/network/networks/tamarys.html">
-        <div class="kind">CNRS research federation</div>
+        <div class="kind">CNRS research group (GDR TAMARYS)</div>
         <h4>TAMARYS</h4>
         <p>French research network on extreme heat: thermal radiation–matter interaction from the UV to the IR, materials for extreme environments, and high-temperature systems.</p>
         <p class="rel">EHU Thermomat member since June 2026</p>
@@ -113,7 +113,7 @@ toc: false
             <span class="unit">Thermomat — Thermophysical Properties of Materials</span></td>
           <td class="cc">ES</td>
           <td><span class="tier-pill core">core</span></td>
-          <td class="cap">Modular high-performance infrared emissometer; FAIR-compliant data structure and workflows.</td>
+          <td class="cap">Modular high-performance infrared emissometer; FAIR-compliant data structure and workflows. Member of the Functional Materials res…</td>
         </tr>
         <tr>
           <td class="inst"><a href="/network/uwb-ntc.html">University of West Bohemia / New Technologies — Research Centre (NTC)</a>

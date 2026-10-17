@@ -2,7 +2,7 @@
 title: "RTSTM 2026 — International CNRS Thematic School on Radiative Transfer in Semi-Transparent Media"
 subtitle: "TAMARYS school | Hendaye, France"
 date: 2026-10-03
-description: "Week-long international CNRS school organised by the TAMARYS research federation: fundamentals of thermal radiation, RTE solution methods, gas, particle and solid radiation, near-field transfer, and hands-on Monte Carlo, IR thermography/spectroscopy and gas-modelling sessions."
+description: "Week-long international CNRS school organised by the CNRS research group GDR TAMARYS: fundamentals of thermal radiation, RTE solution methods, gas, particle and solid radiation, near-field transfer, and hands-on Monte Carlo, IR thermography/spectroscopy and gas-modelling sessions."
 url: "https://rtstm.sciencesconf.org/"
 kind: school
 categories: [school, training, radiative-transfer, TAMARYS]

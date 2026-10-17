@@ -1,6 +1,6 @@
 ---
-title: "TAMARYS — CNRS research federation on extreme heat"
-description: "TAMARYS, the French CNRS research federation on thermal radiation, materials for extreme environments and high-temperature systems; organiser of the RTSTM thematic school."
+title: "GDR TAMARYS — CNRS research group on extreme heat"
+description: "GDR TAMARYS, the French CNRS research group (groupement de recherche) on thermal radiation, materials for extreme environments and high-temperature systems; organiser of the RTSTM thematic school."
 page-layout: full
 toc: false
 ---
@@ -10,13 +10,13 @@ toc: false
 ```
 
 ::: {.page-article}
-# TAMARYS
+# GDR TAMARYS
 
 ## Snapshot
 
 | | |
 |---|---|
-| **Kind** | Research federation of the CNRS (FRA 2018), formerly GDR TAMARYS |
+| **Kind** | CNRS research group (GDR, *groupement de recherche*) TAMARYS |
 | **Country** | France, with European and industrial partners |
 | **Coordination** | Benoît Rousseau (CNRS, [LTeN Nantes](/network/lten-cnrs.html)) |
 | **Scope** | Thermal radiation–matter interaction (UV to IR) · materials for extreme environments · high-temperature systems and multiphysics simulation |
@@ -55,7 +55,8 @@ All three are in the [iCal feed](/files/ical/emissivity-conferences.ics).
 ### Provenance
 
 From the TAMARYS website and its mailing-list announcements (April–September
-2026). Map institutions are listed only when TAMARYS names them publicly or
-when the group has confirmed its membership. Verified 2026-09-25.
+2026); naming confirmed by the group's contact, October 2026. Map institutions
+are listed only when TAMARYS names them publicly or when the group has
+confirmed its membership. Verified 2026-10-17.
 :::
 :::

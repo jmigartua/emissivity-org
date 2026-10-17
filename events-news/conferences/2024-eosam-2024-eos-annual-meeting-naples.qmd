@@ -1,0 +1,35 @@
+---
+title: "EOSAM 2024 (EOS Annual Meeting) — thermal radiation and radiative cooling session"
+subtitle: "EOSAM / European Optical Society | Naples, Italy"
+date: 2024-09-09
+description: "European Optical Society annual meeting, organised with the Italian Society for Optics and Photonics, with a dedicated session on thermal radiation and radiative cooling; proceedings in EPJ Web of Conferences 309."
+url: "https://www.europeanoptics.org/events/eos/eosam2024.html"
+categories:
+  - eosam
+  - thermal-radiation
+  - optics
+  - radiative-cooling
+  - emissivity
+---
+
+::: {.column-margin}
+### Quick Info
+
+**Date:** 2024-09-09 to 2024-09-13
+
+**Location:** Naples, Italy
+
+[Conference Website](https://www.europeanoptics.org/events/eos/eosam2024.html){.btn .btn-primary .btn-sm}
+
+:::
+
+## Overview
+
+The 2024 EOS Annual Meeting, held in Naples with the Italian Society for Optics
+and Photonics (SIOF), ran ten topical meetings and a dedicated session on
+**thermal radiation and radiative cooling**: mid-infrared characterisation of
+materials, passive daytime radiative cooling, infrared reflectors and thermal
+imaging. Its papers form session 13 of the proceedings, EPJ Web of Conferences
+volume 309, among them the
+[directional spectral emissivity of laser-patterned steel surfaces](/publications/2024/gabirondo-lopez-2/index.html)
+from the Thermomat group. The programme archive remains online.

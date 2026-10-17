@@ -1,17 +1,16 @@
 ---
 title: "EHU's Thermomat group joins the TAMARYS research network"
-date: "2026-10-01"
+date: "2026-10-17"
 categories: [Community, TAMARYS, Network]
-description: "The Thermomat / HAIRL group at EHU has joined TAMARYS, the CNRS research federation on thermal radiation and materials for extreme environments."
-draft: true   # DRAFT — Iñigo to confirm wording before publishing (remove this line)
+description: "The Thermomat / HAIRL group at EHU has joined GDR TAMARYS, the CNRS research group on thermal radiation and materials for extreme environments."
 ---
 
 ::: {.page-article}
 # Thermomat joins TAMARYS
 
 The Thermomat / HAIRL group at the University of the Basque Country (EHU)
-has joined [**TAMARYS**](/network/networks/tamarys.html), the CNRS research
-federation on thermal radiation–matter interaction, materials for extreme
+has joined [**GDR TAMARYS**](/network/networks/tamarys.html), the CNRS research
+group (*groupement de recherche*) on thermal radiation–matter interaction, materials for extreme
 environments and high-temperature systems, coordinated by Benoît Rousseau
 (CNRS, LTeN Nantes).
 
@@ -22,7 +21,7 @@ Thermomat group measures and curates in the [EKHI database](/data/ekhi.html),
 sits at the centre of that agenda.
 
 The group's contact in the network is **Iñigo González de Arrieta**. Members of
-the group attend the network's thematic school on
+the group attended the network's thematic school on
 [radiative transfer in semi-transparent media](/events-news/schools/2026-rtstm-hendaye.html)
 in Hendaye in October.
 
@@ -30,5 +29,5 @@ This site now lists TAMARYS, PaRaMetriC and the IR-EMPOWER series in a new
 [**Research networks & consortia**](/network/index.html#research-networks)
 section of the research map.
 
-*Emissivity.org Editorial Board · October 2026.*
+*Emissivity.org Editorial Board · 17 October 2026.*
 :::

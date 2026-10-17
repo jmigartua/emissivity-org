@@ -438,7 +438,7 @@ institutions:
       temperature_range_text: ""
       wavelength_range_text: ""
       atmospheres: []
-      methodology_notes: "Modular high-performance infrared emissometer; FAIR-compliant data structure and workflows."
+      methodology_notes: "Modular high-performance infrared emissometer; FAIR-compliant data structure and workflows. Member of the Functional Materials research line of the EHU Quantum Center."
 
     instruments_named:
       - name: "Modular high-performance infrared emissometer"
@@ -478,6 +478,8 @@ institutions:
         url: "https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower"
       - label: "EKHI — Scientific Data paper (Nature)"
         url: "https://www.nature.com/articles/s41597-026-07083-9"
+      - label: "EHU Quantum Center — Functional Materials research line (members listed)"
+        url: "https://www.ehuqc.eus/quantum-materials/functional-materials/"
 
   - id: uwb-ntc
     rank: 8

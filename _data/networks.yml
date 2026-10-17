@@ -6,7 +6,7 @@
 networks:
   - id: tamarys
     name: "TAMARYS"
-    kind: "CNRS research federation"
+    kind: "CNRS research group (GDR TAMARYS)"
     blurb: "French research network on extreme heat: thermal radiation–matter interaction from the UV to the IR, materials for extreme environments, and high-temperature systems."
     coordinator: "Benoît Rousseau (CNRS, LTeN Nantes)"
     url: "https://tamarys.cnrs.fr/"

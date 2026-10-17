@@ -9,7 +9,7 @@ toc: false
 <div class="inner-page">
   <p class="section-label">Site</p>
   <h1>Release notes</h1>
-  <p class="inner-page__subtitle">How emissivity.org is built and what changed in each release, written for whoever maintains the site next. Additions visible to visitors are listed on <a href="/changelog.html">What's new</a>. Last updated 2026-10-09.</p>
+  <p class="inner-page__subtitle">How emissivity.org is built and what changed in each release, written for whoever maintains the site next. Additions visible to visitors are listed on <a href="/changelog.html">What's new</a>. Last updated 2026-10-17.</p>
   <p>The site is a Quarto website deployed by Netlify from the <code>main</code> branch. Data-driven pages are generated at build time from the YAML files in <code>_data/</code> by the scripts in <code>tools/</code>; the build order is in <code>tools/netlify-build.sh</code>. The repository README lists every data source and the routine maintenance commands.</p>
   <div class="release">
     <h2><span class="release-version">v3.5</span> Training section, upcoming-event highlight, &#x27;new&#x27; mark on News <span class="log-date-inline">2026-10-01</span></h2>

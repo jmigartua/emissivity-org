@@ -9,7 +9,24 @@ toc: false
 <div class="inner-page">
   <p class="section-label">Site</p>
   <h1>What's new on emissivity.org</h1>
-  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-10-09. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-10-17. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <h2 class="log-date">2026-10-17</h2>
+  <div class="log-entry">
+    <span class="log-kind">Content</span>
+    <div class="log-title">Thermomat joins GDR TAMARYS; Functional Materials line of the EHU Quantum Center on the Thermomat profile</div>
+    <p class="log-summary">News item published after review by the group&#x27;s contact in the network. TAMARYS is named as a CNRS research group (GDR) throughout the site.</p>
+    <p class="log-meta"><a href="/events-news/news/thermomat-joins-tamarys.html">News item</a> <span class="sep">·</span> <a href="/network/networks/tamarys.html">GDR TAMARYS</a></p>
+  </div>
+  <div class="log-entry">
+    <span class="log-kind">Content</span>
+    <div class="log-title">EOSAM 2022 and 2024 in the conference archive: the European Optical Society meetings with thermal-radiation topical meetings</div>
+    <p class="log-meta"><a href="/events-news/conferences.html">Conference archive</a></p>
+  </div>
+  <div class="log-entry">
+    <span class="log-kind">Editorial</span>
+    <div class="log-title">Home-page thesis band rotates to the network: Jean-Baptiste Perrin-Terrin (CentraleSupélec, TAMARYS)</div>
+    <p class="log-summary">One EHU item on the home page at a time; the thesis band now carries the network&#x27;s doctors in turn.</p>
+  </div>
   <h2 class="log-date">2026-10-09</h2>
   <div class="log-entry">
     <span class="log-kind">Content</span>

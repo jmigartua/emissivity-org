@@ -70,6 +70,14 @@ and radiative quantities.
   EKHI supports interactive querying and visualization of emittance,
   reflectance, transmittance, and absorptance records.
 
+### Institutional affiliations
+
+- The group takes part in the **Functional Materials** research line of the
+  [EHU Quantum Center](https://www.ehuqc.eus/quantum-materials/functional-materials/),
+  devoted to the experimental investigation of novel functional materials,
+  with Iñigo González de Arrieta, Josu M. Igartua and Gabriel A. López among
+  its listed members.
+
 ### Application domains
 
 - Community data stewardship for radiative properties
@@ -105,6 +113,7 @@ backbone. Few groups in the field combine all three.
 - [IR-EMPOWER workshop](https://www.ehu.eus/en/web/thermophysical-properties-research-group/ir-empower)
 - [IR-EMPOWER 2026 programme — CAE flyer](https://cae-zerocarbon.de/assets/files/IR-EMPOWER_2026_Flyer_new.pdf)
 - [EKHI — Scientific Data paper (Nature)](https://www.nature.com/articles/s41597-026-07083-9)
+- [EHU Quantum Center — Functional Materials research line](https://www.ehuqc.eus/quantum-materials/functional-materials/)
 
 ::: {.sources-panel}
 ### Traceability

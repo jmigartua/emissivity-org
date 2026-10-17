@@ -14,6 +14,25 @@
 # or a feature. Release-level notes for maintainers live in _data/releases.yml.
 
 entries:
+- date: 2026-10-17
+  kind: content
+  title: "Thermomat joins GDR TAMARYS; Functional Materials line of the EHU Quantum Center on the Thermomat profile"
+  summary: "News item published after review by the group's contact in the network. TAMARYS is named as a CNRS research group (GDR) throughout the site."
+  links:
+    - {label: "News item", url: "/events-news/news/thermomat-joins-tamarys.html"}
+    - {label: "GDR TAMARYS", url: "/network/networks/tamarys.html"}
+
+- date: 2026-10-17
+  kind: content
+  title: "EOSAM 2022 and 2024 in the conference archive: the European Optical Society meetings with thermal-radiation topical meetings"
+  links:
+    - {label: "Conference archive", url: "/events-news/conferences.html"}
+
+- date: 2026-10-17
+  kind: editorial
+  title: "Home-page thesis band rotates to the network: Jean-Baptiste Perrin-Terrin (CentraleSupélec, TAMARYS)"
+  summary: "One EHU item on the home page at a time; the thesis band now carries the network's doctors in turn."
+
 - date: 2026-10-09
   kind: content
   title: "RAD symposia on the calendar: RAD-28 announced for Le Croisic, June 2028; RAD-23 and RAD-25 in the archive"
