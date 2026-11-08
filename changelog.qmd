@@ -9,7 +9,14 @@ toc: false
 <div class="inner-page">
   <p class="section-label">Site</p>
   <h1>What's new on emissivity.org</h1>
-  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-10-17. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-11-08. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <h2 class="log-date">2026-11-08</h2>
+  <div class="log-entry">
+    <span class="log-kind">Content</span>
+    <div class="log-title">News: Kyriaki Kontou&#x27;s doctoral thesis at CETHIL, INSA Lyon, on far- and near-field thermal emission of micrometric apertures</div>
+    <p class="log-summary">Title, supervisors, abstract and photograph provided by the author, who agreed to publication. The home-page thesis band now features her thesis.</p>
+    <p class="log-meta"><a href="/events-news/news/kontou-thesis-2026.html">News item</a></p>
+  </div>
   <h2 class="log-date">2026-10-17</h2>
   <div class="log-entry">
     <span class="log-kind">Content</span>

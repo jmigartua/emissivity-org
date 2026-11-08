@@ -1,11 +1,10 @@
 ---
-title: "Kyriaki Kontou earns her PhD"
-date: "2026-10-01"
-categories: [Thesis, People, TAMARYS]
-description: "TODO — one sentence: date, institution, thesis topic."
+title: "Kyriaki Kontou earns her PhD — thermal emission of single apertures, from far field to near field"
+date: "2026-11-08"
+categories: [Thesis, People, TAMARYS, Near-field radiation, FTIR microscopy]
+description: "On 29 June 2026, Kyriaki Kontou defended her doctoral thesis at CETHIL, INSA Lyon, on far- and near-field thermal infrared emission of planar samples with micrometric areas, supervised by Pierre-Olivier Chapuis and Olivier Merchiers."
 page-layout: full
 toc: false
-draft: true   # DRAFT — waiting for title, laboratory, defence date and photo from the candidate (via Iñigo)
 ---
 
 ```{=html}
@@ -13,10 +12,14 @@ draft: true   # DRAFT — waiting for title, laboratory, defence date and photo 
 
 <p class="section__label">News · Doctoral thesis · from the TAMARYS network</p>
 
-<h1 class="thesis-h1">TODO — headline on the thesis topic</h1>
+<h1 class="thesis-h1">Thermal emission below the wavelength, from far field to near field</h1>
 
-<p class="thesis-lead">On <strong>TODO date</strong>, <strong>Kyriaki Kontou</strong> defended her
-doctoral thesis, <em>“TODO title,”</em> at TODO institution.</p>
+<p class="thesis-lead">On <strong>29 June 2026</strong>, <strong>Kyriaki Kontou</strong> defended her
+doctoral thesis, <em>“Far- and near-field thermal infrared emission of planar samples including
+micrometric areas,”</em> at the Center for Energy and Thermal Sciences of Lyon (CETHIL), INSA Lyon.
+The work asks what happens to thermal emission when the emitting area becomes comparable to, or
+smaller than, the thermal wavelength, a regime where Planck’s law and geometrical optics no longer
+tell the whole story.</p>
 
 <div class="thesis-hero">
   <figure class="thesis-portrait">
@@ -24,17 +27,46 @@ doctoral thesis, <em>“TODO title,”</em> at TODO institution.</p>
     <figcaption>Dr Kyriaki Kontou</figcaption>
   </figure>
   <div class="thesis-facts" aria-label="Thesis details">
-    <div class="row"><span class="k">Defended</span><span class="v">TODO</span></div>
-    <div class="row"><span class="k">Laboratory</span><span class="v">TODO (confirm: CETHIL, INSA Lyon?)</span></div>
-    <div class="row"><span class="k">Supervisors</span><span class="v">TODO</span></div>
+    <div class="row"><span class="k">Defended</span><span class="v">29 June 2026 · CETHIL, INSA Lyon</span></div>
+    <div class="row"><span class="k">Title</span><span class="v">Far- and near-field thermal infrared emission of planar samples including micrometric areas<br/><em>Émission thermique infrarouge en champs proche et lointain pour des échantillons plans dont des surfaces micrométriques</em></span></div>
+    <div class="row"><span class="k">Supervisors</span><span class="v">Pierre-Olivier Chapuis · Olivier Merchiers</span></div>
+    <div class="row"><span class="k">Team</span><span class="v">Reactive Media and Heat Transfer (MRTR), CETHIL</span></div>
   </div>
 </div>
 
-<p>TODO — two short paragraphs on the work and why it matters for thermal radiation.
-Announced through the <a href="/network/networks/tamarys.html">TAMARYS</a> network; reported
-with the agreement of its coordination.</p>
+<h2 class="thesis-h2">Abstract</h2>
 
-<p class="thesis-back"><a href="/news/index.html">&larr; All news</a></p>
+<p><em>In the author’s words:</em></p>
+
+<p>This thesis investigates the thermal emission through single apertures with radii comparable to
+or smaller than the thermal wavelength, combining theoretical modeling with far-field experiments.
+Kirchhoff and Bethe scattering models, adapted to our system with a metallic screen attached to a
+substrate, predict deviations from Planck’s law and an emissivity enhancement for polar dielectrics,
+where evanescent waves are scattered to the far field. In the far field, FTIR microscopy in
+reflection mode allows to characterize these single apertures and reveals experimentally deviations
+from geometrical optics. A detailed investigation of the direct emission measurements using
+different modulation methods on FTIR microscopy shows also the challenges regarding single object
+detection and parasitic signals. Finally, in the near field, an inverse method based on scanning
+thermal microscopy is proposed to retrieve spectral information from heat-flux measurements, opening
+a path toward spectral characterization beyond the diffraction limit.</p>
+
+<h2 class="thesis-h2">Why it matters for emissivity</h2>
+
+<p>Emissivity is usually treated as a property of a surface large enough for geometrical optics to
+hold. Kontou’s work tests that assumption at its limit: when the aperture shrinks to the scale of the
+thermal wavelength, evanescent surface waves of polar dielectrics can be scattered into the far field
+and raise the apparent emissivity, while measuring such a small object brings its own artefacts. The
+far-field FTIR-microscopy methods and the near-field inverse method developed here are directly
+relevant to anyone characterising micro-structured emitters, patterned surfaces or small samples.</p>
+
+<p>The defence was announced to the <a href="/network/networks/tamarys.html">GDR TAMARYS</a> research
+network; reported here with the author’s agreement and that of the network’s coordination, after
+<a href="/events-news/news/perrin-terrin-thesis-2026.html">Jean-Baptiste Perrin-Terrin’s thesis</a> in
+June.</p>
+
+<p class="thesis-coda">Our warmest congratulations to Dr Kontou and her supervisors.</p>
+
+<p class="thesis-back"><a href="/news/index.html">&larr; Back to News</a></p>
 
 </div>
 ```

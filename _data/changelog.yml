@@ -14,6 +14,13 @@
 # or a feature. Release-level notes for maintainers live in _data/releases.yml.
 
 entries:
+- date: 2026-11-08
+  kind: content
+  title: "News: Kyriaki Kontou's doctoral thesis at CETHIL, INSA Lyon, on far- and near-field thermal emission of micrometric apertures"
+  summary: "Title, supervisors, abstract and photograph provided by the author, who agreed to publication. The home-page thesis band now features her thesis."
+  links:
+    - {label: "News item", url: "/events-news/news/kontou-thesis-2026.html"}
+
 - date: 2026-10-17
   kind: content
   title: "Thermomat joins GDR TAMARYS; Functional Materials line of the EHU Quantum Center on the Thermomat profile"
