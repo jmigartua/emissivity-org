@@ -5,7 +5,7 @@
       <div class="featured-kicker">Announcement · Doctoral thesis · TAMARYS network</div>
       <h2 class="featured-title">A new doctor in the community
         <span class="featured-sub">Kyriaki Kontou — thermal emission of single apertures, from far field to near field</span></h2>
-      <p class="featured-body">Dr Kyriaki Kontou has defended her doctoral thesis at CETHIL, INSA Lyon, on thermal infrared emission through apertures smaller than the thermal wavelength: deviations from Planck’s law and geometrical optics, emissivity enhancement for polar dielectrics, FTIR microscopy of single objects, and a near-field route to spectral information beyond the diffraction limit.</p>
+      <p class="featured-body">Dr Kyriaki Kontou has defended her doctoral thesis at CETHIL, INSA Lyon, on thermal infrared emission through apertures smaller than the thermal wavelength: deviations from Planck’s law and geometrical optics, emissivity enhancement for polar dielectrics, FTIR microscopy of single objects, and first steps towards a near-field inverse method, based on scanning thermal microscopy, for spectral characterization without a spectroscope.</p>
       <p class="featured-links"><a href="/events-news/news/kontou-thesis-2026.html">Read the full story</a> <span class="sep">·</span> <a href="/events-news/news/perrin-terrin-thesis-2026.html">Jean-Baptiste Perrin-Terrin’s thesis</a> <span class="sep">·</span> <a href="/news/index.html">More news</a></p>
     </div>
     <div class="featured-when">

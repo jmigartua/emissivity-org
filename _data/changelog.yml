@@ -14,6 +14,13 @@
 # or a feature. Release-level notes for maintainers live in _data/releases.yml.
 
 entries:
+- date: 2026-11-09
+  kind: fix
+  title: "Kyriaki Kontou's thesis post: corrections requested by the author"
+  summary: "The near-field inverse method is described as first steps, not experimentally tested; abstract wording updated; her team during the thesis was MiNT (Micro and Nanoscale Heat Transfer), CETHIL."
+  links:
+    - {label: "News item", url: "/events-news/news/kontou-thesis-2026.html"}
+
 - date: 2026-11-08
   kind: content
   title: "News: Kyriaki Kontou's doctoral thesis at CETHIL, INSA Lyon, on far- and near-field thermal emission of micrometric apertures"

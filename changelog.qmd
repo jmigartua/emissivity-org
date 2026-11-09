@@ -9,7 +9,14 @@ toc: false
 <div class="inner-page">
   <p class="section-label">Site</p>
   <h1>What's new on emissivity.org</h1>
-  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-11-08. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <p class="inner-page__subtitle">Every addition to the site, newest first: pages, news, datasets, map entries and features. Last updated 2026-11-09. Maintainers' notes on how each release was built are in the <a href="/about/release-notes.html">release notes</a>.</p>
+  <h2 class="log-date">2026-11-09</h2>
+  <div class="log-entry">
+    <span class="log-kind">Fix</span>
+    <div class="log-title">Kyriaki Kontou&#x27;s thesis post: corrections requested by the author</div>
+    <p class="log-summary">The near-field inverse method is described as first steps, not experimentally tested; abstract wording updated; her team during the thesis was MiNT (Micro and Nanoscale Heat Transfer), CETHIL.</p>
+    <p class="log-meta"><a href="/events-news/news/kontou-thesis-2026.html">News item</a></p>
+  </div>
   <h2 class="log-date">2026-11-08</h2>
   <div class="log-entry">
     <span class="log-kind">Content</span>

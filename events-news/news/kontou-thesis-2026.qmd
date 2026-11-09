@@ -30,7 +30,7 @@ tell the whole story.</p>
     <div class="row"><span class="k">Defended</span><span class="v">29 June 2026 · CETHIL, INSA Lyon</span></div>
     <div class="row"><span class="k">Title</span><span class="v">Far- and near-field thermal infrared emission of planar samples including micrometric areas<br/><em>Émission thermique infrarouge en champs proche et lointain pour des échantillons plans dont des surfaces micrométriques</em></span></div>
     <div class="row"><span class="k">Supervisors</span><span class="v">Pierre-Olivier Chapuis · Olivier Merchiers</span></div>
-    <div class="row"><span class="k">Team</span><span class="v">Reactive Media and Heat Transfer (MRTR), CETHIL</span></div>
+    <div class="row"><span class="k">Team</span><span class="v">Micro and Nanoscale Heat Transfer (MiNT), CETHIL</span></div>
   </div>
 </div>
 
@@ -47,8 +47,9 @@ reflection mode allows to characterize these single apertures and reveals experi
 from geometrical optics. A detailed investigation of the direct emission measurements using
 different modulation methods on FTIR microscopy shows also the challenges regarding single object
 detection and parasitic signals. Finally, in the near field, an inverse method based on scanning
-thermal microscopy is proposed to retrieve spectral information from heat-flux measurements, opening
-a path toward spectral characterization beyond the diffraction limit.</p>
+thermal microscopy (SThM) is proposed to retrieve spectral information from heat-flux measurements,
+opening a path toward the development of novel spectral characterization methods without the need
+of a spectroscope.</p>
 
 <h2 class="thesis-h2">Why it matters for emissivity</h2>
 
@@ -56,8 +57,9 @@ a path toward spectral characterization beyond the diffraction limit.</p>
 hold. Kontou’s work tests that assumption at its limit: when the aperture shrinks to the scale of the
 thermal wavelength, evanescent surface waves of polar dielectrics can be scattered into the far field
 and raise the apparent emissivity, while measuring such a small object brings its own artefacts. The
-far-field FTIR-microscopy methods and the near-field inverse method developed here are directly
-relevant to anyone characterising micro-structured emitters, patterned surfaces or small samples.</p>
+far-field FTIR-microscopy methods and the first steps towards a near-field inverse method using
+scanning microscopy methods developed here are directly relevant to anyone characterising
+micro-structured emitters, patterned surfaces or small samples.</p>
 
 <p>The defence was announced to the <a href="/network/networks/tamarys.html">GDR TAMARYS</a> research
 network; reported here with the author’s agreement and that of the network’s coordination, after
